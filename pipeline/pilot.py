@@ -38,8 +38,9 @@ PERSON_OCCUPATIONS = "wd:Q177220 wd:Q2252262 wd:Q488205"
 # musical group, rock band, band
 GROUP_CLASSES = "wd:Q215380 wd:Q5741069 wd:Q2088357"
 
-# Minimum seconds between calls per host. iTunes is documented as ~20 calls/min.
-MIN_INTERVAL = {"itunes.apple.com": 3.1, "api.deezer.com": 0.2, "query.wikidata.org": 1.0}
+# Minimum seconds between calls per host. iTunes is documented as ~20 calls/min,
+# but 3.1 s still got 403 after ~50 calls.
+MIN_INTERVAL = {"itunes.apple.com": 4.0, "api.deezer.com": 0.2, "query.wikidata.org": 1.0}
 _last_call: dict[str, float] = {}
 
 
@@ -59,19 +60,21 @@ def fetch_json(url: str, params: dict) -> dict:
         "User-Agent": USER_AGENT,
         "Accept": "application/sparql-results+json, application/json",
     })
-    for attempt in range(4):
+    for attempt in range(6):
         try:
             with urllib.request.urlopen(req, timeout=60) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
             break
         except urllib.error.HTTPError as e:
             # Retry only rate limits and server errors.
-            if e.code not in (403, 429) and e.code < 500 or attempt == 3:
+            if e.code not in (403, 429) and e.code < 500 or attempt == 5:
                 raise
-            time.sleep(30 * (attempt + 1))
+            # iTunes answers a rate limit with 403 and needs minutes, not seconds.
+            print(f"    HTTP {e.code} from {host}, waiting {60 * 2 ** attempt} s", flush=True)
+            time.sleep(60 * 2 ** attempt)
         except (urllib.error.URLError, TimeoutError):
             # Dropped connection (e.g. TLS EOF through a proxy): short backoff.
-            if attempt == 3:
+            if attempt == 5:
                 raise
             time.sleep(2 ** (attempt + 1))
     _last_call[host] = time.monotonic()
