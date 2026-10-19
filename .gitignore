@@ -5,3 +5,7 @@ __pycache__/
 data/cache/
 data/ifpi/raw/
 data/ifpi/charts.csv
+
+# Downloaded / third-party data stays local (repo is public)
+data/*
+!data/domestic_artists.csv
