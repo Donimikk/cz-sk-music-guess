@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="sk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hudle</title>
+  <meta name="description" content="Denná hra: uhádni českú alebo slovenskú pesničku z úvodných sekúnd.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Hudle <span class="beta">prototyp</span></h1>
+    <nav>
+      <button class="tab active" data-mode="daily">Denná</button>
+      <button class="tab" data-mode="infinite">Nekonečná</button>
+    </nav>
+  </header>
+
+  <main>
+    <p id="subtitle" class="muted"></p>
+
+    <section id="board" aria-label="Pokusy"></section>
+
+    <section id="player">
+      <div id="bar" aria-hidden="true"><div id="unlocked"></div><div id="progress"></div></div>
+      <div id="ticks" aria-hidden="true"></div>
+      <button id="play" aria-label="Prehrať">▶</button>
+      <p id="status" class="muted" role="status"></p>
+    </section>
+
+    <section id="controls">
+      <div id="search">
+        <input id="guess" type="text" autocomplete="off" placeholder="Interpret alebo názov pesničky…"
+               aria-label="Tvoj tip" aria-autocomplete="list" aria-controls="suggestions">
+        <ul id="suggestions" role="listbox"></ul>
+      </div>
+      <div class="buttons">
+        <button id="skip">Preskočiť</button>
+        <button id="submit" class="primary">Hádať</button>
+      </div>
+    </section>
+
+    <section id="result" hidden>
+      <img id="cover" alt="">
+      <div>
+        <p id="verdict"></p>
+        <p id="answer"></p>
+        <p><a id="apple" target="_blank" rel="noopener">Počúvať v Apple Music</a></p>
+        <div class="buttons">
+          <button id="share" class="primary">Zdieľať výsledok</button>
+          <button id="next" hidden>Ďalšia pesnička</button>
+        </div>
+        <p id="stats" class="muted"></p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="muted">
+    Ukážky skladieb poskytuje Apple Music (iTunes). Výber pesničiek: domáce rebríčky ČNS IFPI 2020+.
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
