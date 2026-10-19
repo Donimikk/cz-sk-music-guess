@@ -66,6 +66,21 @@ def candidates(per_type: int) -> list[dict]:
     return list(picked.values())
 
 
+def artist_tracks(name: str, store: str) -> list[dict]:
+    """Songs of the iTunes artist(s) named exactly `name` (lookup returns at most 200 per artist).
+    Both calls go through the disk cache, so each artist costs two requests once, for all songs and runs."""
+    data = fetch_json("https://itunes.apple.com/search",
+                      {"term": name, "country": store, "entity": "musicArtist", "limit": 10})
+    tracks = []
+    for a in data.get("results", []):
+        if norm(a.get("artistName", "")) != name:
+            continue
+        songs = fetch_json("https://itunes.apple.com/lookup",
+                           {"id": a["artistId"], "country": store, "entity": "song", "limit": 200})
+        tracks += [t for t in songs.get("results", []) if t.get("wrapperType") == "track"]
+    return tracks
+
+
 def resolve(song: dict) -> tuple[dict | None, str]:
     """Best iTunes track for an IFPI song, or (None, reason)."""
     want_title = norm(clean_title(song["title"]))
@@ -75,11 +90,17 @@ def resolve(song: dict) -> tuple[dict | None, str]:
     # Second attempt searches the title alone: "artist title" sometimes returns nothing.
     attempts = [(store, f"{first_artist} {clean_title(song['title'])}") for store in ("cz", "sk")]
     attempts.append(("cz", clean_title(song["title"])))
+    # Last resort: the artist's catalogue. iTunes search misses many CZ/SK rap tracks
+    # (e.g. Viktor Sheen "Stíny") that the artist lookup does return.
+    attempts += [(store, None) for store in ("cz", "sk")]
     for store, term in attempts:
-        data = fetch_json("https://itunes.apple.com/search",
-                          {"term": term, "country": store, "entity": "song", "limit": 50})
+        if term is None:
+            results = artist_tracks(first_artist, store) if first_artist else []
+        else:
+            results = fetch_json("https://itunes.apple.com/search",
+                                 {"term": term, "country": store, "entity": "song", "limit": 50}).get("results", [])
         matches = []
-        for t in data.get("results", []):
+        for t in results:
             if norm(clean_title(t.get("trackName", ""))) != want_title:
                 continue
             artist = norm(t.get("artistName", ""))
@@ -89,7 +110,7 @@ def resolve(song: dict) -> tuple[dict | None, str]:
                 continue
             matches.append(t)
         if not matches:
-            reason = f"no title+artist match ({len(data.get('results', []))} results)"
+            reason = f"no title+artist match ({len(results)} results)"
             continue
         best = min(matches, key=lambda t: t.get("releaseDate", "9999"))
         if int(best.get("releaseDate", "0000")[:4]) < MIN_YEAR:
@@ -97,6 +118,33 @@ def resolve(song: dict) -> tuple[dict | None, str]:
         best["_store"] = store
         return best, "ok"
     return None, reason
+
+
+def resolve_deezer(song: dict) -> dict | None:
+    """Deezer track for an IFPI song (id, ISRC, rank) — a second match source; no audio is stored.
+    Deezer search, unlike iTunes search, also returns explicit tracks."""
+    want_title = norm(clean_title(song["title"]))
+    want_artists = artists_of(song["artist"])
+    first_artist = want_artists[0] if want_artists else ""
+    title = clean_title(song["title"])
+    for q in (f'artist:"{first_artist}" track:"{title}"', f"{first_artist} {title}"):
+        matches = []
+        for t in fetch_json("https://api.deezer.com/search", {"q": q, "limit": 50}).get("data", []):
+            if norm(clean_title(t.get("title_short", ""))) != want_title:
+                continue
+            # Deezer gives one main artist per track, so require an exact name: a substring
+            # would let "Rico" pass for "Hard Rico".
+            if norm(t.get("artist", {}).get("name", "")) not in want_artists:
+                continue
+            # "(Album Version)" is the original, not a live/remix version.
+            if VERSION.search(re.sub(r"(?i)\(album version\)", "", t.get("title", ""))):
+                continue
+            matches.append(t)
+        if matches:
+            # Several uploads of the same song (single, album, compilation): the original is the most played.
+            best = max(matches, key=lambda t: t.get("rank", 0))
+            return fetch_json(f"https://api.deezer.com/track/{best['id']}", {})
+    return None
 
 
 def main() -> None:
@@ -111,17 +159,26 @@ def main() -> None:
         track, reason = resolve(s)
         if track and track["trackId"] in seen_ids:
             track, reason = None, "duplicate of another candidate"
+        dz = resolve_deezer(s)
+        if not track and dz:
+            reason += " | on Deezer only"
         review.append({"ifpi_artist": s["artist"], "ifpi_title": s["title"], "first_year": s["first_year"],
                        "radio_weeks": s["radio_weeks"], "digital_weeks": s["digital_weeks"],
                        "status": reason, "itunes_id": track["trackId"] if track else "",
                        "itunes_artist": track["artistName"] if track else "",
                        "itunes_title": track["trackName"] if track else "",
                        "album": track.get("collectionName", "") if track else "",
-                       "release": track.get("releaseDate", "")[:10] if track else ""})
+                       "release": track.get("releaseDate", "")[:10] if track else "",
+                       "deezer_id": dz["id"] if dz else "",
+                       "deezer_title": f"{dz['artist']['name']} - {dz['title']}" if dz else "",
+                       "deezer_release": dz.get("release_date", "") if dz else "",
+                       "deezer_rank": dz.get("rank", "") if dz else "",
+                       "isrc": dz.get("isrc", "") if dz else ""})
         if track:
             seen_ids.add(track["trackId"])
             games.append({
                 "id": track["trackId"],
+                "deezer": dz["id"] if dz else None,
                 "artist": track["artistName"],
                 "title": clean_title(track["trackName"]),
                 "year": int(track["releaseDate"][:4]),
@@ -141,6 +198,8 @@ def main() -> None:
         w.writerows(review)
     print(f"{len(games)} playable songs → {OUT_JSON.relative_to(ROOT)}")
     print("dropped:", Counter(r["status"].split(" (")[0] for r in review if r["status"] != "ok"))
+    print(f"Deezer match: {sum(bool(r['deezer_id']) for r in review)}/{len(review)} candidates, "
+          f"{sum(bool(g['deezer']) for g in games)}/{len(games)} playable songs")
 
 
 if __name__ == "__main__":

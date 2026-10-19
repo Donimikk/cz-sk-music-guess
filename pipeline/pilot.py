@@ -64,6 +64,12 @@ def fetch_json(url: str, params: dict, cache: bool = True) -> dict:
         try:
             with urllib.request.urlopen(req, timeout=60) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
+            # Deezer reports its quota as HTTP 200 + {"error": {"code": 4}}; retry instead of caching it.
+            if isinstance(data, dict) and isinstance(data.get("error"), dict) and data["error"].get("code") == 4:
+                if attempt == 5:
+                    raise RuntimeError(f"Deezer quota still exceeded: {full}")
+                time.sleep(5 * (attempt + 1))
+                continue
             break
         except urllib.error.HTTPError as e:
             # Retry only rate limits and server errors.
