@@ -56,3 +56,20 @@ it down in April 2023. "Heardle Decades" = per-decade lists. No public write-ups
 - Deezer API guidelines (game/quiz use, preview caching — preview URLs are signed with expiry).
 - Last.fm key + 20 test songs; terms.
 - Full lists from Radio Prague and TASR.
+
+## Hip-hop and the pre-streaming era (added 2026-10-19)
+Radio barely plays rap, so radio charts miss most of the scene. Sources that do cover it:
+
+| Source | What | Years | Status |
+|---|---|---|---|
+| IFPI CZ Albums Top 100 (chartId 14) | weekly album sales chart (CD → digital) | **2006+** | verified, downloaded. 40 rap albums 2006–2015 (Rytmus Kráľ 78 wks, PSH, Kontrafakt, Majk Spirit, Prago Union, James Cole, Marpo). SK rappers chart in CZ too. |
+| IFPI SK Albums Top 100 (36) | same for SK | 2016+ | verified, downloaded; rap dominates (Separ Pancier 457 wks) |
+| Discogs API `/database/search?genre=Hip Hop&country=…` | releases with year, genre/style, community have/want | 1985+ | verified without token (25 req/min). SK 219, CZ 427, Czechoslovakia 8 masters. Country = release country → filter by artist list. |
+| kworb Spotify totals | streams while in top 200 | ~2017+ | verified |
+| YouTube | views per upload, sum across uploads | 2006+ | Data API v3 needs a key (search = 100 units of 10k/day; `playlistItems`/`videos.list` = 1 unit per 50 videos → official channels are cheap). Scraping search pages works technically but YouTube ToS forbids it. |
+| Polls of best SK/CZ rap songs | – | – | not found |
+| Óčko RGM Space chart (2007+), Music Box | – | – | no archive found |
+
+Plan: rap canon albums = IFPI album charts (2006+) ∪ Discogs (pre-2006, have/want) → tracklists
+(Discogs master / iTunes album lookup) → song-level popularity = YouTube views (summed over uploads)
++ Deezer rank + kworb streams.
