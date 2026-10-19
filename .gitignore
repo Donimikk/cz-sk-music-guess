@@ -3,3 +3,4 @@ WORKLOG.md
 __pycache__/
 .venv/
 data/cache/
+data/ifpi/raw/
