@@ -41,6 +41,18 @@ def clean_title(title: str) -> str:
     return BRACKETS.sub("", title).split(" - ")[0].strip()
 
 
+def same_title(candidate: str, want: str) -> bool:
+    """Store title equals the wanted normalized title. Apple censors words ("P***y Power"):
+    each * stands for one letter."""
+    cand = clean_title(candidate)
+    if norm(cand) == want:  # also when both sides are censored the same way (IFPI "S***S")
+        return True
+    if "*" not in cand:
+        return False
+    pattern = "[a-z0-9]".join(re.escape(norm(part)) for part in cand.split("*"))
+    return re.fullmatch(pattern, want) is not None
+
+
 def artists_of(artist: str) -> list[str]:
     return [a for a in (norm(x) for x in ARTIST_SPLIT.split(artist)) if a]
 
@@ -101,7 +113,7 @@ def resolve(song: dict) -> tuple[dict | None, str]:
                                  {"term": term, "country": store, "entity": "song", "limit": 50}).get("results", [])
         matches = []
         for t in results:
-            if norm(clean_title(t.get("trackName", ""))) != want_title:
+            if not same_title(t.get("trackName", ""), want_title):
                 continue
             artist = norm(t.get("artistName", ""))
             if not any(a in artist or artist in a for a in want_artists):
@@ -112,9 +124,12 @@ def resolve(song: dict) -> tuple[dict | None, str]:
         if not matches:
             reason = f"no title+artist match ({len(results)} results)"
             continue
-        best = min(matches, key=lambda t: t.get("releaseDate", "9999"))
-        if int(best.get("releaseDate", "0000")[:4]) < MIN_YEAR:
-            return None, f"released {best.get('releaseDate', '')[:4]} (before {MIN_YEAR})"
+        first = min(t.get("releaseDate", "9999") for t in matches)
+        if int(first[:4]) < MIN_YEAR:
+            return None, f"released {first[:4]} (before {MIN_YEAR})"
+        # Prefer the explicit original over a clean edit (bleeped preview); the year stays the earliest release.
+        best = min(matches, key=lambda t: (t.get("trackExplicitness") != "explicit", t.get("releaseDate", "9999")))
+        best["releaseDate"] = first
         best["_store"] = store
         return best, "ok"
     return None, reason
