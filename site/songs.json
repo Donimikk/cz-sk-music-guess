@@ -1,6 +1,7 @@
 [
 {
 "id": 1545351560,
+"deezer": 1194048042,
 "artist": "Lenka Filipova & Lenny",
 "title": "Samotní nejsme nic",
 "year": 2021,
@@ -10,6 +11,7 @@
 },
 {
 "id": 1580754241,
+"deezer": 1461629992,
 "artist": "Lucie Bílá",
 "title": "Dobrý kafe",
 "year": 2021,
@@ -19,6 +21,7 @@
 },
 {
 "id": 1610344821,
+"deezer": 1658468822,
 "artist": "Miroslav Žbirka & David Zbirka",
 "title": "Nejsi sám",
 "year": 2022,
@@ -28,6 +31,7 @@
 },
 {
 "id": 1573008202,
+"deezer": 1409185192,
 "artist": "Marek Ztracený",
 "title": "Moje milá",
 "year": 2021,
@@ -37,6 +41,7 @@
 },
 {
 "id": 1562715371,
+"deezer": 1341301332,
 "artist": "Jelen",
 "title": "Někde kolem",
 "year": 2021,
@@ -45,7 +50,1808 @@
 "url": "https://music.apple.com/cz/album/n%C4%9Bkde-kolem/1562715366?i=1562715371&uo=4"
 },
 {
+"id": 1562715386,
+"deezer": 1275601842,
+"artist": "Jelen",
+"title": "Ještě jednu noc",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2f/f6/77/2ff67720-419a-e1a3-04f7-7e62d9ead9c8/21UMGIM31888.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/je%C5%A1t%C4%9B-jednu-noc/1562715366?i=1562715386&uo=4"
+},
+{
+"id": 1552933143,
+"deezer": null,
+"artist": "O5 a Radeček",
+"title": "BRA3",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b2/d5/46/b2d54682-b071-6357-49cd-0f28b66d4b30/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/bra3/1552933136?i=1552933143&uo=4"
+},
+{
+"id": 1630842867,
+"deezer": 1797766877,
+"artist": "Marek Ztracený",
+"title": "Originál",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/54/5f/d7545f0c-6d6d-bd26-4b35-7938374cc0d8/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/origin%C3%A1l/1630842853?i=1630842867&uo=4"
+},
+{
+"id": 1609414499,
+"deezer": 1543523772,
+"artist": "Mirai",
+"title": "Vedle tebe usínám",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/55/5e/ef/555eef78-ae0a-8783-8478-dc3f7258a166/22UMGIM15732.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/vedle-tebe-us%C3%ADn%C3%A1m/1609414498?i=1609414499&uo=4"
+},
+{
+"id": 1499121207,
+"deezer": 878874272,
+"artist": "Marek Ztracený",
+"title": "Tak se nezlob",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6a/82/71/6a82715e-1a8c-6e8c-6fc6-c981adfe74cc/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/tak-se-nezlob/1499121204?i=1499121207&uo=4"
+},
+{
+"id": 1505780250,
+"deezer": 918847072,
+"artist": "Kryštof",
+"title": "Hned teď",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/09/a1/40/09a140f4-5b7a-1c59-6925-d817c1356b0b/20UMGIM24940.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/hned-te%C4%8F-poj%C4%8F-b%C3%BDt-sv%C4%9Btlometem/1505780243?i=1505780250&uo=4"
+},
+{
+"id": 1570236704,
+"deezer": 1394181862,
+"artist": "Mirai",
+"title": "Volám",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bf/1b/6e/bf1b6e6f-e7e7-3f8b-35ea-8c1b811f82e1/21UMGIM48656.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/vol%C3%A1m/1570236703?i=1570236704&uo=4"
+},
+{
+"id": 1599517468,
+"deezer": 1509498842,
+"artist": "Kryštof",
+"title": "Do nebe se propadám",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/47/69/ab/4769ab37-9a71-ea2c-c81a-df2ed71a007f/21UM1IM42799.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/do-nebe-se-propad%C3%A1m/1599517464?i=1599517468&uo=4"
+},
+{
+"id": 1649534851,
+"deezer": 1961449197,
+"artist": "Tereza Mašková",
+"title": "Náš příběh",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5a/0b/c8/5a0bc89f-abbe-3b06-fabe-dcd8f5e3e0b5/5054197411748.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/n%C3%A1%C5%A1-p%C5%99%C3%ADb%C4%9Bh-feat-marek-lambora/1649534838?i=1649534851&uo=4"
+},
+{
+"id": 1653591642,
+"deezer": 2010817977,
+"artist": "Poetika",
+"title": "PŮLNOC",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4c/60/f6/4c60f644-3d61-2e85-a902-60118b474f84/22UM1IM30277.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/p%C5%AFlnoc/1653591621?i=1653591642&uo=4"
+},
+{
+"id": 1620345745,
+"deezer": 1509498792,
+"artist": "Kryštof",
+"title": "Co bude pak",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/04/b9/7f/04b97ff8-472f-3b43-98b4-30356c3eb3bb/22UMGIM44569.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/co-bude-pak/1620345744?i=1620345745&uo=4"
+},
+{
+"id": 1653233308,
+"deezer": 2001266827,
+"artist": "Emma Drobna",
+"title": "Hawaii",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5a/d2/d3/5ad2d328-6885-339d-a92e-6a125bbd3632/5054197446740.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/hawaii/1653233300?i=1653233308&uo=4"
+},
+{
+"id": 1748172108,
+"deezer": 2817562712,
+"artist": "Lucie Vondráčková & Mark Voss",
+"title": "Vzkaz v lahvi",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/f1/55/b3f15555-d089-7c7a-9910-858cbaf446b3/5021732393333.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/vzkaz-v-lahvi/1748172104?i=1748172108&uo=4"
+},
+{
+"id": 1590821589,
+"deezer": 1543523802,
+"artist": "Mirai",
+"title": "Tenkrát",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/d2/48/b3d248d0-1f0f-97c5-ab9c-4a7eac44ad68/21UM1IM28150.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/tenkr%C3%A1t/1590821487?i=1590821589&uo=4"
+},
+{
+"id": 1711054396,
+"deezer": 2496390741,
+"artist": "Kryštof",
+"title": "Život je krásný",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/d6/fb/95d6fb40-22f4-9fc3-b965-f115f72526f4/23UM1IM15933.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/%C5%BEivot-je-kr%C3%A1sn%C3%BD/1711054215?i=1711054396&uo=4"
+},
+{
+"id": 1548726807,
+"deezer": 1206702572,
+"artist": "Jana Kirschner",
+"title": "Láska neumiera",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/80/66/6a/80666afc-bd13-5cc5-4694-29d04a3f7c8e/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/l%C3%A1ska-neumiera-feat-%C5%A1tefan-%C5%A1tec/1548726804?i=1548726807&uo=4"
+},
+{
+"id": 1688725821,
+"deezer": 2476997111,
+"artist": "Jelen",
+"title": "Touha a pláč",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ae/2f/ef/ae2fef4c-b909-f54c-826b-423188fc9d49/23UMGIM58356.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/touha-a-pl%C3%A1%C4%8D/1688725620?i=1688725821&uo=4"
+},
+{
+"id": 1729270365,
+"deezer": 1731549207,
+"artist": "Para",
+"title": "To Okolo Nás",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/b8/0f/70b80f2c-6d0f-9709-81dd-6bbc8bbcebba/8588008097441_cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/to-okolo-n%C3%A1s/1729270340?i=1729270365&uo=4"
+},
+{
+"id": 1707828479,
+"deezer": 2466028555,
+"artist": "Kateřina Marie Tichá",
+"title": "Plamen",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/dc/28/9adc2893-6cc1-d13b-6fcc-683ecd475ea3/23UM1IM09930.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/plamen/1707828470?i=1707828479&uo=4"
+},
+{
+"id": 1707377729,
+"deezer": 2461968565,
+"artist": "Peter Bic Project",
+"title": "Len sa smej",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4d/38/02/4d380278-2c14-cdcf-0372-1d136f535b32/23UM1IM05613.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/len-sa-smej/1707377721?i=1707377729&uo=4"
+},
+{
+"id": 1686225326,
+"deezer": null,
+"artist": "O5 a Radeček",
+"title": "HORY",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/79/21/2c/79212cd8-96ef-4d20-088b-cfb9cf49dd9e/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/hory/1686225052?i=1686225326&uo=4"
+},
+{
+"id": 1558456630,
+"deezer": 1280018702,
+"artist": "Slza",
+"title": "Bouře",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/8a/4c/9d8a4cd9-8c68-60b7-6bc2-76cf8c4b4057/21UMGIM20952.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/bou%C5%99e/1558456629?i=1558456630&uo=4"
+},
+{
+"id": 1680292399,
+"deezer": 2218817207,
+"artist": "HEX",
+"title": "Pomaranče z Kuby",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9c/57/7a/9c577ada-b230-3490-b30d-0396b2fd760b/44cabe8b-3d38-463f-9d26-1902b8b194fb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/pomaran%C4%8De-z-kuby/1680292232?i=1680292399&uo=4"
+},
+{
+"id": 1543063183,
+"deezer": 1163339492,
+"artist": "Desmod & Majself",
+"title": "Kométa",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/61/88/a1/6188a142-7305-0c69-7644-90b21969a657/1a688724-bea4-4531-ba25-9ea790d2208a.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/kom%C3%A9ta/1543063181?i=1543063183&uo=4"
+},
+{
+"id": 1692435795,
+"deezer": 2326355425,
+"artist": "Kali & I.M.T. Smile",
+"title": "Nič sa nemení",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f8/8b/a7/f88ba733-43d1-132d-7b8d-c8781cfc492e/8c3e8dac-f896-4f16-8160-1171c707c992.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/ni%C4%8D-sa-nemen%C3%AD/1692435794?i=1692435795&uo=4"
+},
+{
+"id": 1883973887,
+"deezer": 3902305551,
+"artist": "Billy Barman",
+"title": "Hory medzi nami",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/8d/e3/ac8de3b3-d874-c541-d59c-687e63b386be/26UMGIM23708.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/hory-medzi-nami/1883973686?i=1883973887&uo=4"
+},
+{
+"id": 1708209962,
+"deezer": 2462914155,
+"artist": "Anna K.",
+"title": "Údolí včel",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/a6/71/58a6714a-8d07-e4d5-3fef-d159782e9b9e/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/%C3%BAdol%C3%AD-v%C4%8Del/1708209277?i=1708209962&uo=4"
+},
+{
+"id": 1693848296,
+"deezer": 2338234185,
+"artist": "Divokej Bill",
+"title": "Lahůdky",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9a/be/5b/9abe5bbc-7766-2a8c-7708-563d799fbc5f/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/lah%C5%AFdky/1693847518?i=1693848296&uo=4"
+},
+{
+"id": 1509206594,
+"deezer": 937023112,
+"artist": "Slza",
+"title": "Fotky",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/41/5d/13/415d133c-74c5-0c68-6157-87224de09d63/20UMGIM30658.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/fotky/1509206298?i=1509206594&uo=4"
+},
+{
+"id": 1597318195,
+"deezer": 1508055422,
+"artist": "Adam Ďurica",
+"title": "Naše hriechy",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/40/a4/4c40a4d2-fee9-b2b5-85ca-cc63ce10a787/21UM1IM46250.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/na%C5%A1e-hriechy-feat-emma-drobna/1597318178?i=1597318195&uo=4"
+},
+{
+"id": 1522852567,
+"deezer": 1016490092,
+"artist": "Anna K.",
+"title": "Na malou chvíli",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/00/59/13/005913b1-32a7-9c7e-1351-2487bde18baa/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/na-malou-chv%C3%ADli/1522852198?i=1522852567&uo=4"
+},
+{
+"id": 1743454165,
+"deezer": 2767900781,
+"artist": "Elán",
+"title": "Znova sa ma dotkni",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/7c/5e/1d7c5ea8-1a2f-f185-9044-45da481e1cf3/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/znova-sa-ma-dotkni/1743454158?i=1743454165&uo=4"
+},
+{
+"id": 1687547052,
+"deezer": 2280590537,
+"artist": "Marek Ztracený",
+"title": "Stále věřím",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/68/a9/2e/68a92e4f-b462-6e5c-c254-a62e82025ca1/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/st%C3%A1le-v%C4%9B%C5%99%C3%ADm/1687547037?i=1687547052&uo=4"
+},
+{
+"id": 1597082256,
+"deezer": null,
+"artist": "I.M.T. Smile",
+"title": "V LETE ...",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/b6/dc/c0b6dcc5-fca7-dcbb-090f-b25dfaec5dce/21UM1IM45150.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/v-lete/1597082060?i=1597082256&uo=4"
+},
+{
+"id": 1661415796,
+"deezer": 2066712577,
+"artist": "Hodiny",
+"title": "Souhvězdí",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fa/cd/6d/facd6ddc-70ff-0efd-a278-6bf7e153dd72/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/souhv%C4%9Bzd%C3%AD/1661415613?i=1661415796&uo=4"
+},
+{
+"id": 1729601333,
+"deezer": null,
+"artist": "O5 a Radeček & Elly",
+"title": "I tak to za to stojí",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/06/8a/5b/068a5b23-ef1f-5ce4-c039-49e655cbab87/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/i-tak-to-za-to-stoj%C3%AD/1729601328?i=1729601333&uo=4"
+},
+{
+"id": 1517680750,
+"deezer": 1000462002,
+"artist": "Emma Drobna",
+"title": "Yeah Baby!",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/25/0c/2e250c43-d53c-b04f-d82c-a7789880a64c/190295195014.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/yeah-baby-f-ck-with-me/1517680749?i=1517680750&uo=4"
+},
+{
+"id": 1629306938,
+"deezer": 2462914225,
+"artist": "Anna K.",
+"title": "O Tobě i o mně",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/56/ab/f9/56abf937-2dfc-10b3-0143-892be8412400/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/o-tob%C4%9B-i-o-mn%C4%9B/1629306515?i=1629306938&uo=4"
+},
+{
+"id": 1695869088,
+"deezer": 2435099715,
+"artist": "Ben Cristovao & Sara James",
+"title": "Brighter Day",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/3a/5f/713a5f36-9fb3-8dbe-7e60-9b34bd78b710/23UMGIM77001.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/brighter-day/1695868991?i=1695869088&uo=4"
+},
+{
+"id": 1638778920,
+"deezer": 1983782997,
+"artist": "ADONXS",
+"title": "Game",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/74/92/12/749212fc-159c-7e12-97ac-e7ec4bafe67f/5054197304125.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/game/1638778916?i=1638778920&uo=4"
+},
+{
+"id": 1540244291,
+"deezer": 1141237382,
+"artist": "Marek Ztracený",
+"title": "Vítr do plachet",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/c9/51/60c9515f-0031-40c8-c18b-8bcf83d42c2c/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/v%C3%ADtr-do-plachet-film-gump/1540243802?i=1540244291&uo=4"
+},
+{
+"id": 1643673939,
+"deezer": 1901787927,
+"artist": "Chinaski",
+"title": "Měl bych si boty zout",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/36/2b/90/362b90b2-67bf-f587-6cd0-f30fa314b90b/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/m%C4%9Bl-bych-si-boty-zout/1643673311?i=1643673939&uo=4"
+},
+{
+"id": 1532878419,
+"deezer": 1138698132,
+"artist": "Gladiator",
+"title": "Nechcem o teba prísť",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a9/bd/72/a9bd7232-05fd-e51b-723e-f89bf52d3cb7/20UMGIM82334.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/nechcem-o-teba-pr%C3%ADs%C5%A5/1532878418?i=1532878419&uo=4"
+},
+{
+"id": 1762481342,
+"deezer": 2944355591,
+"artist": "Alan Murin",
+"title": "Domov",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/bc/37/1abc37ef-9e61-5051-2c9b-df4c5db5c295/5b1de79e-3d01-4ed6-a0df-2dd791e0b266.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/domov/1762481341?i=1762481342&uo=4"
+},
+{
+"id": 1538624408,
+"deezer": 1100642952,
+"artist": "Aneta Langerová",
+"title": "Bílý den",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/68/00/56/680056cd-a08d-a5a8-bf60-a0e2c5ec8377/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/b%C3%ADl%C3%BD-den/1538624126?i=1538624408&uo=4"
+},
+{
+"id": 1533357521,
+"deezer": 1341301342,
+"artist": "Jelen",
+"title": "Jediný co chci",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d0/80/5e/d0805e28-135c-5d89-f5ba-4dd811dd6fc2/20UMGIM78467.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/jedin%C3%BD-co-chci/1533357519?i=1533357521&uo=4"
+},
+{
+"id": 1572250853,
+"deezer": null,
+"artist": "Xindl X",
+"title": "Má chata, můj hrad",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/ee/11/acee118a-b042-3038-ae33-747479ae643c/21UMGIM54022.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/m%C3%A1-chata-m%C5%AFj-hrad/1572250852?i=1572250853&uo=4"
+},
+{
+"id": 1589798674,
+"deezer": 1517335912,
+"artist": "Lukáš Adamec",
+"title": "Najviac",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/87/a7/cd/87a7cdd6-a6aa-cfa5-9e3f-5ad92c1d21d4/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/najviac/1589798670?i=1589798674&uo=4"
+},
+{
+"id": 1769504106,
+"deezer": 3002852631,
+"artist": "Marek Ztracený",
+"title": "Ta bílá ti sluší",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/78/58/56785872-e636-b85a-3d9c-9fec6a5679b7/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/ta-b%C3%ADl%C3%A1-ti-slu%C5%A1%C3%AD/1769504104?i=1769504106&uo=4"
+},
+{
+"id": 1739711944,
+"deezer": 2739604831,
+"artist": "Iné Kafe",
+"title": "Otázka za milión",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/04/94/80049453-6d73-73f7-49f0-4eccd2429a6e/198500607734.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/ot%C3%A1zka-za-mili%C3%B3n/1739711941?i=1739711944&uo=4"
+},
+{
+"id": 1660298525,
+"deezer": 1985904957,
+"artist": "Mark Dann",
+"title": "In My Mind",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4c/d2/36/4cd23661-faab-7f8e-fbd8-c5f7c3d3e64e/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/in-my-mind-feat-giovanni-ricci/1660298513?i=1660298525&uo=4"
+},
+{
+"id": 1767585417,
+"deezer": 2992519191,
+"artist": "Jelen",
+"title": "Všudezdejší",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/19/69/0f196954-cef5-0fd1-321d-c7a9e973672e/24UMGIM98881.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/v%C5%A1udezdej%C5%A1%C3%AD/1767585410?i=1767585417&uo=4"
+},
+{
+"id": 1714446329,
+"deezer": 2526372181,
+"artist": "Mirai",
+"title": "summer love",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/75/82/c17582f9-d70f-4d2a-43a7-45fd982050d4/23UM1IM31091.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/summer-love/1714446326?i=1714446329&uo=4"
+},
+{
+"id": 1775694888,
+"deezer": 3058807111,
+"artist": "Tomas Klus",
+"title": "Dokola",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/51/ec/f451ec07-c77a-e2ce-9807-7d26681851a8/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/dokola/1775694181?i=1775694888&uo=4"
+},
+{
+"id": 1623627245,
+"deezer": 1748323117,
+"artist": "ADONXS",
+"title": "Moving On",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/97/2a/79/972a7968-173d-fb9c-a341-82cb9eca7df1/5054197178832.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/moving-on/1623627238?i=1623627245&uo=4"
+},
+{
+"id": 1780546124,
+"deezer": null,
+"artist": "I.M.T. Smile",
+"title": "SVET",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/27/50/d32750af-c3a7-3a26-8df3-ef7381643fc7/24UM1IM30098.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/svet/1780546118?i=1780546124&uo=4"
+},
+{
+"id": 1515895612,
+"deezer": null,
+"artist": "I.M.T. Smile",
+"title": "Navždy",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6d/fa/2c/6dfa2c74-0f69-bce8-adf8-bb503b2b6846/20UMGIM42863.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/nav%C5%BEdy/1515895205?i=1515895612&uo=4"
+},
+{
+"id": 1801531606,
+"deezer": 3273253991,
+"artist": "Mark Dann",
+"title": "LET ME DIE",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/0d/3b/220d3b1a-ef68-3686-dcb3-e0110463fb89/5034644538822.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/let-me-die-feat-giovanni-ricci/1801531605?i=1801531606&uo=4"
+},
+{
+"id": 1856221942,
+"deezer": 3679604742,
+"artist": "Sám Sebou",
+"title": "Pohoda",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/53/3c/a4533cc6-b295-e364-a4e0-2faac50f7f24/5026854288239.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/pohoda-feat-kali/1856221941?i=1856221942&uo=4"
+},
+{
+"id": 1531517822,
+"deezer": 1087845172,
+"artist": "Emma Drobna",
+"title": "Between Us",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/39/26/86/392686f3-ed4f-e58a-2a9b-5983f3065b36/190295148454.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/between-us/1531517821?i=1531517822&uo=4"
+},
+{
+"id": 1777136617,
+"deezer": 3067696961,
+"artist": "Chinaski",
+"title": "Slyším tvoje kroky",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/b7/ed/e5b7edd8-5c1c-36bd-a161-697a3fe2e78c/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/sly%C5%A1%C3%ADm-tvoje-kroky/1777136416?i=1777136617&uo=4"
+},
+{
+"id": 1729270359,
+"deezer": 2650269782,
+"artist": "Para",
+"title": "Čas",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/b8/0f/70b80f2c-6d0f-9709-81dd-6bbc8bbcebba/8588008097441_cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/%C4%8Das/1729270340?i=1729270359&uo=4"
+},
+{
+"id": 1584647692,
+"deezer": 1486743262,
+"artist": "David Stypka & Bandjeez",
+"title": "O lítání",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b8/0e/63/b80e6396-6825-d636-b3aa-dc83cedfbb3f/21UMGIM77065.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/o-l%C3%ADt%C3%A1n%C3%AD/1584647192?i=1584647692&uo=4"
+},
+{
+"id": 1719291105,
+"deezer": 2566453732,
+"artist": "Poetika",
+"title": "MÁM POCIT, ŽE TĚ ZTRÁCÍM",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ec/2d/4f/ec2d4fa5-e229-dba0-c0a6-5622e73e6f54/23UM1IM62287.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/m%C3%A1m-pocit-%C5%BEe-t%C4%9B-ztr%C3%A1c%C3%ADm/1719291103?i=1719291105&uo=4"
+},
+{
+"id": 1562715394,
+"deezer": 1341301392,
+"artist": "Jelen",
+"title": "V oblacích",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2f/f6/77/2ff67720-419a-e1a3-04f7-7e62d9ead9c8/21UMGIM31888.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/v-oblac%C3%ADch/1562715366?i=1562715394&uo=4"
+},
+{
+"id": 1707834077,
+"deezer": 2437811025,
+"artist": "Bystrik",
+"title": "Spievaj so mnou",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b3/83/96/b3839657-df20-7ec9-1f8e-1bf4e1d2e376/bb92d5c0-a6df-43a2-a0d1-c5638083229a.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/spievaj-so-mnou/1707834076?i=1707834077&uo=4"
+},
+{
+"id": 1531127352,
+"deezer": 1110624722,
+"artist": "Katarina Knechtova",
+"title": "TAKÍ SME",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/97/9a/df/979adfed-c8bf-e6f5-435c-351d9c60002a/20UMGIM78919.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/tak%C3%AD-sme-feat-adam-%C4%8Furica/1531126924?i=1531127352&uo=4"
+},
+{
+"id": 1547658299,
+"deezer": 1194809972,
+"artist": "Matej Smutný",
+"title": "Psycho Love",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9f/38/8e/9f388ea8-15e6-d87d-6684-4a8e843e8688/190295035846.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/psycho-love/1547658298?i=1547658299&uo=4"
+},
+{
+"id": 1648146674,
+"deezer": 1942949897,
+"artist": "Jana Kirschner",
+"title": "Lovestory",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3a/4c/99/3a4c999e-3b31-6376-c5e2-51b95cd410eb/5054197396939.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/lovestory-feat-milan-ondr%C3%ADk/1648146670?i=1648146674&uo=4"
+},
+{
+"id": 1780657429,
+"deezer": 3094063991,
+"artist": "Michal David",
+"title": "Život je náš",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/02/91/ad0291af-14f8-a576-f124-8b359a32140c/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/%C5%BEivot-je-n%C3%A1%C5%A1/1780656975?i=1780657429&uo=4"
+},
+{
+"id": 1765129350,
+"deezer": null,
+"artist": "Xindl X",
+"title": "Proměna",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/e9/b6/53e9b6c8-8873-af6c-f796-028e23fe71e6/24UMGIM70088.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/prom%C4%9Bna/1765129342?i=1765129350&uo=4"
+},
+{
+"id": 1519741330,
+"deezer": 999281562,
+"artist": "Like-It",
+"title": "Křídla",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/27/a3/d5/27a3d596-f739-c4b7-5c2c-b5e06035510f/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/k%C5%99%C3%ADdla/1519741327?i=1519741330&uo=4"
+},
+{
+"id": 1707818011,
+"deezer": 1959891567,
+"artist": "Celeste Buckingham",
+"title": "Make Me",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/17/2c/09172ce1-a7eb-ceb3-3d85-affa2ede8c0a/fd3e003a-ef8a-4b20-95b7-592ddc17e1ce.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/make-me/1707818007?i=1707818011&uo=4"
+},
+{
+"id": 1653675480,
+"deezer": 2006544857,
+"artist": "Marek Ztracený",
+"title": "Pomalu",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e4/4d/fb/e44dfba1-2de4-62a9-0c2e-61aa757cc3fe/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/pomalu/1653675468?i=1653675480&uo=4"
+},
+{
+"id": 1727888788,
+"deezer": 2636487942,
+"artist": "Mark Dann",
+"title": "Cry",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/01/28/600128c0-a58a-4416-3548-13e0ce3d25bb/0298c140-3b81-49e1-80bc-00bf45d04bb3.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/cry/1727888787?i=1727888788&uo=4"
+},
+{
+"id": 1693233867,
+"deezer": 3048052831,
+"artist": "Emma Smetana & Richard Müller",
+"title": "Tahle jedna vteřina",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/ca/82/55ca82c5-2503-e442-c224-eaef4efc8c22/23UMGIM70571.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/tahle-jedna-vte%C5%99ina/1693233795?i=1693233867&uo=4"
+},
+{
+"id": 1791093605,
+"deezer": 3190626501,
+"artist": "Tereza Kerndlová",
+"title": "DIAMANTY",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/0c/e6/9a0ce6fb-2f80-9251-2550-0f0c51992490/5021732620729.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/diamanty/1791093602?i=1791093605&uo=4"
+},
+{
+"id": 1725277964,
+"deezer": 2614772042,
+"artist": "Martin Harich",
+"title": "Liar",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d8/46/e2/d846e262-4142-0f5c-e5b0-574ad1fbb996/artwork.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/liar/1725277963?i=1725277964&uo=4"
+},
+{
+"id": 1871687493,
+"deezer": 3801885612,
+"artist": "Katarina Knechtova",
+"title": "Diaľky",
+"year": 2026,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/26/4c/d5264cb7-870d-c8f4-a551-b57af74243f1/26UMGIM09865.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/dia%C4%BEky/1871687492?i=1871687493&uo=4"
+},
+{
+"id": 1597318807,
+"deezer": 1103088482,
+"artist": "Adam Ďurica",
+"title": "Pravdupovediac",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/40/a4/4c40a4d2-fee9-b2b5-85ca-cc63ce10a787/21UM1IM46250.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/pravdupovediac/1597318178?i=1597318807&uo=4"
+},
+{
+"id": 1737314274,
+"deezer": 2738153821,
+"artist": "Mirai",
+"title": "easy",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/bd/59/20bd5977-00f4-c3f9-e135-5cc93ce73e10/24UMGIM30342.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/easy/1737314022?i=1737314274&uo=4"
+},
+{
+"id": 1590821599,
+"deezer": 1543523862,
+"artist": "Mirai",
+"title": "Lítej",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/d2/48/b3d248d0-1f0f-97c5-ab9c-4a7eac44ad68/21UM1IM28150.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/l%C3%ADtej-davidovi/1590821487?i=1590821599&uo=4"
+},
+{
+"id": 1814365963,
+"deezer": 3366836161,
+"artist": "Marek Ztracený",
+"title": "Zastav mě",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/6c/bd/506cbd58-d610-149a-e0aa-0b9b72414a70/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/zastav-m%C4%9B/1814365658?i=1814365963&uo=4"
+},
+{
+"id": 1757598611,
+"deezer": 2892630802,
+"artist": "Adiss & Šorty",
+"title": "Nanana",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/c6/59/f4c659f8-95e6-bda0-96f7-26077edb4d90/7072db81-0041-4bb9-8ac5-3eaab0f21386.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/nanana/1757598610?i=1757598611&uo=4"
+},
+{
+"id": 1597367383,
+"deezer": 1566484982,
+"artist": "Hodiny",
+"title": "Dívej",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/0d/72/520d7271-7bcd-cbb6-3047-fba7b84de2fc/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/d%C3%ADvej/1597367378?i=1597367383&uo=4"
+},
+{
+"id": 1650365080,
+"deezer": 1959891647,
+"artist": "Celeste Buckingham",
+"title": "Drive",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e3/54/9e/e3549e07-9fa7-6d7d-3740-9e628b868487/fd3e003a-ef8a-4b20-95b7-592ddc17e1ce.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/drive/1650365070?i=1650365080&uo=4"
+},
+{
+"id": 1737314516,
+"deezer": 3069019881,
+"artist": "Mirai",
+"title": "promiň",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/bd/59/20bd5977-00f4-c3f9-e135-5cc93ce73e10/24UMGIM30342.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/promi%C5%88/1737314022?i=1737314516&uo=4"
+},
+{
+"id": 1708454747,
+"deezer": 2476997121,
+"artist": "Jelen",
+"title": "Miluju tě",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ec/56/63/ec566346-33ea-39e8-4aea-ac9d64d80ad3/23UM1IM11075.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/miluju-t%C4%9B-feat-ji%C5%99%C3%AD-pavlica-hradi%C5%A1%C5%A5an/1708454040?i=1708454747&uo=4"
+},
+{
+"id": 1606927497,
+"deezer": 1632216042,
+"artist": "Matej Smutný",
+"title": "Words U Say",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/13/db/7613db83-7975-5fed-094a-7e78c7324d95/190296250071.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/words-u-say/1606927385?i=1606927497&uo=4"
+},
+{
+"id": 1829464600,
+"deezer": null,
+"artist": "Xindl X",
+"title": "Puberťák",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/a6/6d/b7a66d81-1548-3855-7732-2ae6583af5b9/25UM1IM02467.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/puber%C5%A5%C3%A1k/1829464598?i=1829464600&uo=4"
+},
+{
+"id": 1750481287,
+"deezer": 2833324232,
+"artist": "Katarina Knechtova",
+"title": "Život nás má rád",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/5d/b5/915db5d5-edcd-1a49-2219-07ea1ef01008/24UMGIM62285.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/%C5%BEivot-n%C3%A1s-m%C3%A1-r%C3%A1d/1750481273?i=1750481287&uo=4"
+},
+{
+"id": 1590821592,
+"deezer": 1543523832,
+"artist": "Mirai",
+"title": "Vlci",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/d2/48/b3d248d0-1f0f-97c5-ab9c-4a7eac44ad68/21UM1IM28150.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/vlci/1590821487?i=1590821592&uo=4"
+},
+{
+"id": 1694605600,
+"deezer": 2345214175,
+"artist": "Lucie Bílá",
+"title": "Děkuju Ti",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/6a/06/696a0691-146e-e3d1-dae3-e14da2b885d6/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/d%C4%9Bkuju-ti/1694605588?i=1694605600&uo=4"
+},
+{
+"id": 1712932464,
+"deezer": 2557436042,
+"artist": "Mark Voss",
+"title": "V dolinách",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/9d/51/a49d5190-8817-3de6-94f0-98035c959c2b/5054197887239.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/v-dolin%C3%A1ch-feat-karol-ducho%C5%88/1712932365?i=1712932464&uo=4"
+},
+{
+"id": 1537128132,
+"deezer": 1125751692,
+"artist": "Kryštof & Karel Gott",
+"title": "Vánoční",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/30/64/7e306418-09c2-3e89-4430-b5f06e6c0a78/20UMGIM72637.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/v%C3%A1no%C4%8Dn%C3%AD/1537128129?i=1537128132&uo=4"
+},
+{
+"id": 1667599278,
+"deezer": 2122156587,
+"artist": "Mark Dann & MINA",
+"title": "Love Me Now",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/4a/ac/4f4aac71-551c-9181-68f1-03ad935cc8c4/be0be810-93db-46d9-9122-9ec05ccc88eb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/love-me-now/1667599277?i=1667599278&uo=4"
+},
+{
+"id": 1729270346,
+"deezer": 2650269762,
+"artist": "Para",
+"title": "Vilma",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/b8/0f/70b80f2c-6d0f-9709-81dd-6bbc8bbcebba/8588008097441_cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/vilma/1729270340?i=1729270346&uo=4"
+},
+{
+"id": 1580558734,
+"deezer": 1486743252,
+"artist": "David Stypka & Bandjeez",
+"title": "Farmářům",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d4/ec/30/d4ec30c6-d7aa-527e-9068-7833e327a6d3/21UMGIM79425.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/farm%C3%A1%C5%99%C5%AFm/1580558732?i=1580558734&uo=4"
+},
+{
+"id": 1650365082,
+"deezer": 1959891667,
+"artist": "Celeste Buckingham",
+"title": "Another Life",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e3/54/9e/e3549e07-9fa7-6d7d-3740-9e628b868487/fd3e003a-ef8a-4b20-95b7-592ddc17e1ce.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/another-life/1650365070?i=1650365082&uo=4"
+},
+{
+"id": 1738405157,
+"deezer": 2738152291,
+"artist": "Peter Bic Project",
+"title": "Perly",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/a9/85/cca985bb-7056-9652-25e3-9e9fa2e0a5a3/24UMGIM34429.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/perly/1738404948?i=1738405157&uo=4"
+},
+{
+"id": 1594476433,
+"deezer": 3669255802,
+"artist": "Michal Hruza",
+"title": "Nahoru",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/9b/ca/5c9bca8d-774e-6ffc-e138-e22dd4072128/21UM1IM38579.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/nahoru/1594476034?i=1594476433&uo=4"
+},
+{
+"id": 1708210403,
+"deezer": 2462914205,
+"artist": "Anna K.",
+"title": "Apollo 11",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/a6/71/58a6714a-8d07-e4d5-3fef-d159782e9b9e/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/apollo-11/1708209277?i=1708210403&uo=4"
+},
+{
+"id": 1814139317,
+"deezer": 3364994481,
+"artist": "Emma Drobna",
+"title": "High",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/09/71/c5097143-02b3-06e0-aa80-5df59396195a/5021732809667.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/high/1814139309?i=1814139317&uo=4"
+},
+{
+"id": 1843869825,
+"deezer": 3585401651,
+"artist": "Tereza Mašková",
+"title": "Hořkosladký valčík",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/cc/9b/81cc9beb-0f77-d1fd-5d2e-c04824c433cd/5026854086354.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/ho%C5%99kosladk%C3%BD-val%C4%8D%C3%ADk/1843869484?i=1843869825&uo=4"
+},
+{
+"id": 1770870982,
+"deezer": 3018322431,
+"artist": "Zuzana Smatanova",
+"title": "Prútikár",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/38/f6/9038f6d5-2cb6-345b-0fa3-6aecd104f164/6e91b7bb-6d43-495a-92b8-bbf10c2e30c9.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/pr%C3%BAtik%C3%A1r-feat-richard-autner/1770870981?i=1770870982&uo=4"
+},
+{
+"id": 1828965320,
+"deezer": 3477878421,
+"artist": "Celeste Buckingham",
+"title": "Come Again",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/0a/53/280a53c8-a244-12fc-e204-30f5490278a8/099f4f2d-e42b-47d7-9e76-6a300433edd3.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/come-again/1828965319?i=1828965320&uo=4"
+},
+{
+"id": 1623695356,
+"deezer": null,
+"artist": "O5 a Radeček",
+"title": "Romantický smyčce",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/da/5f/6c/da5f6c00-ac86-7cf9-3aef-08c570bbadaf/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/romantick%C3%BD-smy%C4%8Dce/1623695350?i=1623695356&uo=4"
+},
+{
+"id": 1801783930,
+"deezer": 3275485601,
+"artist": "Polemic",
+"title": "Štramák",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/ce/44/bace44c7-7908-b7ab-4449-aae6667641ee/c68c230f-11cd-474f-ae9b-45ad907971a1.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/%C5%A1tram%C3%A1k-feat-matej-ruppert/1801783920?i=1801783930&uo=4"
+},
+{
+"id": 1744316495,
+"deezer": 2778885121,
+"artist": "Anika Iris",
+"title": "IF YOU ONLY KNEW",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/6b/bb/526bbbbd-f8d7-6dd5-8731-dfe17916fa75/bd266195-bf71-40cc-82c3-c595a64e9df8.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/if-you-only-knew/1744316494?i=1744316495&uo=4"
+},
+{
+"id": 1572433680,
+"deezer": 1408751052,
+"artist": "Kryštof",
+"title": "Halywůd",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bb/5a/80/bb5a8054-6d22-9719-719b-48a3625d6fba/21UMGIM54018.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/halyw%C5%AFd/1572433679?i=1572433680&uo=4"
+},
+{
+"id": 1788318612,
+"deezer": 3167297181,
+"artist": "Emma Drobna",
+"title": "Vo vlnách",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/b9/34/18b93476-71e3-2d8a-7b34-27d25564be03/5021732603135.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/vo-vln%C3%A1ch/1788318609?i=1788318612&uo=4"
+},
+{
+"id": 1825437010,
+"deezer": 3449888321,
+"artist": "Call Dominika & Mal",
+"title": "Fire in your eyes",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/78/63/5278635f-1c0c-7618-0ac6-6e945477097d/64d0f6a6-e88d-4605-a9cd-6ee5d6c1bbb7.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/fire-in-your-eyes/1825437008?i=1825437010&uo=4"
+},
+{
+"id": 1705885971,
+"deezer": 2454785355,
+"artist": "Slza",
+"title": "Každej sám",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9c/39/84/9c3984f9-bdd6-f7ef-9ff7-9534523a46de/23UM1IM01666.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/ka%C5%BEdej-s%C3%A1m/1705885639?i=1705885971&uo=4"
+},
+{
+"id": 1789875610,
+"deezer": 3180074631,
+"artist": "Majk Spirit, GRIMASO & Ben Cristovao",
+"title": "KURT",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/db/dd/f1dbdddc-5463-f155-0da3-809865c86562/63367314-4d60-4e38-9ad7-df58ce54ad69.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/kurt/1789875609?i=1789875610&uo=4"
+},
+{
+"id": 1533738261,
+"deezer": 1100357552,
+"artist": "Richard Müller",
+"title": "Siedme nebo",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/64/1d/0d/641d0d43-aaca-98d5-d36c-7f9249be4fcd/20UMGIM80602.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/siedme-nebo/1533738260?i=1533738261&uo=4"
+},
+{
+"id": 1839664501,
+"deezer": 3637515052,
+"artist": "Dara Rolins",
+"title": "Do Neba",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/a3/60/a5a3603e-af8c-ee7e-5918-a364fd1e52ee/36c7217a-5190-4ba7-92f6-65e71f116985.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/do-neba/1839664500?i=1839664501&uo=4"
+},
+{
+"id": 1583165880,
+"deezer": 2514646491,
+"artist": "No Name",
+"title": "Elity",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fa/3f/9d/fa3f9dd3-5491-52c8-1d4d-c205b3b1ee18/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/elity/1583165878?i=1583165880&uo=4"
+},
+{
+"id": 1862507604,
+"deezer": 3724782242,
+"artist": "Pavol Habera & Team",
+"title": "Za to vsetko laska mozes ty",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/36/b8/0c36b87f-a3d3-6e6f-bd2b-cb43dfdd16d2/artwork.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/za-to-vsetko-laska-mozes-ty/1862507603?i=1862507604&uo=4"
+},
+{
+"id": 1716257527,
+"deezer": 2539446101,
+"artist": "Adiss & Šorty",
+"title": "RYDM",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/b9/7a/5db97a15-801c-e7b4-6fd3-e7ef1e57242c/9c23e96d-7b30-4f3d-8ca5-dd9c7c791bdd.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/rydm/1716257526?i=1716257527&uo=4"
+},
+{
+"id": 1749111750,
+"deezer": 2824553762,
+"artist": "Lucie Vondráčková",
+"title": "V šíleném kolotoči",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/c8/e9/8ac8e9f4-1501-910c-1ec7-904118be7300/5021732394064.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/v-%C5%A1%C3%ADlen%C3%A9m-koloto%C4%8Di/1749111059?i=1749111750&uo=4"
+},
+{
+"id": 1791092646,
+"deezer": 3190536041,
+"artist": "Doctor P.P.",
+"title": "Dítě Stounů",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/1f/8a/081f8a8d-43bf-2ab9-f2a6-0ccfed4edfd8/199066534199.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/d%C3%ADt%C4%9B-stoun%C5%AF-feat-le%C5%A1ek-wronka/1791092632?i=1791092646&uo=4"
+},
+{
+"id": 1693191215,
+"deezer": 2332829925,
+"artist": "Amo",
+"title": "Podaj Mi Ruku",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7f/2c/72/7f2c729d-f420-4050-553e-f9f0b4b9abed/artwork.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/podaj-mi-ruku/1693191214?i=1693191215&uo=4"
+},
+{
+"id": 1868101252,
+"deezer": 3766961642,
+"artist": "Alan Murin",
+"title": "Naveky",
+"year": 2026,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/a9/2f/52a92ff2-51f5-cc45-b8e3-c428480f59d2/0126d1ca-df62-4724-8e8d-b24811978f1f.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/naveky/1868101251?i=1868101252&uo=4"
+},
+{
+"id": 1736093949,
+"deezer": 2705137932,
+"artist": "Martin Harich",
+"title": "KNOW",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/8f/9f/fa8f9f13-4945-3486-c52e-4b7a424f76aa/38cdb960-5871-46b5-84e0-b49ab1135c67.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/know-how/1736093948?i=1736093949&uo=4"
+},
+{
+"id": 1612358196,
+"deezer": 3907405271,
+"artist": "Martin Harich",
+"title": "Vtáci v kŕdli",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/5d/6d/495d6d52-39ea-4f2a-c08f-963585627cd7/artwork.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/vt%C3%A1ci-v-k%C5%95dli-feat-peter-lipa/1612357895?i=1612358196&uo=4"
+},
+{
+"id": 1542597474,
+"deezer": 1159225832,
+"artist": "David Koller",
+"title": "Pouta",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7f/50/52/7f505290-9e04-cc53-1c89-3a1179fa1263/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/pouta/1542597469?i=1542597474&uo=4"
+},
+{
+"id": 1560870724,
+"deezer": 1297162582,
+"artist": "Lina Mayer",
+"title": "Stratená",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/63/ed/2063edc3-1fd1-bee2-f346-3f305e1b2595/638865198350.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/straten%C3%A1/1560870717?i=1560870724&uo=4"
+},
+{
+"id": 1547614464,
+"deezer": null,
+"artist": "Xindl X",
+"title": "SebeLoveSong",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/77/5e/f2/775ef2ae-0851-65d8-9bcc-d048b0d4397d/21UMGIM00363.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/sebelovesong/1547614264?i=1547614464&uo=4"
+},
+{
+"id": 1688750070,
+"deezer": 2291698045,
+"artist": "Aneta Langerová & Igor Orozovič",
+"title": "Je to dávno",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/e4/37/9be43748-0699-7c26-7f6e-17335d59fd0e/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/je-to-d%C3%A1vno/1688749723?i=1688750070&uo=4"
+},
+{
+"id": 1757866759,
+"deezer": null,
+"artist": "O5 a Radeček",
+"title": "Všechno je v pořádku",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/d2/be/03d2becb-8f84-ab79-b6a8-630ce5d434a8/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/v%C5%A1echno-je-v-po%C5%99%C3%A1dku/1757866433?i=1757866759&uo=4"
+},
+{
+"id": 1570062903,
+"deezer": 1396402812,
+"artist": "Katarina Knechtova",
+"title": "Rezonancia",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/11/2d/76112db3-4999-0600-7cbd-60f0a4f958dc/21UMGIM48342.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/rezonancia/1570062902?i=1570062903&uo=4"
+},
+{
+"id": 1626370455,
+"deezer": 1768232767,
+"artist": "Katarina Knechtova",
+"title": "Verím",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6a/da/b3/6adab312-b8ab-255c-492e-9cda43215fd3/22UMGIM58151.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/ver%C3%ADm/1626370448?i=1626370455&uo=4"
+},
+{
+"id": 1815753097,
+"deezer": 3018441481,
+"artist": "Adam Ďurica",
+"title": "Z popola je oheň",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/14/cc/a414ccac-84ac-05e8-a887-bf1b6c13d816/25UMGIM41221.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/z-popola-je-ohe%C5%88/1815753094?i=1815753097&uo=4"
+},
+{
+"id": 1728861495,
+"deezer": null,
+"artist": "Xindl X & Katarina Knechtova",
+"title": "Si zabil, kámo",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/b1/18/41b11809-c0c1-c0bc-807e-bb19077b16be/24UMGIM08309.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/si-zabil-k%C3%A1mo/1728861479?i=1728861495&uo=4"
+},
+{
+"id": 1719069788,
+"deezer": 2543679401,
+"artist": "Peter Aristone",
+"title": "Carousel of Dreams",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e2/24/1c/e2241ca0-927c-988b-ee65-dca4eb08b09a/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/carousel-of-dreams/1719069582?i=1719069788&uo=4"
+},
+{
+"id": 1853072308,
+"deezer": 3656962552,
+"artist": "Pokáč",
+"title": "Solitaire",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/8e/cf/cd8ecfba-1b89-8a21-73e4-3b3bee4e4ab3/3617662137783.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/solitaire/1853072306?i=1853072308&uo=4"
+},
+{
+"id": 1816717953,
+"deezer": 3391416801,
+"artist": "Mirai & Tribbs",
+"title": "Dokola",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/3e/71/563e7178-6560-3792-c95a-acdab28e6101/25UMGIM76220.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/dokola/1816717950?i=1816717953&uo=4"
+},
+{
+"id": 6778434606,
+"deezer": 4074463461,
+"artist": "Ewa Farna",
+"title": "PERPETUUM MOBILE",
+"year": 2026,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/21/e9/5221e9c7-6ccd-fdca-1d58-c74cb907fd04/26UMGIM74304.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/perpetuum-mobile/6778434604?i=6778434606&uo=4"
+},
+{
+"id": 1597039889,
+"deezer": 1565632472,
+"artist": "The Paper Dragon",
+"title": "Time Is of the Essence",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/0c/70/950c7061-4e11-766e-e9a4-a37dd4b202be/198002604576.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/time-is-of-the-essence/1597039888?i=1597039889&uo=4"
+},
+{
+"id": 1815753098,
+"deezer": 2849931792,
+"artist": "Adam Ďurica",
+"title": "Drobnosti",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/14/cc/a414ccac-84ac-05e8-a887-bf1b6c13d816/25UMGIM41221.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/drobnosti/1815753094?i=1815753098&uo=4"
+},
+{
+"id": 1838981909,
+"deezer": 3547828361,
+"artist": "Amo",
+"title": "Nech Žije Sloboda",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/53/ce/d253ce81-8f37-0084-e181-77ff5d4fa464/artwork.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/nech-%C5%BEije-sloboda/1838981908?i=1838981909&uo=4"
+},
+{
+"id": 1841818883,
+"deezer": 3570428671,
+"artist": "Karmen Pál-Baláž, No Name & OliverFromEarth",
+"title": "Pieseň ranených duší",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/23/cd/6e23cd3b-2cf1-347e-11e9-d37a95010dbc/4c039003-1f3d-4745-9105-c4d6d6f801de.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/piese%C5%88-ranen%C3%BDch-du%C5%A1%C3%AD/1841818880?i=1841818883&uo=4"
+},
+{
+"id": 1503679539,
+"deezer": 909169082,
+"artist": "Jana Kirschner & Vojtech Dyk",
+"title": "Na okamih",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/26/87/4e/26874e87-0de3-a10c-2a70-ea04ae9560bf/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/na-okamih/1503679293?i=1503679539&uo=4"
+},
+{
+"id": 1539992830,
+"deezer": 1145360972,
+"artist": "Pavel Callta",
+"title": "Budu si pamatovat",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/08/cc/f2/08ccf20d-2e6f-d43c-3765-a6824835e83f/190295096465.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/budu-si-pamatovat/1539992674?i=1539992830&uo=4"
+},
+{
+"id": 1575815665,
+"deezer": 1428197532,
+"artist": "Anika Iris",
+"title": "Alive",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/69/14/34/69143463-709e-8c78-0698-cf6961cf74e4/190296533297.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/alive/1575815662?i=1575815665&uo=4"
+},
+{
+"id": 1698193278,
+"deezer": 2373248205,
+"artist": "ADONXS",
+"title": "No Common Measure",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/e9/26/a3e926fa-88b0-f8b7-0a0b-e66fc77596a0/5054197761454.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/no-common-measure/1698193124?i=1698193278&uo=4"
+},
+{
+"id": 1766544655,
+"deezer": 2979615581,
+"artist": "Verona",
+"title": "Na mě nečekej",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/d6/8f/01d68f9d-2101-5704-c918-d34c1a6262b3/5021732483706.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/na-m%C4%9B-ne%C4%8Dekej/1766544654?i=1766544655&uo=4"
+},
+{
+"id": 1763820401,
+"deezer": 2955780061,
+"artist": "Lucie Bílá",
+"title": "To chci mít",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/60/71/59607175-01a6-d753-6a20-07cec42e4309/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/to-chci-m%C3%ADt/1763820385?i=1763820401&uo=4"
+},
+{
+"id": 1810196295,
+"deezer": 3336559781,
+"artist": "Botox",
+"title": "Pyžamo",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/b8/8e/60b88e09-aa0a-b860-5aa4-16ad0b4c2281/199350427619.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/py%C5%BEamo/1810196128?i=1810196295&uo=4"
+},
+{
+"id": 1815941330,
+"deezer": 3379386581,
+"artist": "Katarina Knechtova",
+"title": "Hľadanie",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/93/07/a6930782-53b5-5b67-2e0d-e3ce66373b5b/25UMGIM74950.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/h%C4%BEadanie/1815941327?i=1815941330&uo=4"
+},
+{
+"id": 1796284328,
+"deezer": 3232907141,
+"artist": "Kali, Karol Duchoň & Peter Pann",
+"title": "Pre vás hrám",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/bf/7a/bcbf7ad0-17cd-6309-02ea-7fa499f52da2/5021732661463.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/pre-v%C3%A1s-hr%C3%A1m/1796284317?i=1796284328&uo=4"
+},
+{
+"id": 1532806876,
+"deezer": 1091017132,
+"artist": "Kateřina Marie Tichá",
+"title": "Zničená zem",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/1b/10/d51b10d8-93dc-6328-3b21-8ab63a6c5ee4/20UMGIM81241.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/zni%C4%8Den%C3%A1-zem/1532806533?i=1532806876&uo=4"
+},
+{
+"id": 1643673944,
+"deezer": 1901787937,
+"artist": "Chinaski",
+"title": "Pusa",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/36/2b/90/362b90b2-67bf-f587-6cd0-f30fa314b90b/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/pusa/1643673311?i=1643673944&uo=4"
+},
+{
+"id": 1693229638,
+"deezer": 2333185395,
+"artist": "Rakovicky",
+"title": "DON’T STOP ME",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/fd/67/96fd67bb-48f2-2bc3-98a8-2283a9ed62e4/5054197715976.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/dont-stop-me/1693229637?i=1693229638&uo=4"
+},
+{
+"id": 1843870390,
+"deezer": 3585383641,
+"artist": "Dailla",
+"title": "It's You",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/1a/ce/1a1ace73-2e2e-01ec-46f8-97705e2360e4/5026854085029.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/its-you/1843870207?i=1843870390&uo=4"
+},
+{
+"id": 1562036905,
+"deezer": null,
+"artist": "I.M.T. Smile & Ben Cristovao",
+"title": "MIESTO",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/26/3b/74/263b746c-3709-e61d-1231-fce856a22f3a/21UMGIM30135.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/miesto/1562036893?i=1562036905&uo=4"
+},
+{
+"id": 1711606517,
+"deezer": 2495285991,
+"artist": "Katarina Knechtova",
+"title": "Oni",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/de/a2/dbdea21c-b7ca-05b7-5c19-2fca30abafb6/23UM1IM22583.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/oni/1711606172?i=1711606517&uo=4"
+},
+{
+"id": 1530824502,
+"deezer": 1077017982,
+"artist": "Sebastian",
+"title": "Prach",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/50/cc/02/50cc0298-1d02-62dc-8f49-592a11d7ff87/20UMGIM77949.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/prach-feat-lipo/1530824067?i=1530824502&uo=4"
+},
+{
+"id": 1693562752,
+"deezer": 2336044655,
+"artist": "Bruno Pietri & Dianah Kay",
+"title": "Lights Out",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/80/1c/0d/801c0df6-7299-0323-025a-16627a228aeb/5054197733277.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/lights-out/1693562581?i=1693562752&uo=4"
+},
+{
+"id": 1711443413,
+"deezer": 2514646521,
+"artist": "No Name",
+"title": "Ak nejde o všetko",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/50/76/5c/50765c86-7d11-6fa1-a3e3-69b5f98feb29/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/ak-nejde-o-v%C5%A1etko/1711442793?i=1711443413&uo=4"
+},
+{
+"id": 1893103533,
+"deezer": 3957452001,
+"artist": "Marek Ztracený",
+"title": "Modlitba za pátek",
+"year": 2026,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/b2/53/8eb25342-cc03-0f5c-78ce-e85400ded9cd/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/modlitba-za-p%C3%A1tek/1893103165?i=1893103533&uo=4"
+},
+{
+"id": 1891750696,
+"deezer": 3949483131,
+"artist": "Anika Iris",
+"title": "Morning blues",
+"year": 2026,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/c8/15/7dc815a7-b0d6-a82f-ddc5-a8f3fddfac0b/827568002747.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/morning-blues/1891750687?i=1891750696&uo=4"
+},
+{
+"id": 1505087231,
+"deezer": 2815636712,
+"artist": "King Shaolin",
+"title": "Jivin'",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1d/99/7c/1d997cb6-a401-e0e9-9af0-c8f9f4985911/195079134197.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/jivin/1505087228?i=1505087231&uo=4"
+},
+{
+"id": 1541799301,
+"deezer": 1155083802,
+"artist": "Peter Juhás",
+"title": "Teším Sa",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/01/c3/5d/01c35d56-fcdf-1ece-acdc-17351a02e005/859743878618_cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/te%C5%A1%C3%ADm-sa/1541799284?i=1541799301&uo=4"
+},
+{
+"id": 1709651246,
+"deezer": 2477673921,
+"artist": "Lina Mayer",
+"title": "Vesmír",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/f6/94/2cf694eb-8f6c-78fe-57a8-d0b89567d836/576d1b1b-4ef5-42d5-bfa6-255913c40363.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/vesm%C3%ADr/1709651245?i=1709651246&uo=4"
+},
+{
+"id": 1794358680,
+"deezer": 3216585291,
+"artist": "ADONXS",
+"title": "Kiss Kiss Goodbye",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/ae/50/b0ae502d-1337-d6e5-edb8-b707078da6ab/5021732635389.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/kiss-kiss-goodbye/1794358674?i=1794358680&uo=4"
+},
+{
+"id": 1876524661,
+"deezer": 3837292141,
+"artist": "ADONXS & Emma Drobna",
+"title": "Rituál",
+"year": 2026,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/d7/14/4dd7148e-c952-67c8-1896-86006943b8f9/5026854693347.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/ritu%C3%A1l/1876524658?i=1876524661&uo=4"
+},
+{
+"id": 1610457410,
+"deezer": 1658494622,
+"artist": "Chinaski",
+"title": "Dvě srdce vejpůl",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/9d/20/859d2010-9b8e-138d-08b8-5b25e124d158/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/dv%C4%9B-srdce-vejp%C5%AFl/1610457408?i=1610457410&uo=4"
+},
+{
+"id": 1680710671,
+"deezer": null,
+"artist": "ELIZABETH KOPECKA",
+"title": "Good Times",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/df/32/55df32ab-0400-c861-5b79-d7a8cf9430d5/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/good-times/1680710666?i=1680710671&uo=4"
+},
+{
+"id": 1693255282,
+"deezer": 2333466785,
+"artist": "Matej Smutný",
+"title": "Dance Dance",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/99/5d/18/995d18c2-62f4-7811-1038-7caa2430b77f/5054197730535.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/dance-dance/1693255196?i=1693255282&uo=4"
+},
+{
+"id": 1766981312,
+"deezer": 2983432451,
+"artist": "Support Lesbiens",
+"title": "Monet",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/7d/3c/2f7d3ca5-f16f-ece8-9658-5d9f01c177cf/5021732486738.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/monet/1766980549?i=1766981312&uo=4"
+},
+{
+"id": 1774247214,
+"deezer": 3050727431,
+"artist": "Jordan Haj",
+"title": "Too Far",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/0f/74/0a0f7472-2391-4912-e1ee-c1be1cfe31ca/24UM1IM12697.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/too-far/1774246992?i=1774247214&uo=4"
+},
+{
+"id": 1792327753,
+"deezer": 3232062801,
+"artist": "YouNotUs & Ben Cristovao",
+"title": "On My Way",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/58/6b/24586b81-8f53-6bfb-a647-f7981340be1d/24UM1IM41347.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/on-my-way/1792327578?i=1792327753&uo=4"
+},
+{
+"id": 1809925875,
+"deezer": 3334314931,
+"artist": "Celeste Buckingham",
+"title": "What Do I Do Now",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/be/4e/8dbe4e03-fc48-cf47-2002-d4f6e7a0a067/0a65b64b-18c5-43a5-b2ca-0ea6445c923a.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/what-do-i-do-now/1809925874?i=1809925875&uo=4"
+},
+{
+"id": 1708454766,
+"deezer": 2476997221,
+"artist": "Jelen",
+"title": "Za tebou",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ec/56/63/ec566346-33ea-39e8-4aea-ac9d64d80ad3/23UM1IM11075.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/za-tebou/1708454040?i=1708454766&uo=4"
+},
+{
+"id": 1680292404,
+"deezer": 2218817217,
+"artist": "HEX",
+"title": "Navždy mladí",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9c/57/7a/9c577ada-b230-3490-b30d-0396b2fd760b/44cabe8b-3d38-463f-9d26-1902b8b194fb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/nav%C5%BEdy-mlad%C3%AD-feat-emma-drobna/1680292232?i=1680292404&uo=4"
+},
+{
+"id": 1815753096,
+"deezer": 3380561211,
+"artist": "Adam Ďurica & Zuzana Smatanova",
+"title": "Neviem ťa prečítať",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/14/cc/a414ccac-84ac-05e8-a887-bf1b6c13d816/25UMGIM41221.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/neviem-%C5%A5a-pre%C4%8D%C3%ADta%C5%A5/1815753094?i=1815753096&uo=4"
+},
+{
+"id": 1535027940,
+"deezer": 1108456232,
+"artist": "Viktor Sheen",
+"title": "Rozdělený světy",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/a9/56/aea956bc-bf10-c85f-a1b2-47f2631777a6/190295116163.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/rozd%C4%9Blen%C3%BD-sv%C4%9Bty/1535027932?i=1535027940&uo=4"
+},
+{
+"id": 1594405608,
+"deezer": 1547618412,
+"artist": "Viktor Sheen",
+"title": "Stíny",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/e9/51/cbe95142-24c3-3071-93b7-2be155ae20d4/190296350849.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/st%C3%ADny/1594405160?i=1594405608&uo=4"
+},
+{
+"id": 1707783997,
+"deezer": 2148255217,
+"artist": "Separ, Jerry Lee & P T K",
+"title": "Sunset",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/6b/a1/a36ba1d8-2fc5-d2e4-7a3c-4208a9c22082/f5109eca-d33b-4eba-a235-0b3f7419b0b9.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/sunset/1707783996?i=1707783997&uo=4"
+},
+{
 "id": 1613377400,
+"deezer": 1677783497,
 "artist": "Calin",
 "title": "Hannah Montana",
 "year": 2021,
@@ -55,11 +1861,1692 @@
 },
 {
 "id": 1667502707,
+"deezer": 2121744587,
 "artist": "Calin & Viktor Sheen",
 "title": "Safír",
 "year": 2023,
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5c/01/97/5c019729-9ebf-067d-6177-ec4b59065979/5054197525186.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/saf%C3%ADr/1667500249?i=1667502707&uo=4"
+},
+{
+"id": 1585673430,
+"deezer": 1677783467,
+"artist": "Calin",
+"title": "Praha/Vídeň",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/2f/fa/242ffa76-02b9-e260-7c8b-b2da486dde1a/190296444753.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/praha-v%C3%ADde%C5%88/1585673408?i=1585673430&uo=4"
+},
+{
+"id": 1526282380,
+"deezer": 1046318002,
+"artist": "Yzomandias & Nik Tendo",
+"title": "Rolls",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/73/96/7b/73967b36-43ae-0e53-0052-b2e14e3ea155/20UMGIM67406.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/rolls/1526281923?i=1526282380&uo=4"
+},
+{
+"id": 1667501507,
+"deezer": 2121744537,
+"artist": "Calin & Viktor Sheen",
+"title": "Dívej",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5c/01/97/5c019729-9ebf-067d-6177-ec4b59065979/5054197525186.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/d%C3%ADvej/1667500249?i=1667501507&uo=4"
+},
+{
+"id": 1707797366,
+"deezer": 1395991912,
+"artist": "Nerieš & Separ",
+"title": "Viac",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/50/bf/7850bf80-f351-7180-4f49-ceff3f91ec27/1d0d4938-0424-49ea-8c62-192812bbf78f.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/viac/1707797362?i=1707797366&uo=4"
+},
+{
+"id": 1653680593,
+"deezer": 2007111407,
+"artist": "STEIN27",
+"title": "Habibi",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b8/5e/19/b85e192d-48a3-4b20-8b85-8900b84ccb61/5054197447969.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/habibi/1653680591?i=1653680593&uo=4"
+},
+{
+"id": 1779312264,
+"deezer": 3087922571,
+"artist": "Yzomandias, P T K & Luca Brassi10x",
+"title": "Painkillers",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/a9/bd/32a9bd67-4468-1229-6495-d247357add13/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/painkillers/1779311995?i=1779312264&uo=4"
+},
+{
+"id": 1594405692,
+"deezer": 1547618432,
+"artist": "Viktor Sheen",
+"title": "Virtuální drogy",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/e9/51/cbe95142-24c3-3071-93b7-2be155ae20d4/190296350849.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/virtu%C3%A1ln%C3%AD-drogy-feat-calin/1594405160?i=1594405692&uo=4"
+},
+{
+"id": 1783193430,
+"deezer": 3328081851,
+"artist": "Sara Rikas & Viktor Sheen",
+"title": "Iné Plemená",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/3a/f8/1a3af817-423c-b21e-668f-ed2501c2b997/24UM1IM35040.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/in%C3%A9-plemen%C3%A1/1783193427?i=1783193430&uo=4"
+},
+{
+"id": 1667503036,
+"deezer": 2121744597,
+"artist": "Calin & Viktor Sheen",
+"title": "Cikády",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5c/01/97/5c019729-9ebf-067d-6177-ec4b59065979/5054197525186.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/cik%C3%A1dy/1667500249?i=1667503036&uo=4"
+},
+{
+"id": 1707797368,
+"deezer": 1395991922,
+"artist": "Nerieš",
+"title": "Ruka Na Volante",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/50/bf/7850bf80-f351-7180-4f49-ceff3f91ec27/1d0d4938-0424-49ea-8c62-192812bbf78f.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/ruka-na-volante/1707797362?i=1707797368&uo=4"
+},
+{
+"id": 1730392613,
+"deezer": 2658584292,
+"artist": "Separ & Peter Pann",
+"title": "Bbejbb",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/a2/f3/eaa2f3ac-4657-5449-6cc6-b0bb98360244/9e8a871f-a723-470d-86e9-207eb8a5360b.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/bbejbb/1730392610?i=1730392613&uo=4"
+},
+{
+"id": 1782522465,
+"deezer": 3118211151,
+"artist": "Calin",
+"title": "Pistácie",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/83/ba/4483bacb-1668-204c-dcc7-d4691539bcfc/5021732582980.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/pist%C3%A1cie-feat-sofian-medjmedj/1782522448?i=1782522465&uo=4"
+},
+{
+"id": 1807503763,
+"deezer": 3317368811,
+"artist": "Sara Rikas & Yzomandias",
+"title": "Talk2me",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/86/55/a8865509-68c0-6073-98af-d3b7600c2c64/25UMGIM55300.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/talk2me/1807503758?i=1807503763&uo=4"
+},
+{
+"id": 1782522453,
+"deezer": 3118211111,
+"artist": "Calin",
+"title": "Vítej mezi náma",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/83/ba/4483bacb-1668-204c-dcc7-d4691539bcfc/5021732582980.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/v%C3%ADtej-mezi-n%C3%A1ma-feat-stein27/1782522448?i=1782522453&uo=4"
+},
+{
+"id": 1594405695,
+"deezer": 1547618452,
+"artist": "Viktor Sheen",
+"title": "Sérum",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/e9/51/cbe95142-24c3-3071-93b7-2be155ae20d4/190296350849.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/s%C3%A9rum/1594405160?i=1594405695&uo=4"
+},
+{
+"id": 1749156025,
+"deezer": 2826350452,
+"artist": "Pil C, Luca Brassi10x & Separ",
+"title": "NENI STRE$S",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/cc/c6/5eccc6ec-77b7-7738-5ff4-9070abf6a700/24UMGIM60453.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/neni-stre%24s/1749155713?i=1749156025&uo=4"
+},
+{
+"id": 1830346954,
+"deezer": 3087922621,
+"artist": "Hasan & Yzomandias",
+"title": "Svoboda",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/fa/d3/0dfad31a-0e36-4970-d145-30a2d41b13f5/25UM1IM00814.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/svoboda/1830346727?i=1830346954&uo=4"
+},
+{
+"id": 1808178713,
+"deezer": 3328081861,
+"artist": "Sara Rikas & Matej Turcer",
+"title": "Cigarety",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/3d/ea/df3dea18-4c61-4392-9881-b5e82a095737/25UMGIM57133.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/cigarety/1808178223?i=1808178713&uo=4"
+},
+{
+"id": 1681230686,
+"deezer": 2226095987,
+"artist": "Sofian Medjmedj & Ben Cristovao",
+"title": "Slzy",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/8a/b3/028ab3d5-01db-88c9-5165-09d8251c7c26/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/slzy/1681230678?i=1681230686&uo=4"
+},
+{
+"id": 1645561856,
+"deezer": 1916430887,
+"artist": "Calin",
+"title": "Santé",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/40/4e/82/404e827f-e087-0fa7-3ca6-70fe6ff4a4e5/5054197372278.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/sant%C3%A9/1645561848?i=1645561856&uo=4"
+},
+{
+"id": 1574321258,
+"deezer": 1418544752,
+"artist": "Peter Pann, Separ & Kali",
+"title": "Stroj",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f3/30/c3/f330c3d6-6357-ca09-04ed-27f1e4913bee/20474736-acf5-48c1-b4a2-7e282b5ce571.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/stroj/1574321257?i=1574321258&uo=4"
+},
+{
+"id": 1774287814,
+"deezer": 3050511931,
+"artist": "Viktor Sheen",
+"title": "Syndrom",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/syndrom/1774287799?i=1774287814&uo=4"
+},
+{
+"id": 1671777437,
+"deezer": 2148900677,
+"artist": "Ektor",
+"title": "Upgrade",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/6d/b7/a76db759-1d32-1933-1133-6060ad90cbb6/23UMGIM15953.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/upgrade/1671776929?i=1671777437&uo=4"
+},
+{
+"id": 1731354949,
+"deezer": 2665614212,
+"artist": "Kali, Alan Murin & Peter Pann",
+"title": "Mám ťa rád",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f9/68/d1/f968d1c1-65e7-82dd-6b28-4f9940d59bc3/04206c2e-5e0e-4677-832b-015ac60014ee.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/m%C3%A1m-%C5%A5a-r%C3%A1d-feat-%C5%A1orty/1731354948?i=1731354949&uo=4"
+},
+{
+"id": 1594405911,
+"deezer": 1547618482,
+"artist": "Viktor Sheen",
+"title": "Blessed",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/e9/51/cbe95142-24c3-3071-93b7-2be155ae20d4/190296350849.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/blessed/1594405160?i=1594405911&uo=4"
+},
+{
+"id": 1808178711,
+"deezer": 3328081841,
+"artist": "Sara Rikas",
+"title": "Ups and downs",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/3d/ea/df3dea18-4c61-4392-9881-b5e82a095737/25UMGIM57133.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/ups-and-downs/1808178223?i=1808178711&uo=4"
+},
+{
+"id": 1701890394,
+"deezer": 2406257765,
+"artist": "Dollar Prync & RICO",
+"title": "Režim nerušit",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/63/bb/2263bb5b-dd48-cebe-48d2-84d3dbd99398/23UMGIM91960.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/re%C5%BEim-neru%C5%A1it/1701890127?i=1701890394&uo=4"
+},
+{
+"id": 1774287811,
+"deezer": 3050511901,
+"artist": "Viktor Sheen",
+"title": "Pátky",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/p%C3%A1tky/1774287799?i=1774287811&uo=4"
+},
+{
+"id": 1798269714,
+"deezer": 3241121681,
+"artist": "Separ & SpecialBeatz",
+"title": "Nehaj tak",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/92/44/ef9244e4-e90b-4453-5033-9794d7c7d750/25b355b0-5acf-491e-9def-8cd411e6db10.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/nehaj-tak/1798269709?i=1798269714&uo=4"
+},
+{
+"id": 1624479395,
+"deezer": 1752706077,
+"artist": "P T K & Yzomandias",
+"title": "Baby a Benzo",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b1/23/2e/b1232e02-5eab-043f-8444-ea81197487e7/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/baby-a-benzo/1624479390?i=1624479395&uo=4"
+},
+{
+"id": 1690199152,
+"deezer": 2310177385,
+"artist": "Ektor",
+"title": "King Kong",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/87/74/dc/8774dcc7-be37-a449-c3f4-ca775ea1be20/23UMGIM62537.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/king-kong/1690198957?i=1690199152&uo=4"
+},
+{
+"id": 1551602861,
+"deezer": 1228285092,
+"artist": "Yzomandias",
+"title": "Rodinnej Typ",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/2d/21/7a2d210d-ea90-c5d0-5f91-f805dc0b81fc/21UMGIM08020.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/rodinnej-typ/1551602856?i=1551602861&uo=4"
+},
+{
+"id": 1526282377,
+"deezer": 1046317982,
+"artist": "Yzomandias",
+"title": "El Camino",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/73/96/7b/73967b36-43ae-0e53-0052-b2e14e3ea155/20UMGIM67406.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/el-camino/1526281923?i=1526282377&uo=4"
+},
+{
+"id": 1707787290,
+"deezer": 1008095642,
+"artist": "Separ",
+"title": "OG",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6f/b3/55/6fb355e0-ccac-50aa-429a-a55803677d34/73dc4fd3-dd16-4691-afcb-db1c992ab6fa.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/og/1707787288?i=1707787290&uo=4"
+},
+{
+"id": 1798269722,
+"deezer": 3241121761,
+"artist": "Separ, French Montana & Peter Pann",
+"title": "Body to body",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/92/44/ef9244e4-e90b-4453-5033-9794d7c7d750/25b355b0-5acf-491e-9def-8cd411e6db10.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/body-to-body/1798269709?i=1798269722&uo=4"
+},
+{
+"id": 1576836702,
+"deezer": 1442675682,
+"artist": "Nik Tendo",
+"title": "13. komnata",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/07/df/9307df72-ed62-8e13-c327-c0869e05ae8c/21UMGIM66620.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/13-komnata/1576836403?i=1576836702&uo=4"
+},
+{
+"id": 1616689183,
+"deezer": 1677783447,
+"artist": "Calin",
+"title": "Sangria",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/ea/82/ffea82ce-9c8c-a2e9-8ca5-99aa42f4db99/5054197139987.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/sangria-feat-viktor-sheen/1616688276?i=1616689183&uo=4"
+},
+{
+"id": 1711135982,
+"deezer": 2490641371,
+"artist": "Viktor Sheen",
+"title": "Dopamin",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1a/20/c8/1a20c887-27de-2a60-d3f0-d8bf51bb7ca2/5054197842733.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/dopamin/1711135571?i=1711135982&uo=4"
+},
+{
+"id": 1628513000,
+"deezer": 1789453297,
+"artist": "Gleb",
+"title": "KOMANDER PUMP IT UP",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8f/ab/95/8fab95f2-deee-c1da-5df9-b61d8a26d97e/22UMGIM62417.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/komander-pump-it-up/1628511623?i=1628513000&uo=4"
+},
+{
+"id": 1747772166,
+"deezer": 2814405452,
+"artist": "Calin",
+"title": "Suave",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/6c/d6/df6cd617-917e-32e3-6de8-5860249bde81/5021732388148.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/suave/1747772157?i=1747772166&uo=4"
+},
+{
+"id": 1514381520,
+"deezer": 991355812,
+"artist": "Saul",
+"title": "Niekde V Oblakoch",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d4/14/6a/d4146a20-3337-234e-4793-e82926049348/20UMGIM41283.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/niekde-v-oblakoch/1514381503?i=1514381520&uo=4"
+},
+{
+"id": 1555012687,
+"deezer": 1253219832,
+"artist": "Gleb",
+"title": "alibababigbass",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/07/6d/22/076d22ed-a7b1-dcff-48aa-91a93c8ee2a4/21UMGIM15432.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/alibababigbass/1555012629?i=1555012687&uo=4"
+},
+{
+"id": 1688036030,
+"deezer": 2285601407,
+"artist": "Gleb",
+"title": "Šedá Hus",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/98/9a/2d/989a2dae-da48-49dc-abd1-b3a05ca3831c/23UMGIM56389.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/%C5%A1ed%C3%A1-hus/1688035843?i=1688036030&uo=4"
+},
+{
+"id": 1584808834,
+"deezer": 1487628522,
+"artist": "Gleb",
+"title": "Hey G!",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8c/67/6f/8c676f80-8c63-9a94-1f0a-a09bb0f1fc32/21UM1IM08994.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/hey-g-feat-separ/1584808820?i=1584808834&uo=4"
+},
+{
+"id": 1605629694,
+"deezer": 1624369192,
+"artist": "Earth",
+"title": "Je mi fajn",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cd/b8/6a/cdb86a54-d75c-f046-7fcb-2dc12fa6e86e/22UMGIM01667.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/je-mi-fajn/1605629691?i=1605629694&uo=4"
+},
+{
+"id": 1774287809,
+"deezer": 3050511881,
+"artist": "Viktor Sheen",
+"title": "Cígo a káva",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/c%C3%ADgo-a-k%C3%A1va-feat-saul/1774287799?i=1774287809&uo=4"
+},
+{
+"id": 1849677660,
+"deezer": null,
+"artist": "Adiss, Yael & Puerto",
+"title": "Vďaka ti",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/cd/95/99cd9587-fa67-b387-ea1d-d44b421ee0a7/44c4b77b-59cc-4055-8403-abdc4ae60a49.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/v%C4%8Faka-ti-na%C5%BEivo/1849677224?i=1849677660&uo=4"
+},
+{
+"id": 1599572867,
+"deezer": 1677783507,
+"artist": "Calin",
+"title": "Asgard",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a0/e1/de/a0e1de3a-2723-0213-5a14-f867be10befa/190296307911.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/asgard-feat-ben-cristovao-kojo-stein27/1599572859?i=1599572867&uo=4"
+},
+{
+"id": 1627697530,
+"deezer": 1777322677,
+"artist": "Koky, Viktor Sheen & Robin Zoot",
+"title": "SOS",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c5/c8/a4/c5c8a45e-f6f8-0532-27b7-3a40c1873f93/22UMGIM60836.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/sos/1627697526?i=1627697530&uo=4"
+},
+{
+"id": 1808178226,
+"deezer": 3328081791,
+"artist": "Sara Rikas & Raphael",
+"title": "Tempo za 2",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/3d/ea/df3dea18-4c61-4392-9881-b5e82a095737/25UMGIM57133.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/tempo-za-2/1808178223?i=1808178226&uo=4"
+},
+{
+"id": 1744420468,
+"deezer": 2173710837,
+"artist": "Separ & Peter Pann",
+"title": "Nemam mood",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/05/6d/31056d8a-8ee9-6ed0-2445-3b1a6e2c3d36/fe6f6249-5917-4f66-a223-f1803740c0b2.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/nemam-mood/1744420460?i=1744420468&uo=4"
+},
+{
+"id": 1669568747,
+"deezer": 2139310797,
+"artist": "Pil C & Viktor Sheen",
+"title": "Inverzia",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/18/49/96184924-a15b-e333-35ed-92c4b72c7483/23UMGIM11501.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/inverzia/1669567780?i=1669568747&uo=4"
+},
+{
+"id": 1582434143,
+"deezer": 1474503702,
+"artist": "Samey",
+"title": "breeze",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/44/da/c0/44dac0be-bb53-a97c-e3a4-d32317d25914/21UMGIM84883.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/breeze-feat-gleb-nat%C3%A1lia-hulejov%C3%A1/1582433916?i=1582434143&uo=4"
+},
+{
+"id": 1798269711,
+"deezer": 3241121661,
+"artist": "Separ & Sawsane",
+"title": "Tras tou",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/92/44/ef9244e4-e90b-4453-5033-9794d7c7d750/25b355b0-5acf-491e-9def-8cd411e6db10.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/tras-tou/1798269709?i=1798269711&uo=4"
+},
+{
+"id": 1689065186,
+"deezer": 2294649975,
+"artist": "Sima",
+"title": "Forever young",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/9a/d2/2e9ad2ed-7649-ae67-4ec2-33587712808b/5054197696923.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/forever-young/1689065182?i=1689065186&uo=4"
+},
+{
+"id": 1734688882,
+"deezer": 2694098722,
+"artist": "Shimmi, SIMILIVINLIFE & GABRIELL",
+"title": "AM4",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/c2/6d/40c26da0-ab6c-044f-a750-76b04f07a0b5/24UMGIM25948.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/am4/1734688618?i=1734688882&uo=4"
+},
+{
+"id": 1779312260,
+"deezer": 3087922561,
+"artist": "Yzomandias & P T K",
+"title": "KSN",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/a9/bd/32a9bd67-4468-1229-6495-d247357add13/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/ksn/1779311995?i=1779312260&uo=4"
+},
+{
+"id": 1707788799,
+"deezer": 1091458102,
+"artist": "EGO, Sima & Ben Cristovao",
+"title": "Pumpa",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/af/9a/2faf9aa9-8b27-9042-f651-5de89bb0839b/909b11e0-c407-4f09-9151-ca040dbcfb70.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/pumpa/1707788788?i=1707788799&uo=4"
+},
+{
+"id": 1798269715,
+"deezer": 3241121691,
+"artist": "Separ, SMART & DMS",
+"title": "AENE",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/92/44/ef9244e4-e90b-4453-5033-9794d7c7d750/25b355b0-5acf-491e-9def-8cd411e6db10.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/aene/1798269709?i=1798269715&uo=4"
+},
+{
+"id": 1707787305,
+"deezer": 1008095782,
+"artist": "Separ",
+"title": "Ahoj Ahoj Čo Ty",
+"year": 2020,
+"store": "sk",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6f/b3/55/6fb355e0-ccac-50aa-429a-a55803677d34/73dc4fd3-dd16-4691-afcb-db1c992ab6fa.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/sk/album/ahoj-ahoj-%C4%8Do-ty/1707787288?i=1707787305&uo=4"
+},
+{
+"id": 1599310941,
+"deezer": 1582312972,
+"artist": "Pil C",
+"title": "VIDÍM JAK SA NA MŇA POZERÁŠ",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/9a/ce/499ace44-3d89-f088-1283-a121c8ee0400/21UM1IM54150.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/vid%C3%ADm-jak-sa-na-m%C5%88a-pozer%C3%A1%C5%A1-feat-ego/1599310317?i=1599310941&uo=4"
+},
+{
+"id": 1746997727,
+"deezer": 2806992982,
+"artist": "Rohony & Manene",
+"title": "Letná",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/07/70/d407704b-43ef-0b33-6db1-eb8ec8852aea/5021732386816.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/letn%C3%A1/1746997724?i=1746997727&uo=4"
+},
+{
+"id": 1616688515,
+"deezer": 1677783427,
+"artist": "Calin",
+"title": "Hot Dropout",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/ea/82/ffea82ce-9c8c-a2e9-8ca5-99aa42f4db99/5054197139987.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/hot-dropout-feat-fiedlerski/1616688276?i=1616688515&uo=4"
+},
+{
+"id": 1777009967,
+"deezer": 3066831651,
+"artist": "Ektor",
+"title": "Pro štěstí",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/b4/cf/6ab4cf88-d092-b1d8-7bbf-cad4630b961f/24UM1IM22640.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/pro-%C5%A1t%C4%9Bst%C3%AD/1777009965?i=1777009967&uo=4"
+},
+{
+"id": 1557709903,
+"deezer": 1280016592,
+"artist": "Ektor",
+"title": "Emoce na emoce",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5b/23/f1/5b23f117-dff5-86af-3656-819d88558712/21UMGIM20159.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/emoce-na-emoce/1557709897?i=1557709903&uo=4"
+},
+{
+"id": 1594405169,
+"deezer": 1547618322,
+"artist": "Viktor Sheen",
+"title": "Sklo",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/e9/51/cbe95142-24c3-3071-93b7-2be155ae20d4/190296350849.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/sklo/1594405160?i=1594405169&uo=4"
+},
+{
+"id": 1744420471,
+"deezer": 2173710877,
+"artist": "Separ",
+"title": "Reťaze",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/05/6d/31056d8a-8ee9-6ed0-2445-3b1a6e2c3d36/fe6f6249-5917-4f66-a223-f1803740c0b2.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/re%C5%A5aze/1744420460?i=1744420471&uo=4"
+},
+{
+"id": 1808178225,
+"deezer": 3328081771,
+"artist": "Sara Rikas",
+"title": "Stále som",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/3d/ea/df3dea18-4c61-4392-9881-b5e82a095737/25UMGIM57133.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/st%C3%A1le-som/1808178223?i=1808178225&uo=4"
+},
+{
+"id": 1844333918,
+"deezer": 3606522642,
+"artist": "Lboy Bsc, Dorian & Freez247",
+"title": "Vodka není voda",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/bd/72/c4bd72f6-677a-a877-5ce0-1b1a8f6c83c6/25UM1IM54484.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/vodka-nen%C3%AD-voda/1844333903?i=1844333918&uo=4"
+},
+{
+"id": 1535027938,
+"deezer": 1108456212,
+"artist": "Viktor Sheen",
+"title": "Plastic",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/a9/56/aea956bc-bf10-c85f-a1b2-47f2631777a6/190295116163.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/plastic/1535027932?i=1535027938&uo=4"
+},
+{
+"id": 1707787304,
+"deezer": 1008095772,
+"artist": "Separ",
+"title": "Pinokio",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6f/b3/55/6fb355e0-ccac-50aa-429a-a55803677d34/73dc4fd3-dd16-4691-afcb-db1c992ab6fa.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/pinokio-feat-dano-kapit%C3%A1n/1707787288?i=1707787304&uo=4"
+},
+{
+"id": 1667927809,
+"deezer": 1128462322,
+"artist": "Ben Cristovao",
+"title": "Šílený",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1c/24/08/1c24080b-5531-a55e-0141-e1249db906d5/22UM1IM09481.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/%C5%A1%C3%ADlen%C3%BD-feat-karol-komenda/1667927562?i=1667927809&uo=4"
+},
+{
+"id": 1552720723,
+"deezer": 1236770502,
+"artist": "Yzomandias",
+"title": "BodyBag",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/41/5e/c9415ed6-fecf-0443-de71-1619266d3277/21UMGIM10746.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/bodybag/1552720475?i=1552720723&uo=4"
+},
+{
+"id": 1715555688,
+"deezer": 2533119901,
+"artist": "Ben Cristovao & Sofian Medjmedj",
+"title": "MMA",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/cb/1f/4ccb1f2c-e044-d6cc-36a5-235cac626286/23UM1IM51149.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/mma/1715555255?i=1715555688&uo=4"
+},
+{
+"id": 1779312012,
+"deezer": 3451331981,
+"artist": "P T K, Yzomandias & Viktor Sheen",
+"title": "V Hlavě",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/a9/bd/32a9bd67-4468-1229-6495-d247357add13/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/v-hlav%C4%9B/1779311995?i=1779312012&uo=4"
+},
+{
+"id": 1526139528,
+"deezer": 1042625082,
+"artist": "Gleb",
+"title": "Mefek Pump It Up",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/e5/0e/c2e50e08-bc07-f8ec-dc66-a0afa1815693/20UMGIM67371.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/mefek-pump-it-up/1526139521?i=1526139528&uo=4"
+},
+{
+"id": 1667170768,
+"deezer": 2124690097,
+"artist": "Samey",
+"title": "Valeriya",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4b/40/15/4b4015e2-caa2-6359-525a-b4517aff07bd/23UMGIM07170.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/valeriya/1667170758?i=1667170768&uo=4"
+},
+{
+"id": 1798269716,
+"deezer": 3241121701,
+"artist": "Separ",
+"title": "Swagsucks",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/92/44/ef9244e4-e90b-4453-5033-9794d7c7d750/25b355b0-5acf-491e-9def-8cd411e6db10.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/swagsucks/1798269709?i=1798269716&uo=4"
+},
+{
+"id": 1727173441,
+"deezer": 2321977215,
+"artist": "The Weeknd & Madonna",
+"title": "Popular",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/fc/a0/97fca070-b1de-930d-15c9-81267120b100/23UMGIM66788.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/popular-feat-playboi-carti/1727173431?i=1727173441&uo=4"
+},
+{
+"id": 1816742970,
+"deezer": 3385210391,
+"artist": "Ektor",
+"title": "PTSD",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/1e/c6/601ec67d-3358-5025-3338-fa7e30c8e95a/25UMGIM76266.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/ptsd/1816742969?i=1816742970&uo=4"
+},
+{
+"id": 1707788798,
+"deezer": 1091458092,
+"artist": "EGO & Stylko",
+"title": "Zatmenie",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/af/9a/2faf9aa9-8b27-9042-f651-5de89bb0839b/909b11e0-c407-4f09-9151-ca040dbcfb70.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/zatmenie/1707788788?i=1707788798&uo=4"
+},
+{
+"id": 1596449403,
+"deezer": 1560064272,
+"artist": "Yzomandias",
+"title": "Jedna Dva",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/3c/05/283c057d-3b46-5b2e-0405-cc02500fbbce/21UM1IM47072.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/jedna-dva/1596449398?i=1596449403&uo=4"
+},
+{
+"id": 1852065247,
+"deezer": 3648358382,
+"artist": "BUKA",
+"title": "Strach",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/57/dd/7a57dda2-d390-1259-7630-c2045da3facc/5026854226569.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/strach/1852064920?i=1852065247&uo=4"
+},
+{
+"id": 1546381696,
+"deezer": 1189143282,
+"artist": "Nik Tendo",
+"title": "Malá Biš",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ef/9c/a3/ef9ca3f1-2c03-533e-3896-5cfd491d7d4e/20UM1IM18600.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/mal%C3%A1-bi%C5%A1/1546381695?i=1546381696&uo=4"
+},
+{
+"id": 1774287812,
+"deezer": 3050511911,
+"artist": "Viktor Sheen",
+"title": "Roleplay",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/roleplay/1774287799?i=1774287812&uo=4"
+},
+{
+"id": 1817609876,
+"deezer": 3391908221,
+"artist": "Separ & Raphael",
+"title": "Zub za zub",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/59/97/71599796-e7e6-17f0-9ea0-c4ee4c310dbe/5a29da03-54a9-48b0-9670-688254e1dd7f.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/zub-za-zub/1817609874?i=1817609876&uo=4"
+},
+{
+"id": 1762065687,
+"deezer": 2940904761,
+"artist": "SIMILIVINLIFE",
+"title": "Môj typ ženy",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/30/bc/9330bce0-04b5-9307-33f4-b05da6047ed4/5021732465504.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/m%C3%B4j-typ-%C5%BEeny/1762065437?i=1762065687&uo=4"
+},
+{
+"id": 1646971771,
+"deezer": 1932279967,
+"artist": "Kabát",
+"title": "Rumcajs miloval Manku",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/70/da/81/70da8114-24af-cc31-8b0f-2b59fd99f87e/5054197386534.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/rumcajs-miloval-manku/1646971769?i=1646971771&uo=4"
+},
+{
+"id": 1616689798,
+"deezer": 1677783517,
+"artist": "Calin",
+"title": "Nad ránem",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/ea/82/ffea82ce-9c8c-a2e9-8ca5-99aa42f4db99/5054197139987.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/nad-r%C3%A1nem/1616688276?i=1616689798&uo=4"
+},
+{
+"id": 1669568972,
+"deezer": 2139310867,
+"artist": "Pil C & Separ",
+"title": "Community service",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/18/49/96184924-a15b-e333-35ed-92c4b72c7483/23UMGIM11501.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/community-service/1669567780?i=1669568972&uo=4"
+},
+{
+"id": 1529775655,
+"deezer": 1065732942,
+"artist": "Pil C",
+"title": "HAWAII",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/bb/34/bbbb3451-bac1-6260-fb6d-1876767a403d/20UMGIM75835.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/hawaii-feat-ben-cristovao/1529775651?i=1529775655&uo=4"
+},
+{
+"id": 1535027935,
+"deezer": 1108456182,
+"artist": "Viktor Sheen",
+"title": "Alucard",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/a9/56/aea956bc-bf10-c85f-a1b2-47f2631777a6/190295116163.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/alucard/1535027932?i=1535027935&uo=4"
+},
+{
+"id": 1576836710,
+"deezer": 1442675702,
+"artist": "Nik Tendo",
+"title": "S.P.J.D.",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/07/df/9307df72-ed62-8e13-c327-c0869e05ae8c/21UMGIM66620.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/s-p-j-d/1576836403?i=1576836710&uo=4"
+},
+{
+"id": 1667501268,
+"deezer": 2121744527,
+"artist": "Calin & Viktor Sheen",
+"title": "Benz",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5c/01/97/5c019729-9ebf-067d-6177-ec4b59065979/5054197525186.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/benz/1667500249?i=1667501268&uo=4"
+},
+{
+"id": 1707787293,
+"deezer": 1008095672,
+"artist": "Separ",
+"title": "Strýko Separ",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6f/b3/55/6fb355e0-ccac-50aa-429a-a55803677d34/73dc4fd3-dd16-4691-afcb-db1c992ab6fa.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/str%C3%BDko-separ/1707787288?i=1707787293&uo=4"
+},
+{
+"id": 1783542105,
+"deezer": 3128050431,
+"artist": "Kontrafakt",
+"title": "Reklama na Rap",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/0b/b2/e40bb27e-bd02-0a89-20f6-0a857e02a2e9/24UM1IM11339.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/reklama-na-rap/1783542103?i=1783542105&uo=4"
+},
+{
+"id": 6770548863,
+"deezer": null,
+"artist": "P T K",
+"title": "ONLY WAY OUT IS THROUGH THE S***S 2",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5c/a4/3a5ca4d1-cd35-06b6-d5a9-b7865ccbce94/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/only-way-out-is-through-the-s-s-2/6770548162?i=6770548863&uo=4"
+},
+{
+"id": 1749156201,
+"deezer": 2826350492,
+"artist": "Luca Brassi10x, Bwayne, Pil C, Facefront & LUJA",
+"title": "MAMAIDIDIT",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/cc/c6/5eccc6ec-77b7-7738-5ff4-9070abf6a700/24UMGIM60453.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/mamaididit/1749155713?i=1749156201&uo=4"
+},
+{
+"id": 1493557001,
+"deezer": null,
+"artist": "Rest",
+"title": "Díky",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ed/4f/f1/ed4ff18f-921d-1c33-03dd-d0ae7d100527/190295282073.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/d%C3%ADky/1493556999?i=1493557001&uo=4"
+},
+{
+"id": 1747894653,
+"deezer": 2416335845,
+"artist": "Фрай",
+"title": "Stfu",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/53/78/bc537838-635f-3b29-0860-98b077f57abd/859788715510_cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/stfu/1747894646?i=1747894653&uo=4"
+},
+{
+"id": 1815232804,
+"deezer": 3391410491,
+"artist": "Pil C, Luca Brassi10x & Separ",
+"title": "nikto ako my",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/e6/94/d0e69497-d697-fa9c-9c81-1bad7656bcc7/25UMGIM73057.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/nikto-ako-my/1815232795?i=1815232804&uo=4"
+},
+{
+"id": 1878189837,
+"deezer": 3852524451,
+"artist": "Yzomandias",
+"title": "HIP THRUST",
+"year": 2026,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/58/2d/c2582dad-e06e-6b1c-b29f-b55fb8417b8a/26UMGIM20951.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/hip-thrust/1878189818?i=1878189837&uo=4"
+},
+{
+"id": 1569169913,
+"deezer": 1547618352,
+"artist": "Viktor Sheen",
+"title": "Lavazza",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/28/0f/81/280f81f2-2dde-a4e2-0c3e-f0f464407edd/190296648175.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/lavazza/1569169910?i=1569169913&uo=4"
+},
+{
+"id": 1629220595,
+"deezer": 1802212727,
+"artist": "Ben Cristovao",
+"title": "PRŠÍ, PRŠÍ",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fb/0a/85/fb0a8519-77ed-f419-18f4-00d9320f6289/22UMGIM64787.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/pr%C5%A1%C3%AD-pr%C5%A1%C3%AD-feat-calin/1629220585?i=1629220595&uo=4"
+},
+{
+"id": 1710787222,
+"deezer": 2487080421,
+"artist": "Separ & Peter Pann",
+"title": "Bejšíí",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9e/eb/50/9eeb50ed-15c3-7128-a021-7b75f64ba2ec/00b6cb34-91e2-4c3a-833c-15b324a1a7bc.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/bej%C5%A1%C3%AD%C3%AD/1710787221?i=1710787222&uo=4"
+},
+{
+"id": 1576553207,
+"deezer": 1434069032,
+"artist": "Calin",
+"title": "Podvod",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/2c/7e/a62c7ef2-e96c-46ed-e4f2-014d5a71f4cd/190296527036.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/podvod-p%C3%ADse%C5%88-k-filmu-shoky-morthy-posledn%C3%AD-velk%C3%A1-akce/1576553205?i=1576553207&uo=4"
+},
+{
+"id": 1714139368,
+"deezer": 2519529381,
+"artist": "Sara Rikas",
+"title": "Džanes",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/dd/6c/f7dd6c16-dccd-e138-c8c2-0a0416b8effb/859779760949_cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/d%C5%BEanes/1714138906?i=1714139368&uo=4"
+},
+{
+"id": 1594405357,
+"deezer": 1547618332,
+"artist": "Viktor Sheen",
+"title": "Příběhy, sny",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/e9/51/cbe95142-24c3-3071-93b7-2be155ae20d4/190296350849.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/p%C5%99%C3%ADb%C4%9Bhy-sny/1594405160?i=1594405357&uo=4"
+},
+{
+"id": 1661093055,
+"deezer": 2080695547,
+"artist": "ThxSoMch",
+"title": "SPIT IN MY FACE!",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c2/e8/c2/c2e8c25f-43bb-c9a7-65a9-316fd06f9729/075679702067.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/spit-in-my-face/1661093032?i=1661093055&uo=4"
+},
+{
+"id": 1711135977,
+"deezer": 2490641331,
+"artist": "Viktor Sheen",
+"title": "Království",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1a/20/c8/1a20c887-27de-2a60-d3f0-d8bf51bb7ca2/5054197842733.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/kr%C3%A1lovstv%C3%AD/1711135571?i=1711135977&uo=4"
+},
+{
+"id": 1688423974,
+"deezer": 2289052165,
+"artist": "Sima",
+"title": "Toto Leto",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9f/be/bf/9fbebff4-5dba-2645-dd57-89fc681651b2/5054197695056.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/toto-leto-feat-kali/1688423970?i=1688423974&uo=4"
+},
+{
+"id": 1815232798,
+"deezer": 3391410451,
+"artist": "Pil C, Luca Brassi10x & Dollar Prync",
+"title": "dole",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/e6/94/d0e69497-d697-fa9c-9c81-1bad7656bcc7/25UMGIM73057.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/dole/1815232795?i=1815232798&uo=4"
+},
+{
+"id": 1712151331,
+"deezer": 2500958351,
+"artist": "Rohony & MDMX",
+"title": "U Hřiště 380",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/bd/79/4cbd79ed-ea81-aa28-f1b6-04cfef3dcc52/5054197880711.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/u-h%C5%99i%C5%A1t%C4%9B-380/1712151329?i=1712151331&uo=4"
+},
+{
+"id": 1764943572,
+"deezer": 2733636841,
+"artist": "Sofian Medjmedj",
+"title": "MONA LISA",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/b5/2e/32b52ef7-fc0c-146f-91c1-33effd118c8a/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/mona-lisa/1764943004?i=1764943572&uo=4"
+},
+{
+"id": 1754929522,
+"deezer": 3087922611,
+"artist": "Yzomandias & P T K",
+"title": "No Sleep Gang",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/0b/6d/640b6d9f-b9a7-c21f-1c0d-897683f2d33e/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/no-sleep-gang/1754929157?i=1754929522&uo=4"
+},
+{
+"id": 1599310947,
+"deezer": 1582312982,
+"artist": "Pil C",
+"title": "CARA MIA",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/9a/ce/499ace44-3d89-f088-1283-a121c8ee0400/21UM1IM54150.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/cara-mia-feat-alan-murin/1599310317?i=1599310947&uo=4"
+},
+{
+"id": 1744420463,
+"deezer": 1951233617,
+"artist": "Separ",
+"title": "New York Freestyle",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/05/6d/31056d8a-8ee9-6ed0-2445-3b1a6e2c3d36/fe6f6249-5917-4f66-a223-f1803740c0b2.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/new-york-freestyle/1744420460?i=1744420463&uo=4"
+},
+{
+"id": 1826090178,
+"deezer": 3455369801,
+"artist": "Slavíček",
+"title": "Až po uši",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/af/e7/f2afe7b5-7e45-f67d-5738-1efe3c4c0287/5021732869142.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/a%C5%BE-po-u%C5%A1i/1826090175?i=1826090178&uo=4"
+},
+{
+"id": 1811123175,
+"deezer": 3350407641,
+"artist": "Neny",
+"title": "Valčík",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/cb/d2/04cbd262-d72f-83af-25c4-692aab175c15/25UMGIM62309.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/val%C4%8D%C3%ADk/1811123169?i=1811123175&uo=4"
+},
+{
+"id": 1643118904,
+"deezer": 1897209307,
+"artist": "Ektor",
+"title": "To neni hra",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f8/c5/7c/f8c57c00-6bfe-a483-ab19-cc02ec27a071/22UMGIM98668.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/to-neni-hra/1643118893?i=1643118904&uo=4"
+},
+{
+"id": 1720169869,
+"deezer": 3820994731,
+"artist": "Robin Zoot",
+"title": "Kdo?",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/72/df/21/72df21f0-17ea-05f6-590d-96d7da5081c4/23UM1IM64189.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/kdo/1720169787?i=1720169869&uo=4"
+},
+{
+"id": 1526139522,
+"deezer": 1042625032,
+"artist": "Gleb",
+"title": "DaysGo",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/e5/0e/c2e50e08-bc07-f8ec-dc66-a0afa1815693/20UMGIM67371.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/daysgo-feat-ty/1526139521?i=1526139522&uo=4"
+},
+{
+"id": 1703114336,
+"deezer": 2410850855,
+"artist": "STEIN27",
+"title": "DTB for Life",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/a9/bd/e1a9bdbf-523f-798b-a1d3-ecec7b59b435/5054197788352.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/dtb-for-life/1703114328?i=1703114336&uo=4"
+},
+{
+"id": 1740306091,
+"deezer": 2743908021,
+"artist": "Luca Brassi10x",
+"title": "Peniaze",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/65/ec/db65ec42-91e0-7a55-e21d-74934ec24f1e/64dc1b7c-e11e-41ce-84dc-4023e4b1afb5.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/peniaze-feat-c-rosso-tisci/1740306078?i=1740306091&uo=4"
+},
+{
+"id": 1772765853,
+"deezer": 3034914031,
+"artist": "Vesna & EGO",
+"title": "Moravo",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/56/9f/59569f23-d803-1192-ac9f-ada4d2accdeb/fbf46977-4f5c-47e9-a945-5eae7d0c086c.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/moravo/1772765852?i=1772765853&uo=4"
+},
+{
+"id": 1558449040,
+"deezer": 1280016622,
+"artist": "Ektor",
+"title": "Daň",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/43/02/e543020e-e8e8-c0fa-176d-4d2bd84e4e2d/21UMGIM21737.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/da%C5%88/1558448003?i=1558449040&uo=4"
+},
+{
+"id": 1749156047,
+"deezer": 2826350482,
+"artist": "Pil C & Luca Brassi10x",
+"title": "NESTARAM SA",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/cc/c6/5eccc6ec-77b7-7738-5ff4-9070abf6a700/24UMGIM60453.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/nestaram-sa/1749155713?i=1749156047&uo=4"
+},
+{
+"id": 6770548171,
+"deezer": 4028918831,
+"artist": "P T K",
+"title": "TINTED WINDOWS",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5c/a4/3a5ca4d1-cd35-06b6-d5a9-b7865ccbce94/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/tinted-windows/6770548162?i=6770548171&uo=4"
+},
+{
+"id": 1846571580,
+"deezer": 3606535712,
+"artist": "Raphael & Luca Brassi10x",
+"title": "PROBLEMA",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/a9/8c/3da98c03-d383-86a1-4897-9d050791a0b6/25UM1IM67653.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/problema/1846571574?i=1846571580&uo=4"
+},
+{
+"id": 1734903731,
+"deezer": 2694053522,
+"artist": "Alan Murin",
+"title": "Dokola",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/4a/2b/c84a2bcd-4299-cead-4ee8-261dfba3e50e/2b05d19a-4495-4f4c-8656-7b7b3989ad5c.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/dokola/1734903730?i=1734903731&uo=4"
+},
+{
+"id": 1660038508,
+"deezer": 2071505847,
+"artist": "CA$HANOVA BULHAR",
+"title": "Praha den a noc",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/25/22/61/252261ec-9ac4-c72f-79dd-ba2cefd54bb8/5054197493485.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/praha-den-a-noc/1660038501?i=1660038508&uo=4"
+},
+{
+"id": 6770548522,
+"deezer": 4028918901,
+"artist": "P T K",
+"title": "VÍŠ JAK BOLÍ ŘÍKAT RIP",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5c/a4/3a5ca4d1-cd35-06b6-d5a9-b7865ccbce94/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/v%C3%AD%C5%A1-jak-bol%C3%AD-%C5%99%C3%ADkat-rip/6770548162?i=6770548522&uo=4"
+},
+{
+"id": 1707797381,
+"deezer": 1395991992,
+"artist": "Nerieš & DMS",
+"title": "Čo Bude",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/50/bf/7850bf80-f351-7180-4f49-ceff3f91ec27/1d0d4938-0424-49ea-8c62-192812bbf78f.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/%C4%8Do-bude/1707797362?i=1707797381&uo=4"
+},
+{
+"id": 1707787291,
+"deezer": 1008095652,
+"artist": "Separ",
+"title": "Origami",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6f/b3/55/6fb355e0-ccac-50aa-429a-a55803677d34/73dc4fd3-dd16-4691-afcb-db1c992ab6fa.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/origami-feat-ben-cristovao/1707787288?i=1707787291&uo=4"
+},
+{
+"id": 1557711122,
+"deezer": 1280016512,
+"artist": "Ektor",
+"title": "Teď tady",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1c/5a/2a/1c5a2a03-f83b-56be-5aeb-c3dfac3f29a1/21UMGIM20175.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/te%C4%8F-tady/1557711120?i=1557711122&uo=4"
+},
+{
+"id": 1688246264,
+"deezer": 2287164437,
+"artist": "Sima & Ben Cristovao",
+"title": "V Oblakoch",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f8/3a/c1/f83ac140-0acb-83bf-ae4c-deef2ee078cb/5054197691430.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/v-oblakoch/1688245780?i=1688246264&uo=4"
+},
+{
+"id": 1653324332,
+"deezer": 2009848717,
+"artist": "Yzomandias & Nik Tendo",
+"title": "FREE KARLO",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9d/f6/67/9df6677e-27ca-463e-fd90-db53308cdc41/22UM1IM30305.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/free-karlo/1653324325?i=1653324332&uo=4"
+},
+{
+"id": 1740391271,
+"deezer": 2744315141,
+"artist": "Yzomandias, Viktor Sheen & RICO",
+"title": "až bude hořet",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/99/d7/b499d739-21c6-1431-74e0-3a35ee063b1e/24UMGIM41164.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/a%C5%BE-bude-ho%C5%99et/1740391264?i=1740391271&uo=4"
+},
+{
+"id": 1548287962,
+"deezer": 1208922382,
+"artist": "fiedlerski",
+"title": "pápá",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e2/d8/78/e2d878e2-a4dc-cce5-abf2-48421da4f50e/21UMGIM01713.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/p%C3%A1p%C3%A1-feat-ben-cristovao-stein27/1548287960?i=1548287962&uo=4"
+},
+{
+"id": 1530389028,
+"deezer": 1076868782,
+"artist": "Nik Tendo",
+"title": "365247",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/b6/75/99b6757f-92ff-2a83-2c11-d9544efb1882/20UMGIM76835.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/365247-feat-koky/1530388752?i=1530389028&uo=4"
+},
+{
+"id": 1576836407,
+"deezer": 1442675622,
+"artist": "Nik Tendo",
+"title": "Nezměníš",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/07/df/9307df72-ed62-8e13-c327-c0869e05ae8c/21UMGIM66620.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/nezm%C4%9Bn%C3%AD%C5%A1/1576836403?i=1576836407&uo=4"
+},
+{
+"id": 1707783591,
+"deezer": 1016491372,
+"artist": "Separ",
+"title": "Odjebem Strop",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/c6/9a/92c69a9a-fa04-459b-b80e-e8dbf47ef17c/2704203c-5300-42fc-a8db-c3c6dcecead8.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/odjebem-strop/1707783590?i=1707783591&uo=4"
+},
+{
+"id": 1782685316,
+"deezer": 1386692502,
+"artist": "Momo",
+"title": "Sny",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/26/3f/e4263fc8-ec1e-7f5a-3ecb-b52648d734b9/d61c6b3f-f43c-4ea4-85af-e3e7ae5481e8.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/sny-feat-majk-spirit/1782685311?i=1782685316&uo=4"
+},
+{
+"id": 1524759455,
+"deezer": 1031209312,
+"artist": "Sofian Medjmedj",
+"title": "VMBR",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/03/36/c7/0336c78c-a399-093b-5c4f-d9979ee0466d/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/vmbr/1524759437?i=1524759455&uo=4"
+},
+{
+"id": 1688237432,
+"deezer": 2287058527,
+"artist": "Sima",
+"title": "Slobodna",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/e6/e7/ebe6e762-241c-975b-e05c-8d8f8078dc01/5054197691607.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/slobodna/1688237431?i=1688237432&uo=4"
+},
+{
+"id": 1625696162,
+"deezer": 1763604277,
+"artist": "Earth",
+"title": "Diamanty",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/94/8c/de/948cdeff-1f84-1eec-e954-30cd8c3dc230/22UMGIM56328.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/diamanty/1625696145?i=1625696162&uo=4"
+},
+{
+"id": 1533395383,
+"deezer": 1091326802,
+"artist": "MIKOLAS",
+"title": "Lalalalalalalalalala",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/e9/33/34e9338f-99ed-5f89-7e42-8f2f5fb40d58/eac7c3fa-2df9-4c4e-ab84-b18fabbf12d1.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/lalalalalalalalalala/1533395381?i=1533395383&uo=4"
+},
+{
+"id": 1789504634,
+"deezer": 3177898421,
+"artist": "Saul & Viktor Sheen",
+"title": "Na Očiach Vyryté",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/36/4e/55364e25-7f0d-1136-f8c5-3fad5b763925/24UM1IM36123.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/na-o%C4%8Diach-vyryt%C3%A9/1789504625?i=1789504634&uo=4"
+},
+{
+"id": 1707788797,
+"deezer": 1091458082,
+"artist": "EGO & Momo",
+"title": "Fajn",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/af/9a/2faf9aa9-8b27-9042-f651-5de89bb0839b/909b11e0-c407-4f09-9151-ca040dbcfb70.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/fajn/1707788788?i=1707788797&uo=4"
+},
+{
+"id": 1594405704,
+"deezer": 1547618472,
+"artist": "Viktor Sheen",
+"title": "Spaceship",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/e9/51/cbe95142-24c3-3071-93b7-2be155ae20d4/190296350849.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/spaceship/1594405160?i=1594405704&uo=4"
+},
+{
+"id": 1606453886,
+"deezer": 1630123832,
+"artist": "Ektor",
+"title": "Se změnili",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/24/b4/e424b4b4-5fd7-161f-b7c8-0fc1b88ff68f/22UMGIM08128.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/se-zm%C4%9Bnili/1606453883?i=1606453886&uo=4"
+},
+{
+"id": 1703114578,
+"deezer": 2416335825,
+"artist": "STEIN27",
+"title": "Samota",
+"year": 2023,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/a9/bd/e1a9bdbf-523f-798b-a1d3-ecec7b59b435/5054197788352.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/samota-with-sofian-medjmedj/1703114328?i=1703114578&uo=4"
+},
+{
+"id": 1894797055,
+"deezer": 3971812691,
+"artist": "P T K",
+"title": "KENPACHI&YACHIRU",
+"year": 2026,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/73/20/757320ab-34e0-a9f7-1e9d-5a1b691dc4e4/cover.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/kenpachi-yachiru/1894797049?i=1894797055&uo=4"
+},
+{
+"id": 1707783819,
+"deezer": 1825828227,
+"artist": "Separ & Peter Pann",
+"title": "Flow Kmeť",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/9d/8f/2f9d8f19-e4e5-7fec-debe-ec59f3639938/3effd324-7fc3-4127-a214-2c27d508c4e6.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/flow-kme%C5%A5/1707783818?i=1707783819&uo=4"
+},
+{
+"id": 1506749504,
+"deezer": 923397342,
+"artist": "Viktor Sheen",
+"title": "Oblivion",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/76/a1/7d/76a17df4-41ef-1896-4da6-989b4735e37e/190295229818.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/oblivion-feat-nik-tendo/1506749500?i=1506749504&uo=4"
+},
+{
+"id": 1542650863,
+"deezer": 1161245612,
+"artist": "KOJO",
+"title": "House Get Low",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0b/ff/f7/0bfff746-0b23-c3c7-ec4c-123df3ab553f/190295055820.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/house-get-low-feat-indigo-stein27/1542650788?i=1542650863&uo=4"
+},
+{
+"id": 1609883075,
+"deezer": 1654784282,
+"artist": "Yael",
+"title": "MY",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/56/6e/71566e52-318e-6de2-f099-894b7de15897/767a6ac8-2310-4c1b-899f-df23b87e8e0b.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/my/1609883074?i=1609883075&uo=4"
+},
+{
+"id": 1707812270,
+"deezer": 1784126787,
+"artist": "Kali, Alan Murin & Peter Pann",
+"title": "Kým Ťa Mám",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/a8/0f/daa80fbe-cc29-4e37-8dbc-a9e5c4074912/57cd487d-258e-4173-b4d0-6cb89d62b316.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/k%C3%BDm-%C5%A5a-m%C3%A1m-feat-%C4%8Dis-t/1707812269?i=1707812270&uo=4"
+},
+{
+"id": 1739369195,
+"deezer": 2738155951,
+"artist": "Raphael",
+"title": "22",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/dd/dc/12dddc50-de42-e803-1cd5-0dc60f4f7ddd/24UMGIM37685.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/22/1739368866?i=1739369195&uo=4"
+},
+{
+"id": 1707787294,
+"deezer": 1008095682,
+"artist": "Separ",
+"title": "Čo Odo Mňa Chcete",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6f/b3/55/6fb355e0-ccac-50aa-429a-a55803677d34/73dc4fd3-dd16-4691-afcb-db1c992ab6fa.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/%C4%8Do-odo-m%C5%88a-chcete-feat-nik-tendo-karlo-yzomandias/1707787288?i=1707787294&uo=4"
+},
+{
+"id": 1737490767,
+"deezer": 2717910972,
+"artist": "Sima",
+"title": "Tvoje ruže",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/4c/cb/454ccb62-a4a4-1e76-c9ba-043952acff0d/5021732269294.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/tvoje-ru%C5%BEe/1737490766?i=1737490767&uo=4"
+},
+{
+"id": 1735944383,
+"deezer": 3060564061,
+"artist": "Sergei Barracuda",
+"title": "Směj se teď",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/46/85/8746859d-bd8d-9029-0e33-6fde51c95b33/24UMGIM29684.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/sm%C4%9Bj-se-te%C4%8F/1735944380?i=1735944383&uo=4"
+},
+{
+"id": 1815232802,
+"deezer": 3391410481,
+"artist": "Pil C, Luca Brassi10x, Karlo & G1nter",
+"title": "studené srdce",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/e6/94/d0e69497-d697-fa9c-9c81-1bad7656bcc7/25UMGIM73057.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/studen%C3%A9-srdce/1815232795?i=1815232802&uo=4"
+},
+{
+"id": 1597643696,
+"deezer": 1582108122,
+"artist": "DMS",
+"title": "Tanečná pesnička",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/a7/30/b8a730c0-3641-727f-1d4c-3796f520e494/ebdc3c82-6824-4742-b7bc-e6aaecbbdd59.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/tane%C4%8Dn%C3%A1-pesni%C4%8Dka/1597643688?i=1597643696&uo=4"
+},
+{
+"id": 1747772165,
+"deezer": 2814405442,
+"artist": "Calin",
+"title": "Window Shopper",
+"year": 2024,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/6c/d6/df6cd617-917e-32e3-6de8-5860249bde81/5021732388148.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/window-shopper/1747772157?i=1747772165&uo=4"
+},
+{
+"id": 1558448310,
+"deezer": 1270954442,
+"artist": "Ektor",
+"title": "Hranice",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/43/02/e543020e-e8e8-c0fa-176d-4d2bd84e4e2d/21UMGIM21737.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/hranice/1558448003?i=1558448310&uo=4"
+},
+{
+"id": 1535027939,
+"deezer": 1108456222,
+"artist": "Viktor Sheen",
+"title": "Mlha",
+"year": 2020,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/a9/56/aea956bc-bf10-c85f-a1b2-47f2631777a6/190295116163.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/mlha/1535027932?i=1535027939&uo=4"
+},
+{
+"id": 1613376987,
+"deezer": 1701885687,
+"artist": "Calin",
+"title": "Popstar",
+"year": 2021,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fe/2b/37/fe2b3796-1cba-ce3e-5959-97b56d71ad0f/190296161483.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/popstar/1613376981?i=1613376987&uo=4"
 }
 ]
