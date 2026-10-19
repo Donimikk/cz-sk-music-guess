@@ -1,0 +1,296 @@
+rank,artist,title,points,chart_days,charts,best_apple_sk,best_deezer_sk,best_apple_cz,best_deezer_cz,deezer_rank,domestic,matched_artists
+1,Calin,SuperStar (feat. Dollar Prync),388,4,apple_cz apple_sk deezer_cz deezer_sk,1,3,1,11,438193,cz,calin
+2,ADÉLA,Ain't In LA,367,4,apple_cz apple_sk deezer_cz deezer_sk,2,9,5,21,988685,sk,adela
+3,ADÉLA,Nicole Kidman,332,4,apple_cz apple_sk deezer_cz deezer_sk,3,15,8,46,990767,sk,adela
+4,Shakira & Burna Boy,Dai Dai,322,4,apple_cz apple_sk deezer_cz deezer_sk,18,8,38,18,990618,,
+5,Tate McRae,Housewife,302,4,apple_cz apple_sk deezer_cz deezer_sk,8,31,4,59,998094,,
+6,Olivia Rodrigo & Chappell Roan,expectations,289,5,apple_cz apple_sk deezer_cz deezer_sk,60,6,58,2,880002,,
+7,Calin,Luana,282,3,apple_cz apple_sk deezer_cz,5,,10,6,335463,cz,calin
+8,"HUGEL, Imael Angel & Ultra Naté",Movin' To The Sun,275,3,apple_cz apple_sk deezer_sk,9,2,17,,971093,,
+9,Calin,Pistácie (feat. Sofian Medjmedj),258,3,apple_cz apple_sk deezer_cz,6,,6,33,275431,cz,calin | sofian medjmedj
+10,P T K & Eclipse,KURVY V POZORU,251,3,apple_cz apple_sk deezer_cz,11,,3,38,353385,cz,p t k
+11,Calin,Hannah Montana,248,3,apple_cz apple_sk deezer_cz,17,,22,16,306797,cz,calin
+12,Sanchez22 & NAUME,Naběhnu na Byt,224,3,apple_cz apple_sk deezer_cz,21,,16,42,251110,,
+13,Yzomandias & Sara Rikas,COUPÉ,192,3,apple_cz apple_sk deezer_cz,13,,7,91,292843,cz+sk,sara rikas | yzomandias
+14,Calin,Pražský holky,192,3,apple_cz apple_sk deezer_cz,29,,13,69,300299,cz,calin
+15,Yzomandias & Nik Tendo,thank you based god,189,3,apple_cz apple_sk deezer_cz,28,,18,68,274133,cz,nik tendo | yzomandias
+16,Yzomandias,Jedna Dva,177,3,apple_cz apple_sk deezer_cz,43,,31,52,201271,cz,yzomandias
+17,Calin & Viktor Sheen,Safír,175,2,apple_cz apple_sk,15,,12,,,cz,calin | viktor sheen
+18,"Yzomandias, P T K & Luca Brassi10x",Painkillers,175,4,apple_cz apple_sk deezer_cz deezer_sk,27,87,28,87,258714,cz,p t k | yzomandias
+19,"Yzomandias, Calin, Luca Brassi10x & Raphael",french tip nails,174,2,apple_cz apple_sk,7,,21,,,cz,calin | yzomandias
+20,Viktor Sheen,"Až na měsíc (feat. Calin, Hasan & Nik Tendo)",171,2,apple_cz apple_sk,16,,15,,,cz,calin | hasan | nik tendo | viktor sheen
+21,Ewa Farna,"Neříkej, co má se stát",163,2,apple_cz deezer_cz,,,2,37,326583,cz,ewa farna
+22,Taylor Swift,Patient Zero,163,3,apple_cz apple_sk deezer_cz,50,,55,35,999450,,
+23,Calin & Viktor Sheen,Dívej,159,2,apple_cz apple_sk,23,,20,,,cz,calin | viktor sheen
+24,Yzomandias & Ektor,AMAMRAD,157,2,apple_cz apple_sk,31,,14,,,cz,ektor | yzomandias
+25,Ashe,Stop The Wedding!,157,3,apple_cz deezer_cz deezer_sk,,70,59,17,979999,,
+26,Temper City,Self Aware,157,4,apple_cz apple_sk deezer_cz deezer_sk,41,67,73,66,981001,,
+27,GENER8ION & Yung Lean,STORM II,156,2,apple_cz deezer_cz,,,36,10,985642,,
+28,"Separ, GRIMASO & Raphael",Piráti na jachtách,151,2,apple_sk deezer_sk,4,47,,,261838,sk,separ
+29,Sara Rikas & Yzomandias,Talk2me,145,2,apple_cz apple_sk,24,,33,,,cz+sk,sara rikas | yzomandias
+30,Marie April & kubmat,po show,142,2,apple_cz deezer_cz,,,37,23,332324,,
+31,Dua Lipa,Training Season,142,4,apple_cz apple_sk deezer_cz deezer_sk,53,85,40,84,968054,,
+32,Imael Angel,BAD TIMES,135,3,apple_cz apple_sk deezer_cz,40,,53,75,828140,,
+33,ADÉLA,KGB,135,3,apple_sk deezer_cz deezer_sk,75,36,,57,669922,sk,adela
+34,Yzomandias & Nik Tendo,POČKEJ w8,131,3,apple_cz apple_sk deezer_cz,100,,43,29,286815,cz,nik tendo | yzomandias
+35,Yzomandias & Viktor Sheen,dřív bylo líp,124,2,apple_cz apple_sk,54,,24,,,cz,viktor sheen | yzomandias
+36,HUGEL & SOLTO (FR),Jamaican (Bam Bam),124,2,apple_sk deezer_sk,46,32,,,979664,,
+37,"Yzomandias, Calin & Hasan",že nechci tě tady,122,2,apple_cz apple_sk,36,,44,,,cz,calin | hasan | yzomandias
+38,Calin,Bounce (feat. Yzomandias),121,2,apple_cz apple_sk,42,,39,,,cz,calin | yzomandias
+39,Sara Rikas & Matej Turcer,Cigarety,120,2,apple_cz apple_sk,34,,48,,,sk,sara rikas
+40,sombr,My Body Isn't Ready,120,2,apple_sk deezer_sk,39,43,,,930838,,
+41,Yzomandias,milujou mě nenávidět,119,2,apple_cz apple_sk,51,,32,,,cz,yzomandias
+42,Calin & Viktor Sheen,Cikády,114,3,apple_cz apple_sk deezer_cz,55,,70,64,279628,cz,calin | viktor sheen
+43,Calin,Praha/Vídeň,113,2,apple_cz apple_sk,48,,41,,,cz,calin
+44,Viktor Sheen,Stíny,110,2,apple_cz apple_sk,65,,27,,,cz,viktor sheen
+45,Calin,Vítej mezi náma (feat. STEIN27),105,2,apple_cz apple_sk,63,,34,,,cz,calin | stein27
+46,P T K,V Hlavě,100,1,deezer_cz,,,,1,214973,cz,p t k
+47,Sumner,Like A Prayer (triple j Like A Version),100,1,deezer_sk,,1,,,398996,,
+48,Yzomandias & P T K,No Sleep Gang,98,2,apple_cz apple_sk,79,,25,,,cz,p t k | yzomandias
+49,Dawid Podsiadło,Where Did Your Love Go?,98,1,deezer_cz,,,,3,453826,,
+50,Nightcrawlers,Friday (feat. Mufasa & Hypeman) (Dopamine Re-Edit),97,1,deezer_cz,,,,4,828383,,
+51,Elan,Want It All,97,1,deezer_sk,,4,,,100000,sk,elan
+52,Justin Bieber,Beauty and a Beat (feat. Nicki Minaj),96,2,apple_cz apple_sk,57,,49,,,,
+53,Joel Sunny,Codex,96,1,deezer_cz,,,,5,496910,,
+54,Bullet For My Valentine,Social Apocalypse,96,1,deezer_sk,,5,,,564848,,
+55,RVNGE,MONTAGEM NOVA (Slowed),94,1,deezer_cz,,,,7,402772,,
+56,LauCarré,La voisine d'en dessous ...,94,1,deezer_sk,,7,,,678506,,
+57,Michael Jackson,Billie Jean (Long Version),93,2,apple_cz deezer_sk,,24,85,,971418,,
+58,Viktor Sheen,Nekonečno,93,1,deezer_cz,,,,8,159779,cz,viktor sheen
+59,Ewa Farna,PERPETUUM MOBILE,92,1,apple_cz,,,9,,,cz,ewa farna
+60,James Horner,Prima Noctes,92,1,deezer_cz,,,,9,212713,,
+61,Viktor Sheen,Rozdělený světy,91,2,apple_cz apple_sk,69,,42,,,cz,viktor sheen
+62,Separ & Raphael,Celu noc,91,1,apple_sk,10,,,,,sk,separ
+63,Ryan Elder,Don't You (Forget About Me),91,1,deezer_sk,,10,,,332061,,
+64,Ewa Farna & Mirai,Vzpomeneš si?,90,1,apple_cz,,,11,,,cz,ewa farna | mirai
+65,Olivia Rodrigo,drop dead,90,1,deezer_sk,,11,,,976771,,
+66,"Yzomandias, P T K, Robin Zoot & Nik Tendo",KSN (feat. Ektor) [PINTLICH REMIX],89,2,apple_cz deezer_cz,,,68,45,241123,cz,ektor | nik tendo | p t k | robin zoot | yzomandias
+67,Luca Brassi10x,Rozdielne,89,1,apple_sk,12,,,,,,
+68,KATSEYE,Animal,89,2,apple_sk deezer_sk,99,14,,,993175,,
+69,Breaking Benjamin,Follow (Radio Edit),89,1,deezer_cz,,,,12,452831,,
+70,Wage War,Landfall,89,1,deezer_sk,,12,,,434827,,
+71,JAY BEE MAN,NA HRANĚ,88,1,deezer_cz,,,,13,305019,,
+72,Lana Del Rey,Ultraviolence,88,1,deezer_sk,,13,,,822099,,
+73,Separ & Raphael,Aura (feat. KgirgaG),87,1,apple_sk,14,,,,,sk,separ
+74,Nemzzz,4AM,87,1,deezer_cz,,,,14,535925,,
+75,Ashe,Lasso The Moon,86,1,deezer_cz,,,,15,765842,,
+76,THE MAG,Traphouse,85,1,deezer_sk,,16,,,110914,,
+77,Tom Odell,Another Love,84,2,apple_cz deezer_sk,,34,84,,992716,,
+78,Michael Jackson,Beat It,84,2,deezer_cz deezer_sk,,55,,63,970264,,
+79,Wage War,Silk,84,1,deezer_sk,,17,,,497165,,
+80,Wage War,God Complex,83,1,deezer_sk,,18,,,594846,,
+81,Calin,Balkan Paradise (feat. CA$HANOVA BULHAR),82,1,apple_cz,,,19,,,cz,calin
+82,"WEN, Nuri, Luca Brassi10x & Samey",Ruže,82,1,apple_sk,19,,,,,sk,samey
+83,Yzomandias,Limbo,82,1,deezer_cz,,,,19,278605,cz,yzomandias
+84,Wage War,Blindfold,82,1,deezer_sk,,19,,,469157,,
+85,Separ & Raphael,Hovorili mi že,81,1,apple_sk,20,,,,,sk,separ
+86,Scylla,Seul un fou,81,1,deezer_cz,,,,20,453053,,
+87,Toomaj,Pichak (feat. Justina),81,1,deezer_sk,,20,,,38841,,
+88,Wage War,Figure 8,80,1,deezer_sk,,21,,,515389,,
+89,"KAROL G, Judeline & rusowsky",BbY WOW,79,1,apple_sk,22,,,,,,
+90,Ashe,Swan Lake,79,1,deezer_cz,,,,22,684844,,
+91,Wage War,Stay With Me,79,1,deezer_sk,,22,,,512806,,
+92,P T K,KENPACHI&YACHIRU,78,1,apple_cz,,,23,,,cz,p t k
+93,Wage War,R3D DOT,78,1,deezer_sk,,23,,,464777,,
+94,ZAYN,Dusk Till Dawn (feat. Sia) (Radio Edit),77,1,deezer_cz,,,,24,912805,,
+95,Fontaines D.C.,Six Shot Morning,77,2,deezer_cz deezer_sk,,91,,34,989655,,
+96,Separ & Raphael,Zub za zub,76,1,apple_sk,25,,,,,sk,separ
+97,Justin Bieber,WALKING AWAY,76,1,deezer_cz,,,,25,653286,,
+98,Wage War,Sweet Dreams,76,1,deezer_sk,,25,,,370699,,
+99,Viktor Sheen,Virtuální drogy (feat. Calin),75,1,apple_cz,,,26,,,cz,calin | viktor sheen
+100,"Separ, French Montana & Peter Pann",Body to body,75,1,apple_sk,26,,,,,sk,separ
+101,Parov Stelar,Catgroove,75,1,deezer_cz,,,,26,382382,,
+102,Wage War,Silence Has Spoken,75,1,deezer_sk,,26,,,481035,,
+103,Yzomandias & Saul,SPHYNX,74,2,apple_cz apple_sk,45,,83,,,cz+sk,saul | yzomandias
+104,Ashe,The Girl Of Your Dreams,74,1,deezer_cz,,,,27,651609,,
+105,Radiohead,Creep,74,2,deezer_cz deezer_sk,,78,,50,978547,,
+106,Wage War,Way Of Pain,74,1,deezer_sk,,27,,,484306,,
+107,Ashe,Sweet Caroline,73,1,deezer_cz,,,,28,641613,,
+108,Wage War,Spellbound,73,1,deezer_sk,,28,,,449999,,
+109,Ewa Farna,Na Ostří Nože,72,1,apple_cz,,,29,,,cz,ewa farna
+110,Wage War,Song Of The Swamp,72,1,deezer_sk,,29,,,450932,,
+111,Mc Kenny,Jan Koller,71,1,apple_cz,,,30,,,,
+112,Raphael & Luca Brassi10x,PROBLEMA,71,1,apple_sk,30,,,,,,
+113,Fontaines D.C.,Where Is Gone?,71,1,deezer_cz,,,,30,986694,,
+114,Wage War,Silhouette,71,1,deezer_sk,,30,,,453588,,
+115,The Neighbourhood,Sweater Weather,70,3,apple_cz apple_sk deezer_sk,81,76,76,,980750,,
+116,The Goo Goo Dolls,Iris,70,1,deezer_cz,,,,31,799574,,
+117,Separ & Raphael,Brotha,69,1,apple_sk,32,,,,,sk,separ
+118,Wiz Khalifa,"Speed Me Up (From ""Sonic the Hedgehog"")",69,1,deezer_cz,,,,32,435331,,
+119,Benson Boone,Beautiful Things,68,2,apple_cz deezer_cz,,,98,36,920263,,
+120,Separ & Raphael,Raz dva,68,1,apple_sk,33,,,,,sk,separ
+121,Raphael,Love Them,68,1,deezer_sk,,33,,,121349,,
+122,Yzomandias & P T K,WTF,66,1,apple_cz,,,35,,,cz,p t k | yzomandias
+123,Sara Rikas & Raphael,Tempo za 2,66,1,apple_sk,35,,,,,sk,sara rikas
+124,ADÉLA,SUPERSCAR,66,1,deezer_sk,,35,,,746270,sk,adela
+125,Olivia Rodrigo,the cure,65,2,apple_cz apple_sk,76,,61,,,,
+126,"Separ, Matej Straka & Raphael",Král a princ,64,1,apple_sk,37,,,,,sk,matej straka | separ
+127,Kaj,Economy PLUS,64,1,deezer_sk,,37,,,299530,,
+128,"By Индия, Xcho & МОТ",Шадэ,63,1,apple_sk,38,,,,,,
+129,Lana Del Rey,West Coast,63,1,deezer_sk,,38,,,835643,,
+130,Roadrunner United,The End,62,1,deezer_cz,,,,39,403881,,
+131,Gorgon City,Imagination,62,1,deezer_sk,,39,,,489574,,
+132,"Lboy Bsc, Dorian & Freez247",Vodka není voda,61,2,apple_cz apple_sk,91,,50,,,,
+133,P!nk,Just Give Me a Reason (feat. Nate Ruess),61,3,apple_cz apple_sk deezer_sk,85,95,62,,986564,,
+134,Adele,Set Fire to the Rain,61,1,deezer_cz,,,,40,972317,,
+135,winterxrc,BEEPER FUNK (SLOWED),61,1,deezer_sk,,40,,,255050,,
+136,Tate McRae,Just Keep Watching (From F1® The Movie),60,1,deezer_cz,,,,41,889637,,
+137,Isq,void (super slowed),60,1,deezer_sk,,41,,,539170,,
+138,lirvie,MONTAGEM FEARLESS (Ultra Slowed),59,1,deezer_sk,,42,,,707066,,
+139,Alex Warren,Ordinary,58,2,apple_cz apple_sk,90,,54,,,,
+140,Harry Styles,Sign of the Times,58,1,deezer_cz,,,,43,962970,,
+141,RICO & P T K,Ona je se mnou,57,2,apple_cz apple_sk,59,,86,,,cz,p t k
+142,White Noise,White Noise 90 Minutes,57,1,apple_sk,44,,,,,,
+143,Teddy Swims,You're Still The One,57,1,deezer_cz,,,,44,696389,,
+144,AC/DC,Highway to Hell,57,1,deezer_sk,,44,,,978152,,
+145,P T K & Yzomandias,Baby a Benzo,56,1,apple_cz,,,45,,,cz,p t k | yzomandias
+146,The Weeknd,I Was Never There,56,1,deezer_sk,,45,,,816997,,
+147,Ewa Farna,ADHD POP,55,1,apple_cz,,,46,,,cz,ewa farna
+148,sma$her,MEME FUNK (Super Slowed),55,1,deezer_sk,,46,,,311217,,
+149,Ewa Farna,Hlasová zpráva,54,1,apple_cz,,,47,,,cz,ewa farna
+150,Tame Impala,Loser,54,2,apple_cz apple_sk,67,,81,,,,
+151,"Separ, Peter Pann & Raphael",Nechaj to na nás,54,1,apple_sk,47,,,,,sk,separ
+152,syxxsec,AINSI BAS LA VIDA HARDTEKK,54,1,deezer_cz,,,,47,465275,,
+153,Fontaines D.C.,Marianne,53,1,deezer_cz,,,,48,564316,,
+154,The Cranberries,Zombie,53,1,deezer_sk,,48,,,810592,,
+155,"Separ, Jerry Lee & P T K",Sunset,52,1,apple_sk,49,,,,,cz+sk,p t k | separ
+156,Pitbull,Timber,52,1,deezer_cz,,,,49,533445,,
+157,Bon Jovi,Livin' On A Prayer,52,1,deezer_sk,,49,,,967801,,
+158,Dominic Fike,Babydoll,51,1,deezer_sk,,50,,,985606,,
+159,Viktor Sheen,Dopamin,50,1,apple_cz,,,51,,,cz,viktor sheen
+160,Imagine Dragons,Bad Liar,50,1,deezer_cz,,,,51,934282,,
+161,Yann Tiersen,La valse d'Amélie,50,1,deezer_sk,,51,,,754654,,
+162,Smack One & DANZ HUN,Kdo To Je,49,1,apple_cz,,,52,,,cz,smack one
+163,Separ & Raphael,Alibaba,49,1,apple_sk,52,,,,,sk,separ
+164,ILLENIUM,In My Arms,49,1,deezer_sk,,52,,,397997,,
+165,Ravyn Lenae,Love Me Not,48,1,deezer_cz,,,,53,988877,,
+166,ADÉLA,I'm The Man,48,1,deezer_sk,,53,,,793311,sk,adela
+167,Billie Eilish,LUNCH,47,1,deezer_cz,,,,54,914352,,
+168,50 Cent,In Da Club,47,1,deezer_sk,,54,,,924879,,
+169,Billie Eilish,CHIHIRO,46,1,deezer_cz,,,,55,931082,,
+170,P T K,PTK OG,45,1,apple_cz,,,56,,,cz,p t k
+171,Pil C,RBMK (feat. Viktor Sheen),45,1,apple_sk,56,,,,,cz+sk,pil c | viktor sheen
+172,Billie Eilish,BIRDS OF A FEATHER,45,1,deezer_cz,,,,56,963029,,
+173,Shakira,Waka Waka (Esto es Africa) (feat. Freshlyground),45,1,deezer_sk,,56,,,700847,,
+174,Calin,Děvče v první řadě (feat. Ben Cristovao),44,1,apple_cz,,,57,,,cz,ben cristovao | calin
+175,Three Days Grace,Never Too Late,44,1,deezer_sk,,57,,,717403,,
+176,Separ & Raphael,Keď si baller,43,1,apple_sk,58,,,,,sk,separ
+177,Petite Meller,High Forever (Marlon Hoffstadt Remix),43,1,deezer_cz,,,,58,631942,,
+178,USHER,Yeah! (feat. Lil Jon & Ludacris),43,1,deezer_sk,,58,,,910078,,
+179,Tate McRae,Just Keep Watching,42,2,apple_cz apple_sk,93,,67,,,,
+180,Lana Del Rey,Cola,42,1,deezer_sk,,59,,,629472,,
+181,BUKA,Strach,41,1,apple_cz,,,60,,,,
+182,Natalie Imbruglia,Torn,41,1,deezer_cz,,,,60,873669,,
+183,Ania Dąbrowska,W Glowie,41,1,deezer_sk,,60,,,662077,,
+184,Olivia Rodrigo,stupid song,40,2,apple_cz apple_sk,96,,66,,,,
+185,Luca Brassi10x,PUNO PARA PUNO PROBLEMA,40,1,apple_sk,61,,,,,,
+186,Guano Apes,Rain,40,1,deezer_cz,,,,61,251356,,
+187,Dua Lipa,Love Again,40,1,deezer_sk,,61,,,887755,,
+188,Separ,Ahoj Ahoj Čo Ty,39,1,apple_sk,62,,,,,sk,separ
+189,The Stranglers,Golden Brown,39,1,deezer_cz,,,,62,869761,,
+190,Jaxomy,Pedro,39,1,deezer_sk,,62,,,757615,,
+191,P T K,Nadstandard,38,1,apple_cz,,,63,,,cz,p t k
+192,Svantesson,Betty Boop Funk (Slowed),38,1,deezer_sk,,63,,,298606,,
+193,Viktor Sheen,Plastic,37,1,apple_cz,,,64,,,cz,viktor sheen
+194,Separ,Pinokio (feat. Dano Kapitán),37,1,apple_sk,64,,,,,sk,separ
+195,Fontaines D.C.,Tongue,37,2,deezer_cz deezer_sk,,92,,73,529980,,
+196,Вирус,Не ищи,37,1,deezer_sk,,64,,,111809,,
+197,Taylor Swift,The Fate of Ophelia,36,1,apple_cz,,,65,,,,
+198,Stromae,Ma Meilleure Ennemie (from the series Arcane League of Legends),36,1,deezer_cz,,,,65,967695,,
+199,Buckshot,Fever,36,1,deezer_sk,,65,,,819116,,
+200,Sara Rikas,Ups and downs,35,1,apple_sk,66,,,,,sk,sara rikas
+201,League Of Legends,Salvation,35,1,deezer_sk,,66,,,509785,,
+202,Yzomandias,HIP THRUST,34,1,deezer_cz,,,,67,316331,cz,yzomandias
+203,Dua Lipa,New Rules,33,2,apple_cz apple_sk,95,,74,,,,
+204,Raphael & Zayo,Ready či ne!?,33,1,apple_sk,68,,,,,,
+205,Bebe Rexha,New Religion,33,1,deezer_sk,,68,,,996972,,
+206,P T K,Bad Vibe,32,1,apple_cz,,,69,,,cz,p t k
+207,HUGEL,Shine,32,1,deezer_sk,,69,,,899132,,
+208,sombr,12 to 12,31,1,apple_sk,70,,,,,,
+209,Ashe,Love Bomb,31,1,deezer_cz,,,,70,697318,,
+210,Ed Sheeran,Shape of You,30,1,apple_cz,,,71,,,,
+211,"Pil C, Luca Brassi10x & Separ",NENI STRE$S,30,1,apple_sk,71,,,,,sk,pil c | separ
+212,Fontaines D.C.,Mimesis,30,1,deezer_cz,,,,71,987672,,
+213,ADÉLA,Boys,30,1,deezer_sk,,71,,,764387,sk,adela
+214,Viktor Sheen,Mráz,29,1,apple_cz,,,72,,,cz,viktor sheen
+215,"DJ Goja, Jason Derulo & Melody",Mi Chico (Jason Derulo x Melody Version),29,1,apple_sk,72,,,,,,
+216,Fontaines D.C.,Demolition,29,1,deezer_cz,,,,72,984048,,
+217,ADÉLA,Fantasize,29,1,deezer_sk,,72,,,672652,sk,adela
+218,Miyagi & Эндшпиль,I Got Love (feat. Рем Дигга),28,1,apple_sk,73,,,,,,
+219,Honza Nedved,Podvod,28,1,deezer_sk,,73,,,257865,,
+220,Kontrafakt,Neviditelnej (feat. Viktor Sheen & Calin),27,1,apple_sk,74,,,,,cz+sk,calin | kontrafakt | viktor sheen
+221,Fontaines D.C.,One Man,27,1,deezer_cz,,,,74,977360,,
+222,Nirvana,Smells Like Teen Spirit,27,1,deezer_sk,,74,,,985641,,
+223,P T K,GÔŇO,26,1,apple_cz,,,75,,,cz,p t k
+224,Deep Purple,Highway Star (Remastered 2012),26,1,deezer_sk,,75,,,736151,,
+225,Bonnie Tyler,Total Eclipse of the Heart,25,1,deezer_cz,,,,76,961966,,
+226,Oasis,Wonderwall,24,1,apple_cz,,,77,,,,
+227,Raphael & RICO,Nemáme,24,1,apple_sk,77,,,,,,
+228,Wheatus,Teenage Dirtbag,24,1,deezer_cz,,,,77,918906,,
+229,AC/DC,Thunderstruck,24,1,deezer_sk,,77,,,950981,,
+230,P T K,BALLER,23,1,apple_cz,,,78,,,cz,p t k
+231,Viktor Sheen,Sérum,23,1,apple_sk,78,,,,,cz,viktor sheen
+232,Dido,Thank You,23,1,deezer_cz,,,,78,861150,,
+233,Ewa Farna,BIG MAC,22,1,apple_cz,,,79,,,cz,ewa farna
+234,Lady Gaga,Paparazzi,22,1,deezer_cz,,,,79,939699,,
+235,Kali Uchis,Tyrant,22,1,deezer_sk,,79,,,505228,,
+236,Sebastian & Ben Cristovao,CHEMIE,21,1,apple_cz,,,80,,,cz,ben cristovao
+237,Separ,Strýko Separ,21,1,apple_sk,80,,,,,sk,separ
+238,Adele,Turning Tables,21,1,deezer_cz,,,,80,917891,,
+239,Post Malone,Take What You Want,21,1,deezer_sk,,80,,,699979,,
+240,U2,One,20,1,deezer_cz,,,,81,836632,,
+241,Enrythm,The Temple,20,1,deezer_sk,,81,,,158507,,
+242,LINKIN PARK,In the End,19,1,apple_cz,,,82,,,,
+243,Separ,Origami (feat. Ben Cristovao),19,1,apple_sk,82,,,,,cz+sk,ben cristovao | separ
+244,The Connells,'74-'75,19,1,deezer_cz,,,,82,809860,,
+245,Ava Max,Take You To Hell,19,1,deezer_sk,,82,,,557316,,
+246,Sara Rikas & Viktor Sheen,Iné Plemená,18,1,apple_sk,83,,,,,cz+sk,sara rikas | viktor sheen
+247,Harry Styles,As It Was,18,1,deezer_cz,,,,83,969095,,
+248,Werenoi,Virus,18,1,deezer_sk,,83,,,844069,,
+249,Nerieš,Ruka Na Volante,17,1,apple_sk,84,,,,,,
+250,Disturbed,The Sound of Silence (CYRIL Remix),17,1,deezer_sk,,84,,,937965,,
+251,Lady Gaga,Die With A Smile,16,1,deezer_cz,,,,85,997757,,
+252,"Danior, Tunisino, Pokracuj & Rytmus",Cigan G,15,1,apple_sk,86,,,,,sk,rytmus
+253,Linkin Park,Heavy Is the Crown,15,1,deezer_cz,,,,86,897930,,
+254,The Kid LAROI,GIRLS,15,1,deezer_sk,,86,,,866132,,
+255,P T K & Viktor Sheen,VZHŮRU CELOU NOC,14,1,apple_cz,,,87,,,cz,p t k | viktor sheen
+256,Pil C,CARA MIA (feat. Alan Murin),14,1,apple_sk,87,,,,,sk,alan murin | pil c
+257,The Killers,Mr. Brightside,13,1,apple_cz,,,88,,,,
+258,"Yzomandias, NobodyListen, Luca Brassi10x, Saul, Blako & Nik Tendo",NFS,13,1,apple_sk,88,,,,,cz+sk,nik tendo | saul | yzomandias
+259,sombr,back to friends,13,1,deezer_cz,,,,88,980345,,
+260,sombr,we never dated,13,1,deezer_sk,,88,,,882668,,
+261,Yzomandias,máme toho moc,12,1,apple_cz,,,89,,,cz,yzomandias
+262,Nerieš & Separ,Viac,12,1,apple_sk,89,,,,,sk,separ
+263,h6itam,MONTAGEM ALQUIMIA (SLOWED),12,1,deezer_cz,,,,89,814774,,
+264,Para,Prepojení,12,1,deezer_sk,,89,,,209777,,
+265,P T K,TINTED WINDOWS,11,1,apple_cz,,,90,,,cz,p t k
+266,P T K,NEŽ NEJSEM DEAD,11,1,deezer_cz,,,,90,264846,cz,p t k
+267,Viktor Sheen,Alucard,10,1,apple_cz,,,91,,,cz,viktor sheen
+268,DANZ HUN,První Chain,9,1,apple_cz,,,92,,,,
+269,David Guetta,Sexy Bitch (feat. Akon),9,1,apple_sk,92,,,,,,
+270,Ashe,Stardust,9,1,deezer_cz,,,,92,709226,,
+271,Ariana Grande,Into You,8,1,apple_cz,,,93,,,,
+272,Fontaines D.C.,Happy For You,8,1,deezer_cz,,,,93,985243,,
+273,Will Smith,Miami,8,1,deezer_sk,,93,,,689920,,
+274,Katy Perry,Legendary Lovers,7,1,apple_cz,,,94,,,,
+275,Raphael,22,7,1,apple_sk,94,,,,,,
+276,Fontaines D.C.,You Miss Me,7,1,deezer_cz,,,,94,974489,,
+277,Desmod,Na Tebe Zavisly,7,1,deezer_sk,,94,,,114857,sk,desmod
+278,David Guetta,Memories (feat. Kid Cudi),6,1,apple_cz,,,95,,,,
+279,Journey,Don't Stop Believin',6,1,deezer_cz,,,,95,916669,,
+280,Calin,Dilema (Over U),5,1,apple_cz,,,96,,,cz,calin
+281,Linkin Park,Numb,5,1,deezer_cz,,,,96,974827,,
+282,Lil Wayne,Love Me,5,1,deezer_sk,,96,,,883024,,
+283,"Yzomandias, P T K & Sara Rikas",Svoboda,4,1,apple_cz,,,97,,,cz+sk,p t k | sara rikas | yzomandias
+284,Saul & Viktor Sheen,Na Očiach Vyryté,4,1,apple_sk,97,,,,,cz+sk,saul | viktor sheen
+285,Kiss,I Was Made For Lovin' You,4,1,deezer_cz,,,,97,922154,,
+286,Darude,Sandstorm (Radio Edit),4,1,deezer_sk,,97,,,660211,,
+287,Rihanna,Don't Stop the Music,3,1,apple_sk,98,,,,,,
+288,Coldplay,Yellow,3,1,deezer_cz,,,,98,971942,,
+289,Birdy,Wings,3,1,deezer_sk,,98,,,838258,,
+290,LINKIN PARK,The Emptiness Machine,2,1,apple_cz,,,99,,,,
+291,Szidi Tobias,Na hotelu V Olomouci,2,1,deezer_cz,,,,99,192694,sk,szidi tobias
+292,The Offspring,The Kids Aren't Alright,2,1,deezer_sk,,99,,,962149,,
+293,P T K,ONLY WAY OUT IS THROUGH THE S***S 2,1,1,apple_cz,,,100,,,cz,p t k
+294,Adele,Rolling in the Deep,1,1,deezer_cz,,,,100,972160,,
+295,50 Cent,Candy Shop,1,1,deezer_sk,,100,,,785772,,

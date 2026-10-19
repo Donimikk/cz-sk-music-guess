@@ -44,11 +44,11 @@ MIN_INTERVAL = {"itunes.apple.com": 4.0, "api.deezer.com": 0.2, "query.wikidata.
 _last_call: dict[str, float] = {}
 
 
-def fetch_json(url: str, params: dict) -> dict:
+def fetch_json(url: str, params: dict, cache: bool = True) -> dict:
     full = url + "?" + urllib.parse.urlencode(params)
     key = hashlib.sha1(full.encode()).hexdigest()
     path = CACHE / f"{key}.json"
-    if path.exists():
+    if cache and path.exists():
         return json.loads(path.read_text(encoding="utf-8"))
 
     host = urllib.parse.urlparse(url).hostname
@@ -113,6 +113,15 @@ def wikidata_artists(country_qid: str) -> list[dict]:
 
 
 def add_labels_and_ids(artists: list[dict]) -> None:
+    by_qid = {a["qid"]: a for a in artists}
+    for a in artists:
+        a.update(name=a["qid"], wd_apple_id="", wd_deezer_id="")
+    # Chunks keep the GET URL short (the whole CZ pool in one query → 414).
+    for start in range(0, len(artists), 150):
+        _labels_chunk(artists[start:start + 150], by_qid)
+
+
+def _labels_chunk(artists: list[dict], by_qid: dict) -> None:
     values = " ".join(f"wd:{a['qid']}" for a in artists)
     query = f"""
     SELECT ?a ?sk ?cs ?en ?apple ?deezer WHERE {{
@@ -123,9 +132,6 @@ def add_labels_and_ids(artists: list[dict]) -> None:
       OPTIONAL {{ ?a rdfs:label ?cs FILTER(LANG(?cs) = "cs") }}
       OPTIONAL {{ ?a rdfs:label ?en FILTER(LANG(?en) = "en") }}
     }}"""
-    by_qid = {a["qid"]: a for a in artists}
-    for a in artists:
-        a.update(name=a["qid"], wd_apple_id="", wd_deezer_id="")
     for b in sparql(query):
         a = by_qid[b["a"]["value"].rsplit("/", 1)[1]]
         a["name"] = next((b[k]["value"] for k in ("sk", "cs", "en") if k in b), a["qid"])
