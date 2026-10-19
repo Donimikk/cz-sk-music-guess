@@ -35,6 +35,8 @@ CHARTS = {
     42: "sk_radio_top50_sk",
     43: "sk_digital_top100",
     44: "sk_digital_top50_sk",
+    14: "cz_albums_top100",
+    36: "sk_albums_top100",
 }
 COLUMNS = ["pos", "pos_1w", "pos_2w", "artist", "title", "label", "peak", "weeks", "ph"]
 
