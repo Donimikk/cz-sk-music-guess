@@ -4,3 +4,4 @@ __pycache__/
 .venv/
 data/cache/
 data/ifpi/raw/
+data/ifpi/charts.csv
