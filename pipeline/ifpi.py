@@ -22,6 +22,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "data" / "ifpi" / "raw"
 OUT = ROOT / "data" / "ifpi" / "charts.csv"
+SONGS = ROOT / "data" / "ifpi" / "songs.csv"
 BASE = "https://ifpicr.cz"
 USER_AGENT = "hudle-pilot/0.1 (+https://github.com/Donimikk/cz-sk-music-guess)"
 
@@ -128,12 +129,38 @@ def main() -> None:
         for (chart_id, week_id, label) in sorted(results, key=lambda k: (k[0], k[1])):
             rows = parse(results[(chart_id, week_id, label)])
             empty += not rows
-            year = re.search(r"(\d{4})$", label).group(1)
+            year = re.search(r"(\d{4})", label)  # a few labels have trailing text after the year
+            year = year.group(1) if year else ""
             for r in rows:
                 w.writerow([CHARTS[chart_id], week_id, label, year] + (r + [""] * len(COLUMNS))[:len(COLUMNS)])
                 rows_out += 1
     print(f"{len(jobs)} chart-weeks ({empty} empty), {rows_out} rows → {OUT.relative_to(ROOT)} "
           f"in {time.monotonic() - started:.0f} s")
+    summarize()
+
+
+def summarize() -> None:
+    """One row per chart + song: weeks on chart, best position, first and last week."""
+    songs: dict[tuple, dict] = {}
+    with open(OUT, encoding="utf-8") as f:
+        for r in csv.DictReader(f):
+            if not r["pos"].isdigit():
+                continue
+            key = (r["chart"], r["artist"], r["title"])
+            s = songs.setdefault(key, {"weeks": 0, "best": 999, "first_id": 10**9, "last_id": 0})
+            wid = int(r["week_id"])
+            s["weeks"] += 1
+            s["best"] = min(s["best"], int(r["pos"]))
+            if wid < s["first_id"]:
+                s["first_id"], s["first_week"] = wid, r["week"]
+            if wid > s["last_id"]:
+                s["last_id"], s["last_week"] = wid, r["week"]
+    with open(SONGS, "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["chart", "artist", "title", "weeks", "best_pos", "first_week", "last_week"])
+        for (chart, artist, title), s in sorted(songs.items(), key=lambda kv: (kv[0][0], -kv[1]["weeks"])):
+            w.writerow([chart, artist, title, s["weeks"], s["best"], s["first_week"], s["last_week"]])
+    print(f"{len(songs)} chart/song rows → {SONGS.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":
