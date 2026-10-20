@@ -1,0 +1,1 @@
+spotifyscraper==3.9.2
