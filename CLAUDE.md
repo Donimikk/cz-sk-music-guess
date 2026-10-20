@@ -4,6 +4,9 @@ Rules learned while building the song pipeline. They live here until the project
 only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignored).
 
 ## Running the pipeline
+- `pipeline/spotify.py` needs the project venv: `.venv/Scripts/python -m pip install -r requirements.txt`,
+  then `.venv/Scripts/python pipeline/spotify.py`. The other scripts use only the standard library.
+- Spotify data (`spotifyscraper`) is used only to pick songs for the catalogue, never in the public game.
 - Test small first: `python pipeline/build_v0.py --per-chart-type 20`, full run only after that looks right.
 - Every response is cached on disk by URL (`data/cache/`), so reruns are seconds. To try a matching
   fix, rerun from cache instead of calling the APIs again.
@@ -30,6 +33,15 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
 - Known title traps: `(feat. …)` on either side, `(Album Version)` is the original, Apple censors
   words with `*` ("P***y Power"), IFPI censors too ("S***S"), several artists share a name ("Smack").
 - Prefer the explicit original over a clean edit (bleeped preview); year = earliest release.
+
+## Who is a domestic artist
+- Being on a domestic IFPI chart is not enough: foreign guests appear there too (Adam Port, 3rd on
+  "Positions"), and a name-only Spotify search finds foreign namesakes (US rapper "67").
+- Spotify top-5 listener cities are the best signal (Dušan Vlk: Prague, Bratislava, Nitra…), but they
+  fail for domestic stars with a global hit (ADÉLA: Quezon City, London) and small artists have none.
+  Rule in `pipeline/spotify.py`: CZ/SK cities ≥ 50 % OR lead artist on an IFPI domestic song OR no city
+  data — and always the discography must contain one of the artist's IFPI songs.
+- Don't drop guest-only artists: Dušan Vlk is only a guest in IFPI.
 
 ## Data selection
 - Ranking by total weeks on IFPI charts misses new songs and fan-base artists with short release
