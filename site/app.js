@@ -56,15 +56,24 @@ function dailyOrder() {
 }
 
 // ---------- audio ----------
-async function loadPreview(song) {
-  setStatus("Načítavam ukážku…");
+// Look up the preview URL, download and decode it. Used for the current song and to prepare the next one.
+async function fetchPreview(song) {
   const res = await fetch(`https://itunes.apple.com/lookup?id=${song.id}&country=${song.store}`);
   if (!res.ok) throw new Error(`iTunes ${res.status}`);
   const url = (await res.json()).results?.[0]?.previewUrl;
   if (!url) throw new Error("no preview");
   const bytes = await (await fetch(url)).arrayBuffer();
   audio.ctx = audio.ctx || new (window.AudioContext || window.webkitAudioContext)();
-  audio.buffer = await audio.ctx.decodeAudioData(bytes);
+  return audio.ctx.decodeAudioData(bytes);
+}
+
+async function loadPreview(song, prepared) {
+  setStatus("Načítavam ukážku…");
+  let buffer = null;
+  if (prepared) {
+    try { buffer = await prepared; } catch { /* preparing failed: load it now */ }
+  }
+  audio.buffer = buffer || await fetchPreview(song);
   setStatus("");
 }
 
@@ -120,25 +129,47 @@ function play() {
 
 // ---------- game ----------
 // Fetch the cover while the player is still guessing, so the answer shows it without a wait.
-let coverPreload = null;
+const coverPreloads = new Map(); // song id → Image, kept so the browser doesn't drop it
 function preloadCover(song) {
-  coverPreload = new Image();
-  coverPreload.src = song.cover;
+  if (coverPreloads.has(song.id)) return;
+  const img = new Image();
+  img.src = song.cover;
+  coverPreloads.set(song.id, img);
+  if (coverPreloads.size > 4) coverPreloads.delete(coverPreloads.keys().next().value);
 }
 
-async function start(song) {
+// Infinite mode: the next song is picked and its preview and cover are loaded while the current one is guessed,
+// so "Ďalšia pesnička" starts without a wait.
+let upcoming = null; // {song, preview: Promise<AudioBuffer>}
+function prepareNext() {
+  if (mode !== "infinite") return;
+  const song = randomUnplayed(game.song.id);
+  const preview = fetchPreview(song);
+  preview.catch(() => { /* loadPreview retries when the song starts */ });
+  preloadCover(song);
+  upcoming = { song, preview };
+}
+
+async function start(song, prepared) {
   stopAudio();
   audio.buffer = null;
+  upcoming = null;
   preloadCover(song);
   game = restore(song) || { song, guesses: [], done: false, won: false };
   render();
   try {
-    await loadPreview(song);
+    await loadPreview(song, prepared);
   } catch (e) {
     console.error(e);
     setStatus("Ukážku sa nepodarilo načítať. Skús to o chvíľu znova.");
   }
   render();
+  if (game.song === song) prepareNext();
+}
+
+function startNext() {
+  if (upcoming) start(upcoming.song, upcoming.preview);
+  else start(randomUnplayed(game?.song.id));
 }
 
 function restore(song) {
@@ -334,8 +365,9 @@ function submit() {
   guess(s);
 }
 
-function randomUnplayed() {
+function randomUnplayed(currentId) {
   const played = new Set(load().played || []);
+  if (currentId) played.add(currentId);
   const pool = songs.filter((s) => !played.has(s.id));
   const from = pool.length ? pool : songs;
   return from[Math.floor(Math.random() * from.length)];
@@ -353,7 +385,7 @@ async function init() {
   $("play").addEventListener("click", play);
   $("skip").addEventListener("click", skip);
   $("submit").addEventListener("click", submit);
-  $("next").addEventListener("click", () => start(randomUnplayed()));
+  $("next").addEventListener("click", startNext);
   $("guess").addEventListener("input", updateSuggestions);
   $("guess").addEventListener("keydown", (e) => {
     if (e.key === "ArrowDown" || e.key === "ArrowUp") {
