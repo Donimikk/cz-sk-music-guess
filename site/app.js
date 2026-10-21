@@ -1,8 +1,9 @@
-// Hudle prototype — daily + infinite song guessing from iTunes previews.
+// Hudle — daily + infinite song guessing from iTunes previews.
 // The song list (songs.json) holds iTunes track IDs only; the preview URL is looked up at play time.
 "use strict";
 
 const STAGES = [1, 2, 4, 7, 11, 16]; // seconds unlocked per attempt
+const MAX = STAGES[STAGES.length - 1];
 const EPOCH = Date.UTC(2026, 9, 19); // day #1 of the daily puzzle
 const STORE_KEY = "hudle:v0";
 
@@ -10,13 +11,17 @@ const $ = (id) => document.getElementById(id);
 let songs = [];
 let mode = "daily";
 let game = null;   // {song, guesses: [{kind, text}], done, won}
-let audio = { ctx: null, buffer: null, source: null, startedAt: 0, raf: 0 };
+let audio = { ctx: null, buffer: null, source: null, startedAt: 0, from: 0, raf: 0 };
 
 // ---------- helpers ----------
 const norm = (s) => s.normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase()
   .replace(/[^\p{L}\p{N}]+/gu, " ").trim();
 const label = (s) => `${s.artist} – ${s.title}`;
 const mainArtist = (s) => norm(s.artist.split(/,|&| x | feat\.? /i)[0]);
+const clock = (sec) => `0:${String(Math.floor(sec)).padStart(2, "0")}`;
+const unlockedSeconds = () => game.done ? MAX : STAGES[Math.min(game.guesses.length, STAGES.length - 1)];
+// The bar shows 16 s while guessing and the whole preview once the game is over.
+const barLength = () => game.done && audio.buffer ? audio.buffer.duration : MAX;
 
 function load() {
   try { return JSON.parse(localStorage.getItem(STORE_KEY)) || {}; } catch { return {}; }
@@ -63,19 +68,30 @@ async function loadPreview(song) {
   setStatus("");
 }
 
+function setPlaying(on) {
+  $("disc").classList.toggle("playing", on);
+  $("playShape").setAttribute("d", on ? "M7 5h4v14H7zM13 5h4v14h-4z" : "M8 5v14l11-7z");
+  $("play").setAttribute("aria-label", on ? "Zastaviť" : game?.done ? "Prehrať celú ukážku" : "Prehrať ukážku");
+}
+
+function showProgress(sec) {
+  $("progress").style.width = `${Math.min(100, (sec / barLength()) * 100)}%`;
+  $("elapsed").textContent = clock(sec);
+}
+
 function stopAudio() {
   if (audio.source) { try { audio.source.stop(); } catch { /* already stopped */ } }
   audio.source = null;
   cancelAnimationFrame(audio.raf);
-  $("progress").style.width = "0";
-  $("play").textContent = "▶";
+  showProgress(0);
+  setPlaying(false);
 }
 
-async function play() {
-  if (audio.source) return stopAudio();
+// Play [from, to) seconds of the preview.
+async function playSegment(from, to) {
+  stopAudio();
   if (!audio.buffer) return;
   await audio.ctx.resume();
-  const seconds = game.done ? audio.buffer.duration : STAGES[Math.min(game.guesses.length, STAGES.length - 1)];
   const src = audio.ctx.createBufferSource();
   const gain = audio.ctx.createGain();
   src.buffer = audio.buffer;
@@ -83,18 +99,23 @@ async function play() {
   const t = audio.ctx.currentTime;
   gain.gain.setValueAtTime(0, t);
   gain.gain.linearRampToValueAtTime(1, t + 0.005); // short fade-in against clicks
-  src.start(t, 0, seconds);
+  src.start(t, from, to - from);
   src.onended = () => { if (audio.source === src) stopAudio(); };
   audio.source = src;
   audio.startedAt = t;
-  $("play").textContent = "■";
-  const total = game.done ? audio.buffer.duration : STAGES[STAGES.length - 1];
+  audio.from = from;
+  setPlaying(true);
   const tick = () => {
-    const elapsed = audio.ctx.currentTime - audio.startedAt;
-    $("progress").style.width = `${Math.min(100, (elapsed / total) * 100)}%`;
+    showProgress(audio.from + (audio.ctx.currentTime - audio.startedAt));
     audio.raf = requestAnimationFrame(tick);
   };
   tick();
+}
+
+function play() {
+  if (audio.source) return stopAudio();
+  if (!audio.buffer) return;
+  playSegment(0, game.done ? audio.buffer.duration : unlockedSeconds());
 }
 
 // ---------- game ----------
@@ -139,10 +160,16 @@ function guess(song) {
   next();
 }
 
+// Skipping plays only the newly unlocked part, from where the previous attempt ended.
 function skip() {
   if (game.done) return;
-  game.guesses.push({ kind: "skip", text: `Preskočené (+${nextStep()} s)` });
+  const step = nextStep();
+  game.guesses.push({ kind: "skip", text: step ? `Preskočené (+${step} s)` : "Vzdané" });
   next();
+  if (!game.done && audio.buffer) {
+    const i = game.guesses.length;
+    playSegment(STAGES[i - 1], STAGES[i]);
+  }
 }
 
 function nextStep() {
@@ -198,40 +225,58 @@ function setStatus(text) { $("status").textContent = text; }
 function render() {
   const board = $("board");
   board.innerHTML = "";
-  for (let i = 0; i < STAGES.length; i++) {
+  STAGES.forEach((_, i) => {
     const g = game.guesses[i];
-    const row = document.createElement("div");
-    row.className = `row ${g ? g.kind : ""}`;
-    const icon = { ok: "✓", near: "~", bad: "✗", skip: "–" }[g?.kind] || "";
-    row.innerHTML = `<span class="mark">${icon}</span><span></span>`;
-    row.lastChild.textContent = g ? g.text : "";
-    board.appendChild(row);
-  }
+    const li = document.createElement("li");
+    li.className = g ? g.kind : !game.done && i === game.guesses.length ? "current" : "";
+    li.innerHTML = `<span class="mark" aria-hidden="true"></span><span class="text"></span>`;
+    li.querySelector(".mark").textContent = { ok: "✓", near: "~", bad: "✗", skip: "–" }[g?.kind] || "";
+    li.querySelector(".text").textContent = g ? g.text : "";
+    board.appendChild(li);
+  });
 
-  const unlocked = game.done ? STAGES[STAGES.length - 1] : STAGES[Math.min(game.guesses.length, STAGES.length - 1)];
-  $("unlocked").style.width = `${(unlocked / STAGES[STAGES.length - 1]) * 100}%`;
-  $("ticks").innerHTML = STAGES.map((s) => `<span style="left:${(s / STAGES[STAGES.length - 1]) * 100}%">${s}s</span>`).join("");
+  // bar: attempt boundaries while guessing, unlocked part, total length
+  const len = barLength();
+  const bar = $("bar");
+  bar.querySelectorAll(".bar-tick").forEach((t) => t.remove());
+  if (!game.done) {
+    STAGES.slice(0, -1).forEach((s) => {
+      const tick = document.createElement("span");
+      tick.className = "bar-tick";
+      tick.style.left = `${(s / MAX) * 100}%`;
+      bar.appendChild(tick);
+    });
+  }
+  $("unlocked").style.width = `${(Math.min(unlockedSeconds(), len) / len) * 100}%`;
+  $("total").textContent = clock(len);
+
   $("play").disabled = !audio.buffer;
+  if (!audio.source) setPlaying(false);
+  if (audio.buffer) setStatus(game.done ? "" : `Odomknuté ${unlockedSeconds()} s`);
 
   $("subtitle").textContent = mode === "daily"
-    ? `Pesnička dňa #${dayNumber()} · ${songs.length} českých a slovenských hitov od roku 2020`
-    : "Nekonečný režim · hraj, koľko chceš";
+    ? `Pesnička dňa č. ${dayNumber()}`
+    : "Nekonečná hra";
   $("controls").hidden = game.done;
   const step = nextStep();
   $("skip").textContent = step ? `Preskočiť (+${step} s)` : "Vzdať sa";
 
+  const s = game.song;
   $("result").hidden = !game.done;
   if (game.done) {
-    const s = game.song;
-    $("verdict").textContent = game.won ? `Uhádol si na ${game.guesses.length}. pokus!` : "Tentoraz nie.";
-    $("answer").textContent = `${label(s)} (${s.year})`;
     $("cover").src = s.cover;
+    $("verdict").textContent = game.won ? `Uhádnuté na ${game.guesses.length}. pokus` : "Tentoraz nie";
+    $("answerArtist").textContent = s.artist;
+    $("answerTitle").textContent = `${s.title} (${s.year})`;
     $("apple").href = s.url;
     $("next").hidden = mode !== "infinite";
+    $("share").textContent = "Zdieľať výsledok";
     const st = load().stats;
     $("stats").textContent = mode === "daily" && st
-      ? `Odohrané: ${st.played} · Úspešnosť: ${Math.round((st.won / st.played) * 100)} % · Séria: ${st.streak} (najlepšia ${st.best})`
+      ? `Odohrané ${st.played}, úspešnosť ${Math.round((st.won / st.played) * 100)} %, séria ${st.streak} (najdlhšia ${st.best})`
       : "";
+  } else {
+    $("cover").removeAttribute("src");
   }
 }
 
@@ -289,7 +334,7 @@ function randomUnplayed() {
 
 function setMode(m) {
   mode = m;
-  document.querySelectorAll(".tab").forEach((t) => t.classList.toggle("active", t.dataset.mode === m));
+  document.querySelectorAll(".mode").forEach((t) => t.setAttribute("aria-pressed", t.dataset.mode === m));
   const order = dailyOrder();
   start(m === "daily" ? order[(dayNumber() - 1 + order.length * 1000) % order.length] : randomUnplayed());
 }
@@ -316,10 +361,10 @@ async function init() {
     const text = shareText();
     try {
       if (navigator.share) await navigator.share({ text });
-      else { await navigator.clipboard.writeText(text); $("share").textContent = "Skopírované!"; }
+      else { await navigator.clipboard.writeText(text); $("share").textContent = "Skopírované"; }
     } catch { /* user cancelled */ }
   });
-  document.querySelectorAll(".tab").forEach((t) => t.addEventListener("click", () => setMode(t.dataset.mode)));
+  document.querySelectorAll(".mode").forEach((t) => t.addEventListener("click", () => setMode(t.dataset.mode)));
   setMode("daily");
 }
 
