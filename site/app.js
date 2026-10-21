@@ -119,9 +119,17 @@ function play() {
 }
 
 // ---------- game ----------
+// Fetch the cover while the player is still guessing, so the answer shows it without a wait.
+let coverPreload = null;
+function preloadCover(song) {
+  coverPreload = new Image();
+  coverPreload.src = song.cover;
+}
+
 async function start(song) {
   stopAudio();
   audio.buffer = null;
+  preloadCover(song);
   game = restore(song) || { song, guesses: [], done: false, won: false };
   render();
   try {
