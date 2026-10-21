@@ -50,7 +50,7 @@ button, input { font: inherit; color: inherit; }
 .column { width: min(100% - 32px, 480px); margin-inline: auto; }
 
 /* header */
-.top { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 20px 0 6px; }
+.top { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 16px 0 4px; }
 .wordmark { margin: 0; font: 800 var(--t-xl)/1 var(--brand); letter-spacing: -.01em; }
 /* the one soft element: a pill track with a raised active pill (user's pick) */
 .modes {
@@ -66,13 +66,13 @@ button, input { font: inherit; color: inherit; }
   box-shadow: inset 0 1px rgba(255, 255, 255, .14), 0 2px 8px rgba(0, 0, 0, .35);
 }
 
-main { display: grid; gap: 16px; padding-top: 14px; }
+main { display: grid; gap: 14px; padding-top: 10px; }
 .puzzle { margin: 0; text-align: center; color: var(--muted); font-size: var(--t-s); }
 
 /* attempts */
-.attempts { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.attempts { list-style: none; margin: 0; padding: 0; display: grid; gap: 7px; }
 .attempts li {
-  display: flex; align-items: center; gap: 10px; min-height: 42px; padding: 6px 12px;
+  display: flex; align-items: center; gap: 10px; min-height: 38px; padding: 5px 12px;
   border-radius: 10px; background: var(--slot); border: 2px solid var(--edge); box-shadow: var(--hard);
 }
 .attempts li.current { background: #22224A; }
@@ -86,10 +86,10 @@ main { display: grid; gap: 16px; padding-top: 14px; }
 
 /* player card: half a record rising above the bar */
 .player {
-  display: grid; gap: 10px; padding: 16px 16px 12px; border-radius: 14px;
+  display: grid; gap: 8px; padding: 12px 14px 8px; border-radius: 14px;
   background: var(--card); border: 2px solid var(--edge); box-shadow: var(--hard-l);
 }
-.turntable { width: min(58%, 230px); aspect-ratio: 2 / 1; margin: 0 auto -6px; overflow: hidden; position: relative; }
+.turntable { width: min(46%, 200px); aspect-ratio: 2 / 1; margin: 0 auto -6px; overflow: hidden; position: relative; }
 .disc {
   position: absolute; inset: 0 0 auto 0; aspect-ratio: 1; border-radius: 50%;
   background:
@@ -103,7 +103,7 @@ main { display: grid; gap: 16px; padding-top: 14px; }
 .disc-label, .disc-cover {
   position: absolute; left: 50%; top: 50%; width: 34%; aspect-ratio: 1; translate: -50% -50%; border-radius: 50%;
 }
-.disc-label { background: radial-gradient(circle, var(--card) 0 5%, var(--mint) 5.5%); display: grid; justify-items: center; padding-top: 15%; }
+.disc-label { background: radial-gradient(circle, var(--card) 0 5%, var(--mint) 5.5%); display: grid; justify-items: center; align-content: start; padding-top: 4.5%; } /* % of the disc width */
 .disc-name { font: 800 clamp(.55rem, 2.2vw, .7rem)/1 var(--brand); color: var(--on-light); }
 .disc-cover { object-fit: cover; }
 .disc-cover:not([src]) { display: none; }
@@ -116,7 +116,7 @@ main { display: grid; gap: 16px; padding-top: 14px; }
 .times { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; color: var(--muted); font-size: var(--t-s); font-variant-numeric: tabular-nums; }
 #total { text-align: right; }
 .play {
-  width: 54px; height: 54px; border-radius: 50%; cursor: pointer; display: grid; place-items: center;
+  width: 50px; height: 50px; border-radius: 50%; cursor: pointer; display: grid; place-items: center;
   background: var(--mint); color: var(--on-light); border: 2px solid var(--edge); box-shadow: var(--hard);
   transition: transform .08s ease, box-shadow .08s ease;
 }
@@ -143,7 +143,7 @@ main { display: grid; gap: 16px; padding-top: 14px; }
 .buttons { display: flex; gap: 10px; }
 .buttons > * { flex: 1; }
 .primary, .ghost {
-  min-height: 48px; padding: 10px 14px; border-radius: 10px; cursor: pointer; font-weight: 700;
+  min-height: 48px; padding: 10px 8px; border-radius: 10px; cursor: pointer; font-weight: 700; white-space: nowrap;
   border: 2px solid var(--edge); box-shadow: var(--hard); transition: transform .08s ease, box-shadow .08s ease, filter .15s ease;
 }
 .primary { background: var(--yellow); color: var(--on-light); }
@@ -155,13 +155,14 @@ button:disabled { opacity: .45; cursor: default; }
 
 /* result */
 .result { display: grid; gap: 12px; text-align: center; }
+.result-cover { justify-self: center; width: 120px; height: 120px; border-radius: 10px; object-fit: cover; border: 2px solid var(--edge); box-shadow: var(--hard-l); background: var(--card); }
 .verdict { margin: 0; font: 800 var(--t-l)/1.2 var(--brand); }
 .answer { margin: 0; display: grid; gap: 2px; }
 .answer strong { font-size: var(--t-l); }
 .apple { color: var(--mint); justify-self: center; font-weight: 600; }
 .stats { margin: 0; color: var(--muted); font-size: var(--t-s); }
 
-.foot { color: var(--muted); font-size: var(--t-s); text-align: center; padding: 40px 0 24px; }
+.foot { color: var(--muted); font-size: var(--t-s); text-align: center; padding: 32px 0 20px; }
 
 @media (prefers-reduced-motion: reduce) {
   .disc { animation: none; }
