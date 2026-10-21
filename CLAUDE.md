@@ -55,6 +55,14 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
   peaks (Dušan Vlk: 47 songs in Spotify SK Top 200 for 1–4 days each, only one IFPI entry).
   Streaming numbers (kworb) must be part of candidate selection.
 
+## Site design
+- Don't build UI blind. Two redesigns described in words and built without a single preview were rejected
+  ("looks like 2022", "odporné"). Show options visually first (mockup artifact), let the user pick, then build.
+- Ground styling in real references: pull actual CSS values from comparable games with `curl` (WebFetch drops CSS).
+  Spotle and Songless values are in WORKLOG (2026-10-21).
+- User's taste so far: classic centred Heardle layout, dark blue background with depth, buttons that look like
+  buttons (raised, shadow, press state), the half record only as a small element above the bar.
+
 ## Cloud sessions
 - The container is lost at the end: before finishing, pack gitignored `data/` and `WORKLOG.md`
   and hand them to the user (zip). This session survived only thanks to a hub copy and the user's zip.
