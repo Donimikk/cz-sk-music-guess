@@ -381,7 +381,8 @@ function setMode(m) {
 }
 
 async function init() {
-  songs = await (await fetch("songs.json")).json();
+  // "no-cache" = revalidate with the server, so an updated song list reaches players right away.
+  songs = await (await fetch("songs.json", { cache: "no-cache" })).json();
   $("play").addEventListener("click", play);
   $("skip").addEventListener("click", skip);
   $("submit").addEventListener("click", submit);
