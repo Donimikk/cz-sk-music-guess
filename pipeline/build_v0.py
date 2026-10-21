@@ -52,6 +52,42 @@ def christmas(*texts: str) -> bool:
     return any(CHRISTMAS.search(t or "") for t in texts)
 
 
+# iTunes genres of DJ / club tracks, and of songs for children (user: both out).
+ELECTRONIC = {"Dance", "House", "Electronic", "Techno", "Trance", "Drum & Bass", "Dubstep", "Electronica", "Hardcore",
+              "Hard Dance", "Breakbeat", "Deep House", "Downtempo", "Bass", "Electro"}
+CHILDREN = {"Children’s Music", "Children's Music"}
+ITUNES_ARTIST_SPLIT = re.compile(r",\s*|\s+&\s+")
+
+
+def drop_dj_and_children(games: list[dict], review: list[dict]) -> list[dict]:
+    """Second pass, once every song has its iTunes genre. An electronic track stays only when a credited artist is a
+    singer/rapper, i.e. has 2+ songs in the list and most of them aren't electronic (Tribbs & Ben Cristovao stays,
+    Mairee's DJ tracks go). Songs for children go."""
+    songs_of: dict[str, list[dict]] = {}
+    for g in games:
+        for a in ITUNES_ARTIST_SPLIT.split(g["artist"]):
+            songs_of.setdefault(norm(a), []).append(g)
+
+    def vocalist(name: str) -> bool:
+        """A verified domestic singer/rapper (a Polish guest doesn't save a Tribbs track)."""
+        own = songs_of.get(norm(name), [])
+        return (norm(name) in spotify_artists()["domestic_names"] and len(own) >= 2
+                and sum(s["genre"] in ELECTRONIC for s in own) / len(own) < 0.5)
+
+    keep, why = [], {}
+    for g in games:
+        if g["genre"] in CHILDREN:
+            why[g["id"]] = "children's song"
+        elif g["genre"] in ELECTRONIC and not any(vocalist(a) for a in ITUNES_ARTIST_SPLIT.split(g["artist"])):
+            why[g["id"]] = f"electronic / DJ track ({g['genre']})"
+        else:
+            keep.append(g)
+    for r in review:
+        if r["itunes_id"] in why:
+            r["status"] = why[r["itunes_id"]]
+    return keep
+
+
 def clean_title(title: str) -> str:
     """Title without (feat. …), [Remix] etc. — used for matching and for the guess list."""
     return BRACKETS.sub("", title).split(" - ")[0].strip()
@@ -310,6 +346,7 @@ def main() -> None:
         if i % 25 == 0:
             print(f"  {i}/{len(cands)} resolved, {len(games)} playable", flush=True)
 
+    games = drop_dj_and_children(games, review)
     OUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     OUT_JSON.write_text(json.dumps(games, ensure_ascii=False, indent=0), encoding="utf-8")
     OUT_REVIEW.parent.mkdir(parents=True, exist_ok=True)
