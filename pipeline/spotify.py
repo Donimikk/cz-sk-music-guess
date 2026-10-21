@@ -11,14 +11,14 @@
 Output: data/spotify/artists.csv (one row per artist, with the reason when not found) and
 data/spotify/tracks.csv. Responses are cached in data/cache/spotify/ for 30 days.
 
-Usage: .venv/Scripts/python pipeline/spotify.py [--since 2020] [--limit 20]
+Usage: .venv/Scripts/python pipeline/spotify.py [--since 2020] [--limit 20] [--rate 2]
 """
 
 import argparse
 import csv
 import time
 
-from spotify_scraper import CacheConfig, FileCache, SpotifyClient, SpotifyScraperError
+from spotify_scraper import CacheConfig, FileCache, RateLimit, SpotifyClient, SpotifyScraperError
 
 from build_v0 import DOMESTIC, IFPI, artists_of, clean_title
 from pilot import ROOT, norm
@@ -147,6 +147,8 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--since", type=int, default=2020, help="artists charting in or after this year")
     parser.add_argument("--limit", type=int, help="only the first N artists (test run)")
+    parser.add_argument("--rate", type=float, default=2.0,
+                        help="requests/s; the limiter also waits on cache hits, so raise it for reruns from cache")
     args = parser.parse_args()
 
     seeds, _ = seed_artists(args.since)
@@ -154,7 +156,7 @@ def main() -> None:
     print(f"{len(names)} artists", flush=True)
     cache = CacheConfig(store=FileCache(CACHE), ttl_seconds=30 * 86400)
     artists, tracks = [], []
-    with SpotifyClient(cache=cache) as client:
+    with SpotifyClient(cache=cache, rate_limit=RateLimit(per_second=args.rate)) as client:
         for i, name in enumerate(names, 1):
             row = {"name": name, "ifpi_songs": len(seeds[name]), "status": "", "spotify_id": "",
                    "spotify_name": "", "monthly_listeners": "", "followers": "", "cz_sk_share": "",
