@@ -45,6 +45,9 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
   a candidate needs a verified domestic artist credited by name (tracks.csv has no artist ids).
 - IFPI domestic charts hold a few foreign songs; drop an IFPI song when all its artists are foreign by Spotify cities.
 - iTunes genres are noisy (Lucie Bílá "Christian", Calin "Soundtrack"): don't build categories on them alone.
+- DJ/electronic and children's songs out (user): electronic iTunes genre is dropped unless a verified domestic
+  singer/rapper is credited (`drop_dj_and_children`); children's artists go to `data/excluded_artists.csv`
+  (Miro Jaroš's song with Rytmus is tagged Pop, so a genre filter alone misses it).
 - Christmas: strict — title, album or genre (regex `CHRISTMAS` in build_v0.py); keep it narrow ("Santa Maria" is fine).
 
 ## Who is a domestic artist
@@ -74,6 +77,8 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
   `site/`, screenshots at 320 / 390 / 1280 into `.playwright-mcp/` (git-excluded). Chromium has no AAC → test with the
   real previews converted to WAV and route `itunes.apple.com/lookup` to them. The cloud session used system ffmpeg; this
   PC has none → `pip install av` (PyAV bundles ffmpeg) in a scratch venv. Don't fall back to a synthetic tone. The first screenshot found a crash on load that two versions had shipped with.
+- Stale cache: the browser kept an old songs.json and app.js. songs.json is fetched with `cache: "no-cache"`; in
+  Playwright clear the cache via CDP `Network.clearBrowserCache` before checking a new build.
 - CSS gotcha: % padding resolves against the containing block's width (the record label's text vanished under the bar).
 - User's taste so far: classic centred Heardle layout, dark blue background with depth, buttons that look like
   buttons (raised, shadow, press state), the half record only as a small element above the bar.
