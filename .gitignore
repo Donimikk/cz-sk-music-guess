@@ -9,3 +9,4 @@ data/ifpi/charts.csv
 # Downloaded / third-party data stays local (repo is public)
 data/*
 !data/domestic_artists.csv
+!data/excluded_artists.csv
