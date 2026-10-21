@@ -4,60 +4,75 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Hudle</title>
-  <meta name="description" content="Denná hra: uhádni českú alebo slovenskú pesničku z úvodných sekúnd.">
+  <meta name="description" content="Denná hra: uhádni českú alebo slovenskú pesničku z prvých sekúnd.">
+  <meta name="theme-color" content="#0F0F23">
+  <link rel="preload" href="fonts/onest-latin.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <h1>Hudle <span class="beta">prototyp</span></h1>
-    <nav>
-      <button class="tab active" data-mode="daily">Denná</button>
-      <button class="tab" data-mode="infinite">Nekonečná</button>
-    </nav>
-  </header>
+  <div class="column">
+    <header class="top">
+      <h1 class="wordmark">Hudle</h1>
+      <nav class="modes" aria-label="Režim hry">
+        <button class="mode" data-mode="daily" aria-pressed="true">Denná</button>
+        <button class="mode" data-mode="infinite" aria-pressed="false">Nekonečná</button>
+      </nav>
+    </header>
 
-  <main>
-    <p id="subtitle" class="muted"></p>
+    <main>
+      <p class="puzzle" id="subtitle"></p>
+      <ol class="attempts" id="board" aria-label="Pokusy"></ol>
 
-    <section id="board" aria-label="Pokusy"></section>
+      <section class="player" aria-label="Prehrávač">
+        <div class="turntable" aria-hidden="true">
+          <div class="disc" id="disc">
+            <span class="disc-label"><span class="disc-name">Hudle</span></span>
+            <img class="disc-cover" id="cover" alt="">
+          </div>
+        </div>
+        <div class="bar" id="bar" aria-hidden="true">
+          <div class="bar-unlocked" id="unlocked"></div>
+          <div class="bar-progress" id="progress"></div>
+        </div>
+        <div class="times">
+          <span id="elapsed">0:00</span>
+          <button class="play" id="play" aria-label="Prehrať ukážku" disabled>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path id="playShape" d="M8 5v14l11-7z"/></svg>
+          </button>
+          <span id="total">0:16</span>
+        </div>
+        <p class="status" id="status" role="status"></p>
+      </section>
 
-    <section id="player">
-      <div id="bar" aria-hidden="true"><div id="unlocked"></div><div id="progress"></div></div>
-      <div id="ticks" aria-hidden="true"></div>
-      <button id="play" aria-label="Prehrať">▶</button>
-      <p id="status" class="muted" role="status"></p>
-    </section>
+      <section class="controls" id="controls" aria-label="Tvoj tip">
+        <div class="search">
+          <ul id="suggestions" role="listbox" aria-label="Návrhy"></ul>
+          <input id="guess" type="text" autocomplete="off" spellcheck="false"
+                 placeholder="Interpret alebo názov pesničky"
+                 aria-label="Tvoj tip" aria-autocomplete="list" aria-controls="suggestions">
+        </div>
+        <div class="buttons">
+          <button id="skip" class="ghost">Preskočiť</button>
+          <button id="submit" class="primary">Hádať</button>
+        </div>
+      </section>
 
-    <section id="controls">
-      <div id="search">
-        <input id="guess" type="text" autocomplete="off" placeholder="Interpret alebo názov pesničky…"
-               aria-label="Tvoj tip" aria-autocomplete="list" aria-controls="suggestions">
-        <ul id="suggestions" role="listbox"></ul>
-      </div>
-      <div class="buttons">
-        <button id="skip">Preskočiť</button>
-        <button id="submit" class="primary">Hádať</button>
-      </div>
-    </section>
-
-    <section id="result" hidden>
-      <img id="cover" alt="">
-      <div>
-        <p id="verdict"></p>
-        <p id="answer"></p>
-        <p><a id="apple" target="_blank" rel="noopener">Počúvať v Apple Music</a></p>
+      <section class="result" id="result" hidden>
+        <p class="verdict" id="verdict"></p>
+        <p class="answer"><strong id="answerArtist"></strong><span id="answerTitle"></span></p>
         <div class="buttons">
           <button id="share" class="primary">Zdieľať výsledok</button>
-          <button id="next" hidden>Ďalšia pesnička</button>
+          <button id="next" class="ghost" hidden>Ďalšia pesnička</button>
         </div>
-        <p id="stats" class="muted"></p>
-      </div>
-    </section>
-  </main>
+        <a id="apple" class="apple" target="_blank" rel="noopener">Počúvať v Apple Music</a>
+        <p class="stats" id="stats"></p>
+      </section>
+    </main>
 
-  <footer class="muted">
-    Ukážky skladieb poskytuje Apple Music (iTunes). Výber pesničiek: domáce rebríčky ČNS IFPI 2020+.
-  </footer>
+    <footer class="foot">
+      Ukážky skladieb poskytuje Apple Music. Pesničky vyberáme z domácich rebríčkov ČNS IFPI od roku 2020.
+    </footer>
+  </div>
 
   <script src="app.js"></script>
 </body>
