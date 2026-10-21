@@ -21,7 +21,7 @@ const mainArtist = (s) => norm(s.artist.split(/,|&| x | feat\.? /i)[0]);
 const clock = (sec) => `0:${String(Math.floor(sec)).padStart(2, "0")}`;
 const unlockedSeconds = () => game.done ? MAX : STAGES[Math.min(game.guesses.length, STAGES.length - 1)];
 // The bar shows 16 s while guessing and the whole preview once the game is over.
-const barLength = () => game.done && audio.buffer ? audio.buffer.duration : MAX;
+const barLength = () => game?.done && audio.buffer ? audio.buffer.duration : MAX;
 
 function load() {
   try { return JSON.parse(localStorage.getItem(STORE_KEY)) || {}; } catch { return {}; }
@@ -247,7 +247,7 @@ function render() {
       bar.appendChild(tick);
     });
   }
-  $("unlocked").style.width = `${(Math.min(unlockedSeconds(), len) / len) * 100}%`;
+  $("unlocked").style.width = game.done ? "100%" : `${(unlockedSeconds() / len) * 100}%`;
   $("total").textContent = clock(len);
 
   $("play").disabled = !audio.buffer;
@@ -265,6 +265,7 @@ function render() {
   $("result").hidden = !game.done;
   if (game.done) {
     $("cover").src = s.cover;
+    $("resultCover").src = s.cover;
     $("verdict").textContent = game.won ? `Uhádnuté na ${game.guesses.length}. pokus` : "Tentoraz nie";
     $("answerArtist").textContent = s.artist;
     $("answerTitle").textContent = `${s.title} (${s.year})`;
