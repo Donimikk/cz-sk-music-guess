@@ -26,7 +26,8 @@ from pilot import ROOT, norm
 OUT = ROOT / "data" / "spotify"
 CACHE = ROOT / "data" / "cache" / "spotify"
 MAX_NAMESAKES = 3  # exact-name search hits checked per artist
-DOMESTIC_SHARE = 0.5  # min share of top-5 city listeners in CZ/SK
+DOMESTIC_SHARE = 0.3  # min share of top-5 city listeners in CZ/SK (B-complex 0.44, Jean Luc 0.31)
+MIN_IFPI_SONGS = 2  # artists with fewer IFPI songs must pass on listener cities (The Weeknd has 1)
 
 
 def seed_artists(since: int) -> tuple[dict[str, set[str]], set[str]]:
@@ -83,19 +84,32 @@ def overview(client: SpotifyClient, artist_id: str) -> dict:
             "top_cities": ", ".join(f"{c.get('city')} {c.get('country')}" for c in cities)}
 
 
-def resolve(client: SpotifyClient, name: str, ifpi_titles: set[str],
-            is_lead: bool) -> tuple[object, dict, list[dict], str]:
-    """(artist, overview, tracks, status). An exact-name hit is kept when most top-city listeners are
-    in CZ/SK (Dušan Vlk), or the artist leads an IFPI domestic song (ADÉLA: global hit, foreign cities),
-    or Spotify shows no cities (small artists). A foreign guest on a domestic song with foreign
-    listeners is dropped (Adam Port). Then the hit whose discography has an IFPI song is accepted."""
+def on_ifpi_song(client: SpotifyClient, artist_id: str, name: str, ifpi_titles: set[str]) -> bool:
+    """The artist is credited on one of their IFPI songs released by someone else
+    (Dušan Vlk is a guest on Yzomandias' "Limbo", which is not in his own discography)."""
+    for title in sorted(ifpi_titles)[:3]:
+        for t in client.search(f"{name} {title}", types=("track",), limit=10).tracks:
+            # Search results carry artist names only; the full track has the ids (3 artists are named "Dusan Vlk").
+            if norm(clean_title(t.name)) == title and any(norm(a.name) == name for a in t.artists):
+                if any(a.id == artist_id for a in client.get_track(t.id).artists):
+                    return True
+    return False
+
+
+def resolve(client: SpotifyClient, name: str, ifpi_titles: set[str]) -> tuple[object, dict, list[dict], str]:
+    """(artist, overview, tracks, status). An exact-name hit is kept when ≥30 % of its top-city
+    listeners are in CZ/SK (Dušan Vlk), or Spotify shows no cities (small artists), or the name has
+    ≥2 IFPI domestic songs (ADÉLA: global hit, foreign cities). Foreign artists with one song on a
+    domestic chart are dropped (Adam Port, The Weeknd). Then the hit with an IFPI song in its own
+    discography — or credited on one released by someone else — is accepted."""
     hits = [a for a in client.search(name, types=("artist",), limit=10).artists if norm(a.name) == name]
     if not hits:
         return None, {}, [], "no exact name on Spotify"
     domestic = []
     for a in hits[:MAX_NAMESAKES]:
         ov = overview(client, a.id)
-        if is_lead or ov["cz_sk_share"] == "" or ov["cz_sk_share"] >= DOMESTIC_SHARE:
+        share = ov["cz_sk_share"]
+        if share == "" or share >= DOMESTIC_SHARE or len(ifpi_titles) >= MIN_IFPI_SONGS:
             domestic.append((a, ov))
     if not domestic:
         return None, ov, [], f"not domestic by listener cities ({ov['top_cities'][:60]})"
@@ -108,6 +122,9 @@ def resolve(client: SpotifyClient, name: str, ifpi_titles: set[str],
         tracks = album_tracks(client, a.id)
         if any(norm(clean_title(t["name"])) in ifpi_titles for t in tracks):
             return a, ov, tracks, "ok"
+    for a, ov in domestic:
+        if on_ifpi_song(client, a.id, name, ifpi_titles):
+            return a, ov, album_tracks(client, a.id), "ok (guest on IFPI song)"
     return None, {}, [], f"no IFPI song in discography ({len(domestic)} domestic exact-name hits)"
 
 
@@ -132,7 +149,7 @@ def main() -> None:
     parser.add_argument("--limit", type=int, help="only the first N artists (test run)")
     args = parser.parse_args()
 
-    seeds, lead = seed_artists(args.since)
+    seeds, _ = seed_artists(args.since)
     names = sorted(seeds)[: args.limit] if args.limit else sorted(seeds)
     print(f"{len(names)} artists", flush=True)
     cache = CacheConfig(store=FileCache(CACHE), ttl_seconds=30 * 86400)
@@ -144,7 +161,7 @@ def main() -> None:
                    "top_cities": "", "tracks": 0}
             for attempt in range(2):  # Spotify sometimes reports a live entity as unavailable; retry once
                 try:
-                    hit, ov, rows, row["status"] = resolve(client, name, seeds[name], name in lead)
+                    hit, ov, rows, row["status"] = resolve(client, name, seeds[name])
                     row.update(ov)
                     if hit:
                         rows = merge_versions(rows)

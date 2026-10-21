@@ -39,9 +39,13 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
   "Positions"), and a name-only Spotify search finds foreign namesakes (US rapper "67").
 - Spotify top-5 listener cities are the best signal (Dušan Vlk: Prague, Bratislava, Nitra…), but they
   fail for domestic stars with a global hit (ADÉLA: Quezon City, London) and small artists have none.
-  Rule in `pipeline/spotify.py`: CZ/SK cities ≥ 50 % OR lead artist on an IFPI domestic song OR no city
-  data — and always the discography must contain one of the artist's IFPI songs.
-- Don't drop guest-only artists: Dušan Vlk is only a guest in IFPI.
+  Rule in `pipeline/spotify.py`: CZ/SK cities ≥ 30 % OR no city data OR ≥ 2 songs on IFPI domestic
+  charts — and always an IFPI song in the own discography or a credit on it (searched, then checked by id).
+- IFPI domestic charts contain a few foreign songs (The Weeknd "Popular", Central Cee "BAND4BAND"):
+  "lead artist on a domestic song" let those in. Foreign ones have exactly 1 IFPI song; domestic stars with
+  foreign listeners have more (ADÉLA 7, MIKOLAS 13).
+- Don't drop guest-only artists: Dušan Vlk is only a guest in IFPI ("Limbo" is on Yzomandias' release).
+- Spotify search results carry artist names, not ids; three artists are named "Dusan Vlk" → confirm with `get_track`.
 
 ## Data selection
 - Ranking by total weeks on IFPI charts misses new songs and fan-base artists with short release
