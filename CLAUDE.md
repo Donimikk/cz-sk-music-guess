@@ -15,6 +15,9 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
   one song has already broken another (censored titles, P T K).
 - Keep a reason for every dropped song in `data/v0/review.csv`. It answers "why is X missing" without re-running.
 - Async/parallel calls don't help: the iTunes limit is per IP. Make fewer calls instead.
+- spotifyscraper's rate limiter also waits on cache hits (2 req/s → a full rerun from cache took hours).
+  Rerun from cache with `--rate 25`; keep the default 2 for runs that hit Spotify.
+- `spotify.py` writes its CSVs only at the end: an interrupted run saves nothing (the cache survives).
 
 ## External APIs
 - Before caching an API's responses, check how it reports errors. Deezer returns quota errors as
