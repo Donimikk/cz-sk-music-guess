@@ -10,10 +10,13 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
 - Test small first: `python pipeline/build_v0.py --per-chart-type 20`, full run only after that looks right.
 - Every response is cached on disk by URL (`data/cache/`), so reruns are seconds. To try a matching
   fix, rerun from cache instead of calling the APIs again.
+- Before rerunning a build, copy `site/songs.json` and `data/v0/review.csv` aside: review.csv is overwritten and
+  without it an added/dropped song can't be explained (Radikal Chef "Euro Boy").
 - After any change to matching, diff the new `site/songs.json` against the last committed one
   (`git show HEAD:site/songs.json`) and explain every song that was added or dropped. A fix for
   one song has already broken another (censored titles, P T K).
 - Keep a reason for every dropped song in `data/v0/review.csv`. It answers "why is X missing" without re-running.
+- Shell gotcha: Python code with backslashes (``, line continuation) inside a bash heredoc gets mangled → use the Edit tool.
 - Async/parallel calls don't help: the iTunes limit is per IP. Make fewer calls instead.
 - spotifyscraper's rate limiter also waits on cache hits (2 req/s → a full rerun from cache took hours).
   Rerun from cache with `--rate 25`; keep the default 2 for runs that hit Spotify.
@@ -36,6 +39,13 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
 - Known title traps: `(feat. …)` on either side, `(Album Version)` is the original, Apple censors
   words with `*` ("P***y Power"), IFPI censors too ("S***S"), several artists share a name ("Smack").
 - Prefer the explicit original over a clean edit (bleeped preview); year = earliest release.
+- `norm()` keeps only Latin letters: Cyrillic/Korean names become "" and "" is a substring of everything — six
+  domestic songs were matched to Russian/Korean tracks (STEIN27 "STFU" → "Фрай"). Never accept an empty name.
+- A Spotify discography also lists others' releases (Karel Gott's holds German Stereoact remixes that don't credit him):
+  a candidate needs a verified domestic artist credited by name (tracks.csv has no artist ids).
+- IFPI domestic charts hold a few foreign songs; drop an IFPI song when all its artists are foreign by Spotify cities.
+- iTunes genres are noisy (Lucie Bílá "Christian", Calin "Soundtrack"): don't build categories on them alone.
+- Christmas: strict — title, album or genre (regex `CHRISTMAS` in build_v0.py); keep it narrow ("Santa Maria" is fine).
 
 ## Who is a domestic artist
 - Being on a domestic IFPI chart is not enough: foreign guests appear there too (Adam Port, 3rd on
