@@ -170,18 +170,22 @@ button:disabled { opacity: .45; cursor: default; }
 }
 .retry { justify-self: center; min-height: 40px; padding: 8px 16px; }
 
-/* difficulty levels: soft pills, one colour per level (easy → impossible) */
-.levels { display: flex; flex-wrap: wrap; justify-content: center; gap: 4px; }
+/* difficulty levels: pill shape, our tactile style (black edge + hard shadow); the chosen one is filled and pressed in */
+.levels { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; }
 .level {
-  --c: #7CF0C5; border: 0; border-radius: 100px; padding: 6px 9px; cursor: pointer;
-  font-weight: 700; font-size: .78rem; color: var(--c);
-  background: color-mix(in srgb, var(--c) 14%, transparent);
+  --c: #7CF0C5; border: 2px solid var(--edge); border-radius: 100px; padding: 5px 9px; cursor: pointer;
+  font-weight: 700; font-size: .78rem; color: var(--c); background: var(--slot); box-shadow: 2px 2px 0 var(--edge);
+  transition: transform .08s ease, box-shadow .08s ease;
 }
 .level[data-level="medium"] { --c: #FFD84D; }
 .level[data-level="hard"] { --c: #FF9F43; }
 .level[data-level="expert"] { --c: #FF6B6B; }
 .level[data-level="impossible"] { --c: #B98BFF; }
-.level[aria-checked="true"] {
-  background: var(--c); color: var(--on-light);
-  box-shadow: inset 0 1px rgba(255, 255, 255, .35), 0 2px 8px rgba(0, 0, 0, .35);
+.level:hover { filter: brightness(1.1); }
+.level[aria-checked="true"] { background: var(--c); color: var(--on-light); transform: translate(2px, 2px); box-shadow: 0 0 0 var(--edge); }
+
+.giveup {
+  justify-self: center; background: none; border: 0; padding: 4px 10px; cursor: pointer;
+  color: var(--muted); font-weight: 600; font-size: var(--t-s); text-decoration: underline; text-underline-offset: 3px;
 }
+.giveup:hover { color: var(--fg); }
