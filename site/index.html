@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Hudle</title>
-  <meta name="description" content="Denná hra: uhádni českú alebo slovenskú pesničku z prvých sekúnd.">
+  <meta name="description" content="Uhádni českú alebo slovenskú pesničku z prvých sekúnd.">
   <meta name="theme-color" content="#0F0F23">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%23050608'/%3E%3Ccircle cx='16' cy='16' r='6' fill='%237CF0C5'/%3E%3Ccircle cx='16' cy='16' r='1.5' fill='%23050608'/%3E%3C/svg%3E">
   <link rel="preload" href="fonts/onest-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -14,14 +14,10 @@
   <div class="column">
     <header class="top">
       <h1 class="wordmark">Hudle</h1>
-      <nav class="modes" aria-label="Režim hry">
-        <button class="mode" data-mode="daily" aria-pressed="true">Denná</button>
-        <button class="mode" data-mode="infinite" aria-pressed="false">Nekonečná</button>
-      </nav>
     </header>
 
     <main>
-      <p class="puzzle" id="subtitle"></p>
+      <p class="puzzle">Uhádni českú alebo slovenskú pesničku z čo najkratšej ukážky.</p>
       <ol class="attempts" id="board" aria-label="Pokusy"></ol>
 
       <section class="player" aria-label="Prehrávač">
@@ -65,7 +61,7 @@
         <p class="answer"><strong id="answerArtist"></strong><span id="answerTitle"></span></p>
         <div class="buttons">
           <button id="share" class="primary">Zdieľať výsledok</button>
-          <button id="next" class="ghost" hidden>Ďalšia pesnička</button>
+          <button id="next" class="ghost">Ďalšia pesnička</button>
         </div>
         <a id="apple" class="apple" target="_blank" rel="noopener">Počúvať v Apple Music</a>
         <p class="stats" id="stats"></p>
@@ -73,7 +69,7 @@
     </main>
 
     <footer class="foot">
-      Ukážky skladieb poskytuje Apple Music. Pesničky vyberáme z domácich rebríčkov ČNS IFPI od roku 2020.
+      Ukážky skladieb poskytuje Apple Music. Pesničky od roku 2020 vyberáme podľa domácich rebríčkov a počtu prehratí.
     </footer>
   </div>
 
