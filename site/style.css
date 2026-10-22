@@ -47,7 +47,7 @@ body {
 button, input { font: inherit; color: inherit; }
 :focus-visible { outline: 2px solid var(--yellow); outline-offset: 3px; }
 
-.column { width: min(100% - 32px, 480px); margin-inline: auto; }
+.column { position: relative; z-index: 1; width: min(100% - 32px, 480px); margin-inline: auto; }
 
 /* header */
 .top { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 16px 0 4px; }
@@ -155,10 +155,21 @@ button:disabled { opacity: .45; cursor: default; }
 
 /* result */
 .result { display: grid; gap: 12px; text-align: center; }
-.result-cover { justify-self: center; width: 120px; height: 120px; border-radius: 10px; object-fit: cover; border: 2px solid var(--edge); box-shadow: var(--hard-l); background: var(--card); }
-.verdict { margin: 0; font: 800 var(--t-l)/1.2 var(--brand); }
-.answer { margin: 0; display: grid; gap: 2px; }
-.answer strong { font-size: var(--t-l); }
+.answer { margin: 0; display: grid; gap: 4px; }
+.answer strong { font: 800 var(--t-l)/1.2 var(--brand); }
+.answer span { color: var(--muted); }
+.cover-wrap { position: relative; justify-self: center; }
+.result-cover { display: block; width: 132px; height: 132px; border-radius: 10px; object-fit: cover; border: 2px solid var(--edge); box-shadow: var(--hard-l); background: var(--card); }
+.badge { position: absolute; right: -22px; bottom: -18px; width: 56px; height: 56px; display: none; }
+.result.won .badge-ok, .result.lost .badge-bad { display: block; animation: pop .45s cubic-bezier(.2, 1.4, .4, 1) both; }
+@keyframes pop { from { transform: scale(.4) rotate(-12deg); opacity: 0; } to { transform: none; opacity: 1; } }
+.verdict { margin: 0; color: var(--muted); font-size: var(--t-s); }
+
+/* mood light behind the page: a soft light comes up after a guess, the room dims after a miss.
+   Opacity transitions only, so nothing blinks. */
+.mood { position: fixed; inset: 0; z-index: 0; pointer-events: none; opacity: 0; transition: opacity 1.4s ease; }
+.mood.won { background: radial-gradient(70% 50% at 50% 38%, rgba(61, 220, 132, .20), transparent 70%); opacity: 1; }
+.mood.lost { background: radial-gradient(120% 90% at 50% 40%, rgba(255, 77, 94, .06), rgba(0, 0, 0, .55) 75%); opacity: 1; }
 .apple { color: var(--mint); justify-self: center; font-weight: 600; }
 .stats { margin: 0; color: var(--muted); font-size: var(--t-s); }
 
@@ -166,6 +177,8 @@ button:disabled { opacity: .45; cursor: default; }
 
 @media (prefers-reduced-motion: reduce) {
   .disc { animation: none; }
+  .result .badge { animation: none; }
+  .mood { transition: none; }
   .bar-unlocked { transition: none; }
 }
 .retry { justify-self: center; min-height: 40px; padding: 8px 16px; }

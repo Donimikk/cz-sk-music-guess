@@ -307,12 +307,15 @@ function render() {
 
   const s = game.song;
   $("result").hidden = !game.done;
+  $("result").classList.toggle("won", game.done && game.won);
+  $("result").classList.toggle("lost", game.done && !game.won);
+  $("mood").className = "mood" + (game.done ? (game.won ? " won" : " lost") : "");
   if (game.done) {
     $("cover").src = s.cover;
     $("resultCover").src = s.cover;
-    $("verdict").textContent = game.won ? `Uhádnuté na ${game.guesses.length}. pokus` : "Tentoraz nie";
-    $("answerArtist").textContent = s.artist;
-    $("answerTitle").textContent = `${s.title} (${s.year})`;
+    $("verdict").textContent = game.won ? `Uhádnuté na ${game.guesses.length}. pokus` : "Neuhádnuté";
+    $("answerTitle").textContent = s.title;
+    $("answerArtist").textContent = `${s.artist} (${s.year})`;
     $("apple").href = s.url;
     $("share").textContent = "Zdieľať výsledok";
     const played = game.level || level;
