@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <div class="mood" id="mood" aria-hidden="true"></div>
   <div class="column">
     <header class="top">
       <h1 class="wordmark">Hudle</h1>
@@ -58,9 +59,22 @@
       </section>
 
       <section class="result" id="result" hidden>
-        <img class="result-cover" id="resultCover" alt="Obal albumu" width="120" height="120">
+        <p class="answer"><strong id="answerTitle"></strong><span id="answerArtist"></span></p>
+        <div class="cover-wrap">
+          <img class="result-cover" id="resultCover" alt="Obal albumu" width="132" height="132">
+          <!-- arcade badges: thick shape, black outline, hard offset shadow -->
+          <svg class="badge badge-ok" id="badgeOk" viewBox="0 0 64 64" aria-hidden="true">
+            <path d="M12 34 L26 48 L54 18" transform="translate(4 4)" fill="none" stroke="#000" stroke-width="16" stroke-linecap="square" stroke-linejoin="miter"/>
+            <path d="M12 34 L26 48 L54 18" fill="none" stroke="#000" stroke-width="16" stroke-linecap="square" stroke-linejoin="miter"/>
+            <path d="M12 34 L26 48 L54 18" fill="none" stroke="#3DDC84" stroke-width="9" stroke-linecap="square" stroke-linejoin="miter"/>
+          </svg>
+          <svg class="badge badge-bad" id="badgeBad" viewBox="0 0 64 64" aria-hidden="true">
+            <path d="M14 14 L50 50 M50 14 L14 50" transform="translate(4 4)" fill="none" stroke="#000" stroke-width="16" stroke-linecap="square"/>
+            <path d="M14 14 L50 50 M50 14 L14 50" fill="none" stroke="#000" stroke-width="16" stroke-linecap="square"/>
+            <path d="M14 14 L50 50 M50 14 L14 50" fill="none" stroke="#FF4D5E" stroke-width="9" stroke-linecap="square"/>
+          </svg>
+        </div>
         <p class="verdict" id="verdict"></p>
-        <p class="answer"><strong id="answerArtist"></strong><span id="answerTitle"></span></p>
         <div class="buttons">
           <button id="share" class="primary">Zdieľať výsledok</button>
           <button id="next" class="ghost">Ďalšia pesnička</button>
