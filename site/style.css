@@ -253,13 +253,22 @@ button:disabled { opacity: .45; cursor: default; }
 .filter-toggle { border: 2px solid var(--edge); border-radius: 100px; padding: 5px 12px; cursor: pointer; font-weight: 700;
   font-size: .75rem; color: var(--fg); background: var(--raised); box-shadow: 2px 2px 0 var(--edge); }
 .filter-toggle[aria-expanded="true"] { transform: translate(2px, 2px); box-shadow: none; }
-.filter-panel-wrap { width: 100%; display: grid; gap: 10px; padding: 12px; border-radius: 12px; background: var(--slot);
+.filter-panel-wrap { width: 100%; display: grid; gap: 16px; padding: 14px 14px 12px; border-radius: 12px; background: var(--slot);
   border: 2px solid var(--edge); box-shadow: 3px 3px 0 var(--edge); }
-.facet { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
-.facet-name { width: 100%; font-size: var(--t-s); color: var(--muted); font-weight: 600; }
+#filterPanel { display: grid; gap: 16px; }
+/* room under each row so the chips' hard shadow is not cut */
+.facet { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 6px; padding: 0 2px 2px 0; }
+.facet-name { width: 100%; margin-bottom: 2px; font-size: var(--t-s); color: var(--muted); font-weight: 600; }
 .facet-note { width: 100%; font-size: .72rem; color: var(--muted); }
 .chip { border: 2px solid var(--edge); border-radius: 8px; padding: 4px 9px; cursor: pointer; font-weight: 700; font-size: .75rem;
   color: var(--fg); background: var(--card); box-shadow: 2px 2px 0 var(--edge); }
 .chip[aria-pressed="true"] { background: var(--mint); color: var(--on-light); transform: translate(2px, 2px); box-shadow: none; }
 .chip:disabled { opacity: .35; cursor: default; }
 .filter-foot { display: flex; justify-content: space-between; align-items: center; font-size: var(--t-s); color: var(--muted); }
+
+/* wide screens: filters always open beside the game, at the edge of the column */
+@media (min-width: 1100px) {
+  .filters { position: absolute; top: 72px; left: calc(100% + 32px); width: 272px; justify-items: stretch; }
+  .filter-toggle { display: none; }
+  .filter-panel-wrap[hidden] { display: grid !important; }
+}
