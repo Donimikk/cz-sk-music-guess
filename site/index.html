@@ -14,7 +14,8 @@
   <div class="mood" id="mood" aria-hidden="true"></div>
   <div class="column">
     <header class="top">
-      <h1 class="wordmark">Hudle</h1>
+      <h1 class="wordmark" id="wordmark" aria-label="Hudle"><span aria-hidden="true">Hud</span><span class="logo-disc" aria-hidden="true"></span><span aria-hidden="true">le</span></h1>
+      <span class="tagline">Uhádni pesničku</span>
     </header>
 
     <main>
@@ -84,6 +85,11 @@
       </section>
     </main>
 
+    <div class="accent-switch" role="radiogroup" aria-label="Štýl (porovnanie)">
+      <span>Štýl</span>
+      <button class="accent" data-accent="b" role="radio">B: ružová</button>
+      <button class="accent" data-accent="c" role="radio">C: pás</button>
+    </div>
     <footer class="foot">
       Ukážky skladieb poskytuje Apple Music. Pesničky od roku 2020 vyberáme podľa domácich rebríčkov a počtu prehratí.
     </footer>

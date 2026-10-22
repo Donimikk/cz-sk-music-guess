@@ -473,6 +473,31 @@ async function init() {
   }
   start(pickNext());
   rememberScroll();
+  setupAccentSwitch();
+  logoSpin();
+  setInterval(logoSpin, 30000);
+}
+
+// Two contrast variants live side by side for comparison (user 2026-10-22): B = one hot pink for what plays now,
+// C = a light band with the logo. Chosen like a light/dark switch and remembered.
+function setupAccentSwitch() {
+  let accent = "b";
+  try { accent = localStorage.getItem("hudle:accent") || "b"; } catch {}
+  const apply = (a) => {
+    document.documentElement.dataset.accent = a;
+    document.querySelectorAll(".accent").forEach((b) => b.setAttribute("aria-checked", b.dataset.accent === a));
+    try { localStorage.setItem("hudle:accent", a); } catch {}
+  };
+  document.querySelectorAll(".accent").forEach((b) => b.addEventListener("click", () => apply(b.dataset.accent)));
+  apply(accent);
+}
+
+// Logo: at start and now and then a small spinning record opens up between "Hud" and "le"; only "le" moves right.
+function logoSpin() {
+  if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  const w = $("wordmark");
+  w.classList.add("spin");
+  setTimeout(() => w.classList.remove("spin"), 2800);
 }
 
 // Keep the scroll position across a reload. The browser restores it before our content exists (it renders after
