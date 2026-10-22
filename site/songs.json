@@ -4349,7 +4349,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5c/01/97/5c019729-9ebf-067d-6177-ec4b59065979/5054197525186.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/kudlu/1667500249?i=1667502317&uo=4",
-"level": "medium",
+"level": "hard",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -16110,6 +16110,20 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/d2/48/b3d248d0-1f0f-97c5-ab9c-4a7eac44ad68/21UM1IM28150.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/b%C3%A1sn%C4%9B-je-mi-to-l%C3%ADto/1590821487?i=1590821490&uo=4",
 "level": "impossible",
+"country": "cz",
+"genre_group": "pop"
+},
+{
+"key": "mirai--dokola",
+"id": 1816717953,
+"deezer": 3391416801,
+"artist": "Mirai & Tribbs",
+"title": "Dokola",
+"year": 2025,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/3e/71/563e7178-6560-3792-c95a-acdab28e6101/25UMGIM76220.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/dokola/1816717950?i=1816717953&uo=4",
+"level": "expert",
 "country": "cz",
 "genre_group": "pop"
 },
@@ -28751,7 +28765,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ea/6e/54/ea6e544d-414b-6557-b3a7-1ea14874fdc5/artwork.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/zn%C3%A1silnim-t%C4%9B-hovnama-feat-dejvdee/1691708361?i=1691708372&uo=4",
-"level": "expert",
+"level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -29482,6 +29496,20 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "rock"
+},
+{
+"key": "tribbs--future-champ",
+"id": 1654072236,
+"deezer": 2022012437,
+"artist": "Tribbs & Ben Cristovao",
+"title": "Future Champ",
+"year": 2022,
+"store": "cz",
+"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f1/9b/1b/f19b1b92-66ab-6ced-d303-95de8d611dc9/22UM1IM21142.rgb.jpg/300x300bb.jpg",
+"url": "https://music.apple.com/cz/album/future-champ/1654072027?i=1654072236&uo=4",
+"level": "medium",
+"country": "cz",
+"genre_group": "other"
 },
 {
 "key": "udg--jeste-jednou",

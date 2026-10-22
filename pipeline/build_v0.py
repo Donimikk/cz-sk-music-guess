@@ -124,7 +124,7 @@ def candidates(per_type: int) -> list[dict]:
             s["radio_weeks" if "radio" in r["chart"] else "digital_weeks"] += 1
             s["countries"].add(DOMESTIC[r["chart"]])
     recent = [s for s in songs.values()
-              if s["first_year"] >= MIN_YEAR and not excluded(s["artist"]) and not christmas(s["title"])
+              if s["first_year"] >= MIN_YEAR and not excluded(s["artist"], s["title"]) and not christmas(s["title"])
               and not foreign_ifpi_song(s["artist"])]
     by_radio = sorted(recent, key=lambda s: -s["radio_weeks"])[:per_type]
     by_digital = sorted(recent, key=lambda s: -s["digital_weeks"])[:per_type]
@@ -135,13 +135,25 @@ def candidates(per_type: int) -> list[dict]:
 _excluded: set[str] | None = None
 
 
-def excluded(artist: str) -> bool:
-    """Any credited artist is on the manual exclusion list (ADÉLA, B-complex, …)."""
-    global _excluded
+_exceptions: set[tuple[str, str]] | None = None
+EXCEPTIONS = ROOT / "catalog" / "exclusion_exceptions.csv"
+
+
+def excluded(artist: str, title: str = "") -> bool:
+    """Any credited artist is on the manual exclusion list (ADÉLA, B-complex, …), unless the song is listed in
+    catalog/exclusion_exceptions.csv (artist, title) — e.g. Mirai & Tribbs "Dokola" stays though Tribbs is out."""
+    global _excluded, _exceptions
     if _excluded is None:
         with open(EXCLUDED, encoding="utf-8") as f:
             _excluded = {norm(r["artist"]) for r in csv.DictReader(f)}
-    return bool(_excluded & set(artists_of(artist)))
+        _exceptions = set()
+        if EXCEPTIONS.exists():
+            with open(EXCEPTIONS, encoding="utf-8") as f:
+                _exceptions = {(norm(r["artist"]), norm(clean_title(r["title"]))) for r in csv.DictReader(f)}
+    names = artists_of(artist)
+    if title and any((n, norm(clean_title(title))) in _exceptions for n in names):
+        return False
+    return bool(_excluded & set(names))
 
 
 def song_key(artist: str, title: str) -> tuple[str, str]:
@@ -186,7 +198,7 @@ def spotify_candidates(min_plays: int) -> list[dict]:
             if (plays < min_plays or year < MIN_YEAR or VERSION.search(t["name"]) or NOT_A_SONG.search(t["name"])
                     or christmas(t["name"], t["album"]) or not domestic & {norm(a) for a in t["artists"].split(" & ")}):
                 continue
-            if excluded(t["artists"]):
+            if excluded(t["artists"], t["name"]):
                 continue
             key = song_key(t["artists"], t["name"])
             if key not in best or plays > best[key]["plays"]:
@@ -310,7 +322,7 @@ def main() -> None:
         if track and christmas(track.get("trackName"), track.get("collectionName"), track.get("primaryGenreName")):
             track, reason = None, "Christmas song (title, album or genre)"
         # iTunes may credit more artists than Spotify (Spotify "Eclipse" = iTunes "ProdbyTrippy & Eclipse")
-        if track and excluded(track.get("artistName", "")):
+        if track and excluded(track.get("artistName", ""), track.get("trackName", "")):
             track, reason = None, "excluded artist (iTunes credits)"
         if track and track["trackId"] in seen_ids:
             track, reason = None, "duplicate of another candidate"
