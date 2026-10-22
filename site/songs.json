@@ -1386,20 +1386,6 @@
 "genre_group": "hip-hop"
 },
 {
-"key": "altare-alt--circus",
-"id": 6800902393,
-"deezer": 4220330922,
-"artist": "Altare.alt & Eclipse",
-"title": "circus",
-"year": 2026,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/ce/fe/becefe1e-1aac-1236-2cfa-b78d65dedae2/612891187441.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/circus/6800902392?i=6800902393&uo=4",
-"level": "expert",
-"country": "unknown",
-"genre_group": "rnb"
-},
-{
 "key": "amco--original",
 "id": 1655914305,
 "deezer": null,
@@ -2165,7 +2151,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/cb/1f/4ccb1f2c-e044-d6cc-36a5-235cac626286/23UM1IM51149.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/nemusim-nic/1715555255?i=1715555462&uo=4",
-"level": "medium",
+"level": "easy",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -2501,7 +2487,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/dc/72/d4dc7222-716d-849a-9a73-258a79e517e1/25UMGIM02928.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/zaslou%C5%BEen%C3%BD/1790403727?i=1790403729&uo=4",
-"level": "hard",
+"level": "medium",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -3117,7 +3103,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/dc/0e/a4/dc0ea4ca-59b2-89a3-c4fe-cc44e1b38989/5054197202551.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/%C4%8Dist%C3%A1-pr%C3%A1ce-feat-smack/1629070248?i=1629070258&uo=4",
-"level": "expert",
+"level": "hard",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -3495,7 +3481,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/c5/16/a0c51632-c2ec-96cd-54af-b108330306c2/5021732832290.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/lily-rose-depp/1817636392?i=1817636829&uo=4",
-"level": "expert",
+"level": "hard",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -3831,7 +3817,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2e/5a/82/2e5a8256-1c51-ee11-c6a2-b218623bbef2/190295082154.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/thug-love-sofia-2014/1539012432?i=1539012447&uo=4",
-"level": "impossible",
+"level": "expert",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -4251,7 +4237,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/ea/82/ffea82ce-9c8c-a2e9-8ca5-99aa42f4db99/5054197139987.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/hannah-montana-vip/1616688276?i=1616690802&uo=4",
-"level": "medium",
+"level": "easy",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -4293,7 +4279,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/83/ba/4483bacb-1668-204c-dcc7-d4691539bcfc/5021732582980.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/i-got-it-feat-shimmi/1782522448?i=1782522463&uo=4",
-"level": "hard",
+"level": "medium",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -4363,7 +4349,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5c/01/97/5c019729-9ebf-067d-6177-ec4b59065979/5054197525186.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/kudlu/1667500249?i=1667502317&uo=4",
-"level": "hard",
+"level": "medium",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -7289,7 +7275,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/39/89/f339891a-c74b-701d-7c3c-0e0bd0c5e8d3/25UMGIM33913.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/posledn%C3%AD-slunce/1797294468?i=1797294702&uo=4",
-"level": "hard",
+"level": "medium",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -8022,48 +8008,6 @@
 "genre_group": "hip-hop"
 },
 {
-"key": "eight-o--kokain-barbiepuppchen",
-"id": 1559806326,
-"deezer": 1091416372,
-"artist": "Eight O & Malik Montana",
-"title": "Kokain & Barbiepüppchen",
-"year": 2020,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/b9/fc/24b9fc0f-8581-6c8a-1442-390e541e66aa/886449161072.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/kokain-barbiep%C3%BCppchen-bonus-track/1559805161?i=1559806326&uo=4",
-"level": "expert",
-"country": "cz",
-"genre_group": "hip-hop"
-},
-{
-"key": "eight-o--quality",
-"id": 1542813556,
-"deezer": 1161469522,
-"artist": "Eight O, Larry & Bez Bazara Gang",
-"title": "Quality",
-"year": 2020,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0d/5d/98/0d5d9814-695b-87d2-01b0-12434d1949d5/886448955931.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/quality/1542813554?i=1542813556&uo=4",
-"level": "impossible",
-"country": "cz",
-"genre_group": "hip-hop"
-},
-{
-"key": "eight-o--ted-a-tady",
-"id": 1714937963,
-"deezer": 2526710731,
-"artist": "Eight O & Nik Tendo",
-"title": "Ted a tady",
-"year": 2023,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8f/c6/8c/8fc68cc6-6c4b-823e-b93f-e44fd464d1bf/cover_4062851438445.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/ted-a-tady/1714937962?i=1714937963&uo=4",
-"level": "expert",
-"country": "cz",
-"genre_group": "hip-hop"
-},
-{
 "key": "ektor--2-1",
 "id": 1557710778,
 "deezer": 1270954492,
@@ -8213,7 +8157,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ff/91/11ff91ec-4dc0-b939-2e94-eba27cafe991/24UMGIM55483.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/ex-opps/1746560286?i=1746560397&uo=4",
-"level": "expert",
+"level": "hard",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -9184,20 +9128,6 @@
 "genre_group": "pop"
 },
 {
-"key": "fantomel--elastico",
-"id": 1862157500,
-"deezer": 3763871442,
-"artist": "Fantomel, Willy William, Ben Cristovao & Jombriel",
-"title": "Elastico",
-"year": 2026,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/3c/07/163c07da-3b9d-df28-8acd-d17cca0a57ef/25UM2IM07568.rgb.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/elastico-feat-kate-linn/1862157496?i=1862157500&uo=4",
-"level": "expert",
-"country": "unknown",
-"genre_group": "pop"
-},
-{
 "key": "fiedlerski--bugs-bunny",
 "id": 1559976537,
 "deezer": 1287193032,
@@ -9263,7 +9193,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3f/77/0c/3f770c1d-28f6-00b8-e6aa-51e01ddb7a27/artwork.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/planeta-zombie/1546123836?i=1546123839&uo=4",
-"level": "hard",
+"level": "medium",
 "country": "cz",
 "genre_group": "pop"
 },
@@ -9515,7 +9445,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/86/e7/9b86e75c-bc48-9d13-4075-82455be58fef/24UM1IM35833.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/%C4%8Dikitas-2/1783553291?i=1783553293&uo=4",
-"level": "impossible",
+"level": "expert",
 "country": "unknown",
 "genre_group": "hip-hop"
 },
@@ -10159,7 +10089,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/e5/0e/c2e50e08-bc07-f8ec-dc66-a0afa1815693/20UMGIM67371.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/mefek-pump-it-up/1526139521?i=1526139528&uo=4",
-"level": "medium",
+"level": "easy",
 "country": "sk",
 "genre_group": "hip-hop"
 },
@@ -11713,7 +11643,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/59/8f/20/598f2058-721b-ab86-8fef-f2d77931fd25/5054197397004.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/testosteron/1649762355?i=1649762767&uo=4",
-"level": "hard",
+"level": "medium",
 "country": "cz",
 "genre_group": "rock"
 },
@@ -12712,20 +12642,6 @@
 "genre_group": "pop"
 },
 {
-"key": "kidwild--me-v-me",
-"id": 6797536265,
-"deezer": 4198954472,
-"artist": "Kidwild & Eclipse",
-"title": "Me v Me",
-"year": 2026,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/21/e7/4f21e757-ad84-90ba-1d33-66cf21a077d3/3964922.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/me-v-me/6797536264?i=6797536265&uo=4",
-"level": "expert",
-"country": "unknown",
-"genre_group": "hip-hop"
-},
-{
 "key": "king-shaolin--jivin",
 "id": 1747974333,
 "deezer": 2815636712,
@@ -13622,76 +13538,6 @@
 "genre_group": "pop"
 },
 {
-"key": "kubanczyk--300",
-"id": 1631525397,
-"deezer": 1802642627,
-"artist": "Kubańczyk & Tribbs",
-"title": "300",
-"year": 2022,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/63/ba/07/63ba078b-5b89-0902-df7e-6eca45fbd575/22UMGIM70862.rgb.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/300/1631525325?i=1631525397&uo=4",
-"level": "medium",
-"country": "unknown",
-"genre_group": "hip-hop"
-},
-{
-"key": "kubanczyk--mbappe",
-"id": 1694908646,
-"deezer": 2347701715,
-"artist": "Kubańczyk, Smolasty & Tribbs",
-"title": "Mbappe",
-"year": 2023,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7f/a4/be/7fa4be6f-8be6-c338-b5bb-984eb7d35ff1/23UMGIM75744.rgb.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/mbappe/1694908151?i=1694908646&uo=4",
-"level": "medium",
-"country": "unknown",
-"genre_group": "hip-hop"
-},
-{
-"key": "kubanczyk--ta-noc",
-"id": 1686549786,
-"deezer": 2270277527,
-"artist": "Kubańczyk & Tribbs",
-"title": "Ta Noc",
-"year": 2023,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/17/15/31/17153132-f640-4713-f1bd-d3fa579306b0/23UMGIM51759.rgb.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/ta-noc/1686549774?i=1686549786&uo=4",
-"level": "medium",
-"country": "unknown",
-"genre_group": "hip-hop"
-},
-{
-"key": "l-l-junior--cigany-ugy",
-"id": 1715273946,
-"deezer": 2530846211,
-"artist": "L.L. Junior, KKevin & Rytmus",
-"title": "Cigány-ügy",
-"year": 2023,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f6/7b/26/f67b260f-9956-7d9d-2f39-6742297b7d9a/0747973876460_cover.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/cig%C3%A1ny-%C3%BCgy-feat-%C3%A9rdi-baba/1715273945?i=1715273946&uo=4",
-"level": "medium",
-"country": "unknown",
-"genre_group": "pop"
-},
-{
-"key": "lacrim--le-passe",
-"id": 1503387387,
-"deezer": 906121882,
-"artist": "Lacrim, Eight O & Sleiman",
-"title": "Le passé",
-"year": 2020,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/75/f5/43/75f54329-e0e4-7fe5-f7bb-c4b140f1dede/cover.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/le-pass%C3%A9/1503387380?i=1503387387&uo=4",
-"level": "medium",
-"country": "unknown",
-"genre_group": "hip-hop"
-},
-{
 "key": "lajfr--ola",
 "id": 1744563678,
 "deezer": 2781800642,
@@ -13718,20 +13564,6 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "pop"
-},
-{
-"key": "lanberry--dzieki-ze-jestes",
-"id": 1709487954,
-"deezer": 2476410841,
-"artist": "Lanberry & Tribbs",
-"title": "Dzięki, że jesteś",
-"year": 2023,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bc/1f/00/bc1f0098-ca88-3362-52d6-3e55b636ab6f/5054197836633.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/dzi%C4%99ki-%C5%BCe-jeste%C5%9B/1709487948?i=1709487954&uo=4",
-"level": "easy",
-"country": "unknown",
-"genre_group": "rock"
 },
 {
 "key": "lboy-bsc--bourka",
@@ -14163,7 +13995,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8e/23/58/8e235800-f5a7-c99f-d66c-9b4f81254969/24UMGIM14604.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/jedno-%C4%8Do-sa-stane/1732257413?i=1732257569&uo=4",
-"level": "impossible",
+"level": "expert",
 "country": "sk",
 "genre_group": "hip-hop"
 },
@@ -15988,20 +15820,6 @@
 "genre_group": "pop"
 },
 {
-"key": "mikolas--delilah",
-"id": 1690118487,
-"deezer": null,
-"artist": "MIKOLAS & Mark Neve",
-"title": "Delilah",
-"year": 2023,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/ae/79/21ae79f7-b9c2-455f-22b9-2c3f95d02797/ef02b74c-be9f-4a31-84ad-f06e544a16b7.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/delilah/1690118486?i=1690118487&uo=4",
-"level": "easy",
-"country": "cz",
-"genre_group": "pop"
-},
-{
 "key": "mikolas--diamonds",
 "id": 1770845611,
 "deezer": 3018195461,
@@ -16028,20 +15846,6 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "pop"
-},
-{
-"key": "mikolas--hard-to-be-humble",
-"id": 6773098974,
-"deezer": 4044066261,
-"artist": "MIKOLAS & Tribbs",
-"title": "Hard To Be Humble",
-"year": 2026,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/7d/a3/d07da3c3-cbd9-5fa4-8eae-4fd7b6397078/f3a310a6-bb72-4edc-b5f3-b098fd1f7318.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/hard-to-be-humble/6773098970?i=6773098974&uo=4",
-"level": "impossible",
-"country": "cz",
-"genre_group": "other"
 },
 {
 "key": "mikolas--hey-rose",
@@ -16306,20 +16110,6 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/d2/48/b3d248d0-1f0f-97c5-ab9c-4a7eac44ad68/21UM1IM28150.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/b%C3%A1sn%C4%9B-je-mi-to-l%C3%ADto/1590821487?i=1590821490&uo=4",
 "level": "impossible",
-"country": "cz",
-"genre_group": "pop"
-},
-{
-"key": "mirai--dokola",
-"id": 1816717953,
-"deezer": 3391416801,
-"artist": "Mirai & Tribbs",
-"title": "Dokola",
-"year": 2025,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/3e/71/563e7178-6560-3792-c95a-acdab28e6101/25UMGIM76220.rgb.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/dokola/1816717950?i=1816717953&uo=4",
-"level": "expert",
 "country": "cz",
 "genre_group": "pop"
 },
@@ -17649,7 +17439,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/b6/75/99b6757f-92ff-2a83-2c11-d9544efb1882/20UMGIM76835.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/loyal-feat-robin-zoot-young-leosia/1530388752?i=1530388772&uo=4",
-"level": "medium",
+"level": "easy",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -20244,20 +20034,6 @@
 "genre_group": "other"
 },
 {
-"key": "pelican--the-bad-touch",
-"id": 1695963489,
-"deezer": 1873269687,
-"artist": "Pelican & Tribbs",
-"title": "The Bad Touch",
-"year": 2022,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/43/8e/de/438ede60-cb35-88ba-e88f-c9b0c66aa742/23UMGIM77565.rgb.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/the-bad-touch/1695963153?i=1695963489&uo=4",
-"level": "easy",
-"country": "unknown",
-"genre_group": "pop"
-},
-{
 "key": "peter-aristone--carousel-of-dreams",
 "id": 1719069788,
 "deezer": 2543679401,
@@ -20603,7 +20379,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/18/49/96184924-a15b-e333-35ed-92c4b72c7483/23UMGIM11501.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/l%C3%A1ska-nie/1669567780?i=1669568766&uo=4",
-"level": "impossible",
+"level": "expert",
 "country": "sk",
 "genre_group": "hip-hop"
 },
@@ -21462,20 +21238,6 @@
 "genre_group": "hip-hop"
 },
 {
-"key": "prodbytrippy--welcome-to-my-crib",
-"id": 1889226050,
-"deezer": 3826506811,
-"artist": "ProdbyTrippy & Eclipse",
-"title": "Welcome To My Crib",
-"year": 2026,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/03/77/0a0377cd-a393-c2ee-4127-db97851c686a/1356602.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/welcome-to-my-crib-hoodtrap/1889226015?i=1889226050&uo=4",
-"level": "easy",
-"country": "unknown",
-"genre_group": "other"
-},
-{
 "key": "protiva--numlock",
 "id": 1503152998,
 "deezer": 904918042,
@@ -21821,7 +21583,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/06/17/d10617ff-53e0-6ee1-f02e-096818ea4057/26UMGIM11482.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/23/1872452020?i=1872452021&uo=4",
-"level": "hard",
+"level": "medium",
 "country": "sk",
 "genre_group": "hip-hop"
 },
@@ -22885,7 +22647,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1e/90/8b/1e908b3b-4ce2-0db2-7749-8e75ae7572f7/5054197464508.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/tlak/1655471867?i=1655471871&uo=4",
-"level": "expert",
+"level": "hard",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -23039,7 +22801,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/11/20/39/11203942-5ea5-52b3-df7d-625880eaacc4/20UMGIM46818.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/%C4%8Desk%C3%A1-floriida-feat-koky-yzomandias/1517025167?i=1517025379&uo=4",
-"level": "medium",
+"level": "easy",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -23795,7 +23557,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/81/5e/80/815e804f-97c7-55ee-0c45-bfd0be5ed4e7/20UM1IM14302.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/mu%C5%BEi/1547270424?i=1547270709&uo=4",
-"level": "hard",
+"level": "medium",
 "country": "cz",
 "genre_group": "pop"
 },
@@ -26077,7 +25839,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/2e/c7/6f2ec783-5b49-a461-7f8a-39526b315d70/24UMGIM36101.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/d%C3%A9%C5%A1%C5%A5-feat-pil-c/1742180763?i=1742181011&uo=4",
-"level": "hard",
+"level": "medium",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -27790,62 +27552,6 @@
 "genre_group": "hip-hop"
 },
 {
-"key": "smolasty--duze-oczy",
-"id": 1838470350,
-"deezer": 1431746472,
-"artist": "Smolasty, Francis, Pedro & Tribbs",
-"title": "Duże oczy",
-"year": 2022,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/d5/4f/53d54f11-12f8-b519-89a1-10fddf5ffbf6/5059460442658.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/du%C5%BCe-oczy/1838470329?i=1838470350&uo=4",
-"level": "easy",
-"country": "unknown",
-"genre_group": "hip-hop"
-},
-{
-"key": "smolasty--pe-nia",
-"id": 1492335571,
-"deezer": 847828762,
-"artist": "Smolasty & Ewa Farna",
-"title": "Pełnia",
-"year": 2020,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d5/30/47/d5304716-0315-4c3d-3802-7e21a487ecb8/190296839566.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/pe%C5%82nia/1492335570?i=1492335571&uo=4",
-"level": "medium",
-"country": "unknown",
-"genre_group": "pop"
-},
-{
-"key": "smolasty--ratuj",
-"id": 1654048824,
-"deezer": 1555772102,
-"artist": "Smolasty",
-"title": "Ratuj",
-"year": 2022,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a1/88/e8/a188e899-ee2c-1550-d718-127d6c3b1445/5054197454400.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/ratuj-feat-tribbs/1654047845?i=1654048824&uo=4",
-"level": "easy",
-"country": "unknown",
-"genre_group": "hip-hop"
-},
-{
-"key": "smolasty--sezon",
-"id": 1654048459,
-"deezer": 1841779377,
-"artist": "Smolasty",
-"title": "Sezon",
-"year": 2022,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a1/88/e8/a188e899-ee2c-1550-d718-127d6c3b1445/5054197454400.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/sezon-feat-tribbs/1654047845?i=1654048459&uo=4",
-"level": "easy",
-"country": "unknown",
-"genre_group": "hip-hop"
-},
-{
 "key": "sofian-medjmedj--21-00",
 "id": 1541835409,
 "deezer": 1152584232,
@@ -29045,7 +28751,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ea/6e/54/ea6e544d-414b-6557-b3a7-1ea14874fdc5/artwork.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/zn%C3%A1silnim-t%C4%9B-hovnama-feat-dejvdee/1691708361?i=1691708372&uo=4",
-"level": "impossible",
+"level": "expert",
 "country": "cz",
 "genre_group": "hip-hop"
 },
@@ -29776,90 +29482,6 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "rock"
-},
-{
-"key": "tribbs--ale-to-juz-by-o",
-"id": 1834162140,
-"deezer": 3606151822,
-"artist": "Tribbs & Maryla Rodowicz",
-"title": "Ale to już było",
-"year": 2025,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/e7/37/19e73772-e743-99ae-8381-c96ce00ddbb0/5021732960146.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/ale-to-ju%C5%BC-by%C5%82o/1834162135?i=1834162140&uo=4",
-"level": "expert",
-"country": "cz",
-"genre_group": "pop"
-},
-{
-"key": "tribbs--boys-oh-boys",
-"id": 1621811262,
-"deezer": 1736281447,
-"artist": "Tribbs & Holy Molly",
-"title": "Boys oh Boys",
-"year": 2022,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3f/4c/78/3f4c785c-e20c-051a-825d-f458208cfb34/cover.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/boys-oh-boys/1621811259?i=1621811262&uo=4",
-"level": "impossible",
-"country": "cz",
-"genre_group": "pop"
-},
-{
-"key": "tribbs--future-champ",
-"id": 1654072236,
-"deezer": 2022012437,
-"artist": "Tribbs & Ben Cristovao",
-"title": "Future Champ",
-"year": 2022,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f1/9b/1b/f19b1b92-66ab-6ced-d303-95de8d611dc9/22UM1IM21142.rgb.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/future-champ/1654072027?i=1654072236&uo=4",
-"level": "medium",
-"country": "cz",
-"genre_group": "other"
-},
-{
-"key": "tribbs--like-you-do",
-"id": 1823005527,
-"deezer": null,
-"artist": "Tribbs, Sam Feldt & Andy Dust",
-"title": "Like You Do",
-"year": 2025,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/9e/24/939e24ed-01c5-c022-a4e4-ee75abffb0a7/5021732855534.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/like-you-do-feat-dotter/1823005526?i=1823005527&uo=4",
-"level": "hard",
-"country": "cz",
-"genre_group": "pop"
-},
-{
-"key": "tribbs--sabotazysta",
-"id": 6772121636,
-"deezer": 4038162071,
-"artist": "Tribbs, Diiya & ReZi",
-"title": "Sabotażysta",
-"year": 2026,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/37/ca/2a37caf8-bc16-2bc3-23a9-7f56de3fd7ba/5907983342798.png/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/sabota%C5%BCysta/6772121635?i=6772121636&uo=4",
-"level": "impossible",
-"country": "cz",
-"genre_group": "hip-hop"
-},
-{
-"key": "turbo--zombiez",
-"id": 1711597277,
-"deezer": 2495457681,
-"artist": "Turbo & Landon Cube",
-"title": "Zombiez",
-"year": 2021,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2b/ee/ee/2beeee21-1a45-d24c-0675-ed04e49b60e6/842812147289.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/zombiez/1711597276?i=1711597277&uo=4",
-"level": "expert",
-"country": "cz",
-"genre_group": "other"
 },
 {
 "key": "udg--jeste-jednou",
