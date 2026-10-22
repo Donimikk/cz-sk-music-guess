@@ -135,6 +135,7 @@ function preloadCover(song) {
 // The next song is picked and its preview and cover are loaded while the current one is guessed,
 // so "Ďalšia pesnička" starts without a wait.
 let upcoming = null; // {song, preview: Promise<AudioBuffer>}
+let failedInRow = 0; // songs in a row whose preview failed twice
 function prepareNext() {
   const song = pickNext(game.song.id);
   const preview = fetchPreview(song);
@@ -154,10 +155,25 @@ async function start(song, prepared) {
   try {
     $("retry").hidden = true;
     $("player").classList.add("loading"); // skeleton while the preview downloads and decodes
-    await loadPreview(song, prepared);
+    try {
+      await loadPreview(song, prepared);
+    } catch {
+      // iTunes sometimes refuses a lookup for a moment (its limit is per IP): one more try after a pause
+      await new Promise((r) => setTimeout(r, 1500));
+      if (game.song !== song) return;
+      await loadPreview(song);
+    }
+    failedInRow = 0;
   } catch (e) {
     console.error(e);
-    setStatus("Ukážku sa nepodarilo načítať.");
+    if (game.song !== song) return;
+    // still failing: move on to another song by itself (at most 3 in a row, then let the player retry)
+    if (++failedInRow < 3) {
+      setStatus("Táto ukážka sa nenačítala, beriem inú pesničku…");
+      setTimeout(() => { if (game.song === song) startNext(); }, 1200);
+      return;
+    }
+    setStatus("Ukážky sa teraz nedajú načítať. Skús to o chvíľu.");
     $("retry").hidden = false;
   }
   $("player").classList.remove("loading");
