@@ -136,7 +136,7 @@ function preloadCover(song) {
 // so "Ďalšia pesnička" starts without a wait.
 let upcoming = null; // {song, preview: Promise<AudioBuffer>}
 function prepareNext() {
-  const song = randomUnplayed(game.song.id);
+  const song = pickNext(game.song.id);
   const preview = fetchPreview(song);
   preview.catch(() => { /* loadPreview retries when the song starts */ });
   preloadCover(song);
@@ -149,22 +149,25 @@ async function start(song, prepared) {
   upcoming = null;
   preloadCover(song);
   game = { song, guesses: [], done: false, won: false };
+  remember(song);
   render();
   try {
     $("retry").hidden = true;
+    $("player").classList.add("loading"); // skeleton while the preview downloads and decodes
     await loadPreview(song, prepared);
   } catch (e) {
     console.error(e);
     setStatus("Ukážku sa nepodarilo načítať.");
     $("retry").hidden = false;
   }
+  $("player").classList.remove("loading");
   render();
   if (game.song === song) prepareNext();
 }
 
 function startNext() {
   if (upcoming) start(upcoming.song, upcoming.preview);
-  else start(randomUnplayed(game?.song.id));
+  else start(pickNext(game?.song.id));
 }
 
 function guess(song) {
@@ -224,7 +227,6 @@ function finish(won) {
     stats.streak = 0;
   }
   state.levelStats[level] = stats;
-  state.played = [...new Set([...(state.played || []), game.song.id])].slice(-5000);
   // a guessed song moves the player one level up; the next song is prepared from the new level
   game.level = level;
   const i = LEVELS.findIndex((l) => l.id === level);
@@ -353,13 +355,58 @@ function submit() {
   guess(s);
 }
 
-function randomUnplayed(currentId) {
-  const played = new Set(load().played || []);
-  if (currentId) played.add(currentId);
+// ---------- song order: random that feels random ----------
+// Pure random clusters (Calin twice in a row), which players don't perceive as random — Spotify spreads artists
+// for the same reason (engineering.atspotify.com/2014/02/how-to-shuffle-songs). Rules:
+// 1. a shuffled bag per level: no song repeats until the whole level was played, then a new shuffle;
+// 2. the same artist (also as a guest) doesn't come back within ARTIST_GAP songs;
+// 3. variety: avoid a third song in a row of the same genre group, or of the same country;
+// 4. weighted shuffle: the better-known songs of a level tend to come earlier in the bag.
+const ARTIST_GAP = 10;
+const LOOKAHEAD = Infinity; // whole bag is scanned for rules 2-3 (40 left too many genre/country triples)
+const artistsOf = (s) => s.artist.split(/,\s*|\s+&\s+/).map(norm);
+
+function weightedShuffle(list) {
+  const pops = list.map((s) => s.popularity || 0);
+  const lo = Math.min(...pops), hi = Math.max(...pops);
+  // Efraimidis–Spirakis: key = u^(1/w); weight 1 (least known in the level) to 2 (best known)
+  return list
+    .map((s) => ({ s, key: Math.random() ** (1 / (1 + (hi > lo ? ((s.popularity || 0) - lo) / (hi - lo) : 0))) }))
+    .sort((a, b) => b.key - a.key)
+    .map((x) => x.s.id);
+}
+
+function pickNext(currentId) {
+  const byId = new Map(songs.map((s) => [s.id, s]));
+  const state = load();
+  state.bags = state.bags || {};
   const inLevel = songs.filter((s) => s.level === level);
-  const pool = inLevel.filter((s) => !played.has(s.id));
-  const from = pool.length ? pool : inLevel;
-  return from[Math.floor(Math.random() * from.length)];
+  let bag = (state.bags[level] || []).filter((id) => byId.get(id)?.level === level && id !== currentId);
+  if (!bag.length) bag = weightedShuffle(inLevel).filter((id) => id !== currentId);
+  const recent = state.recent || []; // [{artists, genre, country}], newest last
+  const recentArtists = new Set(recent.slice(-ARTIST_GAP).flatMap((r) => r.artists));
+  const last2 = recent.slice(-2);
+  const same = (field, value) => last2.length === 2 && last2.every((r) => r[field] === value);
+  let best = 0, bestPenalty = Infinity;
+  for (let i = 0; i < Math.min(LOOKAHEAD, bag.length); i++) {
+    const s = byId.get(bag[i]);
+    const penalty = (artistsOf(s).some((a) => recentArtists.has(a)) ? 100 : 0)
+      + (same("genre", s.genre_group) ? 10 : 0) + (same("country", s.country) ? 5 : 0);
+    if (penalty < bestPenalty) { best = i; bestPenalty = penalty; }
+    if (penalty === 0) break;
+  }
+  const [id] = bag.splice(best, 1);
+  state.bags[level] = bag;
+  save(state);
+  return byId.get(id);
+}
+
+// remember what was played, for the artist gap and the variety rule
+function remember(song) {
+  const state = load();
+  state.recent = [...(state.recent || []), { artists: artistsOf(song), genre: song.genre_group, country: song.country }]
+    .slice(-ARTIST_GAP);
+  save(state);
 }
 
 async function init() {
@@ -405,7 +452,7 @@ async function init() {
     b.addEventListener("click", () => setLevel(l.id));
     box.appendChild(b);
   }
-  start(randomUnplayed());
+  start(pickNext());
 }
 
 // Switching the level starts a new song from that level right away.
@@ -416,7 +463,7 @@ function setLevel(id) {
   state.level = id;
   save(state);
   upcoming = null;
-  start(randomUnplayed(game?.song.id));
+  start(pickNext(game?.song.id));
 }
 
 init();

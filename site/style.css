@@ -189,3 +189,15 @@ button:disabled { opacity: .45; cursor: default; }
   color: var(--muted); font-weight: 600; font-size: var(--t-s); text-decoration: underline; text-underline-offset: 3px;
 }
 .giveup:hover { color: var(--fg); }
+
+/* skeleton loader: shimmering placeholders while the song list or a preview loads */
+@keyframes shimmer { from { background-position: 100% 0; } to { background-position: -100% 0; } }
+.attempts li.sk, .player.loading .bar, .player.loading .play, .player.loading .turntable .disc {
+  background: linear-gradient(90deg, var(--slot) 25%, #2a2a5e 50%, var(--slot) 75%);
+  background-size: 200% 100%; animation: shimmer 1.3s linear infinite;
+}
+.player.loading .play svg, .player.loading .bar > * { visibility: hidden; }
+.player.loading .disc-label { opacity: .25; }
+@media (prefers-reduced-motion: reduce) {
+  .attempts li.sk, .player.loading .bar, .player.loading .play, .player.loading .turntable .disc { animation: none; }
+}
