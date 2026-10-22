@@ -267,7 +267,9 @@ button:disabled { opacity: .45; cursor: default; }
 .filter-foot { display: flex; justify-content: space-between; align-items: center; font-size: var(--t-s); color: var(--muted); }
 
 /* wide screens: filters always open beside the game, at the edge of the column */
-@media (min-width: 1100px) {
+@media (min-width: 860px) {
+  /* game column + 32px gap + 272px panel = 784px, centred together */
+  .column { margin-left: max(16px, calc(50% - 392px)); margin-right: 0; }
   .filters { position: absolute; top: 72px; left: calc(100% + 32px); width: 272px; justify-items: stretch; }
   .filter-toggle { display: none; }
   .filter-panel-wrap[hidden] { display: grid !important; }
