@@ -1,15 +1,14 @@
-// Hudle — daily + infinite song guessing from iTunes previews.
+// Hudle — song guessing from iTunes previews, one song after another (no daily song: guessing a song tests taste,
+// not reasoning, so one shared song a day doesn't work like Wordle — see WORKLOG 2026-10-22).
 // The song list (songs.json) holds iTunes track IDs only; the preview URL is looked up at play time.
 "use strict";
 
 const STAGES = [1, 2, 4, 7, 11, 16]; // seconds unlocked per attempt
 const MAX = STAGES[STAGES.length - 1];
-const EPOCH = Date.UTC(2026, 9, 19); // day #1 of the daily puzzle
 const STORE_KEY = "hudle:v0";
 
 const $ = (id) => document.getElementById(id);
 let songs = [];
-let mode = "daily";
 let game = null;   // {song, guesses: [{kind, text}], done, won}
 let audio = { ctx: null, buffer: null, source: null, startedAt: 0, from: 0, raf: 0 };
 
@@ -28,31 +27,6 @@ function load() {
 }
 function save(state) {
   try { localStorage.setItem(STORE_KEY, JSON.stringify(state)); } catch { /* private mode */ }
-}
-
-function dayNumber() {
-  const now = new Date();
-  const local = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate());
-  return Math.floor((local - EPOCH) / 86400000) + 1;
-}
-
-// Deterministic shuffle so every player gets the same song on the same day.
-function mulberry32(a) {
-  return () => {
-    a |= 0; a = (a + 0x6d2b79f5) | 0;
-    let t = Math.imul(a ^ (a >>> 15), 1 | a);
-    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
-    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
-  };
-}
-function dailyOrder() {
-  const order = [...songs].sort((a, b) => a.id - b.id);
-  const rand = mulberry32(20261020);
-  for (let i = order.length - 1; i > 0; i--) {
-    const j = Math.floor(rand() * (i + 1));
-    [order[i], order[j]] = [order[j], order[i]];
-  }
-  return order;
 }
 
 // ---------- audio ----------
@@ -138,11 +112,10 @@ function preloadCover(song) {
   if (coverPreloads.size > 4) coverPreloads.delete(coverPreloads.keys().next().value);
 }
 
-// Infinite mode: the next song is picked and its preview and cover are loaded while the current one is guessed,
+// The next song is picked and its preview and cover are loaded while the current one is guessed,
 // so "Ďalšia pesnička" starts without a wait.
 let upcoming = null; // {song, preview: Promise<AudioBuffer>}
 function prepareNext() {
-  if (mode !== "infinite") return;
   const song = randomUnplayed(game.song.id);
   const preview = fetchPreview(song);
   preview.catch(() => { /* loadPreview retries when the song starts */ });
@@ -155,7 +128,7 @@ async function start(song, prepared) {
   audio.buffer = null;
   upcoming = null;
   preloadCover(song);
-  game = restore(song) || { song, guesses: [], done: false, won: false };
+  game = { song, guesses: [], done: false, won: false };
   render();
   try {
     $("retry").hidden = true;
@@ -172,22 +145,6 @@ async function start(song, prepared) {
 function startNext() {
   if (upcoming) start(upcoming.song, upcoming.preview);
   else start(randomUnplayed(game?.song.id));
-}
-
-function restore(song) {
-  if (mode !== "daily") return null;
-  const saved = load().daily?.[dayNumber()];
-  return saved && saved.id === song.id ? { song, ...saved.game } : null;
-}
-
-function persist() {
-  const state = load();
-  if (mode === "daily") {
-    state.daily = state.daily || {};
-    const { song, ...rest } = game;
-    state.daily[dayNumber()] = { id: song.id, game: rest };
-  }
-  save(state);
 }
 
 function guess(song) {
@@ -220,7 +177,6 @@ function nextStep() {
 
 function next() {
   if (game.guesses.length >= STAGES.length) return finish(false);
-  persist();
   render();
 }
 
@@ -229,35 +185,27 @@ function finish(won) {
   game.won = won;
   stopAudio();
   const state = load();
-  const stats = state.stats || { played: 0, won: 0, streak: 0, best: 0, lastDay: null };
-  if (mode === "daily" && stats.lastDay !== dayNumber()) {
-    const day = dayNumber();
-    stats.played += 1;
-    if (won) {
-      stats.won += 1;
-      stats.streak = stats.lastWonDay === day - 1 ? stats.streak + 1 : 1;
-      stats.best = Math.max(stats.best, stats.streak);
-      stats.lastWonDay = day;
-    } else {
-      stats.streak = 0;
-    }
-    stats.lastDay = day;
-    state.stats = stats;
+  // streak = songs guessed in a row
+  const stats = state.songStats || { played: 0, won: 0, streak: 0, best: 0 };
+  stats.played += 1;
+  if (won) {
+    stats.won += 1;
+    stats.streak += 1;
+    stats.best = Math.max(stats.best, stats.streak);
+  } else {
+    stats.streak = 0;
   }
-  if (mode === "infinite") {
-    state.played = [...new Set([...(state.played || []), game.song.id])].slice(-5000);
-  }
+  state.songStats = stats;
+  state.played = [...new Set([...(state.played || []), game.song.id])].slice(-5000);
   save(state);
-  persist();
   render();
 }
 
 function shareText() {
   const marks = { ok: "🟩", near: "🟨", bad: "🟥", skip: "⬛" };
   const squares = game.guesses.map((g) => marks[g.kind]).join("") + "⬜".repeat(STAGES.length - game.guesses.length);
-  const head = mode === "daily" ? `Hudle #${dayNumber()}` : "Hudle (nekonečná)";
   const score = game.won ? `${game.guesses.length}/${STAGES.length}` : `X/${STAGES.length}`;
-  return `${head} ${score}\n🔊${squares}\n${location.origin}${location.pathname}`;
+  return `Hudle ${score}\n🔊${squares}\n${location.origin}${location.pathname}`;
 }
 
 // ---------- UI ----------
@@ -295,9 +243,6 @@ function render() {
   if (!audio.source) setPlaying(false);
   if (audio.buffer) setStatus(game.done ? "" : `Odomknuté ${unlockedSeconds()} s`);
 
-  $("subtitle").textContent = mode === "daily"
-    ? `Pesnička dňa č. ${dayNumber()}`
-    : "Nekonečná hra";
   $("controls").hidden = game.done;
   const step = nextStep();
   $("skip").textContent = step ? `Preskočiť (+${step} s)` : "Vzdať sa";
@@ -311,11 +256,10 @@ function render() {
     $("answerArtist").textContent = s.artist;
     $("answerTitle").textContent = `${s.title} (${s.year})`;
     $("apple").href = s.url;
-    $("next").hidden = mode !== "infinite";
     $("share").textContent = "Zdieľať výsledok";
-    const st = load().stats;
-    $("stats").textContent = mode === "daily" && st
-      ? `Odohrané ${st.played}, úspešnosť ${Math.round((st.won / st.played) * 100)} %, séria ${st.streak} (najdlhšia ${st.best})`
+    const st = load().songStats;
+    $("stats").textContent = st
+      ? `Uhádnuté ${st.won} z ${st.played}, séria ${st.streak} (najdlhšia ${st.best})`
       : "";
   } else {
     $("cover").removeAttribute("src");
@@ -375,13 +319,6 @@ function randomUnplayed(currentId) {
   return from[Math.floor(Math.random() * from.length)];
 }
 
-function setMode(m) {
-  mode = m;
-  document.querySelectorAll(".mode").forEach((t) => t.setAttribute("aria-pressed", t.dataset.mode === m));
-  const order = dailyOrder();
-  start(m === "daily" ? order[(dayNumber() - 1 + order.length * 1000) % order.length] : randomUnplayed());
-}
-
 async function init() {
   // iOS treats Web Audio as "ambient" sound, muted by the silent switch; "playback" plays like a music app
   // (Safari 16.4+, WebKit bugs 237322 / 251532). Must be set before the AudioContext starts.
@@ -412,8 +349,7 @@ async function init() {
       else { await navigator.clipboard.writeText(text); $("share").textContent = "Skopírované"; }
     } catch { /* user cancelled */ }
   });
-  document.querySelectorAll(".mode").forEach((t) => t.addEventListener("click", () => setMode(t.dataset.mode)));
-  setMode("daily");
+  start(randomUnplayed());
 }
 
 init();
