@@ -247,3 +247,19 @@ button:disabled { opacity: .45; cursor: default; }
 .accent { border: 2px solid var(--edge); border-radius: 100px; padding: 5px 10px; cursor: pointer; font-weight: 700; font-size: .75rem;
   color: var(--fg); background: var(--slot); box-shadow: 2px 2px 0 var(--edge); }
 .accent[aria-checked="true"] { background: var(--fg); color: var(--on-light); transform: translate(2px, 2px); box-shadow: none; }
+
+/* filters: a toggle under the levels opens a panel of chip groups (multi-select) */
+.filters { display: grid; gap: 8px; justify-items: center; }
+.filter-toggle { border: 2px solid var(--edge); border-radius: 100px; padding: 5px 12px; cursor: pointer; font-weight: 700;
+  font-size: .75rem; color: var(--fg); background: var(--raised); box-shadow: 2px 2px 0 var(--edge); }
+.filter-toggle[aria-expanded="true"] { transform: translate(2px, 2px); box-shadow: none; }
+.filter-panel-wrap { width: 100%; display: grid; gap: 10px; padding: 12px; border-radius: 12px; background: var(--slot);
+  border: 2px solid var(--edge); box-shadow: 3px 3px 0 var(--edge); }
+.facet { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.facet-name { width: 100%; font-size: var(--t-s); color: var(--muted); font-weight: 600; }
+.facet-note { width: 100%; font-size: .72rem; color: var(--muted); }
+.chip { border: 2px solid var(--edge); border-radius: 8px; padding: 4px 9px; cursor: pointer; font-weight: 700; font-size: .75rem;
+  color: var(--fg); background: var(--card); box-shadow: 2px 2px 0 var(--edge); }
+.chip[aria-pressed="true"] { background: var(--mint); color: var(--on-light); transform: translate(2px, 2px); box-shadow: none; }
+.chip:disabled { opacity: .35; cursor: default; }
+.filter-foot { display: flex; justify-content: space-between; align-items: center; font-size: var(--t-s); color: var(--muted); }
