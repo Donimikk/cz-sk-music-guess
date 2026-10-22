@@ -19735,8 +19735,8 @@
   "key": "dollar-prync--585",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.5025,
@@ -19748,8 +19748,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -19776,8 +19776,8 @@
   "key": "dollar-prync--class",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.1062,
@@ -19789,8 +19789,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -19817,8 +19817,8 @@
   "key": "dollar-prync--dobry-rano",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.8345,
@@ -19830,8 +19830,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -19858,8 +19858,8 @@
   "key": "dollar-prync--drill-party",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.4273,
@@ -19871,8 +19871,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -19899,8 +19899,8 @@
   "key": "dollar-prync--ex",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.5974,
@@ -19912,8 +19912,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -19940,8 +19940,8 @@
   "key": "dollar-prync--free-chabrs",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.1427,
@@ -19953,8 +19953,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -19981,8 +19981,8 @@
   "key": "dollar-prync--jde-to-samo",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.2658,
@@ -19994,8 +19994,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20022,8 +20022,8 @@
   "key": "dollar-prync--kdyz-ma-jeden",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.5039,
@@ -20035,8 +20035,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20063,8 +20063,8 @@
   "key": "dollar-prync--moje-story",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.2722,
@@ -20076,8 +20076,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20104,8 +20104,8 @@
   "key": "dollar-prync--msport",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.8673,
@@ -20117,8 +20117,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20145,8 +20145,8 @@
   "key": "dollar-prync--muj-chabr",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.0023,
@@ -20158,8 +20158,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20186,8 +20186,8 @@
   "key": "dollar-prync--nabiham",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.2544,
@@ -20199,8 +20199,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20227,8 +20227,8 @@
   "key": "dollar-prync--pele-pele-gucci-gucci",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.6835,
@@ -20240,8 +20240,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20268,8 +20268,8 @@
   "key": "dollar-prync--perls-bengz-2",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.5559,
@@ -20281,8 +20281,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20309,8 +20309,8 @@
   "key": "dollar-prync--racks",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.233,
@@ -20322,8 +20322,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20350,8 +20350,8 @@
   "key": "dollar-prync--rest-in-piss",
   "radio_weeks": 0,
   "digital_weeks": 41,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.9585,
@@ -20363,8 +20363,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20391,8 +20391,8 @@
   "key": "dollar-prync--rezim-nerusit",
   "radio_weeks": 0,
   "digital_weeks": 116,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.9904,
@@ -20404,8 +20404,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20432,8 +20432,8 @@
   "key": "dollar-prync--risk-je-zisk",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.2859,
@@ -20445,8 +20445,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20473,8 +20473,8 @@
   "key": "dollar-prync--smichov",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.1295,
@@ -20486,8 +20486,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20514,8 +20514,8 @@
   "key": "dollar-prync--so-kere",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.7715,
@@ -20527,8 +20527,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20555,8 +20555,8 @@
   "key": "dollar-prync--udntknw",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.2002,
@@ -20568,8 +20568,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20596,8 +20596,8 @@
   "key": "dollar-prync--vare-o",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.7487,
@@ -20609,8 +20609,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -20637,8 +20637,8 @@
   "key": "dollar-prync--zijem-rychle",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "cz+sk",
-  "country_source": "IFPI rows CZ 114 / SK 76",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.2955,
@@ -20650,8 +20650,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:cz+sk",
-    "source": "IFPI rows CZ 114 / SK 76"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
