@@ -378,7 +378,7 @@ function submit() {
 // OR inside a facet, AND between facets. Some facets exclude each other (groups vs years, decided 2026-10-22 —
 // to be judged case by case, so it is one setting). A facet shows up only when the data has 2+ options for it.
 const FACETS = [
-  { id: "country", name: "Krajina", values: (s) => (s.country === "cz+sk" ? ["cz", "sk"] : [s.country]),
+  { id: "country", name: "Jazyk", values: (s) => (s.country === "cz+sk" ? ["cz", "sk"] : [s.country]),
     label: { cz: "CZ", sk: "SK" } },
   { id: "genre", name: "Žáner", values: (s) => [s.genre_group],
     label: { "hip-hop": "Rap", pop: "Pop", rock: "Rock", rnb: "R&B", other: "Iné" } },

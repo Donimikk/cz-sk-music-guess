@@ -66,6 +66,11 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
 - Don't drop guest-only artists: Dušan Vlk is only a guest in IFPI ("Limbo" is on Yzomandias' release).
 - Spotify search results carry artist names, not ids; three artists are named "Dusan Vlk" → confirm with `get_track`.
 
+## Language (CZ / SK)
+- The "country" tag means the language the lead artist sings/raps in (user 2026-10-22), shown as filter "Jazyk".
+  Derived from IFPI domestic-chart rows (SK share <0.4 CZ, >0.6 SK); borderline artists are set by the user in
+  catalog/artist_country.csv (e.g. Milion Plus 36/37 rows → CZ, Pavol Habera 93/80 → SK — the ratio alone is wrong there).
+
 ## Data selection
 - Ranking by total weeks on IFPI charts misses new songs and fan-base artists with short release
   peaks (Dušan Vlk: 47 songs in Spotify SK Top 200 for 1–4 days each, only one IFPI entry).
