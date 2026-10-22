@@ -89,7 +89,8 @@ async function playSegment(from, to) {
   const t = audio.ctx.currentTime;
   gain.gain.setValueAtTime(0, t);
   gain.gain.linearRampToValueAtTime(1, t + 0.005); // short fade-in against clicks
-  src.start(t, from, to - from);
+  src.start(t, from);
+  src.stop(t + (to - from)); // scheduled, so extendPlayback() can move it later
   src.onended = () => { if (audio.source === src) stopAudio(); };
   audio.source = src;
   audio.startedAt = t;
@@ -100,6 +101,18 @@ async function playSegment(from, to) {
     audio.raf = requestAnimationFrame(tick);
   };
   tick();
+}
+
+// While a part is playing, a skip or a wrong guess only moves the end further: the song keeps playing
+// into the newly unlocked part instead of jumping to its start. A later stop() call replaces the earlier one.
+function extendPlayback(to) {
+  if (!audio.source) return false;
+  try {
+    audio.source.stop(audio.startedAt + (to - audio.from));
+    return true;
+  } catch {
+    return false;
+  }
 }
 
 function play() {
@@ -163,6 +176,7 @@ function guess(song) {
   const near = mainArtist(song) === mainArtist(game.song);
   game.guesses.push({ kind: near ? "near" : "bad", text: label(song) });
   next();
+  if (!game.done) extendPlayback(STAGES[game.guesses.length]);
 }
 
 // Skipping plays only the newly unlocked part, from where the previous attempt ended.
@@ -173,8 +187,14 @@ function skip() {
   next();
   if (!game.done && audio.buffer) {
     const i = game.guesses.length;
-    playSegment(STAGES[i - 1], STAGES[i]);
+    if (!extendPlayback(STAGES[i])) playSegment(STAGES[i - 1], STAGES[i]);
   }
+}
+
+function giveUp() {
+  if (game.done) return;
+  game.guesses.push({ kind: "skip", text: "Vzdané" });
+  finish(false);
 }
 
 function nextStep() {
@@ -205,6 +225,16 @@ function finish(won) {
   }
   state.levelStats[level] = stats;
   state.played = [...new Set([...(state.played || []), game.song.id])].slice(-5000);
+  // a guessed song moves the player one level up; the next song is prepared from the new level
+  game.level = level;
+  const i = LEVELS.findIndex((l) => l.id === level);
+  if (won && i < LEVELS.length - 1) {
+    level = LEVELS[i + 1].id;
+    state.level = level;
+    game.levelUp = true;
+    upcoming = null;
+    prepareNext();
+  }
   save(state);
   render();
 }
@@ -213,7 +243,7 @@ function shareText() {
   const marks = { ok: "🟩", near: "🟨", bad: "🟥", skip: "⬛" };
   const squares = game.guesses.map((g) => marks[g.kind]).join("") + "⬜".repeat(STAGES.length - game.guesses.length);
   const score = game.won ? `${game.guesses.length}/${STAGES.length}` : `X/${STAGES.length}`;
-  const name = LEVELS.find((l) => l.id === level).name;
+  const name = LEVELS.find((l) => l.id === (game.level || level)).name;
   return `Hudle (${name}) ${score}\n🔊${squares}\n${location.origin}${location.pathname}`;
 }
 
@@ -267,10 +297,12 @@ function render() {
     $("answerTitle").textContent = `${s.title} (${s.year})`;
     $("apple").href = s.url;
     $("share").textContent = "Zdieľať výsledok";
-    const st = load().levelStats?.[level];
-    $("stats").textContent = st
-      ? `${LEVELS.find((l) => l.id === level).name}: uhádnuté ${st.won} z ${st.played}, séria ${st.streak} (najdlhšia ${st.best})`
-      : "";
+    const played = game.level || level;
+    const st = load().levelStats?.[played];
+    const levelName = (id) => LEVELS.find((l) => l.id === id).name;
+    $("stats").textContent = (st
+      ? `${levelName(played)}: uhádnuté ${st.won} z ${st.played}, séria ${st.streak} (najdlhšia ${st.best}).`
+      : "") + (game.levelUp ? ` Ďalej: ${levelName(level)}.` : "");
   } else {
     $("cover").removeAttribute("src");
   }
@@ -339,6 +371,7 @@ async function init() {
   songs = await (await fetch("songs.json", { cache: "no-cache" })).json();
   $("play").addEventListener("click", play);
   $("skip").addEventListener("click", skip);
+  $("giveup").addEventListener("click", giveUp);
   $("submit").addEventListener("click", submit);
   $("next").addEventListener("click", startNext);
   $("guess").addEventListener("input", updateSuggestions);
