@@ -3,12 +3,19 @@
 // The song list (songs.json) holds iTunes track IDs only; the preview URL is looked up at play time.
 "use strict";
 
-const STAGES = [1, 2, 4, 7, 11, 16]; // seconds unlocked per attempt
+const STAGES = [0.1, 0.5, 2, 8, 15]; // seconds unlocked per attempt (as Songspot)
 const MAX = STAGES[STAGES.length - 1];
+// Difficulty = popularity band of the song (pipeline/catalog.py), as Songspot's five levels.
+const LEVELS = [
+  { id: "easy", name: "Ľahká" }, { id: "medium", name: "Stredná" }, { id: "hard", name: "Ťažká" },
+  { id: "expert", name: "Expert" }, { id: "impossible", name: "Nemožná" },
+];
+const sec = (s) => String(s).replace(".", ","); // Slovak decimal comma
 const STORE_KEY = "hudle:v0";
 
 const $ = (id) => document.getElementById(id);
 let songs = [];
+let level = "easy";
 let game = null;   // {song, guesses: [{kind, text}], done, won}
 let audio = { ctx: null, buffer: null, source: null, startedAt: 0, from: 0, raf: 0 };
 
@@ -162,7 +169,7 @@ function guess(song) {
 function skip() {
   if (game.done) return;
   const step = nextStep();
-  game.guesses.push({ kind: "skip", text: step ? `Preskočené (+${step} s)` : "Vzdané" });
+  game.guesses.push({ kind: "skip", text: step ? `Preskočené (+${sec(step)} s)` : "Vzdané" });
   next();
   if (!game.done && audio.buffer) {
     const i = game.guesses.length;
@@ -172,7 +179,7 @@ function skip() {
 
 function nextStep() {
   const i = game.guesses.length;
-  return i + 1 < STAGES.length ? STAGES[i + 1] - STAGES[i] : 0;
+  return i + 1 < STAGES.length ? Math.round((STAGES[i + 1] - STAGES[i]) * 10) / 10 : 0;
 }
 
 function next() {
@@ -185,8 +192,9 @@ function finish(won) {
   game.won = won;
   stopAudio();
   const state = load();
-  // streak = songs guessed in a row
-  const stats = state.songStats || { played: 0, won: 0, streak: 0, best: 0 };
+  // per level; streak = songs guessed in a row
+  state.levelStats = state.levelStats || {};
+  const stats = state.levelStats[level] || { played: 0, won: 0, streak: 0, best: 0 };
   stats.played += 1;
   if (won) {
     stats.won += 1;
@@ -195,7 +203,7 @@ function finish(won) {
   } else {
     stats.streak = 0;
   }
-  state.songStats = stats;
+  state.levelStats[level] = stats;
   state.played = [...new Set([...(state.played || []), game.song.id])].slice(-5000);
   save(state);
   render();
@@ -205,7 +213,8 @@ function shareText() {
   const marks = { ok: "🟩", near: "🟨", bad: "🟥", skip: "⬛" };
   const squares = game.guesses.map((g) => marks[g.kind]).join("") + "⬜".repeat(STAGES.length - game.guesses.length);
   const score = game.won ? `${game.guesses.length}/${STAGES.length}` : `X/${STAGES.length}`;
-  return `Hudle ${score}\n🔊${squares}\n${location.origin}${location.pathname}`;
+  const name = LEVELS.find((l) => l.id === level).name;
+  return `Hudle (${name}) ${score}\n🔊${squares}\n${location.origin}${location.pathname}`;
 }
 
 // ---------- UI ----------
@@ -241,11 +250,12 @@ function render() {
 
   $("play").disabled = !audio.buffer;
   if (!audio.source) setPlaying(false);
-  if (audio.buffer) setStatus(game.done ? "" : `Odomknuté ${unlockedSeconds()} s`);
+  if (audio.buffer) setStatus(game.done ? "" : `Odomknuté ${sec(unlockedSeconds())} s`);
+  document.querySelectorAll(".level").forEach((b) => b.setAttribute("aria-checked", b.dataset.level === level));
 
   $("controls").hidden = game.done;
   const step = nextStep();
-  $("skip").textContent = step ? `Preskočiť (+${step} s)` : "Vzdať sa";
+  $("skip").textContent = step ? `Preskočiť (+${sec(step)} s)` : "Vzdať sa";
 
   const s = game.song;
   $("result").hidden = !game.done;
@@ -257,9 +267,9 @@ function render() {
     $("answerTitle").textContent = `${s.title} (${s.year})`;
     $("apple").href = s.url;
     $("share").textContent = "Zdieľať výsledok";
-    const st = load().songStats;
+    const st = load().levelStats?.[level];
     $("stats").textContent = st
-      ? `Uhádnuté ${st.won} z ${st.played}, séria ${st.streak} (najdlhšia ${st.best})`
+      ? `${LEVELS.find((l) => l.id === level).name}: uhádnuté ${st.won} z ${st.played}, séria ${st.streak} (najdlhšia ${st.best})`
       : "";
   } else {
     $("cover").removeAttribute("src");
@@ -314,8 +324,9 @@ function submit() {
 function randomUnplayed(currentId) {
   const played = new Set(load().played || []);
   if (currentId) played.add(currentId);
-  const pool = songs.filter((s) => !played.has(s.id));
-  const from = pool.length ? pool : songs;
+  const inLevel = songs.filter((s) => s.level === level);
+  const pool = inLevel.filter((s) => !played.has(s.id));
+  const from = pool.length ? pool : inLevel;
   return from[Math.floor(Math.random() * from.length)];
 }
 
@@ -349,7 +360,30 @@ async function init() {
       else { await navigator.clipboard.writeText(text); $("share").textContent = "Skopírované"; }
     } catch { /* user cancelled */ }
   });
+  const saved = load().level;
+  if (LEVELS.some((l) => l.id === saved)) level = saved;
+  const box = $("levels");
+  for (const l of LEVELS) {
+    const b = document.createElement("button");
+    b.className = "level";
+    b.dataset.level = l.id;
+    b.setAttribute("role", "radio");
+    b.textContent = l.name;
+    b.addEventListener("click", () => setLevel(l.id));
+    box.appendChild(b);
+  }
   start(randomUnplayed());
+}
+
+// Switching the level starts a new song from that level right away.
+function setLevel(id) {
+  if (id === level) return;
+  level = id;
+  const state = load();
+  state.level = id;
+  save(state);
+  upcoming = null;
+  start(randomUnplayed(game?.song.id));
 }
 
 init();

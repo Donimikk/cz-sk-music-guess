@@ -169,3 +169,19 @@ button:disabled { opacity: .45; cursor: default; }
   .bar-unlocked { transition: none; }
 }
 .retry { justify-self: center; min-height: 40px; padding: 8px 16px; }
+
+/* difficulty levels: soft pills, one colour per level (easy → impossible) */
+.levels { display: flex; flex-wrap: wrap; justify-content: center; gap: 4px; }
+.level {
+  --c: #7CF0C5; border: 0; border-radius: 100px; padding: 6px 9px; cursor: pointer;
+  font-weight: 700; font-size: .78rem; color: var(--c);
+  background: color-mix(in srgb, var(--c) 14%, transparent);
+}
+.level[data-level="medium"] { --c: #FFD84D; }
+.level[data-level="hard"] { --c: #FF9F43; }
+.level[data-level="expert"] { --c: #FF6B6B; }
+.level[data-level="impossible"] { --c: #B98BFF; }
+.level[aria-checked="true"] {
+  background: var(--c); color: var(--on-light);
+  box-shadow: inset 0 1px rgba(255, 255, 255, .35), 0 2px 8px rgba(0, 0, 0, .35);
+}
