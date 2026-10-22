@@ -472,6 +472,23 @@ async function init() {
     box.appendChild(b);
   }
   start(pickNext());
+  rememberScroll();
+}
+
+// Keep the scroll position across a reload. The browser restores it before our content exists (it renders after
+// songs.json loads), so the page is too short and the position is lost; we restore it after the first render.
+function rememberScroll() {
+  const KEY = "hudle:scroll";
+  if ("scrollRestoration" in history) history.scrollRestoration = "manual";
+  try {
+    const y = Number(sessionStorage.getItem(KEY));
+    if (y) window.scrollTo(0, y);
+  } catch { /* storage blocked */ }
+  let timer = 0;
+  window.addEventListener("scroll", () => {
+    clearTimeout(timer);
+    timer = setTimeout(() => { try { sessionStorage.setItem(KEY, String(Math.round(scrollY))); } catch {} }, 150);
+  }, { passive: true });
 }
 
 // Switching the level starts a new song from that level right away.
