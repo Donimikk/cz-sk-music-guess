@@ -25,12 +25,13 @@ import json
 import re
 from collections import Counter, defaultdict
 
-from build_v0 import DOMESTIC, IFPI, OUT_JSON as MATCHED, OUT_REVIEW, artists_of, clean_title
+from build_v0 import DOMESTIC, IFPI, OUT_JSON as MATCHED, OUT_REVIEW, artists_of, clean_title, excluded
 from pilot import ROOT, norm
 
 SITE_JSON = ROOT / "site" / "songs.json"
 CATALOG = ROOT / "catalog"
 ARTIST_COUNTRY = CATALOG / "artist_country.csv"
+EXCLUDED_SONGS = CATALOG / "excluded_songs.csv"
 
 # top share of songs per level, from easiest (decided 2026-10-22, Songspot-like 5 levels)
 LEVELS = [("easy", 0.08), ("medium", 0.12), ("hard", 0.20), ("expert", 0.25), ("impossible", 0.35)]
@@ -111,10 +112,16 @@ def main() -> None:
         review = {r["itunes_id"]: r for r in csv.DictReader(f) if r["status"] == "ok"}
     share, manual = ifpi_country_share(), manual_countries()
 
-    songs, seen = [], {}
+    # manual exclusions apply here too, so they take effect without re-running the matching
+    with open(EXCLUDED_SONGS, encoding="utf-8") as f:
+        excluded_songs = {song_key(r["artist"], r["title"]) for r in csv.DictReader(f)}
+    songs, seen, dropped = [], {}, []
     for g in games:
         r = review.get(str(g["id"]), {})
         key = song_key(g["artist"], g["title"])
+        if key in excluded_songs or excluded(g["artist"], g["title"]):
+            dropped.append(f"{g['artist']} – {g['title']}")
+            continue
         if key in seen:
             raise SystemExit(f"duplicate song key {key}: ids {seen[key]} and {g['id']} — resolve by hand")
         seen[key] = g["id"]
@@ -136,9 +143,10 @@ def main() -> None:
     songs.sort(key=lambda s: s["key"])
     (CATALOG / "catalog.json").write_text(json.dumps(songs, ensure_ascii=False, indent=1), encoding="utf-8")
     site = [{k: s[k] for k in ("key", "id", "deezer", "artist", "title", "year", "store", "cover", "url",
-                               "level", "country", "genre_group")} for s in songs]
+                               "level", "country", "genre_group", "popularity")} for s in songs]
     SITE_JSON.write_text(json.dumps(site, ensure_ascii=False, indent=0), encoding="utf-8")
 
+    print(f"excluded here: {len(dropped)}", dropped)
     print(f"{len(songs)} songs → catalog/catalog.json, {SITE_JSON.relative_to(ROOT)}")
     print("levels:", Counter(s["level"] for s in songs))
     print("country:", Counter(s["country"] for s in songs))
