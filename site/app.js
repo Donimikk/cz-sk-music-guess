@@ -374,6 +374,109 @@ function submit() {
   guess(s);
 }
 
+// ---------- filters ----------
+// OR inside a facet, AND between facets. Some facets exclude each other (groups vs years, decided 2026-10-22 —
+// to be judged case by case, so it is one setting). A facet shows up only when the data has 2+ options for it.
+const FACETS = [
+  { id: "country", name: "Krajina", values: (s) => (s.country === "cz+sk" ? ["cz", "sk"] : [s.country]),
+    label: { cz: "CZ", sk: "SK" } },
+  { id: "genre", name: "Žáner", values: (s) => [s.genre_group],
+    label: { "hip-hop": "Rap", pop: "Pop", rock: "Rock", rnb: "R&B", other: "Iné" } },
+  { id: "decade", name: "Roky", values: (s) => [String(Math.floor(s.year / 10) * 10)],
+    label: (v) => v.slice(2) + ". roky" },
+  { id: "group", name: "Skupiny", values: (s) => s.groups || [], label: (v) => v },
+];
+const EXCLUSIVE = [["decade", "group"]];
+const MIN_POOL = 15;
+const LEVEL_SHARES = [0.08, 0.12, 0.2, 0.25, 0.35]; // as pipeline/catalog.py
+let filters = {}; // facet id → chosen values
+
+const optLabel = (f, v) => (typeof f.label === "function" ? f.label(v) : f.label[v]) || v;
+const filterKey = () => FACETS.map((f) => (filters[f.id] || []).slice().sort().join(",")).join(";");
+const activeFilters = () => FACETS.some((f) => (filters[f.id] || []).length);
+const validValue = (f, v) => v && v !== "unknown" && (typeof f.label === "function" || v in f.label);
+
+function matches(s, except) {
+  return FACETS.every((f) => {
+    const chosen = filters[f.id] || [];
+    return f.id === except || !chosen.length || f.values(s).some((v) => chosen.includes(v));
+  });
+}
+
+// Songs that pass the filters, and those of the current level. With a filter on, the five levels are re-cut inside
+// the selection (same shares as the catalogue); otherwise a narrow selection could leave a level empty.
+function currentPool() {
+  const pool = songs.filter((s) => matches(s));
+  if (!activeFilters()) return { pool, inLevel: pool.filter((s) => s.level === level) };
+  const ranked = [...pool].sort((a, b) => (b.popularity || 0) - (a.popularity || 0));
+  const at = LEVELS.findIndex((l) => l.id === level);
+  const cut = (k) => Math.round(LEVEL_SHARES.slice(0, k).reduce((a, b) => a + b, 0) * ranked.length);
+  const start = cut(at);
+  const end = at === LEVELS.length - 1 ? ranked.length : cut(at + 1);
+  return { pool, inLevel: ranked.slice(start, Math.max(end, start + 1)) };
+}
+
+function renderFilters() {
+  const box = $("filterPanel");
+  box.innerHTML = "";
+  const blocked = new Set(EXCLUSIVE.flatMap((pair) =>
+    pair.filter((id) => pair.some((other) => other !== id && (filters[other] || []).length))));
+  for (const f of FACETS) {
+    if (new Set(songs.flatMap(f.values).filter((v) => validValue(f, v))).size < 2) continue;
+    const counts = new Map();
+    for (const s of songs) if (matches(s, f.id)) for (const v of f.values(s)) counts.set(v, (counts.get(v) || 0) + 1);
+    const all = new Set([...songs.flatMap(f.values), ...(filters[f.id] || [])]);
+    const row = document.createElement("div");
+    row.className = "facet";
+    const name = document.createElement("span");
+    name.className = "facet-name";
+    name.textContent = f.name;
+    row.appendChild(name);
+    // fixed order by size in the whole catalogue (decades newest first), so chips don't jump as filters change
+    const total = (v) => songs.reduce((n, s) => n + f.values(s).includes(v), 0);
+    const order = f.id === "decade" ? (a, b) => b.localeCompare(a) : (a, b) => total(b) - total(a);
+    for (const v of [...all].filter((x) => validValue(f, x)).sort(order)) {
+      const b = document.createElement("button");
+      const on = (filters[f.id] || []).includes(v);
+      b.className = "chip";
+      b.setAttribute("aria-pressed", on);
+      b.disabled = !on && (blocked.has(f.id) || !counts.get(v));
+      b.textContent = optLabel(f, v) + " " + (counts.get(v) || 0);
+      b.addEventListener("click", () => toggleFilter(f.id, v));
+      row.appendChild(b);
+    }
+    if (blocked.has(f.id)) {
+      const note = document.createElement("span");
+      note.className = "facet-note";
+      note.textContent = "Nedá sa kombinovať s druhou vybranou skupinou filtrov.";
+      row.appendChild(note);
+    }
+    box.appendChild(row);
+  }
+  const n = currentPool().pool.length;
+  const count = FACETS.reduce((a, f) => a + (filters[f.id] || []).length, 0);
+  $("filterToggle").textContent = count ? "Filtre (" + count + ")" : "Filtre";
+  $("filterInfo").textContent = !activeFilters() ? "" : n < MIN_POOL
+    ? "Len " + n + " pesničiek, budú sa skoro opakovať." : n + " pesničiek vo výbere.";
+  $("filterClear").hidden = !activeFilters();
+}
+
+function toggleFilter(id, v) {
+  const before = filters[id] || [];
+  filters[id] = before.includes(v) ? before.filter((x) => x !== v) : [...before, v];
+  if (!currentPool().pool.length) filters[id] = before; // never allow an empty selection
+  saveFilters();
+}
+
+function saveFilters() {
+  const state = load();
+  state.filters = filters;
+  save(state);
+  renderFilters();
+  upcoming = null;
+  start(pickNext(game?.song.id));
+}
+
 // ---------- song order: random that feels random ----------
 // Pure random clusters (Calin twice in a row), which players don't perceive as random — Spotify spreads artists
 // for the same reason (engineering.atspotify.com/2014/02/how-to-shuffle-songs). Rules:
@@ -399,9 +502,12 @@ function pickNext(currentId) {
   const byId = new Map(songs.map((s) => [s.id, s]));
   const state = load();
   state.bags = state.bags || {};
-  const inLevel = songs.filter((s) => s.level === level);
-  let bag = (state.bags[level] || []).filter((id) => byId.get(id)?.level === level && id !== currentId);
+  const { inLevel } = currentPool();
+  const allowed = new Set(inLevel.map((s) => s.id));
+  const bagKey = level + "|" + filterKey(); // a bag per level and filter combination
+  let bag = (state.bags[bagKey] || []).filter((id) => allowed.has(id) && id !== currentId);
   if (!bag.length) bag = weightedShuffle(inLevel).filter((id) => id !== currentId);
+  if (!bag.length) bag = inLevel.map((s) => s.id); // a one-song pool
   const recent = state.recent || []; // [{artists, genre, country}], newest last
   const recentArtists = new Set(recent.slice(-ARTIST_GAP).flatMap((r) => r.artists));
   const last2 = recent.slice(-2);
@@ -415,7 +521,7 @@ function pickNext(currentId) {
     if (penalty === 0) break;
   }
   const [id] = bag.splice(best, 1);
-  state.bags[level] = bag;
+  state.bags[bagKey] = bag;
   save(state);
   return byId.get(id);
 }
@@ -459,6 +565,19 @@ async function init() {
       else { await navigator.clipboard.writeText(text); $("share").textContent = "Skopírované"; }
     } catch { /* user cancelled */ }
   });
+  // keep only saved choices that still exist in the data and belong to a shown facet (data can change between visits)
+  const savedFilters = load().filters || {};
+  filters = {};
+  for (const f of FACETS) {
+    const present = new Set(songs.flatMap(f.values).filter((v) => validValue(f, v)));
+    if (present.size >= 2) filters[f.id] = (savedFilters[f.id] || []).filter((v) => present.has(v));
+  }
+  $("filterToggle").addEventListener("click", () => {
+    const open = $("filterPanelWrap").hidden;
+    $("filterPanelWrap").hidden = !open;
+    $("filterToggle").setAttribute("aria-expanded", open);
+  });
+  $("filterClear").addEventListener("click", () => { filters = {}; saveFilters(); });
   const saved = load().level;
   if (LEVELS.some((l) => l.id === saved)) level = saved;
   const box = $("levels");
@@ -471,6 +590,7 @@ async function init() {
     b.addEventListener("click", () => setLevel(l.id));
     box.appendChild(b);
   }
+  renderFilters();
   start(pickNext());
   rememberScroll();
   setupAccentSwitch();

@@ -21,6 +21,13 @@
     <main>
       <p class="puzzle">Uhádni českú alebo slovenskú pesničku z čo najkratšej ukážky.</p>
       <div class="levels" id="levels" role="radiogroup" aria-label="Obtiažnosť"></div>
+      <div class="filters">
+        <button class="filter-toggle" id="filterToggle" aria-expanded="false" aria-controls="filterPanelWrap">Filtre</button>
+        <div class="filter-panel-wrap" id="filterPanelWrap" hidden>
+          <div id="filterPanel"></div>
+          <div class="filter-foot"><span id="filterInfo"></span><button class="giveup" id="filterClear" hidden>Zrušiť filtre</button></div>
+        </div>
+      </div>
       <ol class="attempts" id="board" aria-label="Pokusy"><li class="sk"></li><li class="sk"></li><li class="sk"></li><li class="sk"></li><li class="sk"></li></ol>
 
       <section class="player loading" id="player" aria-label="Prehrávač">
