@@ -7,6 +7,9 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
 - `pipeline/spotify.py` needs the project venv: `.venv/Scripts/python -m pip install -r requirements.txt`,
   then `.venv/Scripts/python pipeline/spotify.py`. The other scripts use only the standard library.
 - Spotify data (`spotifyscraper`) is used only to pick songs for the catalogue, never in the public game.
+- Pipeline order: `build_v0.py` (matching → data/v0/matched.json + review.csv) → `catalog.py` (stable keys, tags →
+  catalog/catalog.json + site/songs.json). catalog.py never reads site/songs.json (a first version did and would
+  have lost plays/genres on a second run). Manual decisions live in catalog/*.csv and data/excluded_artists.csv.
 - Test small first: `python pipeline/build_v0.py --per-chart-type 20`, full run only after that looks right.
 - Every response is cached on disk by URL (`data/cache/`), so reruns are seconds. To try a matching
   fix, rerun from cache instead of calling the APIs again.
