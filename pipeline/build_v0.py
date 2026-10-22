@@ -309,6 +309,9 @@ def main() -> None:
         track, reason = resolve(s)
         if track and christmas(track.get("trackName"), track.get("collectionName"), track.get("primaryGenreName")):
             track, reason = None, "Christmas song (title, album or genre)"
+        # iTunes may credit more artists than Spotify (Spotify "Eclipse" = iTunes "ProdbyTrippy & Eclipse")
+        if track and excluded(track.get("artistName", "")):
+            track, reason = None, "excluded artist (iTunes credits)"
         if track and track["trackId"] in seen_ids:
             track, reason = None, "duplicate of another candidate"
         dz = resolve_deezer(s)
