@@ -83,6 +83,10 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
 - User's taste so far: classic centred Heardle layout, dark blue background with depth, buttons that look like
   buttons (raised, shadow, press state), the half record only as a small element above the bar.
 
+## Hub
+- When updating the hub project file, also refresh the top `Status:` line and outdated decisions — appending new
+  sections below left the status saying "pilot" while the game was already live.
+
 ## Cloud sessions
 - The container is lost at the end: before finishing, pack gitignored `data/` and `WORKLOG.md`
   and hand them to the user (zip). This session survived only thanks to a hub copy and the user's zip.
