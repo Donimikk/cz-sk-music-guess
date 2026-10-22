@@ -184,10 +184,10 @@ button:disabled { opacity: .45; cursor: default; }
 .retry { justify-self: center; min-height: 40px; padding: 8px 16px; }
 
 /* difficulty levels: pill shape, our tactile style (black edge + hard shadow); the chosen one is filled and pressed in */
-.levels { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; }
+.levels { display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; }
 .level {
-  --c: #7CF0C5; border: 2px solid var(--edge); border-radius: 100px; padding: 5px 9px; cursor: pointer;
-  font-weight: 700; font-size: .78rem; color: var(--c); background: var(--slot); box-shadow: 2px 2px 0 var(--edge);
+  --c: #7CF0C5; border: 2px solid var(--edge); border-radius: 100px; padding: 5px 7px; cursor: pointer;
+  font-weight: 700; font-size: .74rem; color: var(--c); background: var(--slot); box-shadow: 2px 2px 0 var(--edge);
   transition: transform .08s ease, box-shadow .08s ease;
 }
 .level[data-level="medium"] { --c: #FFD84D; }
@@ -214,3 +214,36 @@ button:disabled { opacity: .45; cursor: default; }
 @media (prefers-reduced-motion: reduce) {
   .attempts li.sk, .player.loading .bar, .player.loading .play, .player.loading .turntable .disc { animation: none; }
 }
+
+/* logo: a record opens between "Hud" and "le"; its width pushes only "le" to the right */
+.wordmark { display: inline-flex; align-items: center; }
+.logo-disc {
+  display: inline-block; width: 0; height: .8em; margin: 0; border-radius: 50%; box-sizing: border-box;
+  background: radial-gradient(circle, var(--bg) 0 9%, var(--mint) 10% 30%, transparent 31%),
+              repeating-radial-gradient(circle, #0D0E12 0 1px, #050608 1px 3px);
+  transition: width .45s cubic-bezier(.3, 1.3, .5, 1), margin .45s ease;
+}
+.wordmark.spin .logo-disc { width: .8em; margin: 0 .07em; border: 2px solid #000; animation: spin 1.333s linear infinite; }
+.tagline { display: none; }
+
+/* contrast variant B: one hot pink for "playing now" (record label, progress, play button) */
+:root[data-accent="b"] { --hot: #FF5A8A; }
+:root[data-accent="b"] .disc-label { background: radial-gradient(circle, var(--card) 0 5%, var(--hot) 5.5%); }
+:root[data-accent="b"] .bar-progress { background: var(--hot); }
+:root[data-accent="b"] .bar-unlocked { background: rgba(255, 90, 138, .26); }
+:root[data-accent="b"] .play { background: var(--hot); }
+:root[data-accent="b"] .logo-disc { background: radial-gradient(circle, var(--bg) 0 9%, var(--hot) 10% 30%, transparent 31%), repeating-radial-gradient(circle, #0D0E12 0 1px, #050608 1px 3px); }
+
+/* contrast variant C: light yellow band across the top with the logo, the game stays dark */
+:root[data-accent="c"] .top {
+  margin-inline: calc(50% - 50vw); padding: 14px calc(50vw - 50% + 0px) 12px; background: var(--yellow); color: var(--on-light);
+  border-bottom: 2px solid var(--edge); box-shadow: 0 4px 0 var(--edge);
+}
+:root[data-accent="c"] .tagline { display: inline; font-weight: 700; font-size: var(--t-s); }
+:root[data-accent="c"] main { padding-top: 18px; }
+
+/* comparison switch (temporary) */
+.accent-switch { display: flex; justify-content: center; align-items: center; gap: 6px; padding-top: 28px; color: var(--muted); font-size: var(--t-s); }
+.accent { border: 2px solid var(--edge); border-radius: 100px; padding: 5px 10px; cursor: pointer; font-weight: 700; font-size: .75rem;
+  color: var(--fg); background: var(--slot); box-shadow: 2px 2px 0 var(--edge); }
+.accent[aria-checked="true"] { background: var(--fg); color: var(--on-light); transform: translate(2px, 2px); box-shadow: none; }
