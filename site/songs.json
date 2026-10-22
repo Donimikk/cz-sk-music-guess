@@ -175,7 +175,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/f1/3b/72f13b09-4246-1375-5e87-1d8d8209e970/5026854939742.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/tvoje-o%C4%8Di-feat-krystuffek/1886739872?i=1886739874&uo=4",
 "level": "hard",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "pop",
 "popularity": 0.7305
 },
@@ -1585,7 +1585,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/69/14/34/69143463-709e-8c78-0698-cf6961cf74e4/190296533297.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/alive/1575815662?i=1575815665&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "pop",
 "popularity": 0.2606
 },
@@ -1600,7 +1600,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/6b/bb/526bbbbd-f8d7-6dd5-8731-dfe17916fa75/bd266195-bf71-40cc-82c3-c595a64e9df8.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/if-you-only-knew/1744316494?i=1744316495&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "pop",
 "popularity": 0.4415
 },
@@ -1615,7 +1615,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/5f/48/505f48a5-2d4d-98ea-c7c9-26bf237749c9/1200214529055.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/morning-blues/6789568366?i=6789568370&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "pop",
 "popularity": 0.1862
 },
@@ -5485,7 +5485,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/99/db/4f99dbd4-4697-a028-d1bd-895374ab1729/26UMGIM36371.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/100k/1887890673?i=1887890740&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.0679
 },
@@ -5500,7 +5500,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/c7/bb/48c7bb28-387f-e467-4f6b-974c909689e2/25UM1IM84585.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/%C4%8Dernej-tracksuit/1856550908?i=1856550909&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.0296
 },
@@ -5515,7 +5515,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/b7/7e/cfb77e24-5a63-16ea-5c71-02e9446f4543/25UMGIM91888.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/jesus/1824974848?i=1824974851&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.4943
 },
@@ -5530,7 +5530,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/56/3d/3f563d97-db6a-19c7-8cea-3056e9bac515/26UMGIM36369.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/miluju-riskovat/1887890404?i=1887890804&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.3283
 },
@@ -7015,7 +7015,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/b9/83/13b98353-dd7b-590a-b0da-ff024698e412/artwork.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/p%C3%A1n-sv%C3%BD-z%C3%B3ny/1769367106?i=1769367107&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.2485
 },
@@ -7030,7 +7030,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/79/04/48/790448b2-a6ba-a854-75b8-ee05ac51ebf4/artwork.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/para-siempre/1693013810?i=1693013812&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.1578
 },
@@ -7870,7 +7870,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/d7/6f/2fd76f41-0c31-ae19-0ac5-c41461296ccf/artwork.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/asthmaboy/1601996493?i=1601996682&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "hip-hop",
 "popularity": 0.0123
 },
@@ -7885,7 +7885,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/a1/d7/a9a1d7b7-65b6-e8ad-507f-bb7698e8c151/artwork.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/du%C5%A1a-undergroundu/1763198241?i=1763198244&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "hip-hop",
 "popularity": 0.2093
 },
@@ -7900,7 +7900,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d6/87/86/d68786d2-ca1e-ac81-369c-58605e95e1c9/artwork.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/mark%C3%A9ta-a-karol/1641286263?i=1641286268&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "hip-hop",
 "popularity": 0.5504
 },
@@ -7915,7 +7915,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/a1/d7/a9a1d7b7-65b6-e8ad-507f-bb7698e8c151/artwork.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/plastov%C3%AD-rytieri/1763198241?i=1763198246&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "hip-hop",
 "popularity": 0.3657
 },
@@ -10060,7 +10060,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/aa/8f/ddaa8f47-aa75-b404-ec99-197c02e6478d/25UM1IM24003.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/2menstep/1834992434?i=1834992444&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.1664
 },
@@ -10075,7 +10075,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/aa/8f/ddaa8f47-aa75-b404-ec99-197c02e6478d/25UM1IM24003.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/back2back/1834992434?i=1834992587&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.549
 },
@@ -10090,7 +10090,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/a2/43/55a24309-4f0a-eabc-171c-7175dfe25750/26UMGIM77276.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/close/6780804690?i=6780804691&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.5796
 },
@@ -10105,7 +10105,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/aa/8f/ddaa8f47-aa75-b404-ec99-197c02e6478d/25UM1IM24003.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/dnd/1834992434?i=1834992450&uo=4",
 "level": "hard",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.8035
 },
@@ -10120,7 +10120,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/22/1b/43221bcb-e28c-2ca7-f895-e150f73a8136/26UMGIM77275.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/dr%C5%BE-p%C3%AD%C4%8Du/6780804614?i=6780804621&uo=4",
 "level": "medium",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.8887
 },
@@ -10135,7 +10135,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/c2/bb/41c2bb04-bfdd-0bb9-2039-df715082ef60/26UMGIM19439.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/fashion-princess/1877063923?i=1877064348&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.2745
 },
@@ -10150,7 +10150,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/b7/7e/cfb77e24-5a63-16ea-5c71-02e9446f4543/25UMGIM91888.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/full-package/1824974848?i=1824974849&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.1026
 },
@@ -10165,7 +10165,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/aa/8f/ddaa8f47-aa75-b404-ec99-197c02e6478d/25UM1IM24003.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/moc-hype/1834992434?i=1834992436&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.4259
 },
@@ -10180,7 +10180,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/aa/8f/ddaa8f47-aa75-b404-ec99-197c02e6478d/25UM1IM24003.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/nike/1834992434?i=1834992443&uo=4",
 "level": "hard",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.6612
 },
@@ -10195,7 +10195,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/19/28/761928fb-b71d-7026-2863-49156cd70558/26UMGIM77274.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/slang/6780804952?i=6780804953&uo=4",
 "level": "hard",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.6562
 },
@@ -10210,7 +10210,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/b7/4e/efb74ee2-6f7e-facc-c40b-a029d9800545/26UMGIM77277.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/throwaways/6780804357?i=6780804359&uo=4",
 "level": "hard",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.7419
 },
@@ -10225,7 +10225,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/b3/d1/7eb3d12c-e114-96c6-991e-7cb9f4459718/26UMGIM77278.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/wannabes/6780804938?i=6780804941&uo=4",
 "level": "hard",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.7538
 },
@@ -11785,7 +11785,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/b0/d1/feb0d179-7e5d-0b4b-113c-06268b72e7c3/artwork.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/slovensko-moje-otcina-moja/1498671209?i=1498671212&uo=4",
 "level": "hard",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "other",
 "popularity": 0.6753
 },
@@ -11950,7 +11950,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/80/66/6a/80666afc-bd13-5cc5-4694-29d04a3f7c8e/cover.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/l%C3%A1ska-neumiera-feat-%C5%A1tefan-%C5%A1tec/1548726804?i=1548726807&uo=4",
 "level": "medium",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "pop",
 "popularity": 0.8936
 },
@@ -11965,7 +11965,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3a/4c/99/3a4c999e-3b31-6376-c5e2-51b95cd410eb/5054197396939.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/lovestory-feat-milan-ondr%C3%ADk/1648146670?i=1648146674&uo=4",
 "level": "hard",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "pop",
 "popularity": 0.6223
 },
@@ -11980,7 +11980,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/26/87/4e/26874e87-0de3-a10c-2a70-ea04ae9560bf/cover.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/na-okamih/1503679293?i=1503679539&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "pop",
 "popularity": 0.2713
 },
@@ -15280,7 +15280,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/26/19/8c2619d9-779d-6507-ea62-a8d73431d057/25UMGIM43932.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/marie/1801503024?i=1801503035&uo=4",
 "level": "hard",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "pop",
 "popularity": 0.6755
 },
@@ -16150,7 +16150,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/8f/9f/fa8f9f13-4945-3486-c52e-4b7a424f76aa/38cdb960-5871-46b5-84e0-b49ab1135c67.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/know-how/1736093948?i=1736093949&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "pop",
 "popularity": 0.3617
 },
@@ -16165,7 +16165,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d8/46/e2/d846e262-4142-0f5c-e5b0-574ad1fbb996/artwork.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/liar/1725277963?i=1725277964&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "other",
 "popularity": 0.5851
 },
@@ -16180,7 +16180,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/5d/6d/495d6d52-39ea-4f2a-c08f-963585627cd7/artwork.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/vt%C3%A1ci-v-k%C5%95dli-feat-peter-lipa/1612357895?i=1612358196&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "pop",
 "popularity": 0.3564
 },
@@ -16885,7 +16885,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/a1/be/fca1be4c-8a15-9f46-e2bd-a320db0b1951/23UMGIM62360.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/ay-see-ay-bee-pt-1/1690163379?i=1690163383&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.1195
 },
@@ -16900,7 +16900,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/a1/be/fca1be4c-8a15-9f46-e2bd-a320db0b1951/23UMGIM62360.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/ay-see-ay-bee-pt-2/1690163379?i=1690163384&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.3247
 },
@@ -16915,7 +16915,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/a1/be/fca1be4c-8a15-9f46-e2bd-a320db0b1951/23UMGIM62360.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/bye-bye/1690163379?i=1690163381&uo=4",
 "level": "hard",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.7884
 },
@@ -16930,7 +16930,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/a1/be/fca1be4c-8a15-9f46-e2bd-a320db0b1951/23UMGIM62360.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/fuck-off/1690163379?i=1690163380&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.5933
 },
@@ -16945,7 +16945,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/a1/be/fca1be4c-8a15-9f46-e2bd-a320db0b1951/23UMGIM62360.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/how-high-3/1690163379?i=1690163568&uo=4",
 "level": "hard",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.6316
 },
@@ -16960,7 +16960,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/a1/be/fca1be4c-8a15-9f46-e2bd-a320db0b1951/23UMGIM62360.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/ka%C5%BEdej-n%C4%9Bco-hled%C3%A1/1690163379?i=1690163382&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.1477
 },
@@ -16975,7 +16975,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/a1/be/fca1be4c-8a15-9f46-e2bd-a320db0b1951/23UMGIM62360.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/krtek-forever/1690163379?i=1690163570&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.2905
 },
@@ -16990,7 +16990,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/a1/be/fca1be4c-8a15-9f46-e2bd-a320db0b1951/23UMGIM62360.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/life-of-diego/1690163379?i=1690163385&uo=4",
 "level": "medium",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.8746
 },
@@ -17005,7 +17005,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bc/25/76/bc2576d6-e501-dabf-1505-42115cfb9ed3/20UMGIM45941.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/locked-up-hot16challenge2-feat-nik-tendo/1516295615?i=1516295920&uo=4",
 "level": "hard",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.7519
 },
@@ -17020,7 +17020,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/a1/be/fca1be4c-8a15-9f46-e2bd-a320db0b1951/23UMGIM62360.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/loupe%C5%BE/1690163379?i=1690163569&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.5887
 },
@@ -17035,7 +17035,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bc/25/76/bc2576d6-e501-dabf-1505-42115cfb9ed3/20UMGIM45941.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/yvgn-hot16challenge2-feat-jickson/1516295615?i=1516295923&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.2339
 },
@@ -17050,7 +17050,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bc/25/76/bc2576d6-e501-dabf-1505-42115cfb9ed3/20UMGIM45941.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/yzolace-hot16challenge2-feat-yzomandias/1516295615?i=1516295918&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.3092
 },
@@ -21250,7 +21250,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/36/b8/0c36b87f-a3d3-6e6f-bd2b-cb43dfdd16d2/artwork.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/za-to-vsetko-laska-mozes-ty/1862507603?i=1862507604&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "pop",
 "popularity": 0.3936
 },
@@ -24085,7 +24085,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/a5/08/48a5087d-4df5-ccaa-beab-30c2b4313204/5906671708472.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/nie-som-tu-n%C3%A1hodou/1780778746?i=1780779091&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "pop",
 "popularity": 0.1856
 },
@@ -24100,7 +24100,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/64/1d/0d/641d0d43-aaca-98d5-d36c-7f9249be4fcd/20UMGIM80602.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/siedme-nebo/1533738260?i=1533738261&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "pop",
 "popularity": 0.4096
 },
@@ -30895,7 +30895,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/55/3c/c0/553cc0e3-0510-d365-e848-3175451a6495/22UM1IM13644.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/aleluja-feat-dollar-prync-luca-brassi10x/1648129627?i=1648129630&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.5527
 },
@@ -30910,7 +30910,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/5e/15/745e156a-9942-58e4-307f-de0a4aad13e1/24UMGIM60680.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/and%C4%9Bl/1749294682?i=1749294688&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.2567
 },
@@ -30925,7 +30925,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/c4/f7/16c4f7c3-4b13-e6d1-3a83-c7b6364bac9d/25UMGIM78262.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/homerun/1817448740?i=1817448744&uo=4",
 "level": "hard",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.8026
 },
@@ -30940,7 +30940,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/ef/67/2fef67ce-fc11-06c6-9663-130d915a4911/24UMGIM67813.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/round-2-feat-katannah/1752830554?i=1752830560&uo=4",
 "level": "impossible",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.078
 },
@@ -30955,7 +30955,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/c2/71/87c27114-de28-34b7-8638-3751e273e1a6/25UMGIM78261.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/traphouse/1817465732?i=1817466035&uo=4",
 "level": "hard",
-"country": "cz+sk",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.7684
 },
@@ -31060,7 +31060,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4b/e5/7a/4be57ad8-d8ea-f93b-63dd-99f0cce1eb8d/c54d493c-c0c9-49cb-a49f-5e36e85929bf.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/celebrity-rehab-feat-karlo/1618819384?i=1618819385&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "hip-hop",
 "popularity": 0.4756
 },
@@ -31300,7 +31300,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/a4/82/e2a48218-1c50-4bbc-5702-41bc309a46d1/e3b79d18-05db-4799-a895-350537df02a6.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/kiki/1777228154?i=1777228155&uo=4",
 "level": "expert",
-"country": "cz+sk",
+"country": "sk",
 "genre_group": "hip-hop",
 "popularity": 0.591
 },
