@@ -25,7 +25,7 @@ from pathlib import Path
 from pilot import ROOT, fetch_json, norm
 
 IFPI = ROOT / "data" / "ifpi" / "charts.csv"
-OUT_JSON = ROOT / "site" / "songs.json"
+OUT_JSON = ROOT / "data" / "v0" / "matched.json"  # full match result; pipeline/catalog.py makes site/songs.json from it
 OUT_REVIEW = ROOT / "data" / "v0" / "review.csv"
 SPOTIFY_TRACKS = ROOT / "data" / "spotify" / "tracks.csv"
 SPOTIFY_ARTISTS = ROOT / "data" / "spotify" / "artists.csv"
