@@ -158,10 +158,12 @@ async function start(song, prepared) {
   game = restore(song) || { song, guesses: [], done: false, won: false };
   render();
   try {
+    $("retry").hidden = true;
     await loadPreview(song, prepared);
   } catch (e) {
     console.error(e);
-    setStatus("Ukážku sa nepodarilo načítať. Skús to o chvíľu znova.");
+    setStatus("Ukážku sa nepodarilo načítať.");
+    $("retry").hidden = false;
   }
   render();
   if (game.song === song) prepareNext();
@@ -381,6 +383,10 @@ function setMode(m) {
 }
 
 async function init() {
+  // iOS treats Web Audio as "ambient" sound, muted by the silent switch; "playback" plays like a music app
+  // (Safari 16.4+, WebKit bugs 237322 / 251532). Must be set before the AudioContext starts.
+  if ("audioSession" in navigator) navigator.audioSession.type = "playback";
+  $("retry").addEventListener("click", () => start(game.song));
   // "no-cache" = revalidate with the server, so an updated song list reaches players right away.
   songs = await (await fetch("songs.json", { cache: "no-cache" })).json();
   $("play").addEventListener("click", play);

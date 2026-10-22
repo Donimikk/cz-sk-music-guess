@@ -168,3 +168,4 @@ button:disabled { opacity: .45; cursor: default; }
   .disc { animation: none; }
   .bar-unlocked { transition: none; }
 }
+.retry { justify-self: center; min-height: 40px; padding: 8px 16px; }
