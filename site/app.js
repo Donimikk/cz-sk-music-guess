@@ -346,13 +346,59 @@ let suggestionIndex = -1;
 let suggestionList = [];
 let picked = null;
 
+// Search: every typed word must appear somewhere in artist or title, in any order ("porsche henzap" finds
+// "Porsche Boy & SIMILIVINLIFE – HENZAP"). A word of 3+ letters may also match across spaces, for titles written
+// with spaced letters ("baby relax" → "b a b y . r e l a x"). Title matches come first; up to 50 results scroll.
+const MAX_SUGGESTIONS = 50;
+let searchIndex = []; // [{song, text, compact, title}]
+let moreSuggestions = 0;
+
+function buildSearchIndex() {
+  searchIndex = songs.map((s) => {
+    const text = norm(label(s));
+    return { song: s, text, compact: text.replace(/ /g, ""), title: norm(s.title) };
+  });
+}
+
+// Query → words. Single letters in a row stay one phrase ("p t k"): alone each letter is in almost every title.
+function searchWords(q) {
+  const words = [];
+  for (const w of q.split(" ").filter(Boolean)) {
+    const prev = words[words.length - 1];
+    if (w.length === 1 && prev && /^(\S )*\S$/.test(prev)) {
+      words[words.length - 1] = prev + " " + w;
+    } else {
+      words.push(w);
+    }
+  }
+  return words;
+}
+
+// A lone letter has to start a word; longer words may be anywhere (and from 3 letters also across spaces).
+function wordMatches(entry, w) {
+  if (w.length === 1) return (" " + entry.text).includes(" " + w);
+  return entry.text.includes(w) || (w.length >= 3 && !w.includes(" ") && entry.compact.includes(w));
+}
+
+function searchRank(entry, q, words) {
+  const titleCompact = entry.title.replace(/ /g, "");
+  if (entry.title.startsWith(q) || titleCompact.startsWith(q.replace(/ /g, ""))) return 0;
+  if (words.every((w) => entry.title.includes(w) || (w.length >= 3 && titleCompact.includes(w)))) return 1;
+  if (words.some((w) => entry.title.includes(w))) return 2;
+  return 3;
+}
+
 function updateSuggestions() {
   const q = norm($("guess").value);
   picked = null;
-  suggestionList = q.length < 2 ? [] : songs
-    .filter((s) => norm(label(s)).includes(q))
-    .filter((s) => !game.guesses.some((g) => g.text === label(s)))
-    .slice(0, 8);
+  const words = searchWords(q);
+  const found = q.length < 2 ? [] : searchIndex
+    .filter((e) => words.every((w) => wordMatches(e, w)))
+    .filter((e) => !game.guesses.some((g) => g.text === label(e.song)))
+    .map((e) => ({ e, rank: searchRank(e, q, words) }))
+    .sort((a, b) => a.rank - b.rank || a.e.title.localeCompare(b.e.title));
+  suggestionList = found.slice(0, MAX_SUGGESTIONS).map((x) => x.e.song);
+  moreSuggestions = found.length - suggestionList.length;
   suggestionIndex = suggestionList.length ? 0 : -1;
   drawSuggestions();
 }
@@ -368,12 +414,20 @@ function drawSuggestions() {
     li.addEventListener("mousedown", (e) => { e.preventDefault(); choose(s); });
     ul.appendChild(li);
   });
+  if (suggestionList.length && moreSuggestions > 0) {
+    const li = document.createElement("li");
+    li.className = "more";
+    li.textContent = `…a ďalších ${moreSuggestions}, spresni hľadanie`;
+    ul.appendChild(li);
+  }
+  ul.children[suggestionIndex]?.scrollIntoView({ block: "nearest" }); // keep the arrow-key choice visible
 }
 
 function choose(s) {
   picked = s;
   $("guess").value = label(s);
   suggestionList = [];
+  moreSuggestions = 0;
   drawSuggestions();
 }
 
@@ -383,6 +437,7 @@ function submit() {
   $("guess").value = "";
   picked = null;
   suggestionList = [];
+  moreSuggestions = 0;
   drawSuggestions();
   guess(s);
 }
@@ -554,6 +609,7 @@ async function init() {
   $("retry").addEventListener("click", () => start(game.song));
   // "no-cache" = revalidate with the server, so an updated song list reaches players right away.
   songs = await (await fetch("songs.json", { cache: "no-cache" })).json();
+  buildSearchIndex();
   $("play").addEventListener("click", play);
   $("skip").addEventListener("click", skip);
   $("giveup").addEventListener("click", giveUp);

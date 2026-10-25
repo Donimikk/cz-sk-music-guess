@@ -139,6 +139,7 @@ main { display: grid; gap: 14px; padding-top: 10px; }
 #suggestions:empty { display: none; }
 #suggestions li { padding: 9px 10px; border-radius: 6px; cursor: pointer; }
 #suggestions li[aria-selected="true"], #suggestions li:hover { background: var(--raised); }
+#suggestions li.more, #suggestions li.more:hover { background: none; color: var(--muted); cursor: default; font-size: .875rem; }
 
 .buttons { display: flex; gap: 10px; }
 .buttons > * { flex: 1; }
