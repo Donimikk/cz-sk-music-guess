@@ -70,6 +70,7 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
 - The "country" tag means the language the lead artist sings/raps in (user 2026-10-22), shown as filter "Jazyk".
   Derived from IFPI domestic-chart rows (SK share <0.4 CZ, >0.6 SK); borderline artists are set by the user in
   catalog/artist_country.csv (e.g. Milion Plus 36/37 rows → CZ, Pavol Habera 93/80 → SK — the ratio alone is wrong there).
+  Artists with no IFPI rows: majority language of their Spotify release titles (`pipeline/title_language.py --write`).
 
 ## Data selection
 - Ranking by total weeks on IFPI charts misses new songs and fan-base artists with short release
@@ -88,9 +89,9 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
 - Stale cache: the browser kept an old songs.json and app.js. songs.json is fetched with `cache: "no-cache"`; in
   Playwright clear the cache via CDP `Network.clearBrowserCache` before checking a new build.
 - CSS gotcha: % padding resolves against the containing block's width (the record label's text vanished under the bar).
-- Palette debt: the current navy #0F0F23 / #181836 and the hard-shadow look are taken too literally from songless.pro's CSS
-  (original Songless at lessgames.com looks different). User: don't change the design yet, but replace these with our own
-  colours later (2026-10-22).
+- Palette: the navy #0F0F23 / #181836 stays (user 2026-10-25: generic enough); contrast = hot pink #FF5A8A (variant B).
+- iOS: after an app switch the AudioContext stays "interrupted" and resume() doesn't help → replace a non-running
+  context inside the play tap (`freshContext()`); AudioBuffers survive. Not verifiable in Playwright, test on an iPhone.
 - User's taste so far: classic centred Heardle layout, dark blue background with depth, buttons that look like
   buttons (raised, shadow, press state), the half record only as a small element above the bar.
 

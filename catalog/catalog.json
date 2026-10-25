@@ -2068,7 +2068,7 @@
   "country_source": "IFPI rows CZ 203 / SK 1216",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.2872,
+  "popularity": 0.2834,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -2109,7 +2109,7 @@
   "country_source": "IFPI rows CZ 203 / SK 1216",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.8191,
+  "popularity": 0.8182,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -2150,7 +2150,7 @@
   "country_source": "IFPI rows CZ 203 / SK 1216",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.1223,
+  "popularity": 0.123,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -2232,7 +2232,7 @@
   "country_source": "IFPI rows CZ 203 / SK 1216",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.5745,
+  "popularity": 0.5722,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -2314,7 +2314,7 @@
   "country_source": "IFPI rows CZ 203 / SK 1216",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.3138,
+  "popularity": 0.3102,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -2765,7 +2765,7 @@
   "country_source": "IFPI rows CZ 6 / SK 177",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "popularity": 0.5532,
+  "popularity": 0.5508,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -2806,7 +2806,7 @@
   "country_source": "IFPI rows CZ 6 / SK 177",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "popularity": 0.3883,
+  "popularity": 0.385,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -2929,7 +2929,7 @@
   "country_source": "IFPI rows CZ 55 / SK 290",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.766,
+  "popularity": 0.7647,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -3011,7 +3011,7 @@
   "country_source": "IFPI rows CZ 55 / SK 290",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.6915,
+  "popularity": 0.6898,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -3052,7 +3052,7 @@
   "country_source": "IFPI rows CZ 55 / SK 290",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.2553,
+  "popularity": 0.2513,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -3093,7 +3093,7 @@
   "country_source": "IFPI rows CZ 55 / SK 290",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.1596,
+  "popularity": 0.1551,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -3626,7 +3626,7 @@
   "country_source": "IFPI rows CZ 0 / SK 611",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.367,
+  "popularity": 0.3636,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -4159,7 +4159,7 @@
   "country_source": "IFPI rows CZ 0 / SK 128",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "popularity": 0.2819,
+  "popularity": 0.2781,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -4200,7 +4200,7 @@
   "country_source": "IFPI rows CZ 0 / SK 128",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "popularity": 0.3723,
+  "popularity": 0.369,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -4241,7 +4241,7 @@
   "country_source": "IFPI rows CZ 535 / SK 37",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.7394,
+  "popularity": 0.738,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -4282,7 +4282,7 @@
   "country_source": "IFPI rows CZ 535 / SK 37",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.3351,
+  "popularity": 0.3316,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -4323,7 +4323,7 @@
   "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.2606,
+  "popularity": 0.2567,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -4364,7 +4364,7 @@
   "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.4415,
+  "popularity": 0.4385,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -4405,7 +4405,7 @@
   "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.1862,
+  "popularity": 0.1818,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -4446,7 +4446,7 @@
   "country_source": "IFPI rows CZ 839 / SK 12",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.4734,
+  "popularity": 0.4706,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -4487,7 +4487,7 @@
   "country_source": "IFPI rows CZ 839 / SK 12",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.8138,
+  "popularity": 0.8128,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -4528,7 +4528,7 @@
   "country_source": "IFPI rows CZ 839 / SK 12",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.7766,
+  "popularity": 0.7754,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -4569,7 +4569,7 @@
   "country_source": "IFPI rows CZ 839 / SK 12",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.8351,
+  "popularity": 0.8342,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -4893,8 +4893,8 @@
   "key": "astro-boy--sunset",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.1053,
@@ -4906,8 +4906,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -5262,8 +5262,8 @@
   "key": "bastrng--pravo-veta",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "sk",
+  "country_source": "manual",
   "genre_group": "rock",
   "era": "2020s",
   "popularity": 0.0451,
@@ -5275,8 +5275,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:sk",
+    "source": "manual"
    },
    {
     "tag": "genre:rock",
@@ -7439,7 +7439,7 @@
   "country_source": "IFPI rows CZ 0 / SK 238",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.8404,
+  "popularity": 0.8396,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -7521,7 +7521,7 @@
   "country_source": "IFPI rows CZ 40 / SK 0",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.2394,
+  "popularity": 0.2353,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -8259,7 +8259,7 @@
   "country_source": "IFPI rows CZ 0 / SK 184",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.633,
+  "popularity": 0.631,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -14409,7 +14409,7 @@
   "country_source": "IFPI rows CZ 0 / SK 95",
   "genre_group": "other",
   "era": "2020s",
-  "popularity": 0.4255,
+  "popularity": 0.4225,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -15188,7 +15188,7 @@
   "country_source": "IFPI rows CZ 2889 / SK 129",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.7553,
+  "popularity": 0.754,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -15229,7 +15229,7 @@
   "country_source": "IFPI rows CZ 2889 / SK 129",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.2181,
+  "popularity": 0.2139,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -15270,7 +15270,7 @@
   "country_source": "IFPI rows CZ 2889 / SK 129",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.6596,
+  "popularity": 0.6578,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -15840,8 +15840,8 @@
   "key": "churaq-cyril--kokoksy-na-ledu",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.8231,
@@ -15853,8 +15853,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -16701,8 +16701,8 @@
   "key": "cmd--alarm",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.529,
@@ -16714,8 +16714,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -16742,8 +16742,8 @@
   "key": "cmd--chipmunk",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.28,
@@ -16755,8 +16755,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -16783,8 +16783,8 @@
   "key": "cmd--down",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.5312,
@@ -16796,8 +16796,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -16824,8 +16824,8 @@
   "key": "cmd--n-hook",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.4232,
@@ -16837,8 +16837,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -18140,7 +18140,7 @@
   "country_source": "IFPI rows CZ 63 / SK 363",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.4043,
+  "popularity": 0.4011,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -18468,7 +18468,7 @@
   "country_source": "IFPI rows CZ 389 / SK 13",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.3511,
+  "popularity": 0.3476,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -18878,7 +18878,7 @@
   "country_source": "IFPI rows CZ 64 / SK 707",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.8511,
+  "popularity": 0.8503,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -19001,7 +19001,7 @@
   "country_source": "IFPI rows CZ 1343 / SK 0",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.8298,
+  "popularity": 0.8289,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -19657,7 +19657,7 @@
   "country_source": "IFPI rows CZ 217 / SK 0",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.3777,
+  "popularity": 0.3743,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -24905,7 +24905,7 @@
   "country_source": "IFPI rows CZ 172 / SK 92",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.8085,
+  "popularity": 0.8075,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -24920,47 +24920,6 @@
    {
     "tag": "genre:rock",
     "source": "itunes (Rock)"
-   },
-   {
-    "tag": "era:2020s",
-    "source": "itunes release year"
-   }
-  ]
- },
- {
-  "id": 1680710671,
-  "deezer": null,
-  "artist": "ELIZABETH KOPECKA",
-  "title": "Good Times",
-  "year": 2023,
-  "store": "cz",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/df/32/55df32ab-0400-c861-5b79-d7a8cf9430d5/cover.jpg/300x300bb.jpg",
-  "url": "https://music.apple.com/cz/album/good-times/1680710666?i=1680710671&uo=4",
-  "genre": "Pop",
-  "plays": 0,
-  "source": "ifpi",
-  "key": "elizabeth-kopecka--good-times",
-  "radio_weeks": 28,
-  "digital_weeks": 0,
-  "country": "cz",
-  "country_source": "IFPI rows CZ 27 / SK 1",
-  "genre_group": "pop",
-  "era": "2020s",
-  "popularity": 0.1489,
-  "channel": "radio",
-  "level": "impossible",
-  "tags": [
-   {
-    "tag": "level:impossible",
-    "source": "rule (radio percentile)"
-   },
-   {
-    "tag": "country:cz",
-    "source": "IFPI rows CZ 27 / SK 1"
-   },
-   {
-    "tag": "genre:pop",
-    "source": "itunes (Pop)"
    },
    {
     "tag": "era:2020s",
@@ -24987,7 +24946,7 @@
   "country_source": "IFPI rows CZ 220 / SK 945",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.6649,
+  "popularity": 0.6631,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -25028,7 +24987,7 @@
   "country_source": "IFPI rows CZ 220 / SK 945",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.9149,
+  "popularity": 0.9144,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -25069,7 +25028,7 @@
   "country_source": "IFPI rows CZ 220 / SK 945",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.4681,
+  "popularity": 0.4652,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -25192,7 +25151,7 @@
   "country_source": "IFPI rows CZ 220 / SK 945",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.4309,
+  "popularity": 0.4278,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -25233,7 +25192,7 @@
   "country_source": "IFPI rows CZ 220 / SK 945",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.7819,
+  "popularity": 0.7807,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -26418,8 +26377,8 @@
   "key": "fallgrapp--ked-padal-sneh",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "sk",
+  "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
   "popularity": 0.3876,
@@ -26431,8 +26390,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:sk",
+    "source": "manual"
    },
    {
     "tag": "genre:pop",
@@ -28140,8 +28099,8 @@
   "key": "gipsy-koro--sa-o-roma",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "sk",
+  "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
   "popularity": 0.5627,
@@ -28153,8 +28112,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:sk",
+    "source": "manual"
    },
    {
     "tag": "genre:pop",
@@ -28185,7 +28144,7 @@
   "country_source": "IFPI rows CZ 27 / SK 248",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.75,
+  "popularity": 0.7487,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -31629,7 +31588,7 @@
   "country_source": "IFPI rows CZ 59 / SK 630",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.1277,
+  "popularity": 0.1283,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -31670,7 +31629,7 @@
   "country_source": "IFPI rows CZ 59 / SK 630",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.8564,
+  "popularity": 0.8556,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -31834,7 +31793,7 @@
   "country_source": "IFPI rows CZ 251 / SK 1",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.7926,
+  "popularity": 0.7914,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -32285,7 +32244,7 @@
   "country_source": "IFPI rows CZ 43 / SK 1298",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.6809,
+  "popularity": 0.6791,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -32326,7 +32285,7 @@
   "country_source": "IFPI rows CZ 43 / SK 1298",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.6862,
+  "popularity": 0.6845,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -32367,7 +32326,7 @@
   "country_source": "IFPI rows CZ 43 / SK 1298",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.7979,
+  "popularity": 0.7968,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -32449,7 +32408,7 @@
   "country_source": "IFPI rows CZ 26 / SK 105",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.7128,
+  "popularity": 0.7112,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -32609,8 +32568,8 @@
   "key": "jan-betak--otcina",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "other",
   "era": "2020s",
   "popularity": 0.3069,
@@ -32622,8 +32581,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:other",
@@ -32654,7 +32613,7 @@
   "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.8936,
+  "popularity": 0.893,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -32695,7 +32654,7 @@
   "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.6223,
+  "popularity": 0.6203,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -32736,7 +32695,7 @@
   "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.2713,
+  "popularity": 0.2674,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -32900,7 +32859,7 @@
   "country_source": "IFPI rows CZ 1357 / SK 25",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.9734,
+  "popularity": 0.9733,
   "channel": "radio",
   "level": "easy",
   "tags": [
@@ -33023,7 +32982,7 @@
   "country_source": "IFPI rows CZ 1357 / SK 25",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.9787,
+  "popularity": 0.9786,
   "channel": "radio",
   "level": "easy",
   "tags": [
@@ -33105,7 +33064,7 @@
   "country_source": "IFPI rows CZ 1357 / SK 25",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.8883,
+  "popularity": 0.8877,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -33187,7 +33146,7 @@
   "country_source": "IFPI rows CZ 1357 / SK 25",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.7074,
+  "popularity": 0.7059,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -33228,7 +33187,7 @@
   "country_source": "IFPI rows CZ 1357 / SK 25",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.133,
+  "popularity": 0.1337,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -33433,7 +33392,7 @@
   "country_source": "IFPI rows CZ 126 / SK 0",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.1383,
+  "popularity": 0.139,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -34786,7 +34745,7 @@
   "country_source": "IFPI rows CZ 126 / SK 2505",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.8457,
+  "popularity": 0.8449,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -35893,7 +35852,7 @@
   "country_source": "IFPI rows CZ 0 / SK 246",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.2766,
+  "popularity": 0.2727,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -35975,7 +35934,7 @@
   "country_source": "IFPI rows CZ 279 / SK 421",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.5798,
+  "popularity": 0.5775,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -36016,7 +35975,7 @@
   "country_source": "IFPI rows CZ 279 / SK 421",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.234,
+  "popularity": 0.2299,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -36057,7 +36016,7 @@
   "country_source": "IFPI rows CZ 279 / SK 421",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.2074,
+  "popularity": 0.2032,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -36098,7 +36057,7 @@
   "country_source": "IFPI rows CZ 279 / SK 421",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.3245,
+  "popularity": 0.3209,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -36139,7 +36098,7 @@
   "country_source": "IFPI rows CZ 279 / SK 421",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.6277,
+  "popularity": 0.6257,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -36180,7 +36139,7 @@
   "country_source": "IFPI rows CZ 279 / SK 421",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.3191,
+  "popularity": 0.3155,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -36221,7 +36180,7 @@
   "country_source": "IFPI rows CZ 279 / SK 421",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.5213,
+  "popularity": 0.5187,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -36754,7 +36713,7 @@
   "country_source": "IFPI rows CZ 0 / SK 54",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.1809,
+  "popularity": 0.1765,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -39050,7 +39009,7 @@
   "country_source": "IFPI rows CZ 3168 / SK 596",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.9202,
+  "popularity": 0.9198,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -39091,7 +39050,7 @@
   "country_source": "IFPI rows CZ 3168 / SK 596",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.9362,
+  "popularity": 0.9358,
   "channel": "radio",
   "level": "easy",
   "tags": [
@@ -39132,7 +39091,7 @@
   "country_source": "IFPI rows CZ 3168 / SK 596",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.4362,
+  "popularity": 0.4332,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -39173,7 +39132,7 @@
   "country_source": "IFPI rows CZ 3168 / SK 596",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.9468,
+  "popularity": 0.9465,
   "channel": "radio",
   "level": "easy",
   "tags": [
@@ -39337,7 +39296,7 @@
   "country_source": "IFPI rows CZ 3168 / SK 596",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.8989,
+  "popularity": 0.8984,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -40198,7 +40157,7 @@
   "country_source": "IFPI rows CZ 20 / SK 425",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.3457,
+  "popularity": 0.3422,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -40239,7 +40198,7 @@
   "country_source": "IFPI rows CZ 20 / SK 425",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.1702,
+  "popularity": 0.1658,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -41756,7 +41715,7 @@
   "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.6755,
+  "popularity": 0.6738,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -41797,7 +41756,7 @@
   "country_source": "IFPI rows CZ 701 / SK 75",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.5106,
+  "popularity": 0.508,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -41961,7 +41920,7 @@
   "country_source": "IFPI rows CZ 701 / SK 75",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.2447,
+  "popularity": 0.2406,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -42002,7 +41961,7 @@
   "country_source": "IFPI rows CZ 704 / SK 6",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.383,
+  "popularity": 0.3797,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -42043,7 +42002,7 @@
   "country_source": "IFPI rows CZ 704 / SK 6",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.9096,
+  "popularity": 0.9091,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -42125,7 +42084,7 @@
   "country_source": "IFPI rows CZ 0 / SK 640",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.7234,
+  "popularity": 0.7219,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -43109,7 +43068,7 @@
   "country_source": "IFPI rows CZ 1998 / SK 74",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.1915,
+  "popularity": 0.1872,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -43191,7 +43150,7 @@
   "country_source": "IFPI rows CZ 1998 / SK 74",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.9628,
+  "popularity": 0.9626,
   "channel": "radio",
   "level": "easy",
   "tags": [
@@ -43314,7 +43273,7 @@
   "country_source": "IFPI rows CZ 1998 / SK 74",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.8032,
+  "popularity": 0.8021,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -43355,7 +43314,7 @@
   "country_source": "IFPI rows CZ 1998 / SK 74",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.7181,
+  "popularity": 0.7166,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -43519,7 +43478,7 @@
   "country_source": "IFPI rows CZ 1998 / SK 74",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.5585,
+  "popularity": 0.5561,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -43601,7 +43560,7 @@
   "country_source": "IFPI rows CZ 54 / SK 0",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.5053,
+  "popularity": 0.5027,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -44134,7 +44093,7 @@
   "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.3617,
+  "popularity": 0.3583,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -44175,7 +44134,7 @@
   "country_source": "manual",
   "genre_group": "other",
   "era": "2020s",
-  "popularity": 0.5851,
+  "popularity": 0.5829,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -44216,12 +44175,12 @@
   "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.3564,
+  "popularity": 0.3529,
   "channel": "radio",
-  "level": "expert",
+  "level": "impossible",
   "tags": [
    {
-    "tag": "level:expert",
+    "tag": "level:impossible",
     "source": "rule (radio percentile)"
    },
    {
@@ -44503,7 +44462,7 @@
   "country_source": "IFPI rows CZ 77 / SK 152",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.5319,
+  "popularity": 0.5294,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -45159,7 +45118,7 @@
   "country_source": "IFPI rows CZ 189 / SK 79",
   "genre_group": "other",
   "era": "2020s",
-  "popularity": 0.617,
+  "popularity": 0.615,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -45610,7 +45569,7 @@
   "country_source": "IFPI rows CZ 1274 / SK 5",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.4787,
+  "popularity": 0.4759,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -46717,7 +46676,7 @@
   "country_source": "IFPI rows CZ 2612 / SK 82",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.5691,
+  "popularity": 0.5668,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -46799,7 +46758,7 @@
   "country_source": "IFPI rows CZ 2612 / SK 82",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.5426,
+  "popularity": 0.5401,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -46922,7 +46881,7 @@
   "country_source": "IFPI rows CZ 2612 / SK 82",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.9574,
+  "popularity": 0.9572,
   "channel": "radio",
   "level": "easy",
   "tags": [
@@ -47004,7 +46963,7 @@
   "country_source": "IFPI rows CZ 2612 / SK 82",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.9415,
+  "popularity": 0.9412,
   "channel": "radio",
   "level": "easy",
   "tags": [
@@ -47086,7 +47045,7 @@
   "country_source": "IFPI rows CZ 13 / SK 31",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.9894,
+  "popularity": 0.9893,
   "channel": "radio",
   "level": "easy",
   "tags": [
@@ -51760,7 +51719,7 @@
   "country_source": "IFPI rows CZ 839 / SK 166",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.1968,
+  "popularity": 0.1925,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -51801,7 +51760,7 @@
   "country_source": "IFPI rows CZ 839 / SK 166",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.3989,
+  "popularity": 0.3957,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -51920,11 +51879,11 @@
   "key": "o5-a-radecek--bra3",
   "radio_weeks": 210,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.9681,
+  "popularity": 0.9679,
   "channel": "radio",
   "level": "easy",
   "tags": [
@@ -51933,8 +51892,8 @@
     "source": "rule (radio percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:pop",
@@ -51961,11 +51920,11 @@
   "key": "o5-a-radecek--hory",
   "radio_weeks": 142,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.867,
+  "popularity": 0.8663,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -51974,8 +51933,8 @@
     "source": "rule (radio percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:rock",
@@ -52002,11 +51961,11 @@
   "key": "o5-a-radecek--i-tak-to-za-to-stoji",
   "radio_weeks": 103,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.7872,
+  "popularity": 0.7861,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -52015,8 +51974,8 @@
     "source": "rule (radio percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:rock",
@@ -52043,11 +52002,11 @@
   "key": "o5-a-radecek--romanticky-smycce",
   "radio_weeks": 42,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.4521,
+  "popularity": 0.4492,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -52056,8 +52015,8 @@
     "source": "rule (radio percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:pop",
@@ -52084,11 +52043,11 @@
   "key": "o5-a-radecek--vsechno-je-v-poradku",
   "radio_weeks": 33,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.3298,
+  "popularity": 0.3262,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -52097,8 +52056,8 @@
     "source": "rule (radio percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:rock",
@@ -52494,8 +52453,8 @@
   "key": "p-a-t--kaloro",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "sk",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.6329,
@@ -52507,8 +52466,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:sk",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -52535,8 +52494,8 @@
   "key": "p-a-t--tovaren-na-peniaze",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "sk",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.3643,
@@ -52548,8 +52507,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:sk",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -57172,7 +57131,7 @@
   "country_source": "IFPI rows CZ 0 / SK 454",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.6543,
+  "popularity": 0.6524,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -57295,7 +57254,7 @@
   "country_source": "IFPI rows CZ 0 / SK 454",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.883,
+  "popularity": 0.8824,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -57336,7 +57295,7 @@
   "country_source": "IFPI rows CZ 0 / SK 454",
   "genre_group": "rock",
   "era": "2020s",
-  "popularity": 0.4947,
+  "popularity": 0.492,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -57992,7 +57951,7 @@
   "country_source": "IFPI rows CZ 378 / SK 0",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.266,
+  "popularity": 0.262,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -58074,7 +58033,7 @@
   "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.3936,
+  "popularity": 0.3904,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -58111,8 +58070,8 @@
   "key": "pawlie-poizn--kokotaku",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "other",
   "era": "2020s",
   "popularity": 0.0251,
@@ -58124,8 +58083,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:other",
@@ -58156,7 +58115,7 @@
   "country_source": "IFPI rows CZ 189 / SK 976",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.8723,
+  "popularity": 0.8717,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -58197,7 +58156,7 @@
   "country_source": "IFPI rows CZ 189 / SK 976",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.484,
+  "popularity": 0.4813,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -58238,7 +58197,7 @@
   "country_source": "IFPI rows CZ 0 / SK 100",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.1755,
+  "popularity": 0.1711,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -59101,10 +59060,10 @@
   "era": "2020s",
   "popularity": 0.3539,
   "channel": "streaming",
-  "level": "impossible",
+  "level": "expert",
   "tags": [
    {
-    "tag": "level:impossible",
+    "tag": "level:expert",
     "source": "rule (streaming percentile)"
    },
    {
@@ -60083,7 +60042,7 @@
   "country_source": "IFPI rows CZ 437 / SK 0",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.6436,
+  "popularity": 0.6417,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -60206,7 +60165,7 @@
   "country_source": "IFPI rows CZ 437 / SK 0",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.9255,
+  "popularity": 0.9251,
   "channel": "radio",
   "level": "easy",
   "tags": [
@@ -60616,7 +60575,7 @@
   "country_source": "IFPI rows CZ 118 / SK 16",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.3032,
+  "popularity": 0.2995,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -60821,7 +60780,7 @@
   "country_source": "IFPI rows CZ 0 / SK 202",
   "genre_group": "other",
   "era": "2020s",
-  "popularity": 0.4468,
+  "popularity": 0.4439,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -61596,8 +61555,8 @@
   "key": "pragoholik--kratomek",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.43,
@@ -61609,8 +61568,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -65864,7 +65823,7 @@
   "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.4096,
+  "popularity": 0.4064,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -79681,7 +79640,7 @@
   "country_source": "IFPI rows CZ 1711 / SK 45",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.8617,
+  "popularity": 0.861,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -79763,7 +79722,7 @@
   "country_source": "IFPI rows CZ 1711 / SK 45",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.8245,
+  "popularity": 0.8235,
   "channel": "radio",
   "level": "medium",
   "tags": [
@@ -79804,7 +79763,7 @@
   "country_source": "IFPI rows CZ 1711 / SK 45",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.4202,
+  "popularity": 0.4171,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -79964,8 +79923,8 @@
   "key": "smack-one--edible",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.301,
@@ -79977,8 +79936,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -80005,8 +79964,8 @@
   "key": "smack-one--kazdej-z-vas",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.3224,
@@ -80018,8 +79977,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -80046,8 +80005,8 @@
   "key": "smack-one--sexy-red",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.0005,
@@ -80059,8 +80018,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -81153,8 +81112,8 @@
   "key": "stefan-stec--za-rana-za-rosy",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "sk",
+  "country_source": "manual",
   "genre_group": "other",
   "era": "2020s",
   "popularity": 0.2572,
@@ -81166,8 +81125,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:sk",
+    "source": "manual"
    },
    {
     "tag": "genre:other",
@@ -83822,7 +83781,7 @@
   "country_source": "IFPI rows CZ 707 / SK 131",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.1436,
+  "popularity": 0.1444,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -84023,8 +83982,8 @@
   "key": "terapia--milujeme-noc",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "sk",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
   "popularity": 0.3019,
@@ -84036,8 +83995,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:sk",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -84068,7 +84027,7 @@
   "country_source": "IFPI rows CZ 347 / SK 8",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.5904,
+  "popularity": 0.5882,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -84232,7 +84191,7 @@
   "country_source": "IFPI rows CZ 249 / SK 69",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.4628,
+  "popularity": 0.4599,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -84314,7 +84273,7 @@
   "country_source": "IFPI rows CZ 249 / SK 69",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.9309,
+  "popularity": 0.9305,
   "channel": "radio",
   "level": "easy",
   "tags": [
@@ -84929,7 +84888,7 @@
   "country_source": "IFPI rows CZ 1063 / SK 155",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.6968,
+  "popularity": 0.6952,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -89804,11 +89763,11 @@
   "key": "xindl-x--ma-chata-muj-hrad",
   "radio_weeks": 88,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.7287,
+  "popularity": 0.7273,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -89817,8 +89776,8 @@
     "source": "rule (radio percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:pop",
@@ -89845,11 +89804,11 @@
   "key": "xindl-x--promena",
   "radio_weeks": 59,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.6117,
+  "popularity": 0.6096,
   "channel": "radio",
   "level": "hard",
   "tags": [
@@ -89858,8 +89817,8 @@
     "source": "rule (radio percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:pop",
@@ -89886,11 +89845,11 @@
   "key": "xindl-x--pubertak",
   "radio_weeks": 48,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.5266,
+  "popularity": 0.5241,
   "channel": "radio",
   "level": "expert",
   "tags": [
@@ -89899,8 +89858,8 @@
     "source": "rule (radio percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:pop",
@@ -89927,11 +89886,11 @@
   "key": "xindl-x--sebelovesong",
   "radio_weeks": 34,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.3404,
+  "popularity": 0.3369,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -89940,8 +89899,8 @@
     "source": "rule (radio percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:pop",
@@ -89968,11 +89927,11 @@
   "key": "xindl-x--si-zabil-kamo",
   "radio_weeks": 32,
   "digital_weeks": 0,
-  "country": "unknown",
-  "country_source": "no IFPI rows",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.3085,
+  "popularity": 0.3048,
   "channel": "radio",
   "level": "impossible",
   "tags": [
@@ -89981,8 +89940,8 @@
     "source": "rule (radio percentile)"
    },
    {
-    "tag": "country:unknown",
-    "source": "no IFPI rows"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:pop",
@@ -93416,7 +93375,7 @@
   "country_source": "IFPI rows CZ 104 / SK 531",
   "genre_group": "pop",
   "era": "2020s",
-  "popularity": 0.4574,
+  "popularity": 0.4545,
   "channel": "radio",
   "level": "expert",
   "tags": [

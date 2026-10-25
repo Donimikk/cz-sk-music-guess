@@ -762,7 +762,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.2872
+"popularity": 0.2834
 },
 {
 "key": "adam-durica--nase-hriechy",
@@ -777,7 +777,7 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.8191
+"popularity": 0.8182
 },
 {
 "key": "adam-durica--neviem-ta-precitat",
@@ -792,7 +792,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.1223
+"popularity": 0.123
 },
 {
 "key": "adam-durica--pohlad-pre-bohov",
@@ -822,7 +822,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.5745
+"popularity": 0.5722
 },
 {
 "key": "adam-durica--vietor",
@@ -852,7 +852,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.3138
+"popularity": 0.3102
 },
 {
 "key": "adam-misik--berlin",
@@ -1017,7 +1017,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5532
+"popularity": 0.5508
 },
 {
 "key": "adiss--rydm",
@@ -1032,7 +1032,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3883
+"popularity": 0.385
 },
 {
 "key": "adiss--som-aky-som",
@@ -1077,7 +1077,7 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.766
+"popularity": 0.7647
 },
 {
 "key": "adonxs--kiss-kiss-goodbye",
@@ -1107,7 +1107,7 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.6915
+"popularity": 0.6898
 },
 {
 "key": "adonxs--no-common-measure",
@@ -1122,7 +1122,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.2553
+"popularity": 0.2513
 },
 {
 "key": "adonxs--ritual",
@@ -1137,7 +1137,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.1596
+"popularity": 0.1551
 },
 {
 "key": "aj-brix--chanel",
@@ -1332,7 +1332,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.367
+"popularity": 0.3636
 },
 {
 "key": "alan-murin--one-day",
@@ -1527,7 +1527,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2819
+"popularity": 0.2781
 },
 {
 "key": "amo--podaj-mi-ruku",
@@ -1542,7 +1542,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3723
+"popularity": 0.369
 },
 {
 "key": "aneta-langerova--bily-den",
@@ -1557,7 +1557,7 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.7394
+"popularity": 0.738
 },
 {
 "key": "aneta-langerova--je-to-davno",
@@ -1572,7 +1572,7 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.3351
+"popularity": 0.3316
 },
 {
 "key": "anika-iris--alive",
@@ -1587,7 +1587,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.2606
+"popularity": 0.2567
 },
 {
 "key": "anika-iris--if-you-only-knew",
@@ -1602,7 +1602,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.4415
+"popularity": 0.4385
 },
 {
 "key": "anika-iris--morning-blues",
@@ -1617,7 +1617,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.1862
+"popularity": 0.1818
 },
 {
 "key": "anna-k--apollo-11",
@@ -1632,7 +1632,7 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.4734
+"popularity": 0.4706
 },
 {
 "key": "anna-k--na-malou-chvili",
@@ -1647,7 +1647,7 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.8138
+"popularity": 0.8128
 },
 {
 "key": "anna-k--o-tobe-i-o-mne",
@@ -1662,7 +1662,7 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.7766
+"popularity": 0.7754
 },
 {
 "key": "anna-k--udoli-vcel",
@@ -1677,7 +1677,7 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.8351
+"popularity": 0.8342
 },
 {
 "key": "arian730--aha",
@@ -1795,7 +1795,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cf/17/da/cf17daba-6b59-09d3-ff65-a9508750dc8b/23UMGIM07325.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/sunset/1667308296?i=1667308303&uo=4",
 "level": "impossible",
-"country": "unknown",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.1053
 },
@@ -1930,7 +1930,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/01/b0/db/01b0db2e-1656-2c65-6f16-f72b933760d3/f002b930-7a74-4fa1-9b62-44d447921d33.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/pr%C3%A1vo-veta/1707791716?i=1707791717&uo=4",
 "level": "impossible",
-"country": "unknown",
+"country": "sk",
 "genre_group": "rock",
 "popularity": 0.0451
 },
@@ -2727,7 +2727,7 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.8404
+"popularity": 0.8396
 },
 {
 "key": "botox--nadechnout",
@@ -2757,7 +2757,7 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.2394
+"popularity": 0.2353
 },
 {
 "key": "buka--balada",
@@ -3027,7 +3027,7 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.633
+"popularity": 0.631
 },
 {
 "key": "ca-hanova-bulhar--2-30",
@@ -5277,7 +5277,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "other",
-"popularity": 0.4255
+"popularity": 0.4225
 },
 {
 "key": "call-dominika--pred-polnocou-zmizla",
@@ -5562,7 +5562,7 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.7553
+"popularity": 0.754
 },
 {
 "key": "chinaski--pusa",
@@ -5577,7 +5577,7 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.2181
+"popularity": 0.2139
 },
 {
 "key": "chinaski--slysim-tvoje-kroky",
@@ -5592,7 +5592,7 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.6596
+"popularity": 0.6578
 },
 {
 "key": "chinaski--smula",
@@ -5800,7 +5800,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/03/ef/35/03ef35bf-71cf-2675-ec1d-46b0df8f0d46/cover.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/kokoksy-na-ledu-feat-churaq-sputnik/1698145484?i=1698145578&uo=4",
 "level": "medium",
-"country": "unknown",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.8231
 },
@@ -6115,7 +6115,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3e/a8/cc/3ea8cc28-b39a-336c-fbff-d467e17dfefc/cover.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/alarm/1597598905?i=1597599071&uo=4",
 "level": "expert",
-"country": "unknown",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.529
 },
@@ -6130,7 +6130,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f2/0c/3e/f20c3e0a-dfbb-e5ae-529d-60dce6edcde1/cover.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/chipmunk/1641089865?i=1641090201&uo=4",
 "level": "impossible",
-"country": "unknown",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.28
 },
@@ -6145,7 +6145,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/0d/64/e40d64e7-c623-b494-8bb5-afc1911a05e0/cover.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/down/1569801060?i=1569801162&uo=4",
 "level": "expert",
-"country": "unknown",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.5312
 },
@@ -6160,7 +6160,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/62/b2/a562b29f-2c48-5939-a26c-e3f36382731a/cover.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/n%D0%BE-hook/1600504608?i=1600504614&uo=4",
 "level": "expert",
-"country": "unknown",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.4232
 },
@@ -6642,7 +6642,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.4043
+"popularity": 0.4011
 },
 {
 "key": "david-deyl--chytam-se-stebel",
@@ -6762,7 +6762,7 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.3511
+"popularity": 0.3476
 },
 {
 "key": "david-stypka--dychej",
@@ -6912,7 +6912,7 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.8511
+"popularity": 0.8503
 },
 {
 "key": "desmod--moj-svet",
@@ -6957,7 +6957,7 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.8298
+"popularity": 0.8289
 },
 {
 "key": "divokej-bill--magistrala",
@@ -7197,7 +7197,7 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.3777
+"popularity": 0.3743
 },
 {
 "key": "dokkeytino--vyvoleni",
@@ -9117,22 +9117,7 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.8085
-},
-{
-"key": "elizabeth-kopecka--good-times",
-"id": 1680710671,
-"deezer": null,
-"artist": "ELIZABETH KOPECKA",
-"title": "Good Times",
-"year": 2023,
-"store": "cz",
-"cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/df/32/55df32ab-0400-c861-5b79-d7a8cf9430d5/cover.jpg/300x300bb.jpg",
-"url": "https://music.apple.com/cz/album/good-times/1680710666?i=1680710671&uo=4",
-"level": "impossible",
-"country": "cz",
-"genre_group": "pop",
-"popularity": 0.1489
+"popularity": 0.8075
 },
 {
 "key": "emma-drobna--between-us",
@@ -9147,7 +9132,7 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.6649
+"popularity": 0.6631
 },
 {
 "key": "emma-drobna--hawaii",
@@ -9162,7 +9147,7 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.9149
+"popularity": 0.9144
 },
 {
 "key": "emma-drobna--high",
@@ -9177,7 +9162,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.4681
+"popularity": 0.4652
 },
 {
 "key": "emma-drobna--rande",
@@ -9222,7 +9207,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.4309
+"popularity": 0.4278
 },
 {
 "key": "emma-drobna--yeah-baby",
@@ -9237,7 +9222,7 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.7819
+"popularity": 0.7807
 },
 {
 "key": "emma-smetana--by-now",
@@ -9670,7 +9655,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/26/d3/cd/26d3cd43-a787-371b-a58e-66e95039b736/195079090585.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/ke%C4%8F-padal-sneh-feat-the-curly-simon/1504170469?i=1504170470&uo=4",
 "level": "expert",
-"country": "unknown",
+"country": "sk",
 "genre_group": "pop",
 "popularity": 0.3876
 },
@@ -10300,7 +10285,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/39/f4/e7/39f4e7bf-2ddf-96a4-5c6b-1a56cce133c9/artwork.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/sa-o-roma/1610354769?i=1610354776&uo=4",
 "level": "expert",
-"country": "unknown",
+"country": "sk",
 "genre_group": "pop",
 "popularity": 0.5627
 },
@@ -10317,7 +10302,7 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "rock",
-"popularity": 0.75
+"popularity": 0.7487
 },
 {
 "key": "gleb--10-000-aura",
@@ -11577,7 +11562,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.1277
+"popularity": 0.1283
 },
 {
 "key": "hex--pomarance-z-kuby",
@@ -11592,7 +11577,7 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.8564
+"popularity": 0.8556
 },
 {
 "key": "hills-97--mama-rikala",
@@ -11652,7 +11637,7 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.7926
+"popularity": 0.7914
 },
 {
 "key": "hodiny--zatimco-spis",
@@ -11817,7 +11802,7 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.6809
+"popularity": 0.6791
 },
 {
 "key": "i-m-t-smile--svet",
@@ -11832,7 +11817,7 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.6862
+"popularity": 0.6845
 },
 {
 "key": "i-m-t-smile--v-lete",
@@ -11847,7 +11832,7 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.7979
+"popularity": 0.7968
 },
 {
 "key": "iconito--korene",
@@ -11877,7 +11862,7 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "rock",
-"popularity": 0.7128
+"popularity": 0.7112
 },
 {
 "key": "ine-kafe--ruleta",
@@ -11935,7 +11920,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/32/6f/b6/326fb6cd-1ae2-5179-0ae5-da5b8844a0c2/cover.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/ot%C4%8Dina/1707507418?i=1707508191&uo=4",
 "level": "impossible",
-"country": "unknown",
+"country": "cz",
 "genre_group": "other",
 "popularity": 0.3069
 },
@@ -11952,7 +11937,7 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.8936
+"popularity": 0.893
 },
 {
 "key": "jana-kirschner--lovestory",
@@ -11967,7 +11952,7 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.6223
+"popularity": 0.6203
 },
 {
 "key": "jana-kirschner--na-okamih",
@@ -11982,7 +11967,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.2713
+"popularity": 0.2674
 },
 {
 "key": "jaromir-nohavica--cerny-kvet",
@@ -12042,7 +12027,7 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.9734
+"popularity": 0.9733
 },
 {
 "key": "jelen--miluju-te",
@@ -12087,7 +12072,7 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.9787
+"popularity": 0.9786
 },
 {
 "key": "jelen--palim",
@@ -12117,7 +12102,7 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.8883
+"popularity": 0.8877
 },
 {
 "key": "jelen--v-oblacich",
@@ -12147,7 +12132,7 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.7074
+"popularity": 0.7059
 },
 {
 "key": "jelen--za-tebou",
@@ -12162,7 +12147,7 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.133
+"popularity": 0.1337
 },
 {
 "key": "jickson--babylon",
@@ -12237,7 +12222,7 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.1383
+"popularity": 0.139
 },
 {
 "key": "juli-koli--nemohl-rict",
@@ -12732,7 +12717,7 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.8457
+"popularity": 0.8449
 },
 {
 "key": "kali--nic-sa-nemeni-s-imt-smile",
@@ -13137,7 +13122,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.2766
+"popularity": 0.2727
 },
 {
 "key": "katannah--415",
@@ -13167,7 +13152,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.5798
+"popularity": 0.5775
 },
 {
 "key": "katarina-knechtova--hladanie",
@@ -13182,7 +13167,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.234
+"popularity": 0.2299
 },
 {
 "key": "katarina-knechtova--oni",
@@ -13197,7 +13182,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.2074
+"popularity": 0.2032
 },
 {
 "key": "katarina-knechtova--rezonancia",
@@ -13212,7 +13197,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.3245
+"popularity": 0.3209
 },
 {
 "key": "katarina-knechtova--taki-sme",
@@ -13227,7 +13212,7 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.6277
+"popularity": 0.6257
 },
 {
 "key": "katarina-knechtova--verim",
@@ -13242,7 +13227,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.3191
+"popularity": 0.3155
 },
 {
 "key": "katarina-knechtova--zivot-nas-ma-rad",
@@ -13257,7 +13242,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.5213
+"popularity": 0.5187
 },
 {
 "key": "katerina-marie-ticha--casy-se-meni",
@@ -13452,7 +13437,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rock",
-"popularity": 0.1809
+"popularity": 0.1765
 },
 {
 "key": "kojo--ali-bomaye",
@@ -14292,7 +14277,7 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.9202
+"popularity": 0.9198
 },
 {
 "key": "krystof--do-nebe-se-propadam",
@@ -14307,7 +14292,7 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.9362
+"popularity": 0.9358
 },
 {
 "key": "krystof--halywud",
@@ -14322,7 +14307,7 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.4362
+"popularity": 0.4332
 },
 {
 "key": "krystof--hned-ted",
@@ -14337,7 +14322,7 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.9468
+"popularity": 0.9465
 },
 {
 "key": "krystof--milan-baros",
@@ -14397,7 +14382,7 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.8989
+"popularity": 0.8984
 },
 {
 "key": "lajfr--ola",
@@ -14712,7 +14697,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.3457
+"popularity": 0.3422
 },
 {
 "key": "lina-mayer--vesmir",
@@ -14727,7 +14712,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.1702
+"popularity": 0.1658
 },
 {
 "key": "lipo--jednou-jsem-slibil",
@@ -15282,7 +15267,7 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.6755
+"popularity": 0.6738
 },
 {
 "key": "lucie-bila--dekuju-ti",
@@ -15297,7 +15282,7 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.5106
+"popularity": 0.508
 },
 {
 "key": "lucie-bila--dobry-kafe",
@@ -15357,7 +15342,7 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.2447
+"popularity": 0.2406
 },
 {
 "key": "lucie-vondrackova--v-silenem-kolotoci",
@@ -15372,7 +15357,7 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.383
+"popularity": 0.3797
 },
 {
 "key": "lucie-vondrackova--vzkaz-v-lahvi",
@@ -15387,7 +15372,7 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.9096
+"popularity": 0.9091
 },
 {
 "key": "luisa--jennifer",
@@ -15417,7 +15402,7 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.7234
+"popularity": 0.7219
 },
 {
 "key": "majk-spirit--11",
@@ -15777,7 +15762,7 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.1915
+"popularity": 0.1872
 },
 {
 "key": "marek-ztraceny--moje-mila",
@@ -15807,7 +15792,7 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.9628
+"popularity": 0.9626
 },
 {
 "key": "marek-ztraceny--planeta-jmenem-stres",
@@ -15852,7 +15837,7 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.8032
+"popularity": 0.8021
 },
 {
 "key": "marek-ztraceny--ta-bila-ti-slusi",
@@ -15867,7 +15852,7 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.7181
+"popularity": 0.7166
 },
 {
 "key": "marek-ztraceny--tak-se-nezlob",
@@ -15927,7 +15912,7 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.5585
+"popularity": 0.5561
 },
 {
 "key": "mark-voss--arabela",
@@ -15957,7 +15942,7 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.5053
+"popularity": 0.5027
 },
 {
 "key": "marko-damian--badass",
@@ -16152,7 +16137,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.3617
+"popularity": 0.3583
 },
 {
 "key": "martin-harich--liar",
@@ -16167,7 +16152,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "other",
-"popularity": 0.5851
+"popularity": 0.5829
 },
 {
 "key": "martin-harich--vtaci-v-krdli",
@@ -16179,10 +16164,10 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/5d/6d/495d6d52-39ea-4f2a-c08f-963585627cd7/artwork.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/vt%C3%A1ci-v-k%C5%95dli-feat-peter-lipa/1612357895?i=1612358196&uo=4",
-"level": "expert",
+"level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.3564
+"popularity": 0.3529
 },
 {
 "key": "martina-partlova--kdyz-jdou-holky-ven",
@@ -16287,7 +16272,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.5319
+"popularity": 0.5294
 },
 {
 "key": "matias--10",
@@ -16527,7 +16512,7 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "other",
-"popularity": 0.617
+"popularity": 0.615
 },
 {
 "key": "michal-horak--nekonfliktni-typ",
@@ -16692,7 +16677,7 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.4787
+"popularity": 0.4759
 },
 {
 "key": "mig-21--hadej-co-zena-zada",
@@ -17097,7 +17082,7 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.5691
+"popularity": 0.5668
 },
 {
 "key": "mirai--litej",
@@ -17127,7 +17112,7 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.5426
+"popularity": 0.5401
 },
 {
 "key": "mirai--summer-love",
@@ -17172,7 +17157,7 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.9574
+"popularity": 0.9572
 },
 {
 "key": "mirai--vlci",
@@ -17202,7 +17187,7 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.9415
+"popularity": 0.9412
 },
 {
 "key": "mirai--yesterday",
@@ -17232,7 +17217,7 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.9894
+"popularity": 0.9893
 },
 {
 "key": "mladej-fritzl--dnamdma",
@@ -18942,7 +18927,7 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.1968
+"popularity": 0.1925
 },
 {
 "key": "no-name--elity",
@@ -18957,7 +18942,7 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.3989
+"popularity": 0.3957
 },
 {
 "key": "nobodylisten--perfect-trip",
@@ -19000,9 +18985,9 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b2/d5/46/b2d54682-b071-6357-49cd-0f28b66d4b30/cover.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/bra3/1552933136?i=1552933143&uo=4",
 "level": "easy",
-"country": "unknown",
+"country": "cz",
 "genre_group": "pop",
-"popularity": 0.9681
+"popularity": 0.9679
 },
 {
 "key": "o5-a-radecek--hory",
@@ -19015,9 +19000,9 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/79/21/2c/79212cd8-96ef-4d20-088b-cfb9cf49dd9e/cover.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/hory/1686225052?i=1686225326&uo=4",
 "level": "medium",
-"country": "unknown",
+"country": "cz",
 "genre_group": "rock",
-"popularity": 0.867
+"popularity": 0.8663
 },
 {
 "key": "o5-a-radecek--i-tak-to-za-to-stoji",
@@ -19030,9 +19015,9 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/06/8a/5b/068a5b23-ef1f-5ce4-c039-49e655cbab87/cover.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/i-tak-to-za-to-stoj%C3%AD/1729601328?i=1729601333&uo=4",
 "level": "hard",
-"country": "unknown",
+"country": "cz",
 "genre_group": "rock",
-"popularity": 0.7872
+"popularity": 0.7861
 },
 {
 "key": "o5-a-radecek--romanticky-smycce",
@@ -19045,9 +19030,9 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/da/5f/6c/da5f6c00-ac86-7cf9-3aef-08c570bbadaf/cover.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/romantick%C3%BD-smy%C4%8Dce/1623695350?i=1623695356&uo=4",
 "level": "expert",
-"country": "unknown",
+"country": "cz",
 "genre_group": "pop",
-"popularity": 0.4521
+"popularity": 0.4492
 },
 {
 "key": "o5-a-radecek--vsechno-je-v-poradku",
@@ -19060,9 +19045,9 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/d2/be/03d2becb-8f84-ab79-b6a8-630ce5d434a8/cover.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/v%C5%A1echno-je-v-po%C5%99%C3%A1dku/1757866433?i=1757866759&uo=4",
 "level": "impossible",
-"country": "unknown",
+"country": "cz",
 "genre_group": "rock",
-"popularity": 0.3298
+"popularity": 0.3262
 },
 {
 "key": "og-pav--chemoterapie",
@@ -19210,7 +19195,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/d7/2a/4cd72aec-32ba-12ee-bf4d-d687a7dfc128/b14ea705-040f-4267-9a63-b654f86aac03.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/kaloro/1681409031?i=1681409032&uo=4",
 "level": "hard",
-"country": "unknown",
+"country": "sk",
 "genre_group": "hip-hop",
 "popularity": 0.6329
 },
@@ -19225,7 +19210,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/a7/c6/40a7c6f8-5323-c67b-9f3c-33a3818c79cb/8f05a146-3c56-4d14-8ab2-ad7766977c21.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/tov%C3%A1re%C5%88-na-peniaze/1754842062?i=1754842063&uo=4",
 "level": "expert",
-"country": "unknown",
+"country": "sk",
 "genre_group": "hip-hop",
 "popularity": 0.3643
 },
@@ -20922,7 +20907,7 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "rock",
-"popularity": 0.6543
+"popularity": 0.6524
 },
 {
 "key": "para--na-ceste",
@@ -20967,7 +20952,7 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.883
+"popularity": 0.8824
 },
 {
 "key": "para--vilma",
@@ -20982,7 +20967,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rock",
-"popularity": 0.4947
+"popularity": 0.492
 },
 {
 "key": "paulie-garand--all-my-life",
@@ -21222,7 +21207,7 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.266
+"popularity": 0.262
 },
 {
 "key": "pavel-callta--jako-by-byl-nas-posledni",
@@ -21252,7 +21237,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.3936
+"popularity": 0.3904
 },
 {
 "key": "pawlie-poizn--kokotaku",
@@ -21265,7 +21250,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/39/b8/f9/39b8f942-9341-3b38-2b59-5a52ba454946/cover.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/kokotaku/1720417988?i=1720418302&uo=4",
 "level": "impossible",
-"country": "unknown",
+"country": "cz",
 "genre_group": "other",
 "popularity": 0.0251
 },
@@ -21282,7 +21267,7 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.8723
+"popularity": 0.8717
 },
 {
 "key": "peter-bic-project--perly",
@@ -21297,7 +21282,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.484
+"popularity": 0.4813
 },
 {
 "key": "peter-juhas--tesim-sa",
@@ -21312,7 +21297,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.1755
+"popularity": 0.1711
 },
 {
 "key": "peter-pann--mam-chut",
@@ -21624,7 +21609,7 @@
 "store": "cz",
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/18/49/96184924-a15b-e333-35ed-92c4b72c7483/23UMGIM11501.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/l%C3%A1ska-nie/1669567780?i=1669568766&uo=4",
-"level": "impossible",
+"level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
 "popularity": 0.3539
@@ -21987,7 +21972,7 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.6436
+"popularity": 0.6417
 },
 {
 "key": "poetika--mesic",
@@ -22032,7 +22017,7 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.9255
+"popularity": 0.9251
 },
 {
 "key": "pokac--andel",
@@ -22182,7 +22167,7 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.3032
+"popularity": 0.2995
 },
 {
 "key": "pokac--uz-za-par-dni",
@@ -22257,7 +22242,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "other",
-"popularity": 0.4468
+"popularity": 0.4439
 },
 {
 "key": "porsche-boy--b-a-b-y-r-e-l-a-x",
@@ -22540,7 +22525,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d7/b8/2b/d7b82b97-f348-d23d-83d1-9cebdc1ce5e3/cover.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/kratomek/1622509146?i=1622509152&uo=4",
 "level": "expert",
-"country": "unknown",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.43
 },
@@ -24102,7 +24087,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.4096
+"popularity": 0.4064
 },
 {
 "key": "robin-zoot--au-pair",
@@ -29157,7 +29142,7 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.8617
+"popularity": 0.861
 },
 {
 "key": "slza--cervanky",
@@ -29187,7 +29172,7 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.8245
+"popularity": 0.8235
 },
 {
 "key": "slza--kazdej-sam",
@@ -29202,7 +29187,7 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.4202
+"popularity": 0.4171
 },
 {
 "key": "slza--padam",
@@ -29260,7 +29245,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/b4/18/9ab4187f-d125-57bb-03a1-fca31659baff/23UM1IM15979.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/edible/1709349346?i=1709349373&uo=4",
 "level": "impossible",
-"country": "unknown",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.301
 },
@@ -29275,7 +29260,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/b4/18/9ab4187f-d125-57bb-03a1-fca31659baff/23UM1IM15979.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/ka%C5%BEdej-z-v%C3%A1s/1709349346?i=1709349347&uo=4",
 "level": "impossible",
-"country": "unknown",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.3224
 },
@@ -29290,7 +29275,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/b4/18/9ab4187f-d125-57bb-03a1-fca31659baff/23UM1IM15979.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/sexy-red/1709349346?i=1709349349&uo=4",
 "level": "impossible",
-"country": "unknown",
+"country": "cz",
 "genre_group": "hip-hop",
 "popularity": 0.0005
 },
@@ -29695,7 +29680,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/6e/9a/d26e9a60-d6c5-d1e7-22ef-ea86c8b8f4f4/21UMGIM58118.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/za-r%C3%A1na-za-rosy/1573773066?i=1573773076&uo=4",
 "level": "impossible",
-"country": "unknown",
+"country": "sk",
 "genre_group": "other",
 "popularity": 0.2572
 },
@@ -30672,7 +30657,7 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.1436
+"popularity": 0.1444
 },
 {
 "key": "support-lesbiens--white-lines",
@@ -30745,7 +30730,7 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a7/12/98/a7129897-f206-6eed-2041-258acc9e2103/e556674b-10dc-4740-b0dd-a7e94738acdf.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/milujeme-noc/1642552739?i=1642552740&uo=4",
 "level": "impossible",
-"country": "unknown",
+"country": "sk",
 "genre_group": "hip-hop",
 "popularity": 0.3019
 },
@@ -30762,7 +30747,7 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.5904
+"popularity": 0.5882
 },
 {
 "key": "tereza-kerndlova--jmeno",
@@ -30822,7 +30807,7 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.4628
+"popularity": 0.4599
 },
 {
 "key": "tereza-maskova--jenom-ty-a-ja",
@@ -30852,7 +30837,7 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.9309
+"popularity": 0.9305
 },
 {
 "key": "tereza-maskova--tam-za-rekou",
@@ -31077,7 +31062,7 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.6968
+"popularity": 0.6952
 },
 {
 "key": "tomy-kotty--prestupna-stanica",
@@ -32860,9 +32845,9 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/ee/11/acee118a-b042-3038-ae33-747479ae643c/21UMGIM54022.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/m%C3%A1-chata-m%C5%AFj-hrad/1572250852?i=1572250853&uo=4",
 "level": "hard",
-"country": "unknown",
+"country": "cz",
 "genre_group": "pop",
-"popularity": 0.7287
+"popularity": 0.7273
 },
 {
 "key": "xindl-x--promena",
@@ -32875,9 +32860,9 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/e9/b6/53e9b6c8-8873-af6c-f796-028e23fe71e6/24UMGIM70088.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/prom%C4%9Bna/1765129342?i=1765129350&uo=4",
 "level": "hard",
-"country": "unknown",
+"country": "cz",
 "genre_group": "pop",
-"popularity": 0.6117
+"popularity": 0.6096
 },
 {
 "key": "xindl-x--pubertak",
@@ -32890,9 +32875,9 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/a6/6d/b7a66d81-1548-3855-7732-2ae6583af5b9/25UM1IM02467.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/puber%C5%A5%C3%A1k/1829464598?i=1829464600&uo=4",
 "level": "expert",
-"country": "unknown",
+"country": "cz",
 "genre_group": "pop",
-"popularity": 0.5266
+"popularity": 0.5241
 },
 {
 "key": "xindl-x--sebelovesong",
@@ -32905,9 +32890,9 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/77/5e/f2/775ef2ae-0851-65d8-9bcc-d048b0d4397d/21UMGIM00363.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/sebelovesong/1547614264?i=1547614464&uo=4",
 "level": "impossible",
-"country": "unknown",
+"country": "cz",
 "genre_group": "pop",
-"popularity": 0.3404
+"popularity": 0.3369
 },
 {
 "key": "xindl-x--si-zabil-kamo",
@@ -32920,9 +32905,9 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/b1/18/41b11809-c0c1-c0bc-807e-bb19077b16be/24UMGIM08309.rgb.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/si-zabil-k%C3%A1mo/1728861479?i=1728861495&uo=4",
 "level": "impossible",
-"country": "unknown",
+"country": "cz",
 "genre_group": "pop",
-"popularity": 0.3085
+"popularity": 0.3048
 },
 {
 "key": "yael--my",
@@ -34182,6 +34167,6 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.4574
+"popularity": 0.4545
 }
 ]

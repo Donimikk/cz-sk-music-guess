@@ -81,6 +81,7 @@ function stopAudio() {
 async function playSegment(from, to) {
   stopAudio();
   if (!audio.buffer) return;
+  freshContext();
   await audio.ctx.resume();
   const src = audio.ctx.createBufferSource();
   const gain = audio.ctx.createGain();
@@ -101,6 +102,18 @@ async function playSegment(from, to) {
     audio.raf = requestAnimationFrame(tick);
   };
   tick();
+}
+
+// iOS Safari: after switching to another app and back, the AudioContext stays "interrupted" and resume() never
+// brings the sound back, so the page had to be reloaded. A context that isn't running is replaced here, inside the
+// tap that starts playback (iOS only lets a context start in a user gesture). Decoded AudioBuffers are not tied to a
+// context, so the current and the prepared preview keep working. The old one is closed later, after any decode
+// still running on it has finished.
+function freshContext() {
+  if (audio.ctx.state === "running") return;
+  const old = audio.ctx;
+  audio.ctx = new (window.AudioContext || window.webkitAudioContext)();
+  setTimeout(() => old.close().catch(() => {}), 10000);
 }
 
 // While a part is playing, a skip or a wrong guess only moves the end further: the song keeps playing
@@ -593,23 +606,10 @@ async function init() {
   renderFilters();
   start(pickNext());
   rememberScroll();
-  setupAccentSwitch();
   logoSpin();
   setInterval(logoSpin, 30000);
-}
-
-// Two contrast variants live side by side for comparison (user 2026-10-22): B = one hot pink for what plays now,
-// C = a light band with the logo. Chosen like a light/dark switch and remembered.
-function setupAccentSwitch() {
-  let accent = "b";
-  try { accent = localStorage.getItem("hudle:accent") || "b"; } catch {}
-  const apply = (a) => {
-    document.documentElement.dataset.accent = a;
-    document.querySelectorAll(".accent").forEach((b) => b.setAttribute("aria-checked", b.dataset.accent === a));
-    try { localStorage.setItem("hudle:accent", a); } catch {}
-  };
-  document.querySelectorAll(".accent").forEach((b) => b.addEventListener("click", () => apply(b.dataset.accent)));
-  apply(accent);
+  // leaving the page (app switch, lock screen) ends playback, so the button doesn't stay on "pause"
+  document.addEventListener("visibilitychange", () => { if (document.hidden) stopAudio(); });
 }
 
 // Logo: at start and now and then a small spinning record opens up between "Hud" and "le"; only "le" moves right.

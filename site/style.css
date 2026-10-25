@@ -226,27 +226,13 @@ button:disabled { opacity: .45; cursor: default; }
 .wordmark.spin .logo-disc { width: .8em; margin: 0 .07em; border: 2px solid #000; animation: spin 1.333s linear infinite; }
 .tagline { display: none; }
 
-/* contrast variant B: one hot pink for "playing now" (record label, progress, play button) */
-:root[data-accent="b"] { --hot: #FF5A8A; }
-:root[data-accent="b"] .disc-label { background: radial-gradient(circle, var(--card) 0 5%, var(--hot) 5.5%); }
-:root[data-accent="b"] .bar-progress { background: var(--hot); }
-:root[data-accent="b"] .bar-unlocked { background: rgba(255, 90, 138, .26); }
-:root[data-accent="b"] .play { background: var(--hot); }
-:root[data-accent="b"] .logo-disc { background: radial-gradient(circle, var(--bg) 0 9%, var(--hot) 10% 30%, transparent 31%), repeating-radial-gradient(circle, #0D0E12 0 1px, #050608 1px 3px); }
-
-/* contrast variant C: light yellow band across the top with the logo, the game stays dark */
-:root[data-accent="c"] .top {
-  margin-inline: calc(50% - 50vw); padding: 14px calc(50vw - 50% + 0px) 12px; background: var(--yellow); color: var(--on-light);
-  border-bottom: 2px solid var(--edge); box-shadow: 0 4px 0 var(--edge);
-}
-:root[data-accent="c"] .tagline { display: inline; font-weight: 700; font-size: var(--t-s); }
-:root[data-accent="c"] main { padding-top: 18px; }
-
-/* comparison switch (temporary) */
-.accent-switch { display: flex; justify-content: center; align-items: center; gap: 6px; padding-top: 28px; color: var(--muted); font-size: var(--t-s); }
-.accent { border: 2px solid var(--edge); border-radius: 100px; padding: 5px 10px; cursor: pointer; font-weight: 700; font-size: .75rem;
-  color: var(--fg); background: var(--slot); box-shadow: 2px 2px 0 var(--edge); }
-.accent[aria-checked="true"] { background: var(--fg); color: var(--on-light); transform: translate(2px, 2px); box-shadow: none; }
+/* contrast: one hot pink for "playing now" (record label, progress, play button), variant B chosen 2026-10-25 */
+:root { --hot: #FF5A8A; }
+.disc-label { background: radial-gradient(circle, var(--card) 0 5%, var(--hot) 5.5%); }
+.bar-progress { background: var(--hot); }
+.bar-unlocked { background: rgba(255, 90, 138, .26); }
+.play { background: var(--hot); }
+.logo-disc { background: radial-gradient(circle, var(--bg) 0 9%, var(--hot) 10% 30%, transparent 31%), repeating-radial-gradient(circle, #0D0E12 0 1px, #050608 1px 3px); }
 
 /* filters: a toggle under the levels opens a panel of chip groups (multi-select) */
 .filters { display: grid; gap: 8px; justify-items: center; }
@@ -268,8 +254,9 @@ button:disabled { opacity: .45; cursor: default; }
 
 /* wide screens: filters always open beside the game, at the edge of the column */
 @media (min-width: 860px) {
-  /* game column + 32px gap + 272px panel = 784px, centred together */
-  .column { margin-left: max(16px, calc(50% - 392px)); margin-right: 0; }
+  /* the game stays centred; only when the panel (32px gap + 272px + 16px edge = 320px) doesn't fit on the right
+     does the column move left, and only by as much as needed */
+  .column { margin-left: max(16px, min(calc(50% - 240px), calc(100% - 800px))); margin-right: 0; }
   .filters { position: absolute; top: 72px; left: calc(100% + 32px); width: 272px; justify-items: stretch; }
   .filter-toggle { display: none; }
   .filter-panel-wrap[hidden] { display: grid !important; }
