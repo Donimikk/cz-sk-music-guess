@@ -43,7 +43,7 @@
         </div>
         <div class="times">
           <span id="elapsed">0:00</span>
-          <button class="play" id="play" aria-label="Prehrať ukážku" disabled>
+          <button class="play" id="play" aria-label="Prehrať ukážku" title="Medzerník" aria-keyshortcuts="Space" disabled>
             <svg viewBox="0 0 24 24" aria-hidden="true"><path id="playShape" d="M8 5v14l11-7z"/></svg>
           </button>
           <span id="total">0:16</span>
@@ -57,10 +57,11 @@
           <ul id="suggestions" role="listbox" aria-label="Návrhy"></ul>
           <input id="guess" type="text" autocomplete="off" spellcheck="false"
                  placeholder="Interpret alebo názov pesničky"
-                 aria-label="Tvoj tip" aria-autocomplete="list" aria-controls="suggestions">
+                 role="combobox" aria-label="Tvoj tip" aria-autocomplete="list" aria-controls="suggestions" aria-expanded="false"
+                 aria-keyshortcuts="Shift+Enter">
         </div>
         <div class="buttons">
-          <button id="skip" class="ghost">Preskočiť</button>
+          <button id="skip" class="ghost" title="Shift+Enter" aria-keyshortcuts="Shift+Enter">Preskočiť</button>
           <button id="submit" class="primary">Hádať</button>
         </div>
         <button id="giveup" class="giveup">Vzdať sa</button>

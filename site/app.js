@@ -197,6 +197,7 @@ async function start(song, prepared) {
 function startNext() {
   if (upcoming) start(upcoming.song, upcoming.preview);
   else start(pickNext(game?.song.id));
+  focusForState();
 }
 
 function guess(song) {
@@ -268,6 +269,7 @@ function finish(won) {
   }
   save(state);
   render();
+  focusForState();
 }
 
 function shareText() {
@@ -406,29 +408,61 @@ function updateSuggestions() {
 function drawSuggestions() {
   const ul = $("suggestions");
   ul.innerHTML = "";
+  ul.scrollTop = 0;
   suggestionList.forEach((s, i) => {
     const li = document.createElement("li");
+    li.id = `sug-${i}`;
     li.role = "option";
     li.textContent = label(s);
-    li.setAttribute("aria-selected", i === suggestionIndex);
     li.addEventListener("mousedown", (e) => { e.preventDefault(); choose(s); });
+    li.addEventListener("mousemove", () => { if (i !== suggestionIndex) highlight(i, false); });
     ul.appendChild(li);
   });
   if (suggestionList.length && moreSuggestions > 0) {
     const li = document.createElement("li");
     li.className = "more";
+    li.setAttribute("aria-hidden", "true");
     li.textContent = `…a ďalších ${moreSuggestions}, spresni hľadanie`;
     ul.appendChild(li);
   }
-  ul.children[suggestionIndex]?.scrollIntoView({ block: "nearest" }); // keep the arrow-key choice visible
+  $("guess").setAttribute("aria-expanded", suggestionList.length > 0);
+  highlight(suggestionIndex, true);
+}
+
+// Move the highlight without rebuilding the list (a rebuild resets the scroll position), and scroll only the list,
+// never the page, so the chosen song stays in view. The mouse moves the same highlight, so there is never two.
+function highlight(i, scroll) {
+  const ul = $("suggestions");
+  suggestionIndex = i;
+  [...ul.querySelectorAll("li[role=option]")].forEach((li, k) => li.setAttribute("aria-selected", k === i));
+  const li = ul.children[i];
+  if (li) $("guess").setAttribute("aria-activedescendant", li.id);
+  else $("guess").removeAttribute("aria-activedescendant");
+  if (!li || !scroll) return;
+  if (li.offsetTop < ul.scrollTop) ul.scrollTop = li.offsetTop - 4;
+  else if (li.offsetTop + li.offsetHeight > ul.scrollTop + ul.clientHeight) {
+    ul.scrollTop = li.offsetTop + li.offsetHeight - ul.clientHeight + 4;
+  }
+}
+
+function moveHighlight(step) {
+  const n = suggestionList.length;
+  if (!n) return;
+  // one step wraps around the list, a page step (PageUp/PageDown) stops at its ends
+  const i = Math.abs(step) === 1 ? (suggestionIndex + step + n) % n : Math.min(n - 1, Math.max(0, suggestionIndex + step));
+  highlight(i, true);
+}
+
+function closeSuggestions() {
+  suggestionList = [];
+  moreSuggestions = 0;
+  drawSuggestions();
 }
 
 function choose(s) {
   picked = s;
   $("guess").value = label(s);
-  suggestionList = [];
-  moreSuggestions = 0;
-  drawSuggestions();
+  closeSuggestions();
 }
 
 function submit() {
@@ -436,10 +470,68 @@ function submit() {
   if (!s) return;
   $("guess").value = "";
   picked = null;
-  suggestionList = [];
-  moreSuggestions = 0;
-  drawSuggestions();
+  closeSuggestions();
   guess(s);
+}
+
+// ---------- keyboard ----------
+// In the guess field: ↑/↓ move through the suggestions (wrapping), PageUp/PageDown by 5, Enter guesses the
+// highlighted song, Tab copies it into the field, Esc closes the list and a second Esc clears the field,
+// Shift+Enter skips, Space in the empty field plays/stops. Anywhere else: Space plays/stops, Enter after a
+// finished song goes to the next one, and typing a letter jumps into the guess field.
+const PAGE = 5;
+
+function onGuessKey(e) {
+  const open = suggestionList.length > 0;
+  if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+    e.preventDefault();
+    if (!open) updateSuggestions(); // reopen the list after Esc
+    else moveHighlight(e.key === "ArrowDown" ? 1 : -1);
+  } else if ((e.key === "PageDown" || e.key === "PageUp") && open) {
+    e.preventDefault();
+    moveHighlight(e.key === "PageDown" ? PAGE : -PAGE);
+  } else if (e.key === "Enter" && e.shiftKey) {
+    e.preventDefault();
+    skip();
+  } else if (e.key === "Enter") {
+    e.preventDefault();
+    submit();
+  } else if (e.key === "Tab" && open && !e.shiftKey && suggestionIndex >= 0) {
+    e.preventDefault();
+    choose(suggestionList[suggestionIndex]);
+  } else if (e.key === "Escape") {
+    e.preventDefault();
+    if (open) closeSuggestions();
+    else { $("guess").value = ""; picked = null; }
+  } else if (e.key === " " && !$("guess").value) {
+    e.preventDefault(); // a leading space is never part of a guess: in the empty field Space plays/stops
+    play();
+  }
+}
+
+const typingIn = (el) => el && (el.tagName === "INPUT" || el.tagName === "TEXTAREA" || el.isContentEditable);
+
+function onPageKey(e) {
+  if (e.defaultPrevented || e.ctrlKey || e.metaKey || e.altKey || typingIn(document.activeElement)) return;
+  const onButton = document.activeElement?.tagName === "BUTTON" || document.activeElement?.tagName === "A";
+  if (e.key === " " && !onButton) {
+    e.preventDefault(); // not a page scroll
+    play();
+  } else if (e.key === "Enter" && !onButton && game?.done) {
+    e.preventDefault();
+    startNext();
+  } else if (!game?.done && e.key.length === 1 && !e.repeat && /\S/.test(e.key)) {
+    $("guess").focus(); // start typing anywhere: the letter lands in the guess field
+  }
+}
+
+// Desktop only: put the cursor in the guess field for a new song (on a phone it would open the keyboard
+// over the player), and on the "next song" button when a song ends, so Enter continues.
+const finePointer = matchMedia("(pointer: fine)");
+function focusForState() {
+  if (!finePointer.matches) return;
+  if (game.done) $("next").focus({ preventScroll: true });
+  else if (document.activeElement !== $("guess")) $("guess").focus({ preventScroll: true });
 }
 
 // ---------- filters ----------
@@ -616,17 +708,11 @@ async function init() {
   $("submit").addEventListener("click", submit);
   $("next").addEventListener("click", startNext);
   $("guess").addEventListener("input", updateSuggestions);
-  $("guess").addEventListener("keydown", (e) => {
-    if (e.key === "ArrowDown" || e.key === "ArrowUp") {
-      e.preventDefault();
-      if (!suggestionList.length) return;
-      suggestionIndex = (suggestionIndex + (e.key === "ArrowDown" ? 1 : -1) + suggestionList.length) % suggestionList.length;
-      drawSuggestions();
-    } else if (e.key === "Enter") {
-      e.preventDefault();
-      submit();
-    }
-  });
+  $("guess").addEventListener("keydown", onGuessKey);
+  // Leaving the field hides the list but keeps its content, so a click on "Hádať" still sends the highlighted song.
+  $("guess").addEventListener("blur", () => { $("suggestions").hidden = true; });
+  $("guess").addEventListener("focus", () => { $("suggestions").hidden = false; });
+  document.addEventListener("keydown", onPageKey);
   $("share").addEventListener("click", async () => {
     const text = shareText();
     try {
@@ -661,6 +747,7 @@ async function init() {
   }
   renderFilters();
   start(pickNext());
+  focusForState();
   rememberScroll();
   logoSpin();
   setInterval(logoSpin, 30000);
