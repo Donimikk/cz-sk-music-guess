@@ -574,7 +574,9 @@ function currentPool() {
   const ranked = [...pool].sort((a, b) => (b.popularity || 0) - (a.popularity || 0));
   const at = LEVELS.findIndex((l) => l.id === level);
   const cut = (k) => Math.round(LEVEL_SHARES.slice(0, k).reduce((a, b) => a + b, 0) * ranked.length);
-  const start = cut(at);
+  // never past the last song: in a tiny selection (WLVS + Rock = 1 song) the top level was cut empty, and the next
+  // song after a win came out undefined, which broke the game
+  const start = Math.min(cut(at), ranked.length - 1);
   const end = at === LEVELS.length - 1 ? ranked.length : cut(at + 1);
   return { pool, inLevel: ranked.slice(start, Math.max(end, start + 1)) };
 }
