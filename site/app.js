@@ -104,13 +104,16 @@ async function playSegment(from, to) {
   tick();
 }
 
-// iOS Safari: after switching to another app and back, the AudioContext stays "interrupted" and resume() never
-// brings the sound back, so the page had to be reloaded. A context that isn't running is replaced here, inside the
-// tap that starts playback (iOS only lets a context start in a user gesture). Decoded AudioBuffers are not tied to a
-// context, so the current and the prepared preview keep working. The old one is closed later, after any decode
-// still running on it has finished.
+// iOS Safari: after switching to another app and back, the sound is gone until a reload. The context can be
+// "interrupted"/"suspended", where resume() doesn't help, or it can still claim "running": with audioSession
+// "playback" Safari keeps a context running in the background (WebKit bug 261554, iOS 17.5+), but its output is
+// dead once another app took the audio. So a context is replaced, inside the tap that starts playback (iOS only lets
+// a context start in a user gesture), when it isn't running or when the page was hidden since it last played.
+// Decoded AudioBuffers are not tied to a context, so the current and the prepared preview keep working. The old one
+// is closed later, after any decode still running on it has finished.
 function freshContext() {
-  if (audio.ctx.state === "running") return;
+  if (audio.ctx.state === "running" && !audio.stale) return;
+  audio.stale = false;
   const old = audio.ctx;
   audio.ctx = new (window.AudioContext || window.webkitAudioContext)();
   setTimeout(() => old.close().catch(() => {}), 10000);
@@ -752,7 +755,14 @@ async function init() {
   logoSpin();
   setInterval(logoSpin, 30000);
   // leaving the page (app switch, lock screen) ends playback, so the button doesn't stay on "pause"
-  document.addEventListener("visibilitychange", () => { if (document.hidden) stopAudio(); });
+  // and marks the audio context for replacement on the next play (see freshContext); the same after a return from
+  // the back/forward cache
+  const leave = () => {
+    stopAudio();
+    audio.stale = true;
+  };
+  document.addEventListener("visibilitychange", () => { if (document.hidden) leave(); });
+  window.addEventListener("pagehide", leave);
 }
 
 // Logo: at start and now and then a small spinning record opens up between "Hud" and "le"; only "le" moves right.

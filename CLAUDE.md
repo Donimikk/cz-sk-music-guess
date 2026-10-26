@@ -90,8 +90,10 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
   Playwright clear the cache via CDP `Network.clearBrowserCache` before checking a new build.
 - CSS gotcha: % padding resolves against the containing block's width (the record label's text vanished under the bar).
 - Palette: the navy #0F0F23 / #181836 stays (user 2026-10-25: generic enough); contrast = hot pink #FF5A8A (variant B).
-- iOS: after an app switch the AudioContext stays "interrupted" and resume() doesn't help → replace a non-running
-  context inside the play tap (`freshContext()`); AudioBuffers survive. Not verifiable in Playwright, test on an iPhone.
+- iOS: after an app switch the sound is dead. The context may still say "running" (audioSession "playback" keeps it
+  running in the background, WebKit 261554), so checking the state is not enough (first fix failed on the iPhone):
+  after visibilitychange/pagehide the context is replaced in the next play tap (`freshContext()`); AudioBuffers survive.
+  Not verifiable in Playwright, test on an iPhone.
 - User's taste so far: classic centred Heardle layout, dark blue background with depth, buttons that look like
   buttons (raised, shadow, press state), the half record only as a small element above the bar.
 
