@@ -16,6 +16,8 @@ Tags (each with its source):
   overrides it.
 - genre: iTunes primaryGenreName grouped (noisy; to be replaced by Spotify playlists / Last.fm).
 - era: release decade.
+- group: crews / labels from catalog/groups.csv (group, artist). A song gets a group when any of its credited artists
+  (iTunes artist field or "feat." in the title) is a member; a song can be in several groups.
 
 Usage: python pipeline/catalog.py
 """
@@ -32,6 +34,8 @@ SITE_JSON = ROOT / "site" / "songs.json"
 CATALOG = ROOT / "catalog"
 ARTIST_COUNTRY = CATALOG / "artist_country.csv"
 EXCLUDED_SONGS = CATALOG / "excluded_songs.csv"
+GROUPS = CATALOG / "groups.csv"
+FEAT = re.compile(r"[(\[]\s*(?:feat|ft|with)\.?\s+([^)\]]+)", re.I)
 
 # top share of songs per level, from easiest (decided 2026-10-22, Songspot-like 5 levels)
 LEVELS = [("easy", 0.08), ("medium", 0.12), ("hard", 0.20), ("expert", 0.25), ("impossible", 0.35)]
@@ -81,6 +85,22 @@ def country_of(artist: str, share: dict, manual: dict) -> tuple[str, str]:
     return country, f"IFPI rows CZ {cz} / SK {sk}"
 
 
+def group_members() -> dict[str, set[str]]:
+    """Normalized artist → groups."""
+    groups: dict[str, set[str]] = defaultdict(set)
+    with open(GROUPS, encoding="utf-8") as f:
+        for r in csv.DictReader(f):
+            groups[norm(r["artist"])].add(r["group"])
+    return groups
+
+
+def groups_of(artist: str, title: str, members: dict) -> list[str]:
+    credited = ITUNES_ARTIST_SPLIT.split(artist)
+    for feat in FEAT.findall(title):
+        credited += ITUNES_ARTIST_SPLIT.split(feat)
+    return sorted({g for a in credited for g in members.get(norm(a), ())})
+
+
 def percentile(values: dict[str, float]) -> dict[str, float]:
     """Key → share of songs with a higher value (0 = most popular). Missing keys aren't ranked."""
     order = sorted(values, key=lambda k: -values[k])
@@ -110,7 +130,7 @@ def main() -> None:
     games = json.loads(MATCHED.read_text(encoding="utf-8"))
     with open(OUT_REVIEW, encoding="utf-8") as f:
         review = {r["itunes_id"]: r for r in csv.DictReader(f) if r["status"] == "ok"}
-    share, manual = ifpi_country_share(), manual_countries()
+    share, manual, members = ifpi_country_share(), manual_countries(), group_members()
 
     # manual exclusions apply here too, so they take effect without re-running the matching
     with open(EXCLUDED_SONGS, encoding="utf-8") as f:
@@ -129,7 +149,8 @@ def main() -> None:
         songs.append({**g, "key": key, "plays": g.get("plays") or 0,
                       "radio_weeks": int(r.get("radio_weeks") or 0), "digital_weeks": int(r.get("digital_weeks") or 0),
                       "country": country, "country_source": country_source,
-                      "genre_group": GENRES.get(g.get("genre", ""), "other"), "era": f"{g['year'] // 10 * 10}s"})
+                      "genre_group": GENRES.get(g.get("genre", ""), "other"), "era": f"{g['year'] // 10 * 10}s",
+                      "groups": groups_of(g["artist"], g["title"], members)})
     assign_levels(songs)
     for s in songs:
         s["tags"] = [
@@ -137,13 +158,14 @@ def main() -> None:
             {"tag": f"country:{s['country']}", "source": s["country_source"]},
             {"tag": f"genre:{s['genre_group']}", "source": f"itunes ({s.get('genre')})"},
             {"tag": f"era:{s['era']}", "source": "itunes release year"},
-        ]
+        ] + [{"tag": f"group:{grp}", "source": "catalog/groups.csv"} for grp in s["groups"]]
 
     CATALOG.mkdir(exist_ok=True)
     songs.sort(key=lambda s: s["key"])
     (CATALOG / "catalog.json").write_text(json.dumps(songs, ensure_ascii=False, indent=1), encoding="utf-8")
     site = [{k: s[k] for k in ("key", "id", "deezer", "artist", "title", "year", "store", "cover", "url",
-                               "level", "country", "genre_group", "popularity")} for s in songs]
+                               "level", "country", "genre_group", "popularity")}
+            | ({"groups": s["groups"]} if s["groups"] else {}) for s in songs]
     SITE_JSON.write_text(json.dumps(site, ensure_ascii=False, indent=0), encoding="utf-8")
 
     print(f"excluded here: {len(dropped)}", dropped)
@@ -151,6 +173,7 @@ def main() -> None:
     print("levels:", Counter(s["level"] for s in songs))
     print("country:", Counter(s["country"] for s in songs))
     print("genre:", Counter(s["genre_group"] for s in songs))
+    print("groups:", Counter(grp for s in songs for grp in s["groups"]))
     print("level by channel:", Counter((s["level"], s["channel"]) for s in songs if s["channel"] == "radio"))
 
 

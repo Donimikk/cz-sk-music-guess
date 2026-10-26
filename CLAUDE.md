@@ -72,6 +72,11 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
   catalog/artist_country.csv (e.g. Milion Plus 36/37 rows → CZ, Pavol Habera 93/80 → SK — the ratio alone is wrong there).
   Artists with no IFPI rows: majority language of their Spotify release titles (`pipeline/title_language.py --write`).
 
+## Groups (crews / labels)
+- `catalog/groups.csv` (group, artist): a song is in a group when any credited artist (iTunes artist field, or feat. in
+  the title) is a member. Members from the user or a cited source; unverified ones are marked in the note (Rychlí kluci).
+  Milion+ = current artists on cs.wikipedia only (former ones like Konex would pull in their later solo songs).
+
 ## Data selection
 - Ranking by total weeks on IFPI charts misses new songs and fan-base artists with short release
   peaks (Dušan Vlk: 47 songs in Spotify SK Top 200 for 1–4 days each, only one IFPI entry).

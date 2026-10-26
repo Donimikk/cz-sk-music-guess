@@ -1422,7 +1422,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.4341
+"popularity": 0.4341,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "alan-murin--ty-a-ja",
@@ -1452,7 +1455,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3566
+"popularity": 0.3566,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "ales-brichta--divka-s-perlami-ve-vlasech-2000",
@@ -1737,7 +1743,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.523
+"popularity": 0.523,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "astralkid22--cisla",
@@ -1752,7 +1761,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.171
+"popularity": 0.171,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "astralkid22--high-speed",
@@ -1767,7 +1779,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3374
+"popularity": 0.3374,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "astralkid22--num-9",
@@ -2277,7 +2292,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8523
+"popularity": 0.8523,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "ben-cristovao--nelituju",
@@ -2382,7 +2400,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7652
+"popularity": 0.7652,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "ben-cristovao--pistol",
@@ -2517,7 +2538,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.456
+"popularity": 0.456,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "ben-cristovao--spiderman",
@@ -4212,7 +4236,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1126
+"popularity": 0.1126,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--asgard",
@@ -4227,7 +4254,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9786
+"popularity": 0.9786,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--at-je-klid",
@@ -4242,7 +4272,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7022
+"popularity": 0.7022,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--balkan-paradise",
@@ -4257,7 +4290,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5595
+"popularity": 0.5595,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--benz",
@@ -4272,7 +4308,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.974
+"popularity": 0.974,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--berlin",
@@ -4287,7 +4326,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9512
+"popularity": 0.9512,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--bieber-fever-tour-life",
@@ -4302,7 +4344,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5002
+"popularity": 0.5002,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--big-time",
@@ -4317,7 +4362,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4031
+"popularity": 0.4031,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--bohaty-tata-chudy-tata",
@@ -4332,7 +4380,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5946
+"popularity": 0.5946,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--bounce",
@@ -4347,7 +4398,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9612
+"popularity": 0.9612,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--cartier",
@@ -4362,7 +4416,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7611
+"popularity": 0.7611,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--chaser-bag",
@@ -4377,7 +4434,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0032
+"popularity": 0.0032,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--chitarele",
@@ -4392,7 +4452,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4423
+"popularity": 0.4423,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--cikady",
@@ -4407,7 +4470,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9932
+"popularity": 0.9932,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--dilema",
@@ -4422,7 +4488,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8687
+"popularity": 0.8687,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--divej",
@@ -4437,7 +4506,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9954
+"popularity": 0.9954,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--double-time",
@@ -4452,7 +4524,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8331
+"popularity": 0.8331,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--ela",
@@ -4467,7 +4542,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.29
+"popularity": 0.29,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--fast-life",
@@ -4482,7 +4560,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8915
+"popularity": 0.8915,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--fresh-fade",
@@ -4497,7 +4578,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7036
+"popularity": 0.7036,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--ftu",
@@ -4512,7 +4596,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2736
+"popularity": 0.2736,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--hannah-montana",
@@ -4527,7 +4614,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9995
+"popularity": 0.9995,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--hannah-montana-vip",
@@ -4542,7 +4632,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9243
+"popularity": 0.9243,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--happy-b-day",
@@ -4557,7 +4650,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1081
+"popularity": 0.1081,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--hot-dropout",
@@ -4572,7 +4668,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9704
+"popularity": 0.9704,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--i-got-it",
@@ -4587,7 +4686,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8048
+"popularity": 0.8048,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--iloveit",
@@ -4602,7 +4704,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4893
+"popularity": 0.4893,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--konci-leto",
@@ -4617,7 +4722,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3055
+"popularity": 0.3055,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--krejci",
@@ -4632,7 +4740,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4897
+"popularity": 0.4897,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--krok-co-krok",
@@ -4647,7 +4758,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6252
+"popularity": 0.6252,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--kudlu",
@@ -4662,7 +4776,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8044
+"popularity": 0.8044,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--limonada",
@@ -4677,7 +4794,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8605
+"popularity": 0.8605,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--luana",
@@ -4692,7 +4812,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6585
+"popularity": 0.6585,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--luna",
@@ -4707,7 +4830,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8545
+"popularity": 0.8545,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--mitsubishi",
@@ -4722,7 +4848,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8705
+"popularity": 0.8705,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--money-on-my-mind",
@@ -4737,7 +4866,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4888
+"popularity": 0.4888,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--nad-ranem",
@@ -4752,7 +4884,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9444
+"popularity": 0.9444,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--nedojdu-sam",
@@ -4767,7 +4902,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7136
+"popularity": 0.7136,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--nemam-dost",
@@ -4782,7 +4920,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8276
+"popularity": 0.8276,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--no-security",
@@ -4797,7 +4938,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.4747
+"popularity": 0.4747,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--no-time",
@@ -4812,7 +4956,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9321
+"popularity": 0.9321,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--par-slov",
@@ -4827,7 +4974,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3411
+"popularity": 0.3411,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--perdoname",
@@ -4842,7 +4992,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2134
+"popularity": 0.2134,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--pistacie",
@@ -4857,7 +5010,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9964
+"popularity": 0.9964,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--plan-b",
@@ -4872,7 +5028,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8436
+"popularity": 0.8436,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--podvod",
@@ -4887,7 +5046,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "other",
-"popularity": 0.9859
+"popularity": 0.9859,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--popstar",
@@ -4902,7 +5064,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9006
+"popularity": 0.9006,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--ppp",
@@ -4917,7 +5082,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8354
+"popularity": 0.8354,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--praha-viden",
@@ -4932,7 +5100,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9977
+"popularity": 0.9977,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--prazsky-holky",
@@ -4947,7 +5118,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.694
+"popularity": 0.694,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--pretty-boy",
@@ -4962,7 +5136,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.7807
+"popularity": 0.7807,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--rubin",
@@ -4977,7 +5154,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2412
+"popularity": 0.2412,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--rychli",
@@ -4992,7 +5172,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1733
+"popularity": 0.1733,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--safir",
@@ -5007,7 +5190,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 1.0
+"popularity": 1.0,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--sangria",
@@ -5022,7 +5208,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9822
+"popularity": 0.9822,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--sante",
@@ -5037,7 +5226,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9868
+"popularity": 0.9868,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--serotonin",
@@ -5052,7 +5244,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.72
+"popularity": 0.72,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--soundtrack",
@@ -5067,7 +5262,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9311
+"popularity": 0.9311,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--southside",
@@ -5082,7 +5280,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7574
+"popularity": 0.7574,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--stovky-let",
@@ -5097,7 +5298,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.85
+"popularity": 0.85,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--suave",
@@ -5112,7 +5316,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9881
+"popularity": 0.9881,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--superstar",
@@ -5127,7 +5334,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9448
+"popularity": 0.9448,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--svedomi",
@@ -5142,7 +5352,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7241
+"popularity": 0.7241,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--switch",
@@ -5157,7 +5370,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4802
+"popularity": 0.4802,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--tahle-noc",
@@ -5172,7 +5388,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7647
+"popularity": 0.7647,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--tika",
@@ -5187,7 +5406,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4555
+"popularity": 0.4555,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--uber-black",
@@ -5202,7 +5424,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.56
+"popularity": 0.56,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--vitej-mezi-nama",
@@ -5217,7 +5442,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9877
+"popularity": 0.9877,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--window-shopper",
@@ -5232,7 +5460,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9485
+"popularity": 0.9485,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--woah",
@@ -5247,7 +5478,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3812
+"popularity": 0.3812,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "calin--yalla",
@@ -5262,7 +5496,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1135
+"popularity": 0.1135,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "call-dominika--fire-in-your-eyes",
@@ -5307,7 +5544,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.6521
+"popularity": 0.6521,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "call-dominika--slepa-main",
@@ -5472,7 +5712,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6366
+"popularity": 0.6366,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "chawo--100k",
@@ -5502,7 +5745,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0296
+"popularity": 0.0296,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "chawo--jesus",
@@ -6177,7 +6423,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2832
+"popularity": 0.2832,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "dalyb--gerard",
@@ -6192,7 +6441,11 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6484
+"popularity": 0.6484,
+"groups": [
+"Hahacrew",
+"WLVS"
+]
 },
 {
 "key": "dalyb--spitter",
@@ -6207,7 +6460,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1058
+"popularity": 0.1058,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "dalyb--zvyky",
@@ -6222,7 +6478,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2718
+"popularity": 0.2718,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "dame--100ry",
@@ -6237,7 +6496,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2923
+"popularity": 0.2923,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--10qsomuch",
@@ -6252,7 +6514,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5299
+"popularity": 0.5299,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--a-je",
@@ -6267,7 +6532,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5271
+"popularity": 0.5271,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--bzrnt",
@@ -6282,7 +6550,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.187
+"popularity": 0.187,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--harige-svanc",
@@ -6297,7 +6568,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0862
+"popularity": 0.0862,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--ist-prec",
@@ -6312,7 +6586,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2517
+"popularity": 0.2517,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--ja-jaja-ja",
@@ -6327,7 +6604,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0807
+"popularity": 0.0807,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--ke-by-si",
@@ -6342,7 +6622,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5837
+"popularity": 0.5837,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--ked-spomeniem-si-na-teba",
@@ -6357,7 +6640,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.186
+"popularity": 0.186,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--ked-ti-to-vadi-tak-sa-nepozeraj",
@@ -6372,7 +6658,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5445
+"popularity": 0.5445,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--milion-minus",
@@ -6387,7 +6676,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4236
+"popularity": 0.4236,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--nykdi",
@@ -6402,7 +6694,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1619
+"popularity": 0.1619,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--pri-tebe",
@@ -6417,7 +6712,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6188
+"popularity": 0.6188,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--ratatata",
@@ -6432,7 +6730,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5157
+"popularity": 0.5157,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--sereme-do-koly-a-stime-do-fanty",
@@ -6447,7 +6748,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2882
+"popularity": 0.2882,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--slipy-zo-supolia",
@@ -6462,7 +6766,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3958
+"popularity": 0.3958,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--veril",
@@ -6477,7 +6784,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0351
+"popularity": 0.0351,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--we-the-bez-debat",
@@ -6492,7 +6802,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2102
+"popularity": 0.2102,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--za-vas",
@@ -6507,7 +6820,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6197
+"popularity": 0.6197,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--zly-sen",
@@ -6522,7 +6838,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6243
+"popularity": 0.6243,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dame--zrazu",
@@ -6537,7 +6856,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7465
+"popularity": 0.7465,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "danior--italiano-cigan-arab",
@@ -7047,7 +7369,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.057
+"popularity": 0.057,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dms--calamada",
@@ -7062,7 +7387,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6265
+"popularity": 0.6265,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dms--dalsia-vlna",
@@ -7077,7 +7405,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6703
+"popularity": 0.6703,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dms--fu",
@@ -7092,7 +7423,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2335
+"popularity": 0.2335,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dms--huhu",
@@ -7107,7 +7441,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1382
+"popularity": 0.1382,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dms--instaklam",
@@ -7122,7 +7459,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2604
+"popularity": 0.2604,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dms--logdan",
@@ -7137,7 +7477,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4665
+"popularity": 0.4665,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dms--nie",
@@ -7152,7 +7495,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3452
+"popularity": 0.3452,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dms--rampa",
@@ -7167,7 +7513,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "rock",
-"popularity": 0.7898
+"popularity": 0.7898,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "dms--tanecna-pesnicka",
@@ -7182,7 +7531,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7278
+"popularity": 0.7278,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "doctor-p-p--dite-stounu",
@@ -8322,7 +8674,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5746
+"popularity": 0.5746,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "ego--doug-demuro",
@@ -8337,7 +8692,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7018
+"popularity": 0.7018,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "ego--ex",
@@ -8352,7 +8710,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2244
+"popularity": 0.2244,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "ego--fajn",
@@ -8367,7 +8728,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6949
+"popularity": 0.6949,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "ego--jar-leto-jesen",
@@ -8382,7 +8746,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0725
+"popularity": 0.0725,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "ego--nechcem-byt-mlady",
@@ -8397,7 +8764,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0429
+"popularity": 0.0429,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "ego--nieco-nove",
@@ -8412,7 +8782,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0921
+"popularity": 0.0921,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "ego--pumpa",
@@ -8427,7 +8800,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9457
+"popularity": 0.9457,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "ego--tok",
@@ -8442,7 +8818,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0629
+"popularity": 0.0629,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "ego--trollin",
@@ -8457,7 +8836,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4355
+"popularity": 0.4355,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "ego--zatmenie",
@@ -8472,7 +8854,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8855
+"popularity": 0.8855,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "ektor--2-1",
@@ -8787,7 +9172,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5609
+"popularity": 0.5609,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "ektor--mam-nervy",
@@ -9012,7 +9400,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8504
+"popularity": 0.8504,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "ektor--traphouse",
@@ -9087,7 +9478,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8782
+"popularity": 0.8782,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "ektor--zaseklej-v-case",
@@ -9177,7 +9571,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.6922
+"popularity": 0.6922,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "emma-drobna--stratim-sa-ti-rano",
@@ -9792,7 +10189,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2358
+"popularity": 0.2358,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "forest-blunt--sen",
@@ -9852,7 +10252,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5367
+"popularity": 0.5367,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "frayer-flexking--facka",
@@ -9912,7 +10315,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2535
+"popularity": 0.2535,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "frayer-flexking--realness",
@@ -9942,7 +10348,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3242
+"popularity": 0.3242,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "frayer-flexking--sexy-caja",
@@ -9987,7 +10396,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5714
+"popularity": 0.5714,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "freez247--cikitas-2",
@@ -10272,7 +10684,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rock",
-"popularity": 0.3662
+"popularity": 0.3662,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "gipsy-koro--sa-o-roma",
@@ -10347,7 +10762,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2777
+"popularity": 0.2777,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "gleb--4-veze",
@@ -10392,7 +10810,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.668
+"popularity": 0.668,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "gleb--blbe-pribehy-vol-3",
@@ -11352,7 +11773,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4578
+"popularity": 0.4578,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "hasan--10-minut",
@@ -11367,7 +11791,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4838
+"popularity": 0.4838,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "hasan--gin",
@@ -11382,7 +11809,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3602
+"popularity": 0.3602,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "hasan--mlha-nad-jordanem",
@@ -11397,7 +11827,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0091
+"popularity": 0.0091,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "hasan--nejlepsi-stav",
@@ -11412,7 +11845,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2257
+"popularity": 0.2257,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "hasan--nemame-cas-nenavidet",
@@ -11427,7 +11863,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.642
+"popularity": 0.642,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "hasan--nemuzu-te-soudit",
@@ -11442,7 +11881,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3197
+"popularity": 0.3197,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "hasan--nikdy",
@@ -11457,7 +11899,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.5718
+"popularity": 0.5718,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "hasan--oci-ty-nelzou",
@@ -11472,7 +11917,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.8003
+"popularity": 0.8003,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "hasan--s-tebou",
@@ -11487,7 +11935,11 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7615
+"popularity": 0.7615,
+"groups": [
+"Milion+",
+"WLVS"
+]
 },
 {
 "key": "hasan--space-blues",
@@ -11502,7 +11954,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.5641
+"popularity": 0.5641,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "hasan--zitra",
@@ -11517,7 +11972,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "rock",
-"popularity": 0.3101
+"popularity": 0.3101,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "helenine-oci--langos",
@@ -12162,7 +12620,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1181
+"popularity": 0.1181,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "jickson--switchin-flows",
@@ -12177,7 +12638,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1222
+"popularity": 0.1222,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "jon-marianek--chleba",
@@ -12237,7 +12701,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.3105
+"popularity": 0.3105,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kabat--el-presidento",
@@ -12462,7 +12929,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4651
+"popularity": 0.4651,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "kali--dr-jekyll-mr-hyde",
@@ -12567,7 +13037,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0812
+"popularity": 0.0812,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "kali--kym-sa-da",
@@ -13077,7 +13550,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7401
+"popularity": 0.7401,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "karlo--dory",
@@ -13092,7 +13568,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3146
+"popularity": 0.3146,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "karlo--karlo-free",
@@ -13107,7 +13586,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1569
+"popularity": 0.1569,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "karmen-pal-balaz--piesen-ranenych-dusi",
@@ -13137,7 +13619,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8919
+"popularity": 0.8919,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "katarina-knechtova--dialky",
@@ -13452,7 +13937,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9389
+"popularity": 0.9389,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--amsterdam",
@@ -13467,7 +13955,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8395
+"popularity": 0.8395,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--baila",
@@ -13482,7 +13973,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9289
+"popularity": 0.9289,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--c-est-la-vie",
@@ -13497,7 +13991,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8737
+"popularity": 0.8737,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--casablanca",
@@ -13512,7 +14009,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2699
+"popularity": 0.2699,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--chut-zit",
@@ -13527,7 +14027,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5171
+"popularity": 0.5171,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--den-a-noc",
@@ -13542,7 +14045,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3899
+"popularity": 0.3899,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--dna",
@@ -13557,7 +14063,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0502
+"popularity": 0.0502,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--espresso-martini",
@@ -13572,7 +14081,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3621
+"popularity": 0.3621,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--fantom",
@@ -13587,7 +14099,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5435
+"popularity": 0.5435,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--focus",
@@ -13602,7 +14117,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5125
+"popularity": 0.5125,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--fresh-kicks",
@@ -13617,7 +14135,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2868
+"popularity": 0.2868,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--havana",
@@ -13632,7 +14153,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4067
+"popularity": 0.4067,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--house-get-low",
@@ -13647,7 +14171,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9699
+"popularity": 0.9699,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--house-party",
@@ -13662,7 +14189,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2207
+"popularity": 0.2207,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--jenom-at-nesnim",
@@ -13677,7 +14207,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7624
+"popularity": 0.7624,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--lizatko",
@@ -13692,7 +14225,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.798
+"popularity": 0.798,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--milionkrat",
@@ -13707,7 +14243,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3005
+"popularity": 0.3005,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--minibar",
@@ -13722,7 +14261,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3684
+"popularity": 0.3684,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--radio-rychli-kluci",
@@ -13737,7 +14279,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8422
+"popularity": 0.8422,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--sonata",
@@ -13752,7 +14297,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4683
+"popularity": 0.4683,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--vitiligo",
@@ -13767,7 +14315,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2016
+"popularity": 0.2016,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "kojo--whip",
@@ -13782,7 +14333,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9804
+"popularity": 0.9804,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "koky--ball-till-i-fall",
@@ -13797,7 +14351,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5673
+"popularity": 0.5673,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "koky--black-gloves",
@@ -13812,7 +14369,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3306
+"popularity": 0.3306,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "koky--save",
@@ -13827,7 +14387,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9307
+"popularity": 0.9307,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "koky--sos",
@@ -13842,7 +14405,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.979
+"popularity": 0.979,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "koky--zatim-co-vy",
@@ -13857,7 +14423,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3922
+"popularity": 0.3922,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "konex--noc",
@@ -13947,7 +14516,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2376
+"popularity": 0.2376,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "kontrafakt--mam-p-kolko-to-bude-mat-videni",
@@ -13962,7 +14534,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3352
+"popularity": 0.3352,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "kontrafakt--nechcem-byt-mlady",
@@ -13977,7 +14552,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3206
+"popularity": 0.3206,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "kontrafakt--nemusime",
@@ -13992,7 +14570,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1847
+"popularity": 0.1847,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "kontrafakt--prax",
@@ -14007,7 +14588,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1956
+"popularity": 0.1956,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "kontrafakt--reklama-na-rap",
@@ -14022,7 +14606,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9015
+"popularity": 0.9015,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "kontrafakt--vydrzat",
@@ -14037,7 +14624,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7442
+"popularity": 0.7442,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "kontrafakt--vyspim-sa-az-v-hrobe",
@@ -14052,7 +14642,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1035
+"popularity": 0.1035,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "kontrafakt--xx",
@@ -14067,7 +14660,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0196
+"popularity": 0.0196,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "kotlar-security--la-cosa-nostra",
@@ -14682,7 +15278,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2385
+"popularity": 0.2385,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "lina-mayer--stratena",
@@ -14847,7 +15446,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6822
+"popularity": 0.6822,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "loko-loko--pohlad-spoza-deviny",
@@ -14877,7 +15479,10 @@
 "level": "impossible",
 "country": "unknown",
 "genre_group": "hip-hop",
-"popularity": 0.0853
+"popularity": 0.0853,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "loudz1--ice-baby-melt",
@@ -14892,7 +15497,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7337
+"popularity": 0.7337,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "loudz1--obrat",
@@ -14952,7 +15560,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.435
+"popularity": 0.435,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "luca-brassi10x--27klub",
@@ -15057,7 +15668,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5331
+"popularity": 0.5331,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "luca-brassi10x--mamaididit",
@@ -15102,7 +15716,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4861
+"popularity": 0.4861,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "luca-brassi10x--netancuj",
@@ -15162,7 +15779,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.337
+"popularity": 0.337,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "luca-brassi10x--peniaze",
@@ -15507,7 +16127,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6005
+"popularity": 0.6005,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "majself--hviezdy",
@@ -16017,7 +16640,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5549
+"popularity": 0.5549,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "marpo--chteli-jsme",
@@ -16422,7 +17048,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5841
+"popularity": 0.5841,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "michajlov--prachy-vs-diplom",
@@ -16872,7 +17501,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1195
+"popularity": 0.1195,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "milion-plus--ay-see-ay-bee-pt-2",
@@ -16887,7 +17519,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3247
+"popularity": 0.3247,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "milion-plus--bye-bye",
@@ -16902,7 +17537,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7884
+"popularity": 0.7884,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "milion-plus--fuck-off",
@@ -16917,7 +17555,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5933
+"popularity": 0.5933,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "milion-plus--how-high-3",
@@ -16932,7 +17573,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6316
+"popularity": 0.6316,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "milion-plus--kazdej-neco-hleda",
@@ -16947,7 +17591,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1477
+"popularity": 0.1477,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "milion-plus--krtek-forever",
@@ -16962,7 +17609,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2905
+"popularity": 0.2905,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "milion-plus--life-of-diego",
@@ -16977,7 +17627,11 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8746
+"popularity": 0.8746,
+"groups": [
+"DMS",
+"Milion+"
+]
 },
 {
 "key": "milion-plus--locked-up",
@@ -17007,7 +17661,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5887
+"popularity": 0.5887,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "milion-plus--yvgn",
@@ -17487,7 +18144,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4081
+"popularity": 0.4081,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "momo--moja-zona",
@@ -17502,7 +18162,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3292
+"popularity": 0.3292,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "momo--ne",
@@ -17622,7 +18285,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6393
+"popularity": 0.6393,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "momo--za-tebou",
@@ -17892,7 +18558,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4254
+"popularity": 0.4254,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "neries--co-bude",
@@ -17907,7 +18576,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8199
+"popularity": 0.8199,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "neries--dopis",
@@ -17922,7 +18594,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7889
+"popularity": 0.7889,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "neries--g-u-c-c-i",
@@ -17937,7 +18612,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0948
+"popularity": 0.0948,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "neries--hello",
@@ -17952,7 +18630,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "other",
-"popularity": 0.5458
+"popularity": 0.5458,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "neries--kruhy",
@@ -17982,7 +18663,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "other",
-"popularity": 0.2576
+"popularity": 0.2576,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "neries--misshit",
@@ -17997,7 +18681,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6238
+"popularity": 0.6238,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "neries--naspat-domov",
@@ -18027,7 +18714,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1984
+"popularity": 0.1984,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "neries--odkial-sa-pozname",
@@ -18162,7 +18852,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9731
+"popularity": 0.9731,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "neries--viem-to",
@@ -18207,7 +18900,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9818
+"popularity": 0.9818,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--365247",
@@ -18222,7 +18918,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9029
+"popularity": 0.9029,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--6-feet",
@@ -18237,7 +18936,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.637
+"popularity": 0.637,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--back-seat",
@@ -18252,7 +18954,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5071
+"popularity": 0.5071,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--baleak",
@@ -18267,7 +18972,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0766
+"popularity": 0.0766,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--berserk",
@@ -18282,7 +18990,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4368
+"popularity": 0.4368,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--blazen",
@@ -18297,7 +19008,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4227
+"popularity": 0.4227,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--celou-noc-2",
@@ -18312,7 +19026,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7629
+"popularity": 0.7629,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--distanc",
@@ -18327,7 +19044,11 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6202
+"popularity": 0.6202,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "nik-tendo--facetime",
@@ -18342,7 +19063,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6662
+"popularity": 0.6662,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--flexdakyko",
@@ -18357,7 +19081,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0771
+"popularity": 0.0771,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--goyard",
@@ -18372,7 +19099,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7155
+"popularity": 0.7155,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--hamilton",
@@ -18387,7 +19117,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5043
+"popularity": 0.5043,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--hrajes-si-na-co",
@@ -18402,7 +19135,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9047
+"popularity": 0.9047,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--ja-to-miluju",
@@ -18417,7 +19153,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8121
+"popularity": 0.8121,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--kung-fu",
@@ -18432,7 +19171,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8103
+"popularity": 0.8103,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--lingo",
@@ -18447,7 +19189,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6001
+"popularity": 0.6001,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--lip-nez-ted",
@@ -18462,7 +19207,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7811
+"popularity": 0.7811,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--loop",
@@ -18477,7 +19225,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7118
+"popularity": 0.7118,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--loyal",
@@ -18492,7 +19243,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9234
+"popularity": 0.9234,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--mala-bis",
@@ -18507,7 +19261,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9298
+"popularity": 0.9298,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--milujou-crew",
@@ -18522,7 +19279,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.238
+"popularity": 0.238,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--mix-emoci",
@@ -18537,7 +19297,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6867
+"popularity": 0.6867,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--muj-shit",
@@ -18552,7 +19315,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8869
+"popularity": 0.8869,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--muza",
@@ -18567,7 +19333,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5472
+"popularity": 0.5472,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--nemam-strach",
@@ -18582,7 +19351,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9143
+"popularity": 0.9143,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--nemuzu-spat",
@@ -18597,7 +19369,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3507
+"popularity": 0.3507,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--neni-limit",
@@ -18612,7 +19387,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8714
+"popularity": 0.8714,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--nezmenis",
@@ -18627,7 +19405,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9093
+"popularity": 0.9093,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--no-phone",
@@ -18642,7 +19423,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6156
+"popularity": 0.6156,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--not-dead",
@@ -18657,7 +19441,11 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1131
+"popularity": 0.1131,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "nik-tendo--okey",
@@ -18672,7 +19460,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2417
+"popularity": 0.2417,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--pod-drn",
@@ -18687,7 +19478,11 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8728
+"popularity": 0.8728,
+"groups": [
+"Milion+",
+"Rychlí kluci"
+]
 },
 {
 "key": "nik-tendo--poppins",
@@ -18702,7 +19497,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6566
+"popularity": 0.6566,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--potichu",
@@ -18717,7 +19515,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3917
+"popularity": 0.3917,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--prisaham-na-buh-tutto-passa",
@@ -18732,7 +19533,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3133
+"popularity": 0.3133,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--q-a",
@@ -18747,7 +19551,11 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.332
+"popularity": 0.332,
+"groups": [
+"Milion+",
+"WLVS"
+]
 },
 {
 "key": "nik-tendo--randal",
@@ -18762,7 +19570,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.751
+"popularity": 0.751,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--rekni-mi-pravdu",
@@ -18777,7 +19588,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6443
+"popularity": 0.6443,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--restart",
@@ -18792,7 +19606,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8258
+"popularity": 0.8258,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--s-p-j-d",
@@ -18807,7 +19624,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.943
+"popularity": 0.943,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--sbohem",
@@ -18822,7 +19642,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7829
+"popularity": 0.7829,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--spanek",
@@ -18837,7 +19660,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4574
+"popularity": 0.4574,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--spis",
@@ -18852,7 +19678,11 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.617
+"popularity": 0.617,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "nik-tendo--stalo-se",
@@ -18867,7 +19697,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3589
+"popularity": 0.3589,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--strobo",
@@ -18882,7 +19715,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5353
+"popularity": 0.5353,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--symbol",
@@ -18897,7 +19733,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4136
+"popularity": 0.4136,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nik-tendo--tempo",
@@ -18912,7 +19751,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9124
+"popularity": 0.9124,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "no-name--ak-nejde-o-vsetko",
@@ -18957,7 +19799,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4277
+"popularity": 0.4277,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "nobodylisten--tiramisu",
@@ -19197,7 +20042,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6329
+"popularity": 0.6329,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "p-a-t--tovaren-na-peniaze",
@@ -19227,7 +20075,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9156
+"popularity": 0.9156,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--3-000-000",
@@ -19242,7 +20093,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7223
+"popularity": 0.7223,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--airplane",
@@ -19257,7 +20111,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3356
+"popularity": 0.3356,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--amiri-drip",
@@ -19272,7 +20129,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6653
+"popularity": 0.6653,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--baby-a-benzo",
@@ -19287,7 +20147,11 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.99
+"popularity": 0.99,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "p-t-k--bad-vibe",
@@ -19302,7 +20166,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8824
+"popularity": 0.8824,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--baller",
@@ -19317,7 +20184,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5809
+"popularity": 0.5809,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--bbl",
@@ -19332,7 +20202,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8308
+"popularity": 0.8308,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--big-stepper",
@@ -19347,7 +20220,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9193
+"popularity": 0.9193,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--black-hoodies",
@@ -19362,7 +20238,11 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2353
+"popularity": 0.2353,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "p-t-k--bruce-lee-2",
@@ -19377,7 +20257,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5239
+"popularity": 0.5239,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--cestuju-mlhou",
@@ -19392,7 +20275,11 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7492
+"popularity": 0.7492,
+"groups": [
+"PTK",
+"Rychlí kluci"
+]
 },
 {
 "key": "p-t-k--cestuju-na-beatech",
@@ -19407,7 +20294,11 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4929
+"popularity": 0.4929,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "p-t-k--chceme-huleni",
@@ -19422,7 +20313,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1765
+"popularity": 0.1765,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--co-mam-ja",
@@ -19437,7 +20331,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0442
+"popularity": 0.0442,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--dal-bych-to-znova",
@@ -19452,7 +20349,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6338
+"popularity": 0.6338,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--day-ones",
@@ -19467,7 +20367,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5121
+"popularity": 0.5121,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--delam-to-pro",
@@ -19482,7 +20385,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4295
+"popularity": 0.4295,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--demon-mode",
@@ -19497,7 +20403,11 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3972
+"popularity": 0.3972,
+"groups": [
+"DMS",
+"PTK"
+]
 },
 {
 "key": "p-t-k--dennodenne-2",
@@ -19512,7 +20422,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0301
+"popularity": 0.0301,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--dlouhy-casy",
@@ -19527,7 +20440,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3493
+"popularity": 0.3493,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--double-cup",
@@ -19542,7 +20458,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3835
+"popularity": 0.3835,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--eyo",
@@ -19557,7 +20476,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5613
+"popularity": 0.5613,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--famous",
@@ -19572,7 +20494,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5103
+"popularity": 0.5103,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--foreign",
@@ -19587,7 +20512,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4337
+"popularity": 0.4337,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--g-wagon",
@@ -19602,7 +20530,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8751
+"popularity": 0.8751,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--get-low",
@@ -19617,7 +20548,11 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8778
+"popularity": 0.8778,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "p-t-k--gone",
@@ -19632,7 +20567,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6083
+"popularity": 0.6083,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--gono",
@@ -19647,7 +20585,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.829
+"popularity": 0.829,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--gremlin",
@@ -19662,7 +20603,11 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8668
+"popularity": 0.8668,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "p-t-k--hlad",
@@ -19677,7 +20622,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6507
+"popularity": 0.6507,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--hlidej-si-zada",
@@ -19692,7 +20640,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7971
+"popularity": 0.7971,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--hustle-stress",
@@ -19707,7 +20658,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1345
+"popularity": 0.1345,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--ja-a-muj-pes",
@@ -19722,7 +20676,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5987
+"popularity": 0.5987,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--kazdej-ma-svoje-demons",
@@ -19737,7 +20694,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5116
+"popularity": 0.5116,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--kdo-me-zastavi",
@@ -19752,7 +20712,11 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3425
+"popularity": 0.3425,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "p-t-k--kdo-sou",
@@ -19767,7 +20731,11 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7706
+"popularity": 0.7706,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "p-t-k--kenpachi-yachiru",
@@ -19782,7 +20750,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.907
+"popularity": 0.907,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--kilo-na-muj-krk",
@@ -19797,7 +20768,11 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8162
+"popularity": 0.8162,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "p-t-k--klid",
@@ -19812,7 +20787,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2704
+"popularity": 0.2704,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--komik",
@@ -19827,7 +20805,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0597
+"popularity": 0.0597,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--krvacej-na-zemi",
@@ -19842,7 +20823,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.793
+"popularity": 0.793,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--krvavy-klouby",
@@ -19857,7 +20841,11 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6119
+"popularity": 0.6119,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "p-t-k--kurvy-v-pozoru",
@@ -19872,7 +20860,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.891
+"popularity": 0.891,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--locked-in",
@@ -19887,7 +20878,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2152
+"popularity": 0.2152,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--long-run",
@@ -19902,7 +20896,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4318
+"popularity": 0.4318,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--mas-vic",
@@ -19917,7 +20914,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4824
+"popularity": 0.4824,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--mezi-radky",
@@ -19932,7 +20932,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5062
+"popularity": 0.5062,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--mladej-jit",
@@ -19947,7 +20950,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3981
+"popularity": 0.3981,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--moje-trava",
@@ -19962,7 +20968,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0255
+"popularity": 0.0255,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--na-zadnim-sedadle",
@@ -19977,7 +20986,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5736
+"popularity": 0.5736,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--nabij-mi-ten-smoke",
@@ -19992,7 +21004,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9261
+"popularity": 0.9261,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--nadstandard",
@@ -20007,7 +21022,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9398
+"popularity": 0.9398,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--nazpet-davat",
@@ -20022,7 +21040,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.342
+"popularity": 0.342,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--nebe-neni-blue",
@@ -20037,7 +21058,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2645
+"popularity": 0.2645,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--nekdo-pujde-z-kola-ven",
@@ -20052,7 +21076,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6575
+"popularity": 0.6575,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--nemam-problem",
@@ -20067,7 +21094,11 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1715
+"popularity": 0.1715,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "p-t-k--nez-nejsem-dead",
@@ -20082,7 +21113,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8404
+"popularity": 0.8404,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--nikdy-broke",
@@ -20097,7 +21131,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4432
+"popularity": 0.4432,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--noci-jak-na-mori",
@@ -20112,7 +21149,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9608
+"popularity": 0.9608,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--only-way-out-is-through-the-s-s-2",
@@ -20127,7 +21167,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0
+"popularity": 0.0,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--planeta-pula",
@@ -20142,7 +21185,11 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5901
+"popularity": 0.5901,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "p-t-k--priste",
@@ -20157,7 +21204,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2818
+"popularity": 0.2818,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--ptk-og",
@@ -20172,7 +21222,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9845
+"popularity": 0.9845,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--push-it",
@@ -20187,7 +21240,11 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4519
+"popularity": 0.4519,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "p-t-k--rayman",
@@ -20202,7 +21259,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6357
+"popularity": 0.6357,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--silent-kill",
@@ -20217,7 +21277,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7834
+"popularity": 0.7834,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--skoro-jsem-tam-byl",
@@ -20232,7 +21295,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1113
+"popularity": 0.1113,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--snad-se-tam-nebude-strilet",
@@ -20247,7 +21313,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8491
+"popularity": 0.8491,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--sniper",
@@ -20262,7 +21331,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2649
+"popularity": 0.2649,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--stack-na-stack",
@@ -20277,7 +21349,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0789
+"popularity": 0.0789,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--strizlivy",
@@ -20292,7 +21367,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0876
+"popularity": 0.0876,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--tahly-dny-a-tahly-noci",
@@ -20307,7 +21385,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5618
+"popularity": 0.5618,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--tece-krev",
@@ -20322,7 +21403,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8965
+"popularity": 0.8965,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--thugova-balada",
@@ -20337,7 +21421,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2823
+"popularity": 0.2823,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--tikaj-hodiny",
@@ -20352,7 +21439,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2494
+"popularity": 0.2494,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--tinted-windows",
@@ -20367,7 +21457,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9129
+"popularity": 0.9129,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--to-se-ti-libi",
@@ -20382,7 +21475,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4359
+"popularity": 0.4359,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--trappin-lonely",
@@ -20397,7 +21493,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9056
+"popularity": 0.9056,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--tuffguystheme",
@@ -20412,7 +21511,11 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3575
+"popularity": 0.3575,
+"groups": [
+"DMS",
+"PTK"
+]
 },
 {
 "key": "p-t-k--uprostred-oceanu",
@@ -20427,7 +21530,11 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.788
+"popularity": 0.788,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "p-t-k--utopeny-v-case",
@@ -20442,7 +21549,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6772
+"popularity": 0.6772,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--v-hlave",
@@ -20457,7 +21567,11 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9653
+"popularity": 0.9653,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "p-t-k--v-sobe-neses-svetlo",
@@ -20472,7 +21586,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5581
+"popularity": 0.5581,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--v8",
@@ -20487,7 +21604,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3
+"popularity": 0.3,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--v8-x-3",
@@ -20502,7 +21622,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.586
+"popularity": 0.586,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--vis-jak-boli-rikat-rip",
@@ -20517,7 +21640,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9074
+"popularity": 0.9074,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--vratit-se-zpatky",
@@ -20532,7 +21658,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6416
+"popularity": 0.6416,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--vzhuru-celou-noc",
@@ -20547,7 +21676,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9736
+"popularity": 0.9736,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--who-dat",
@@ -20562,7 +21694,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3666
+"popularity": 0.3666,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--woo-woo",
@@ -20577,7 +21712,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5135
+"popularity": 0.5135,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--zapad",
@@ -20592,7 +21730,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2326
+"popularity": 0.2326,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--zapomnel-jsem-tebe",
@@ -20607,7 +21748,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1455
+"popularity": 0.1455,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--zivotfullnemec",
@@ -20622,7 +21766,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3671
+"popularity": 0.3671,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--zmrdi-hoody",
@@ -20637,7 +21784,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3912
+"popularity": 0.3912,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--znate-ty-dny",
@@ -20652,7 +21802,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3178
+"popularity": 0.3178,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "p-t-k--zradce",
@@ -20667,7 +21820,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6407
+"popularity": 0.6407,
+"groups": [
+"PTK"
+]
 },
 {
 "key": "palermo--asi-to-tak-malo-byt",
@@ -20742,7 +21898,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2809
+"popularity": 0.2809,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "palermo--za-tmou",
@@ -21327,7 +22486,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9594
+"popularity": 0.9594,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "peter-pann--tanec-s-diablom",
@@ -21447,7 +22609,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8796
+"popularity": 0.8796,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "pil-c--crush-talk-freestyle",
@@ -21582,7 +22747,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3187
+"popularity": 0.3187,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "pil-c--klub-byvalych",
@@ -21672,7 +22840,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7501
+"popularity": 0.7501,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "pil-c--mp2",
@@ -21717,7 +22888,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9918
+"popularity": 0.9918,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "pil-c--nestaram-sa",
@@ -21792,7 +22966,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8933
+"popularity": 0.8933,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "pil-c--s-laskou-lukas",
@@ -21867,7 +23044,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9038
+"popularity": 0.9038,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "pil-c--unikli-osudu",
@@ -21897,7 +23077,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.497
+"popularity": 0.497,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "pil-c--vidim-jak-sa-na-mna-pozeras",
@@ -22257,7 +23440,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7893
+"popularity": 0.7893,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--b-a-c-k-i-n-t-h-e-d-a-y-z",
@@ -22272,7 +23458,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7424
+"popularity": 0.7424,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--baby-don-t-go-away",
@@ -22287,7 +23476,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5741
+"popularity": 0.5741,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--blinky-blinky",
@@ -22302,7 +23494,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6726
+"popularity": 0.6726,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--blok",
@@ -22317,7 +23512,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0711
+"popularity": 0.0711,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--c-h-c-e-l-s-o-m-i-b-a",
@@ -22332,7 +23530,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7456
+"popularity": 0.7456,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--d-o-d-g-e-v-i-p-e-r",
@@ -22347,7 +23548,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0392
+"popularity": 0.0392,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--dni",
@@ -22362,7 +23566,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2595
+"popularity": 0.2595,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--henzap",
@@ -22377,7 +23584,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2918
+"popularity": 0.2918,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--k-a-m-i-k-a-z-e-m-o-o-d",
@@ -22392,7 +23602,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5244
+"popularity": 0.5244,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--len-klud",
@@ -22407,7 +23620,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3438
+"popularity": 0.3438,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--lusk",
@@ -22422,7 +23638,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4159
+"popularity": 0.4159,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--n-e-m-u-s-i-m-e-s-a-b-a-t",
@@ -22437,7 +23656,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3238
+"popularity": 0.3238,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--ohen",
@@ -22452,7 +23674,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.352
+"popularity": 0.352,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--p-o-z-n-a-m-a-m-i-n-u-t-u",
@@ -22467,7 +23692,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8358
+"popularity": 0.8358,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--tour-life-freestyle",
@@ -22482,7 +23710,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0898
+"popularity": 0.0898,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "porsche-boy--ty-a-ja-no-hate",
@@ -22497,7 +23728,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1404
+"popularity": 0.1404,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "prae--o-inom",
@@ -22617,7 +23851,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4054
+"popularity": 0.4054,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "radikal-chef--euro-boy",
@@ -22962,7 +24199,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7588
+"popularity": 0.7588,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "raphael--kamene",
@@ -23097,7 +24337,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8459
+"popularity": 0.8459,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "raphael--rione",
@@ -23607,7 +24850,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.109
+"popularity": 0.109,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "renne-dang--budes-tam-se-mnou",
@@ -24102,7 +25348,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0369
+"popularity": 0.0369,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--aussig",
@@ -24117,7 +25366,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0109
+"popularity": 0.0109,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--bbc",
@@ -24132,7 +25384,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0328
+"popularity": 0.0328,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--bonbon",
@@ -24147,7 +25402,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0406
+"popularity": 0.0406,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--bronco",
@@ -24162,7 +25420,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3128
+"popularity": 0.3128,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--bubliny",
@@ -24177,7 +25438,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7182
+"popularity": 0.7182,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--ceska-floriida",
@@ -24192,7 +25456,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9229
+"popularity": 0.9229,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--ceska-floriiida",
@@ -24207,7 +25474,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7396
+"popularity": 0.7396,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--clap-clap",
@@ -24222,7 +25492,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3639
+"popularity": 0.3639,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--day-off",
@@ -24237,7 +25510,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1883
+"popularity": 0.1883,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--dion",
@@ -24252,7 +25528,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8208
+"popularity": 0.8208,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--everyday",
@@ -24267,7 +25546,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.772
+"popularity": 0.772,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--givenchy",
@@ -24282,7 +25564,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9945
+"popularity": 0.9945,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--happy-end",
@@ -24297,7 +25582,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.062
+"popularity": 0.062,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--hlavy-na-hlavy",
@@ -24312,7 +25600,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8368
+"popularity": 0.8368,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--kapital",
@@ -24327,7 +25618,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.244
+"popularity": 0.244,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--kde-sou-moji-bros",
@@ -24342,7 +25636,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5663
+"popularity": 0.5663,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--kdo",
@@ -24357,7 +25654,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9079
+"popularity": 0.9079,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--klenot",
@@ -24372,7 +25672,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3926
+"popularity": 0.3926,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--lady-trap",
@@ -24387,7 +25690,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1459
+"popularity": 0.1459,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--legendario",
@@ -24402,7 +25708,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8149
+"popularity": 0.8149,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--mama-jdeme-up",
@@ -24417,7 +25726,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1031
+"popularity": 0.1031,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--miluju-pit-za-jizdy",
@@ -24432,7 +25744,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0588
+"popularity": 0.0588,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--move-your-body",
@@ -24447,7 +25762,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2125
+"popularity": 0.2125,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--muj-sport",
@@ -24462,7 +25780,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4815
+"popularity": 0.4815,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--naposled",
@@ -24477,7 +25798,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5048
+"popularity": 0.5048,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--nebylo-souzeny",
@@ -24492,7 +25816,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3767
+"popularity": 0.3767,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--nemusim-mit-vsechno",
@@ -24507,7 +25834,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2075
+"popularity": 0.2075,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--ponya",
@@ -24522,7 +25852,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5321
+"popularity": 0.5321,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--pouzar",
@@ -24537,7 +25870,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6074
+"popularity": 0.6074,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--poznamenany",
@@ -24552,7 +25888,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8627
+"popularity": 0.8627,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--sellavi",
@@ -24567,7 +25906,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8021
+"popularity": 0.8021,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--sezona",
@@ -24582,7 +25924,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9001
+"popularity": 0.9001,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--till-i-die",
@@ -24597,7 +25942,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9152
+"popularity": 0.9152,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--tojo-tojo",
@@ -24612,7 +25960,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7939
+"popularity": 0.7939,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--tututu",
@@ -24627,7 +25978,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7086
+"popularity": 0.7086,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--velkej-vuz",
@@ -24642,7 +25996,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2982
+"popularity": 0.2982,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--welcome",
@@ -24657,7 +26014,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4387
+"popularity": 0.4387,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--western",
@@ -24672,7 +26032,11 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4496
+"popularity": 0.4496,
+"groups": [
+"DMS",
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--z-boku-na-bok",
@@ -24687,7 +26051,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3233
+"popularity": 0.3233,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--zadna-dieta",
@@ -24702,7 +26069,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2084
+"popularity": 0.2084,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--zendaya",
@@ -24717,7 +26087,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7013
+"popularity": 0.7013,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--zivot-je-krasa",
@@ -24732,7 +26105,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4907
+"popularity": 0.4907,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "robin-zoot--zooty-vs-tendo",
@@ -24747,7 +26123,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6803
+"popularity": 0.6803,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "rohony--1-5-km",
@@ -25062,7 +26441,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3274
+"popularity": 0.3274,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "rytmus--blood-sport",
@@ -25077,7 +26459,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2321
+"popularity": 0.2321,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "rytmus--cheers",
@@ -25092,7 +26477,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8956
+"popularity": 0.8956,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "rytmus--nezastavitelny",
@@ -25107,7 +26495,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8167
+"popularity": 0.8167,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "rytmus--romalandia",
@@ -25122,7 +26513,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "pop",
-"popularity": 0.0816
+"popularity": 0.0816,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "rytmus--vojna",
@@ -25137,7 +26531,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4501
+"popularity": 0.4501,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "rytmus--za-mojej-ery",
@@ -25152,7 +26549,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4865
+"popularity": 0.4865,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "rytmus--zbohatni-alebo-zdechni",
@@ -25167,7 +26567,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.674
+"popularity": 0.674,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "rytmus--zijeme-podla",
@@ -25182,7 +26585,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6539
+"popularity": 0.6539,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "rytmus--zralok",
@@ -25197,7 +26603,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1336
+"popularity": 0.1336,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "saimonsa--demon",
@@ -25212,7 +26621,10 @@
 "level": "impossible",
 "country": "unknown",
 "genre_group": "hip-hop",
-"popularity": 0.1537
+"popularity": 0.1537,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "sam-sebou--pohoda",
@@ -25272,7 +26684,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3119
+"popularity": 0.3119,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--aha",
@@ -25287,7 +26702,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2896
+"popularity": 0.2896,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--anjel",
@@ -25302,7 +26720,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2855
+"popularity": 0.2855,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--blessed",
@@ -25317,7 +26738,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0287
+"popularity": 0.0287,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--breeze",
@@ -25332,7 +26756,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9576
+"popularity": 0.9576,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--deti-kvetin",
@@ -25347,7 +26774,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6261
+"popularity": 0.6261,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--dreme",
@@ -25362,7 +26792,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0825
+"popularity": 0.0825,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--farebna-preliezka",
@@ -25377,7 +26810,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.876
+"popularity": 0.876,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--malaga",
@@ -25392,7 +26828,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5709
+"popularity": 0.5709,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--na-mol",
@@ -25407,7 +26846,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3475
+"popularity": 0.3475,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--saggujem-jeans",
@@ -25422,7 +26864,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1892
+"popularity": 0.1892,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--sex",
@@ -25437,7 +26882,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6384
+"popularity": 0.6384,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--sive-vlasy",
@@ -25452,7 +26900,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4131
+"popularity": 0.4131,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--stale-hladam",
@@ -25467,7 +26918,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6302
+"popularity": 0.6302,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--tma",
@@ -25482,7 +26936,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1678
+"popularity": 0.1678,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--valeriya",
@@ -25497,7 +26954,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9083
+"popularity": 0.9083,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "samey--vic",
@@ -25512,7 +26972,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2316
+"popularity": 0.2316,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "sanchez22--furt-pytle",
@@ -25557,7 +27020,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.2079
+"popularity": 0.2079,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--cigarety",
@@ -25572,7 +27038,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.9758
+"popularity": 0.9758,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--dzanes",
@@ -25587,7 +27056,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9161
+"popularity": 0.9161,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--euforia",
@@ -25602,7 +27074,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.7542
+"popularity": 0.7542,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--feel-my-love",
@@ -25617,7 +27092,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.6872
+"popularity": 0.6872,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--idgaf",
@@ -25632,7 +27110,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.7031
+"popularity": 0.7031,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--ine-plemena",
@@ -25647,7 +27128,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.985
+"popularity": 0.985,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--my-a-nas-strach",
@@ -25662,7 +27146,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.5586
+"popularity": 0.5586,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--slzy-stvoril-boh",
@@ -25677,7 +27164,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.6457
+"popularity": 0.6457,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--som",
@@ -25692,7 +27182,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rock",
-"popularity": 0.0269
+"popularity": 0.0269,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--stale-som",
@@ -25707,7 +27200,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.928
+"popularity": 0.928,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--talk2me",
@@ -25722,7 +27218,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.9872
+"popularity": 0.9872,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--tempo-za-2",
@@ -25737,7 +27236,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.958
+"popularity": 0.958,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--tykas-sa-ma",
@@ -25752,7 +27254,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.3484
+"popularity": 0.3484,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--ups-and-downs",
@@ -25767,7 +27272,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.9754
+"popularity": 0.9754,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--uz-sa-mi-smeju-oci",
@@ -25782,7 +27290,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.451
+"popularity": 0.451,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--v-mojich-snoch",
@@ -25797,7 +27308,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.5513
+"popularity": 0.5513,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--vsade-vidis-mna",
@@ -25812,7 +27326,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.7747
+"popularity": 0.7747,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "sara-rikas--zi-pre-moj-svet",
@@ -25827,7 +27344,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.4523
+"popularity": 0.4523,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "saul--byt-tu-navzdy",
@@ -25842,7 +27362,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.2025
+"popularity": 0.2025,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--carmen",
@@ -25857,7 +27380,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.7483
+"popularity": 0.7483,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--chaos-teraz",
@@ -25872,7 +27398,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.1341
+"popularity": 0.1341,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--dazd",
@@ -25887,7 +27416,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.042
+"popularity": 0.042,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--diabol-je-preodety",
@@ -25902,7 +27434,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.1245
+"popularity": 0.1245,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--dost-hodin",
@@ -25917,7 +27452,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.8564
+"popularity": 0.8564,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--euforia",
@@ -25932,7 +27470,11 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.3753
+"popularity": 0.3753,
+"groups": [
+"Hahacrew",
+"WLVS"
+]
 },
 {
 "key": "saul--kral-nad-ranom",
@@ -25947,7 +27489,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.067
+"popularity": 0.067,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--krv",
@@ -25962,7 +27507,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.5668
+"popularity": 0.5668,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--kym-sa-zobudi",
@@ -25977,7 +27525,12 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2526
+"popularity": 0.2526,
+"groups": [
+"Milion+",
+"Rychlí kluci",
+"WLVS"
+]
 },
 {
 "key": "saul--mayday",
@@ -25992,7 +27545,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.3871
+"popularity": 0.3871,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--moment",
@@ -26007,7 +27563,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.8281
+"popularity": 0.8281,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--na-ociach-vyryte",
@@ -26022,7 +27581,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.9416
+"popularity": 0.9416,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--nejsem-sam",
@@ -26037,7 +27599,11 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5814
+"popularity": 0.5814,
+"groups": [
+"Milion+",
+"WLVS"
+]
 },
 {
 "key": "saul--niekde-v-oblakoch",
@@ -26052,7 +27618,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.9772
+"popularity": 0.9772,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--nostalgia",
@@ -26067,7 +27636,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.5385
+"popularity": 0.5385,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--novy-svet",
@@ -26082,7 +27654,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.2663
+"popularity": 0.2663,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--panoptikon",
@@ -26097,7 +27672,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.5408
+"popularity": 0.5408,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--prazdnym-rukam",
@@ -26112,7 +27690,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.3944
+"popularity": 0.3944,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--pre-dni",
@@ -26127,7 +27708,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.8194
+"popularity": 0.8194,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--premena",
@@ -26142,7 +27726,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.228
+"popularity": 0.228,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--prisli-a-zmizli",
@@ -26157,7 +27744,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.1842
+"popularity": 0.1842,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--raz-budem-chapat",
@@ -26172,7 +27762,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.129
+"popularity": 0.129,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--ringere",
@@ -26187,7 +27780,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.3297
+"popularity": 0.3297,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--saten",
@@ -26202,7 +27798,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.0046
+"popularity": 0.0046,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--spolocnost",
@@ -26217,7 +27816,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.026
+"popularity": 0.026,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--temne-miesta",
@@ -26232,7 +27834,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.2613
+"popularity": 0.2613,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--tiche-vody",
@@ -26247,7 +27852,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.2202
+"popularity": 0.2202,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--trpezlivost",
@@ -26262,7 +27870,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.503
+"popularity": 0.503,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--vertigo",
@@ -26277,7 +27888,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.4989
+"popularity": 0.4989,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "saul--zrkadla",
@@ -26292,7 +27906,11 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4072
+"popularity": 0.4072,
+"groups": [
+"Milion+",
+"WLVS"
+]
 },
 {
 "key": "sebastian--asi-jsem-blazen",
@@ -26487,7 +28105,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.803
+"popularity": 0.803,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--aene",
@@ -26502,7 +28123,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9544
+"popularity": 0.9544,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--ahoj-ahoj-co-ty",
@@ -26517,7 +28141,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8874
+"popularity": 0.8874,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--alibaba",
@@ -26532,7 +28159,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2061
+"popularity": 0.2061,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--aura",
@@ -26547,7 +28177,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4213
+"popularity": 0.4213,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--bbejbb",
@@ -26562,7 +28195,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9886
+"popularity": 0.9886,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--bejsii",
@@ -26577,7 +28213,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9617
+"popularity": 0.9617,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--body-to-body",
@@ -26592,7 +28231,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9836
+"popularity": 0.9836,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--celu-noc",
@@ -26607,7 +28249,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6744
+"popularity": 0.6744,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--co-odo-mna-chcete",
@@ -26622,7 +28267,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.782
+"popularity": 0.782,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--co-sa-da",
@@ -26637,7 +28285,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9024
+"popularity": 0.9024,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--dojdi",
@@ -26652,7 +28303,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1596
+"popularity": 0.1596,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--dovidenia",
@@ -26667,7 +28321,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7989
+"popularity": 0.7989,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--flow-kmet",
@@ -26682,7 +28339,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8409
+"popularity": 0.8409,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--hajzlos",
@@ -26697,7 +28357,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4596
+"popularity": 0.4596,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--hejtklub-9",
@@ -26712,7 +28375,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3434
+"popularity": 0.3434,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--hejtklub12",
@@ -26727,7 +28393,11 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5955
+"popularity": 0.5955,
+"groups": [
+"DMS",
+"Milion+"
+]
 },
 {
 "key": "separ--hip-hop-zije",
@@ -26742,7 +28412,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.736
+"popularity": 0.736,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--hood-hero",
@@ -26757,7 +28430,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4127
+"popularity": 0.4127,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--hovorili-mi-ze",
@@ -26772,7 +28448,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4688
+"popularity": 0.4688,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--i-m-back",
@@ -26787,7 +28466,11 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8591
+"popularity": 0.8591,
+"groups": [
+"DMS",
+"Milion+"
+]
 },
 {
 "key": "separ--international",
@@ -26802,7 +28485,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5554
+"popularity": 0.5554,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--ked-si-baller",
@@ -26817,7 +28503,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1496
+"popularity": 0.1496,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--kral-a-princ",
@@ -26832,7 +28521,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2088
+"popularity": 0.2088,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--krv-neni-voda",
@@ -26847,7 +28539,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7054
+"popularity": 0.7054,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--nechaj-to-na-nas",
@@ -26862,7 +28557,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2171
+"popularity": 0.2171,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--nehaj-tak",
@@ -26877,7 +28575,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9685
+"popularity": 0.9685,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--nemam-mood",
@@ -26892,7 +28593,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9626
+"popularity": 0.9626,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--new-york-freestyle",
@@ -26907,7 +28611,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8244
+"popularity": 0.8244,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--no-signal",
@@ -26922,7 +28629,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7556
+"popularity": 0.7556,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--nocna",
@@ -26937,7 +28647,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8755
+"popularity": 0.8755,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--odjebem-strop",
@@ -26952,7 +28665,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8158
+"popularity": 0.8158,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--og",
@@ -26967,7 +28683,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9421
+"popularity": 0.9421,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--origami",
@@ -26982,7 +28701,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8732
+"popularity": 0.8732,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--pinokio",
@@ -26997,7 +28719,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9644
+"popularity": 0.9644,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--pirati-na-jachtach",
@@ -27012,7 +28737,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7601
+"popularity": 0.7601,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--plyn",
@@ -27027,7 +28755,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0793
+"popularity": 0.0793,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--psst",
@@ -27042,7 +28773,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5358
+"popularity": 0.5358,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--raz-dva",
@@ -27057,7 +28791,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2864
+"popularity": 0.2864,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--retaze",
@@ -27072,7 +28809,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9175
+"popularity": 0.9175,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--robil-by-to-kazdy",
@@ -27087,7 +28827,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7693
+"popularity": 0.7693,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--ruky-prec",
@@ -27102,7 +28845,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3215
+"popularity": 0.3215,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--schiza",
@@ -27117,7 +28863,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6047
+"popularity": 0.6047,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--skip-skip",
@@ -27132,7 +28881,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.814
+"popularity": 0.814,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--snake-moves",
@@ -27147,7 +28899,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5253
+"popularity": 0.5253,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--so-mnou",
@@ -27162,7 +28917,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5896
+"popularity": 0.5896,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--stale",
@@ -27177,7 +28935,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4957
+"popularity": 0.4957,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--stryko-separ",
@@ -27192,7 +28953,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9106
+"popularity": 0.9106,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--sunset",
@@ -27207,7 +28971,11 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9982
+"popularity": 0.9982,
+"groups": [
+"DMS",
+"PTK"
+]
 },
 {
 "key": "separ--swagsucks",
@@ -27222,7 +28990,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9184
+"popularity": 0.9184,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--tancuj-len-tak",
@@ -27237,7 +29008,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7798
+"popularity": 0.7798,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--tras-tou",
@@ -27252,7 +29026,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9352
+"popularity": 0.9352,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--urob-kruh",
@@ -27267,7 +29044,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3329
+"popularity": 0.3329,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--uuuu",
@@ -27282,7 +29062,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6434
+"popularity": 0.6434,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--vietor",
@@ -27297,7 +29080,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4373
+"popularity": 0.4373,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--vsetci-za-jedneho",
@@ -27312,7 +29098,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4765
+"popularity": 0.4765,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "separ--zachran-moju-dusu",
@@ -27327,7 +29116,11 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8372
+"popularity": 0.8372,
+"groups": [
+"DMS",
+"Milion+"
+]
 },
 {
 "key": "separ--zub-za-zub",
@@ -27342,7 +29135,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0
+"popularity": 0.0,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "sergei-barracuda--a-ja-vim-proc",
@@ -27837,7 +29633,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5426
+"popularity": 0.5426,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "shimmi--iluminati",
@@ -28032,7 +29831,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4847
+"popularity": 0.4847,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "shimmi--studio-51",
@@ -28107,7 +29909,10 @@
 "level": "impossible",
 "country": "unknown",
 "genre_group": "hip-hop",
-"popularity": 0.3192
+"popularity": 0.3192,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "sima--bejby",
@@ -29457,7 +31262,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1363
+"popularity": 0.1363,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "sofian-medjmedj--pod-tvou-kuzi",
@@ -29532,7 +31340,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.9471
+"popularity": 0.9471,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "sofian-medjmedj--sexy",
@@ -29697,7 +31508,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2098
+"popularity": 0.2098,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--adagio-for-hate",
@@ -29712,7 +31526,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4619
+"popularity": 0.4619,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--adikts",
@@ -29727,7 +31544,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9166
+"popularity": 0.9166,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--bratislava",
@@ -29742,7 +31562,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5978
+"popularity": 0.5978,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--danec",
@@ -29757,7 +31580,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9266
+"popularity": 0.9266,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--descent",
@@ -29772,7 +31598,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7766
+"popularity": 0.7766,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--do-nebe",
@@ -29787,7 +31616,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3703
+"popularity": 0.3703,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--dtb-for-life",
@@ -29802,7 +31634,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9412
+"popularity": 0.9412,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--habibi",
@@ -29817,7 +31652,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9986
+"popularity": 0.9986,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--hotel",
@@ -29832,7 +31670,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8454
+"popularity": 0.8454,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--idgaf",
@@ -29847,7 +31688,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2927
+"popularity": 0.2927,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--mam-rad-bejt-sam",
@@ -29862,7 +31706,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.896
+"popularity": 0.896,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--mollywood",
@@ -29877,7 +31724,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3757
+"popularity": 0.3757,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--mosudo",
@@ -29892,7 +31742,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4186
+"popularity": 0.4186,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--mraky",
@@ -29907,7 +31760,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2941
+"popularity": 0.2941,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--navzdy",
@@ -29922,7 +31778,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3611
+"popularity": 0.3611,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--ne",
@@ -29937,7 +31796,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8865
+"popularity": 0.8865,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--nejde-ti-odolat",
@@ -29952,7 +31814,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4834
+"popularity": 0.4834,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--o-tom-ze-budu-velky",
@@ -29967,7 +31832,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5089
+"popularity": 0.5089,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--par-let",
@@ -29982,7 +31850,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2367
+"popularity": 0.2367,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--paradox",
@@ -29997,7 +31868,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4701
+"popularity": 0.4701,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--pegas",
@@ -30012,7 +31886,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5499
+"popularity": 0.5499,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--polknes-patu",
@@ -30027,7 +31904,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2435
+"popularity": 0.2435,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--posledni-tag",
@@ -30042,7 +31922,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4172
+"popularity": 0.4172,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--pristav",
@@ -30057,7 +31940,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5531
+"popularity": 0.5531,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--samota",
@@ -30072,7 +31958,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9498
+"popularity": 0.9498,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--skodit",
@@ -30087,7 +31976,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4077
+"popularity": 0.4077,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--stfu",
@@ -30102,7 +31994,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9622
+"popularity": 0.9622,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--stmivani",
@@ -30117,7 +32012,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6717
+"popularity": 0.6717,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--suicide-squad",
@@ -30132,7 +32030,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.213
+"popularity": 0.213,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--teorie-padu",
@@ -30147,7 +32048,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7565
+"popularity": 0.7565,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "stein27--zakazany-ovoce",
@@ -30162,7 +32066,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8623
+"popularity": 0.8623,
+"groups": [
+"Rychlí kluci"
+]
 },
 {
 "key": "steve-sniff--500-xtc",
@@ -30612,7 +32519,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5791
+"popularity": 0.5791,
+"groups": [
+"DMS"
+]
 },
 {
 "key": "strapo--hot-16-challenge-2",
@@ -30882,7 +32792,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5527
+"popularity": 0.5527,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "the-mag--andel",
@@ -31047,7 +32960,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4756
+"popularity": 0.4756,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "tomas-klus--dokola",
@@ -31557,7 +33473,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "pop",
-"popularity": 0.9466
+"popularity": 0.9466,
+"groups": [
+"Kontrafakt"
+]
 },
 {
 "key": "vesna--my-sister-s-crown",
@@ -32637,7 +34556,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0999
+"popularity": 0.0999,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "wen--ceresne-na-top",
@@ -32652,7 +34574,11 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rnb",
-"popularity": 0.4441
+"popularity": 0.4441,
+"groups": [
+"Milion+",
+"WLVS"
+]
 },
 {
 "key": "wen--mhm",
@@ -32667,7 +34593,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7642
+"popularity": 0.7642,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "wen--my-y",
@@ -32682,7 +34611,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0064
+"popularity": 0.0064,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "wen--pantomima",
@@ -32697,7 +34629,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1012
+"popularity": 0.1012,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "wen--para-siempre",
@@ -32712,7 +34647,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7957
+"popularity": 0.7957,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "wen--python",
@@ -32727,7 +34665,11 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3949
+"popularity": 0.3949,
+"groups": [
+"Hahacrew",
+"WLVS"
+]
 },
 {
 "key": "wen--risk",
@@ -32742,7 +34684,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6015
+"popularity": 0.6015,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "wen--ruze",
@@ -32757,7 +34702,11 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7255
+"popularity": 0.7255,
+"groups": [
+"Hahacrew",
+"WLVS"
+]
 },
 {
 "key": "wen--see-ya",
@@ -32772,7 +34721,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3839
+"popularity": 0.3839,
+"groups": [
+"WLVS"
+]
 },
 {
 "key": "wohnout--hasici",
@@ -32967,7 +34919,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7756
+"popularity": 0.7756,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--amnezia",
@@ -32982,7 +34937,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8513
+"popularity": 0.8513,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--az-bude-horet",
@@ -32997,7 +34955,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9694
+"popularity": 0.9694,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--batman-robin",
@@ -33012,7 +34973,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6174
+"popularity": 0.6174,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--bmm",
@@ -33027,7 +34991,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6598
+"popularity": 0.6598,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--bodybag",
@@ -33042,7 +35009,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9508
+"popularity": 0.9508,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--bukowski",
@@ -33057,7 +35027,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5221
+"popularity": 0.5221,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--co-ty-oci",
@@ -33072,7 +35045,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9375
+"popularity": 0.9375,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--cops-opps",
@@ -33087,7 +35063,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.632
+"popularity": 0.632,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--coupe",
@@ -33102,7 +35081,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8431
+"popularity": 0.8431,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--designer-flow",
@@ -33117,7 +35099,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9134
+"popularity": 0.9134,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--double-trouble",
@@ -33132,7 +35117,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7734
+"popularity": 0.7734,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--driv-bylo-lip",
@@ -33147,7 +35135,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7711
+"popularity": 0.7711,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--el-camino",
@@ -33162,7 +35153,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9799
+"popularity": 0.9799,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--free-karlo",
@@ -33177,7 +35171,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9284
+"popularity": 0.9284,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--french-tip-nails",
@@ -33192,7 +35189,11 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7779
+"popularity": 0.7779,
+"groups": [
+"Milion+",
+"Rychlí kluci"
+]
 },
 {
 "key": "yzomandias--fukk-dat",
@@ -33207,7 +35208,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8814
+"popularity": 0.8814,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--heavy-tutti-guap",
@@ -33222,7 +35226,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4286
+"popularity": 0.4286,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--hip-thrust",
@@ -33237,7 +35244,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9216
+"popularity": 0.9216,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--hnd",
@@ -33252,7 +35262,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7793
+"popularity": 0.7793,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--hore-high",
@@ -33267,7 +35280,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1938
+"popularity": 0.1938,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--hroby",
@@ -33282,7 +35298,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6931
+"popularity": 0.6931,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--jan-jakoby-vs-svet",
@@ -33297,7 +35316,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5705
+"popularity": 0.5705,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--jed-tvrde-nebo-jed-domu",
@@ -33312,7 +35334,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7674
+"popularity": 0.7674,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--jedna-dva",
@@ -33327,7 +35352,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.969
+"popularity": 0.969,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--jtnjd-all-star-megaremix",
@@ -33342,7 +35370,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6544
+"popularity": 0.6544,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--karantena",
@@ -33357,7 +35388,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5563
+"popularity": 0.5563,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--kdyz-jedeme-v-noci",
@@ -33372,7 +35406,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.275
+"popularity": 0.275,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--keep-it-g",
@@ -33387,7 +35424,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4095
+"popularity": 0.4095,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--kiddo-beatrix",
@@ -33402,7 +35442,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4264
+"popularity": 0.4264,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--koleso",
@@ -33417,7 +35460,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6288
+"popularity": 0.6288,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--krtek-money-life",
@@ -33432,7 +35478,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6557
+"popularity": 0.6557,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--ksn",
@@ -33447,7 +35496,11 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0
+"popularity": 0.0,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "yzomandias--laska-bolest",
@@ -33462,7 +35515,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8181
+"popularity": 0.8181,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--mawar",
@@ -33477,7 +35533,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6603
+"popularity": 0.6603,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--milujou-me-nenavidet",
@@ -33492,7 +35551,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7296
+"popularity": 0.7296,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--na-rohu",
@@ -33507,7 +35569,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8418
+"popularity": 0.8418,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--narcos",
@@ -33522,7 +35587,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.995
+"popularity": 0.995,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--nekdy-je-min-vic",
@@ -33537,7 +35605,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7328
+"popularity": 0.7328,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--nerozumi-nam",
@@ -33552,7 +35623,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.513
+"popularity": 0.513,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--nfs",
@@ -33567,7 +35641,11 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8942
+"popularity": 0.8942,
+"groups": [
+"Milion+",
+"WLVS"
+]
 },
 {
 "key": "yzomandias--nikdy-uz-nebudu-ok",
@@ -33582,7 +35660,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5937
+"popularity": 0.5937,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--no-sleep-gang",
@@ -33597,7 +35678,11 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9722
+"popularity": 0.9722,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "yzomandias--novej-svet",
@@ -33612,7 +35697,11 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9257
+"popularity": 0.9257,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "yzomandias--oko-za-oko",
@@ -33627,7 +35716,12 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7273
+"popularity": 0.7273,
+"groups": [
+"Milion+",
+"PTK",
+"Rychlí kluci"
+]
 },
 {
 "key": "yzomandias--painkillers",
@@ -33642,7 +35736,11 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0
+"popularity": 0.0,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "yzomandias--palmy",
@@ -33657,7 +35755,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4952
+"popularity": 0.4952,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--pararampam",
@@ -33672,7 +35773,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.886
+"popularity": 0.886,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--peaky-blinders",
@@ -33687,7 +35791,11 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.71
+"popularity": 0.71,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "yzomandias--pedal-to-the-metal",
@@ -33702,7 +35810,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5207
+"popularity": 0.5207,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--persona-non-grata",
@@ -33717,7 +35828,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4026
+"popularity": 0.4026,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--pockej-w8",
@@ -33732,7 +35846,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4875
+"popularity": 0.4875,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--prcvl",
@@ -33747,7 +35864,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2047
+"popularity": 0.2047,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--push-to-start",
@@ -33762,7 +35882,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4916
+"popularity": 0.4916,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--raus",
@@ -33777,7 +35900,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6981
+"popularity": 0.6981,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--ride-or-die",
@@ -33792,7 +35918,11 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8541
+"popularity": 0.8541,
+"groups": [
+"Milion+",
+"Rychlí kluci"
+]
 },
 {
 "key": "yzomandias--rockstar-lifestyle",
@@ -33807,7 +35937,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5773
+"popularity": 0.5773,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--rodinnej-typ",
@@ -33822,7 +35955,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9913
+"popularity": 0.9913,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--rolls",
@@ -33837,7 +35973,10 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9927
+"popularity": 0.9927,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--rooftop",
@@ -33852,7 +35991,11 @@
 "level": "easy",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.9394
+"popularity": 0.9394,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "yzomandias--rozdil-mezi-nama",
@@ -33867,7 +36010,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7921
+"popularity": 0.7921,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--seneumimbavitbezdrog",
@@ -33882,7 +36028,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4829
+"popularity": 0.4829,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--smokin-trava-poppin-xan",
@@ -33897,7 +36046,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4583
+"popularity": 0.4583,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--standart",
@@ -33912,7 +36064,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.787
+"popularity": 0.787,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--svoboda",
@@ -33927,7 +36082,11 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0
+"popularity": 0.0,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "yzomandias--thank-you-based-god",
@@ -33942,7 +36101,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8399
+"popularity": 0.8399,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--tus",
@@ -33957,7 +36119,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5166
+"popularity": 0.5166,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--type-beat",
@@ -33972,7 +36137,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8659
+"popularity": 0.8659,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--vahy",
@@ -33987,7 +36155,11 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1806
+"popularity": 0.1806,
+"groups": [
+"Milion+",
+"WLVS"
+]
 },
 {
 "key": "yzomandias--ve-vysce",
@@ -34002,7 +36174,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7839
+"popularity": 0.7839,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--vymerenej-cas",
@@ -34017,7 +36192,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3785
+"popularity": 0.3785,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--wagwan",
@@ -34032,7 +36210,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.834
+"popularity": 0.834,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--wtf",
@@ -34047,7 +36228,11 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7323
+"popularity": 0.7323,
+"groups": [
+"Milion+",
+"PTK"
+]
 },
 {
 "key": "yzomandias--zdal-se-mi-o-tobe-sen",
@@ -34062,7 +36247,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8938
+"popularity": 0.8938,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "yzomandias--ze-nechci-te-tady",
@@ -34077,7 +36265,11 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6913
+"popularity": 0.6913,
+"groups": [
+"Milion+",
+"Rychlí kluci"
+]
 },
 {
 "key": "yzomandias--zpatky-na-svoji-planetu",
@@ -34092,7 +36284,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2795
+"popularity": 0.2795,
+"groups": [
+"Milion+"
+]
 },
 {
 "key": "zayo--mandela",
@@ -34107,7 +36302,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6972
+"popularity": 0.6972,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "zayo--myslienky-stokara",
@@ -34122,7 +36320,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.259
+"popularity": 0.259,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "zayo--usmev",
@@ -34137,7 +36338,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1751
+"popularity": 0.1751,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "zayo--z-blata",
@@ -34152,7 +36356,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2184
+"popularity": 0.2184,
+"groups": [
+"Hahacrew"
+]
 },
 {
 "key": "zuzana-smatanova--prutikar",
