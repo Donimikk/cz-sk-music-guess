@@ -84,6 +84,14 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
   Nohavica) and ignored; no real date → year null (not in the decade filter). Earliest-date still trusts wrong
   compilation dates (Gott & Charlotte "Srdce nehasnou" 2019 → 1995). MusicBrainz is incomplete for CZ songs (Nohavica
   "Kometa" earliest 2006). Never send the user's email as a User-Agent contact; use the repo URL.
+- Original years (2026-10-26): `pipeline/wiki_years.py` → catalog/song_year_wiki.csv, hand-checked catalog/song_year.csv on
+  top. Album names a song is on (Spotify versions + iTunes) are looked up in the cs/sk Wikipedia discography lines
+  ("1970 – ''Ostrov Heleny Vondráčkové''"); album pages with track lists add more. Most older album pages don't exist
+  (Vondráčková 98 albums, 15 pages), so the discography lines carry it. iTunes placeholder dates: 1 Jan / 31 Dec shared
+  by 3+ songs of one artist before 2000 (Vondráčková "Best Of The Best" 1964 ×13). An album older than our year always
+  wins; a placeholder is replaced only by an original album ≤ 5 years later, otherwise the year becomes unknown
+  (Jožin z bažin vs a 2007 album). A wrong year is worse than none.
+- wiki_years.py reads data/v0/matched.json, never site/songs.json (that holds its own previous output: a feedback loop).
 - Ranking by total weeks on IFPI charts misses new songs and fan-base artists with short release
   peaks (Dušan Vlk: 47 songs in Spotify SK Top 200 for 1–4 days each, only one IFPI entry).
   Streaming numbers (kworb) must be part of candidate selection.

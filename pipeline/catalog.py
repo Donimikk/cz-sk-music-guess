@@ -36,6 +36,7 @@ ARTIST_COUNTRY = CATALOG / "artist_country.csv"
 EXCLUDED_SONGS = CATALOG / "excluded_songs.csv"
 GROUPS = CATALOG / "groups.csv"
 SONG_YEAR = CATALOG / "song_year.csv"  # years checked by hand (Wikipedia/Wikidata), override the earliest-release rule
+SONG_YEAR_WIKI = CATALOG / "song_year_wiki.csv"  # from Wikipedia discographies (pipeline/wiki_years.py)
 FEAT = re.compile(r"[(\[]\s*(?:feat|ft|with)\.?\s+([^)\]]+)", re.I)
 
 # top share of songs per level, from easiest (decided 2026-10-22, Songspot-like 5 levels)
@@ -156,8 +157,11 @@ def main() -> None:
     # manual exclusions apply here too, so they take effect without re-running the matching
     with open(EXCLUDED_SONGS, encoding="utf-8") as f:
         excluded_songs = {song_key(r["artist"], r["title"]) for r in csv.DictReader(f)}
+    # Wikipedia discographies first (pipeline/wiki_years.py, empty = unknown), hand-checked years on top
+    with open(SONG_YEAR_WIKI, encoding="utf-8") as f:
+        fixed_years = {r["key"]: int(r["year"]) if r["year"] else None for r in csv.DictReader(f)}
     with open(SONG_YEAR, encoding="utf-8") as f:
-        fixed_years = {r["key"]: int(r["year"]) for r in csv.DictReader(f)}
+        fixed_years |= {r["key"]: int(r["year"]) for r in csv.DictReader(f)}
     songs, seen, dropped = [], {}, []
     for g in merge_duplicates(games, dropped):
         r = review.get(str(g["id"]), {})

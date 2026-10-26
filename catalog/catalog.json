@@ -4852,7 +4852,7 @@
   "deezer": 519907482,
   "artist": "Aleš Brichta",
   "title": "American Bull",
-  "year": 2002,
+  "year": 2001,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/79/a1/bd79a1ca-68f0-00bc-7f87-52612c07df2f/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/american-bull/1404278793?i=1404279406&uo=4",
@@ -4978,7 +4978,7 @@
   "deezer": 2548611072,
   "artist": "Aleš Brichta",
   "title": "Díky za každej den",
-  "year": 1994,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bf/ab/b0/bfabb0e8-4242-1116-da3b-1eaaae051a02/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/d%C3%ADky-za-ka%C5%BEdej-den/1717848702?i=1717849176&uo=4",
@@ -4991,7 +4991,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 43 / SK 0",
   "genre_group": "rock",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.3465,
   "channel": "streaming",
@@ -5010,7 +5010,7 @@
     "source": "itunes (Rock)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -5146,7 +5146,7 @@
   "deezer": 3133831141,
   "artist": "Aleš Brichta",
   "title": "Nemám",
-  "year": 1994,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/31/56/fe315699-e541-1131-7071-409800a1c1ab/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/nem%C3%A1m/1780237743?i=1780238090&uo=4",
@@ -5159,7 +5159,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 43 / SK 0",
   "genre_group": "rock",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.2565,
   "channel": "streaming",
@@ -5178,7 +5178,7 @@
     "source": "itunes (Rock)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -5230,7 +5230,7 @@
   "deezer": 2548611112,
   "artist": "Aleš Brichta",
   "title": "V uniformě lokaje",
-  "year": 1994,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bf/ab/b0/bfabb0e8-4242-1116-da3b-1eaaae051a02/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/v-uniform%C4%9B-lokaje/1717848702?i=1717850219&uo=4",
@@ -5243,7 +5243,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 43 / SK 0",
   "genre_group": "rock",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.5025,
   "channel": "streaming",
@@ -5262,7 +5262,7 @@
     "source": "itunes (Rock)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -22582,7 +22582,7 @@
   "deezer": 7371941,
   "artist": "Chinaski",
   "title": "1.Signalni",
-  "year": 1999,
+  "year": 2003,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fb/44/18/fb441810-c763-7cff-650b-b2f5ae790b86/00602537541386.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/1-signalni/1443925885?i=1443926674&uo=4",
@@ -22595,7 +22595,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 2889 / SK 129",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "2000s",
   "groups": [],
   "popularity": 0.9019,
   "channel": "streaming",
@@ -22614,7 +22614,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:2000s",
     "source": "itunes release year"
    }
   ]
@@ -23170,7 +23170,7 @@
   "deezer": 7371940,
   "artist": "Chinaski",
   "title": "Kutil",
-  "year": 1999,
+  "year": 2003,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fb/44/18/fb441810-c763-7cff-650b-b2f5ae790b86/00602537541386.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/kutil/1443925885?i=1443926343&uo=4",
@@ -23183,7 +23183,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 2889 / SK 129",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "2000s",
   "groups": [],
   "popularity": 0.2029,
   "channel": "streaming",
@@ -23202,7 +23202,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:2000s",
     "source": "itunes release year"
    }
   ]
@@ -26362,7 +26362,7 @@
   "deezer": 506718162,
   "artist": "Dalibor Janda",
   "title": "Hráli Jsme Kličkovanou",
-  "year": 1982,
+  "year": 1985,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/b4/58/c6b45846-d0f8-6758-9df0-c90bf34ff9ba/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/hr%C3%A1li-jsme-kli%C4%8Dkovanou/1391886966?i=1391888416&uo=4",
@@ -26404,7 +26404,7 @@
   "deezer": 506718462,
   "artist": "Dalibor Janda",
   "title": "Hurikán 99",
-  "year": 1982,
+  "year": 1985,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/b4/58/c6b45846-d0f8-6758-9df0-c90bf34ff9ba/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/hurik%C3%A1n-99/1391886966?i=1391893933&uo=4",
@@ -26446,7 +26446,7 @@
   "deezer": 506718282,
   "artist": "Dalibor Janda",
   "title": "Kde Jsi",
-  "year": 1982,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/b4/58/c6b45846-d0f8-6758-9df0-c90bf34ff9ba/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/kde-jsi/1391886966?i=1391890764&uo=4",
@@ -26459,7 +26459,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 40 / SK 18",
   "genre_group": "pop",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.5815,
   "channel": "streaming",
@@ -26478,7 +26478,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -26488,7 +26488,7 @@
   "deezer": 506718192,
   "artist": "Dalibor Janda",
   "title": "Oheň, Voda, Vítr",
-  "year": 1982,
+  "year": 1985,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/b4/58/c6b45846-d0f8-6758-9df0-c90bf34ff9ba/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/ohe%C5%88-voda-v%C3%ADtr/1391886966?i=1391889747&uo=4",
@@ -26530,7 +26530,7 @@
   "deezer": 506718312,
   "artist": "Dalibor Janda",
   "title": "Padá Hvězda",
-  "year": 1982,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/b4/58/c6b45846-d0f8-6758-9df0-c90bf34ff9ba/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/pad%C3%A1-hv%C4%9Bzda/1391886966?i=1391891506&uo=4",
@@ -26543,7 +26543,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 40 / SK 18",
   "genre_group": "pop",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.6948,
   "channel": "streaming",
@@ -26562,7 +26562,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -26572,7 +26572,7 @@
   "deezer": null,
   "artist": "Dalibor Janda",
   "title": "Snad Jsem Si Tě Měl Všímat Víc",
-  "year": 1982,
+  "year": 1985,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/b4/58/c6b45846-d0f8-6758-9df0-c90bf34ff9ba/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/snad-jsem-si-t%C4%9B-m%C4%9Bl-v%C5%A1%C3%ADmat-v%C3%ADc/1391886966?i=1391889744&uo=4",
@@ -26614,7 +26614,7 @@
   "deezer": 506718242,
   "artist": "Dalibor Janda",
   "title": "Tisíckrát Krásnější",
-  "year": 1982,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/b4/58/c6b45846-d0f8-6758-9df0-c90bf34ff9ba/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/tis%C3%ADckr%C3%A1t-kr%C3%A1sn%C4%9Bj%C5%A1%C3%AD/1391886966?i=1391890751&uo=4",
@@ -26627,7 +26627,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 40 / SK 18",
   "genre_group": "pop",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.7125,
   "channel": "streaming",
@@ -26646,7 +26646,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -26656,7 +26656,7 @@
   "deezer": 506718372,
   "artist": "Dalibor Janda",
   "title": "Vchází Bez Vyzvání",
-  "year": 1982,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/b4/58/c6b45846-d0f8-6758-9df0-c90bf34ff9ba/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/vch%C3%A1z%C3%AD-bez-vyzv%C3%A1n%C3%AD/1391886966?i=1391891800&uo=4",
@@ -26669,7 +26669,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 40 / SK 18",
   "genre_group": "pop",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.1762,
   "channel": "streaming",
@@ -26688,7 +26688,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -26698,7 +26698,7 @@
   "deezer": 506718232,
   "artist": "Dalibor Janda",
   "title": "Vždycky Jsem To Já",
-  "year": 1982,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/b4/58/c6b45846-d0f8-6758-9df0-c90bf34ff9ba/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/v%C5%BEdycky-jsem-to-j%C3%A1/1391886966?i=1391890420&uo=4",
@@ -26711,7 +26711,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 40 / SK 18",
   "genre_group": "pop",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.2722,
   "channel": "streaming",
@@ -26730,7 +26730,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -26740,7 +26740,7 @@
   "deezer": 506718172,
   "artist": "Dalibor Janda",
   "title": "Žít Jako Kaskadér",
-  "year": 1982,
+  "year": 1985,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/b4/58/c6b45846-d0f8-6758-9df0-c90bf34ff9ba/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/%C5%BE%C3%ADt-jako-kaskad%C3%A9r/1391886966?i=1391889734&uo=4",
@@ -29925,7 +29925,7 @@
   "deezer": 4686987,
   "artist": "David Koller",
   "title": "Cas Nejde Vzit Zpatky",
-  "year": 2006,
+  "year": 1993,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fd/2b/20/fd2b2003-8663-bf4d-8bb2-74e96a876a83/00602517122840.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/cas-nejde-vzit-zpatky/1443616379?i=1443617381&uo=4",
@@ -29938,7 +29938,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 389 / SK 13",
   "genre_group": "pop",
-  "era": "2000s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.6651,
   "channel": "radio",
@@ -29957,7 +29957,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -29967,7 +29967,7 @@
   "deezer": 7470977,
   "artist": "David Koller",
   "title": "Chci Zas V Tobe Spat",
-  "year": 2007,
+  "year": 1993,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/75/10/847510f5-012a-db82-eac7-2c3c3b1865c3/07UMGIM02459.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/chci-zas-v-tobe-spat/1443751222?i=1443751548&uo=4",
@@ -29980,7 +29980,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 389 / SK 13",
   "genre_group": "pop",
-  "era": "2000s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.5058,
   "channel": "streaming",
@@ -29999,7 +29999,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -30009,7 +30009,7 @@
   "deezer": 3427264301,
   "artist": "David Koller",
   "title": "Gypsy Love",
-  "year": 2015,
+  "year": 1993,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/8c/3f/1e8c3fc8-25ba-e7f4-8364-217094b378ca/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/gypsy-love/1822286979?i=1822286988&uo=4",
@@ -30022,7 +30022,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 389 / SK 13",
   "genre_group": "rock",
-  "era": "2010s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.4993,
   "channel": "streaming",
@@ -30041,7 +30041,7 @@
     "source": "itunes (Pop/Rock)"
    },
    {
-    "tag": "era:2010s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -30051,7 +30051,7 @@
   "deezer": 4686977,
   "artist": "David Koller",
   "title": "Nic Neni Nastalo",
-  "year": 2006,
+  "year": 1993,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fd/2b/20/fd2b2003-8663-bf4d-8bb2-74e96a876a83/00602517122840.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/nic-neni-nastalo/1443616379?i=1443616769&uo=4",
@@ -30064,7 +30064,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 389 / SK 13",
   "genre_group": "pop",
-  "era": "2000s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.7166,
   "channel": "radio",
@@ -30083,7 +30083,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -30093,7 +30093,7 @@
   "deezer": 1159225832,
   "artist": "David Koller",
   "title": "Pouta",
-  "year": 2020,
+  "year": 1993,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7f/50/52/7f505290-9e04-cc53-1c89-3a1179fa1263/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/pouta/1542597469?i=1542597474&uo=4",
@@ -30106,7 +30106,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 389 / SK 13",
   "genre_group": "rock",
-  "era": "2020s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.2576,
   "channel": "radio",
@@ -30125,7 +30125,7 @@
     "source": "itunes (Rock)"
    },
    {
-    "tag": "era:2020s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -42837,7 +42837,7 @@
   "deezer": 1280016562,
   "artist": "Ektor",
   "title": "Další kámen",
-  "year": 2021,
+  "year": 2020,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/43/02/e543020e-e8e8-c0fa-176d-4d2bd84e4e2d/21UMGIM21737.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/dal%C5%A1%C3%AD-k%C3%A1men-feat-yzomandias/1558448003?i=1558449037&uo=4",
@@ -42921,7 +42921,7 @@
   "deezer": 1280016622,
   "artist": "Ektor",
   "title": "Daň",
-  "year": 2021,
+  "year": 2020,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/43/02/e543020e-e8e8-c0fa-176d-4d2bd84e4e2d/21UMGIM21737.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/da%C5%88/1558448003?i=1558449040&uo=4",
@@ -43761,7 +43761,7 @@
   "deezer": 1280016552,
   "artist": "Ektor",
   "title": "Já ne",
-  "year": 2021,
+  "year": 2020,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/43/02/e543020e-e8e8-c0fa-176d-4d2bd84e4e2d/21UMGIM21737.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/j%C3%A1-ne/1558448003?i=1558448821&uo=4",
@@ -46077,7 +46077,7 @@
   "deezer": 1280016542,
   "artist": "Ektor",
   "title": "To je klíč",
-  "year": 2021,
+  "year": 2020,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/43/02/e543020e-e8e8-c0fa-176d-4d2bd84e4e2d/21UMGIM21737.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/to-je-kl%C3%AD%C4%8D-feat-sergei-barracuda/1558448003?i=1558448815&uo=4",
@@ -47055,7 +47055,7 @@
   "deezer": 1660060212,
   "artist": "Elán",
   "title": "Kaskadér",
-  "year": 1992,
+  "year": 1981,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/68/20/39/68203919-6fe7-4431-10b7-9b19fe561aef/190296215445.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/kaskad%C3%A9r/1610592807?i=1610593251&uo=4",
@@ -47068,7 +47068,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 172 / SK 92",
   "genre_group": "rock",
-  "era": "1990s",
+  "era": "1980s",
   "groups": [],
   "popularity": 0.0994,
   "channel": "streaming",
@@ -47087,7 +47087,7 @@
     "source": "itunes (Rock)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:1980s",
     "source": "itunes release year"
    }
   ]
@@ -57453,7 +57453,7 @@
   "deezer": 501182062,
   "artist": "Hana Zagorová, Stanislav Hložek & Petr Kotvald",
   "title": "Černý Páv",
-  "year": 1995,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/79/2f/c9/mzi.oqokzkul.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/%C4%8Dern%C3%BD-p%C3%A1v/464211808?i=464211820&uo=4",
@@ -57466,7 +57466,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 46 / SK 37",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.7071,
   "channel": "streaming",
@@ -57485,7 +57485,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -57663,7 +57663,7 @@
   "deezer": 501476032,
   "artist": "Hana Zagorová",
   "title": "Líto, Je Mi Líto",
-  "year": 2006,
+  "year": 1980,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/1f/29/ad1f29f3-f47d-2ebd-db53-643509cea850/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/l%C3%ADto-je-mi-l%C3%ADto/1838033969?i=1838034395&uo=4",
@@ -57676,7 +57676,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 46 / SK 37",
   "genre_group": "pop",
-  "era": "2000s",
+  "era": "1980s",
   "groups": [],
   "popularity": 0.3743,
   "channel": "streaming",
@@ -57695,7 +57695,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1980s",
     "source": "itunes release year"
    }
   ]
@@ -57705,7 +57705,7 @@
   "deezer": 73262108,
   "artist": "Hana Zagorová",
   "title": "Maluj Zase Obrázky",
-  "year": 1995,
+  "year": 1976,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/38/28/70/mzi.sozmnmss.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/maluj-zase-obra-zky/463999352?i=463999386&uo=4",
@@ -57718,7 +57718,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 46 / SK 37",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "1970s",
   "groups": [],
   "popularity": 0.7085,
   "channel": "streaming",
@@ -57737,7 +57737,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:1970s",
     "source": "itunes release year"
    }
   ]
@@ -57831,7 +57831,7 @@
   "deezer": 501476132,
   "artist": "Hana Zagorová, Stanislav Hložek & Petr Kotvald",
   "title": "Nápad",
-  "year": 1995,
+  "year": 1983,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/a3/ed/ea/mzi.erpzsjyy.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/n%C3%A1pad/464220685?i=464220700&uo=4",
@@ -57844,7 +57844,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 46 / SK 37",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "1980s",
   "groups": [],
   "popularity": 0.1425,
   "channel": "streaming",
@@ -57863,7 +57863,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:1980s",
     "source": "itunes release year"
    }
   ]
@@ -57915,7 +57915,7 @@
   "deezer": 501476072,
   "artist": "Hana Zagorová",
   "title": "Proč nejsi větší",
-  "year": 2010,
+  "year": 1983,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/25/21/b72521fc-7d0b-67f2-0131-1e1119b92ec5/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/pro%C4%8D-nejsi-v%C4%9Bt%C5%A1%C3%AD/6805901094?i=6805903092&uo=4",
@@ -57928,7 +57928,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 46 / SK 37",
   "genre_group": "pop",
-  "era": "2010s",
+  "era": "1980s",
   "groups": [],
   "popularity": 0.4497,
   "channel": "streaming",
@@ -57947,7 +57947,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2010s",
+    "tag": "era:1980s",
     "source": "itunes release year"
    }
   ]
@@ -58041,7 +58041,7 @@
   "deezer": 502286192,
   "artist": "Hana Zagorová",
   "title": "Ta Pusa Je Tvá",
-  "year": 1995,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ad/c0/38/adc03886-b51e-ae67-05cc-ab3a18bf81c6/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/ta-pusa-je-tv%C3%A1-feat-petr-rezek/1400023847?i=1400023849&uo=4",
@@ -58054,7 +58054,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 46 / SK 37",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.57,
   "channel": "streaming",
@@ -58073,7 +58073,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -58083,7 +58083,7 @@
   "deezer": 1981709687,
   "artist": "Hana Zagorová, Stanislav Hložek & Petr Kotvald",
   "title": "To By Nebylo Fér",
-  "year": 1995,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/79/2f/c9/mzi.oqokzkul.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/to-by-nebylo-f%C3%A9r/464211808?i=464211818&uo=4",
@@ -58096,7 +58096,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 46 / SK 37",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.173,
   "channel": "streaming",
@@ -58115,7 +58115,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -59131,7 +59131,7 @@
   "deezer": 501266672,
   "artist": "Helena Vondrackova",
   "title": "A Ty Se Ptáš, Co Já",
-  "year": 1964,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/a3/28/3ea32879-17b0-4458-a9cf-be68727fa7c3/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/a-ty-se-pt%C3%A1%C5%A1-co-j%C3%A1/1386000533?i=1386001123&uo=4",
@@ -59144,7 +59144,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 71 / SK 42",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.6793,
   "channel": "streaming",
@@ -59163,7 +59163,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -59173,7 +59173,7 @@
   "deezer": 501380192,
   "artist": "Helena Vondrackova",
   "title": "Čas Je Proti Nám",
-  "year": 1964,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/a3/28/3ea32879-17b0-4458-a9cf-be68727fa7c3/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/%C4%8Das-je-proti-n%C3%A1m/1386000533?i=1386001295&uo=4",
@@ -59186,7 +59186,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 71 / SK 42",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.0606,
   "channel": "streaming",
@@ -59205,7 +59205,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -59257,7 +59257,7 @@
   "deezer": 501058362,
   "artist": "Helena Vondrackova & Jiri Korn",
   "title": "Já Půjdu Tam A Ty Tam",
-  "year": 1992,
+  "year": 1977,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/90/d4/d990d4ac-c282-4445-71f4-37cd2934258b/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/j%C3%A1-p%C5%AFjdu-tam-a-ty-tam/1395199235?i=1395200756&uo=4",
@@ -59270,7 +59270,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 71 / SK 42",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "1970s",
   "groups": [],
   "popularity": 0.5839,
   "channel": "streaming",
@@ -59289,7 +59289,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:1970s",
     "source": "itunes release year"
    }
   ]
@@ -59341,7 +59341,7 @@
   "deezer": 509539912,
   "artist": "Helena Vondrackova",
   "title": "Lásko Má, Já Stůňu",
-  "year": 1964,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/a3/28/3ea32879-17b0-4458-a9cf-be68727fa7c3/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/l%C3%A1sko-m%C3%A1-j%C3%A1-st%C5%AF%C5%88u/1386000533?i=1386001018&uo=4",
@@ -59354,7 +59354,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 71 / SK 42",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.9053,
   "channel": "streaming",
@@ -59373,7 +59373,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -59383,7 +59383,7 @@
   "deezer": 501266802,
   "artist": "Helena Vondrackova",
   "title": "Léto Je Léto",
-  "year": 1964,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/a3/28/3ea32879-17b0-4458-a9cf-be68727fa7c3/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/l%C3%A9to-je-l%C3%A9to/1386000533?i=1386001858&uo=4",
@@ -59396,7 +59396,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 71 / SK 42",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.0655,
   "channel": "streaming",
@@ -59415,7 +59415,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -59425,7 +59425,7 @@
   "deezer": 523075742,
   "artist": "Helena Vondrackova",
   "title": "Malovaný Džbánku",
-  "year": 1964,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/a3/28/3ea32879-17b0-4458-a9cf-be68727fa7c3/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/malovan%C3%BD-d%C5%BEb%C3%A1nku/1386000533?i=1386001010&uo=4",
@@ -59438,7 +59438,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 71 / SK 42",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.2929,
   "channel": "streaming",
@@ -59457,7 +59457,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -59467,7 +59467,7 @@
   "deezer": 502315402,
   "artist": "Helena Vondrackova",
   "title": "Pátá",
-  "year": 1964,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/a3/28/3ea32879-17b0-4458-a9cf-be68727fa7c3/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/p%C3%A1t%C3%A1/1386000533?i=1386001352&uo=4",
@@ -59480,7 +59480,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 71 / SK 42",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.7193,
   "channel": "streaming",
@@ -59499,7 +59499,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -59509,7 +59509,7 @@
   "deezer": 511532872,
   "artist": "Helena Vondrackova",
   "title": "Přejdi Jordán",
-  "year": 1964,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/a3/28/3ea32879-17b0-4458-a9cf-be68727fa7c3/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/p%C5%99ejdi-jord%C3%A1n/1386000533?i=1386000867&uo=4",
@@ -59522,7 +59522,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 71 / SK 42",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.7612,
   "channel": "streaming",
@@ -59541,7 +59541,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -59593,7 +59593,7 @@
   "deezer": 501380312,
   "artist": "Helena Vondrackova & Jiri Korn",
   "title": "Slunce",
-  "year": 1964,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/00/74/bd00744c-878f-1e45-6bc0-052b3e57c689/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/slunce/1385460135?i=1385460735&uo=4",
@@ -59606,7 +59606,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 71 / SK 42",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.1369,
   "channel": "streaming",
@@ -59625,7 +59625,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -59635,7 +59635,7 @@
   "deezer": 61248709,
   "artist": "Helena Vondrackova",
   "title": "Slza Z Tváře Padá",
-  "year": 1964,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/a3/28/3ea32879-17b0-4458-a9cf-be68727fa7c3/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/slza-z-tv%C3%A1%C5%99e-pad%C3%A1/1386000533?i=1386000942&uo=4",
@@ -59648,7 +59648,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 71 / SK 42",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.3611,
   "channel": "streaming",
@@ -59667,7 +59667,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -59677,7 +59677,7 @@
   "deezer": 6952229,
   "artist": "Helena Vondrackova",
   "title": "To Tehdy Padal Dest",
-  "year": 1964,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/91/3d/09913db2-5c33-4544-2398-122336303e18/00601215967128.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/to-tehdy-padal-dest/1443627588?i=1443627596&uo=4",
@@ -59690,7 +59690,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 71 / SK 42",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.7987,
   "channel": "streaming",
@@ -59709,7 +59709,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -59719,7 +59719,7 @@
   "deezer": 501442032,
   "artist": "Helena Vondrackova",
   "title": "Vzhůru K Výškám",
-  "year": 1964,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/a3/28/3ea32879-17b0-4458-a9cf-be68727fa7c3/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/vzh%C5%AFru-k-v%C3%BD%C5%A1k%C3%A1m/1386000533?i=1386001019&uo=4",
@@ -59732,7 +59732,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 71 / SK 42",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.9062,
   "channel": "streaming",
@@ -59751,7 +59751,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -59971,7 +59971,7 @@
   "deezer": 3421111621,
   "artist": "Heľenine Oči",
   "title": "Langoš",
-  "year": 2025,
+  "year": 2022,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/32/b5/ab32b512-fae3-5d1a-b327-8e01dc20e041/199199996963.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/lango%C5%A1/1821246401?i=1821246406&uo=4",
@@ -61231,7 +61231,7 @@
   "deezer": 65040307,
   "artist": "Horkýže Slíže",
   "title": "A ja sprostá",
-  "year": 1979,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/27/8a/e2278a38-ef07-831d-8ecc-2513e04cfe36/5099995884554.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/a-ja-sprost%C3%A1/693480495?i=693481178&uo=4",
@@ -61244,7 +61244,7 @@
   "country": "sk",
   "country_source": "IFPI rows CZ 41 / SK 65",
   "genre_group": "rock",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.8941,
   "channel": "streaming",
@@ -61263,7 +61263,7 @@
     "source": "itunes (Rock)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -62323,7 +62323,7 @@
   "deezer": 705149212,
   "artist": "Horkýže Slíže",
   "title": "Náboženské zvyky",
-  "year": 1979,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/27/8a/e2278a38-ef07-831d-8ecc-2513e04cfe36/5099995884554.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/n%C3%A1bo%C5%BEensk%C3%A9-zvyky/693480495?i=693481182&uo=4",
@@ -62336,7 +62336,7 @@
   "country": "sk",
   "country_source": "IFPI rows CZ 41 / SK 65",
   "genre_group": "rock",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.4695,
   "channel": "streaming",
@@ -62355,7 +62355,7 @@
     "source": "itunes (Rock)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -62575,7 +62575,7 @@
   "deezer": 705149192,
   "artist": "Horkýže Slíže",
   "title": "Shanghaj Cola",
-  "year": 1979,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/27/8a/e2278a38-ef07-831d-8ecc-2513e04cfe36/5099995884554.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/shanghaj-cola/693480495?i=693481186&uo=4",
@@ -62588,7 +62588,7 @@
   "country": "sk",
   "country_source": "IFPI rows CZ 41 / SK 65",
   "genre_group": "rock",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.4174,
   "channel": "streaming",
@@ -62607,7 +62607,7 @@
     "source": "itunes (Rock)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -65359,7 +65359,7 @@
   "deezer": 496376832,
   "artist": "Ivan Mládek & Banjo Band Ivana Mládka",
   "title": "Brno Je Zlatá Loď",
-  "year": 1976,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0b/8f/f2/0b8ff240-e3ba-3ca0-e5dc-567253260916/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/brno-je-zlat%C3%A1-lo%C4%8F/1380698341?i=1380698884&uo=4",
@@ -65372,7 +65372,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 19 / SK 0",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.2821,
   "channel": "streaming",
@@ -65391,7 +65391,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -65401,7 +65401,7 @@
   "deezer": 496376792,
   "artist": "Ivan Mládek, Ivo Pešák & Banjo Band Ivana Mládka",
   "title": "Jožin Z Bažin",
-  "year": 1976,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0b/8f/f2/0b8ff240-e3ba-3ca0-e5dc-567253260916/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/jo%C5%BEin-z-ba%C5%BEin/1380698341?i=1380698469&uo=4",
@@ -65414,7 +65414,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 19 / SK 0",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.9259,
   "channel": "streaming",
@@ -65433,7 +65433,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -65443,7 +65443,7 @@
   "deezer": 496376822,
   "artist": "Ivan Mládek & Banjo Band Ivana Mládka",
   "title": "Linda",
-  "year": 1976,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0b/8f/f2/0b8ff240-e3ba-3ca0-e5dc-567253260916/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/linda/1380698341?i=1380698880&uo=4",
@@ -65456,7 +65456,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 19 / SK 0",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.2116,
   "channel": "streaming",
@@ -65475,7 +65475,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -65485,7 +65485,7 @@
   "deezer": 496376752,
   "artist": "Ivan Mládek & Banjo Band Ivana Mládka",
   "title": "Medvědi Nevědí",
-  "year": 1976,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0b/8f/f2/0b8ff240-e3ba-3ca0-e5dc-567253260916/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/medv%C4%9Bdi-nev%C4%9Bd%C3%AD/1380698341?i=1380698444&uo=4",
@@ -65498,7 +65498,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 19 / SK 0",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.485,
   "channel": "streaming",
@@ -65517,7 +65517,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -65527,7 +65527,7 @@
   "deezer": 503105682,
   "artist": "Ivan Mládek, Eva Janoušková & Banjo Band Ivana Mládka",
   "title": "Neopatrný Křeček",
-  "year": 1976,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/cd/3c/f8cd3ca6-0c06-305b-941e-cd3bfbe367df/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/neopatrn%C3%BD-k%C5%99e%C4%8Dek/1384670894?i=1384673495&uo=4",
@@ -65540,7 +65540,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 19 / SK 0",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.0229,
   "channel": "streaming",
@@ -65559,7 +65559,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -65569,7 +65569,7 @@
   "deezer": 1680641,
   "artist": "Ivan Mládek & Banjo Band Ivana Mládka",
   "title": "Prachovské Skály",
-  "year": 1976,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0b/8f/f2/0b8ff240-e3ba-3ca0-e5dc-567253260916/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/prachovsk%C3%A9-sk%C3%A1ly/1380698341?i=1380698890&uo=4",
@@ -65582,7 +65582,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 19 / SK 0",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.7249,
   "channel": "streaming",
@@ -65601,7 +65601,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -65611,7 +65611,7 @@
   "deezer": 1624665612,
   "artist": "Ivan Mládek, Luděk Sobota & Banjo Band Ivana Mládka",
   "title": "Rychlík Jede Do Prahy",
-  "year": 1976,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/64/8c/b1648c85-2aa4-7efd-a192-5d8990fc12d2/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/rychl%C3%ADk-jede-do-prahy/1395242969?i=1395244559&uo=4",
@@ -65624,7 +65624,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 19 / SK 0",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.5328,
   "channel": "streaming",
@@ -65643,7 +65643,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -65695,7 +65695,7 @@
   "deezer": 496376772,
   "artist": "Ivan Mládek & Banjo Band Ivana Mládka",
   "title": "Zkratky",
-  "year": 1976,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0b/8f/f2/0b8ff240-e3ba-3ca0-e5dc-567253260916/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/zkratky/1380698341?i=1380698448&uo=4",
@@ -65708,7 +65708,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 19 / SK 0",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.4681,
   "channel": "streaming",
@@ -65727,7 +65727,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -66535,7 +66535,7 @@
   "deezer": 6945797,
   "artist": "Jana Kirschner",
   "title": "Modra",
-  "year": 2000,
+  "year": 1999,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bf/fe/0b/bffe0bf3-487b-008d-af23-2b7eab234a14/00602517919327.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/modra/1452855903?i=1452856356&uo=4",
@@ -66548,7 +66548,7 @@
   "country": "sk",
   "country_source": "manual",
   "genre_group": "pop",
-  "era": "2000s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.9022,
   "channel": "streaming",
@@ -66567,7 +66567,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -66787,7 +66787,7 @@
   "deezer": null,
   "artist": "Janek Ledecký",
   "title": "Pěkná",
-  "year": 1993,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/96/17/14/961714db-00d5-5072-8963-2776bcd636a2/00602567759980.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/p%C4%9Bkn%C3%A1/1401593315?i=1401596655&uo=4",
@@ -66800,7 +66800,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 175 / SK 28",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.6311,
   "channel": "streaming",
@@ -66819,7 +66819,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -66913,7 +66913,7 @@
   "deezer": 516452612,
   "artist": "Janek Ledecký",
   "title": "Proklínám",
-  "year": 1998,
+  "year": 1994,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/96/17/14/961714db-00d5-5072-8963-2776bcd636a2/00602567759980.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/prokl%C3%ADn%C3%A1m/1401593315?i=1401598457&uo=4",
@@ -66955,7 +66955,7 @@
   "deezer": 3501756,
   "artist": "Jaromir Nohavica",
   "title": "Az To Se Mnu Sekne",
-  "year": null,
+  "year": 1996,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/2c/8a/e1/2c8ae14b-5dd3-6e00-eb09-8e1e73c4a8e1/5099999379155.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/az-to-se-mnu-sekne/693137505?i=693137579&uo=4",
@@ -66968,7 +66968,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "unknown",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.6849,
   "channel": "streaming",
@@ -66987,7 +66987,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:unknown",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -67081,7 +67081,7 @@
   "deezer": 3501727,
   "artist": "Jaromir Nohavica",
   "title": "Darmoděj",
-  "year": 1995,
+  "year": 1988,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/5c/77/4d/5c774d50-c848-c39e-d1f1-b30e32c8e7c7/dj.yenhyjrp.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/darmod%C4%9Bj/1083497478?i=1083498443&uo=4",
@@ -67094,7 +67094,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "1980s",
   "groups": [],
   "popularity": 0.6136,
   "channel": "streaming",
@@ -67113,7 +67113,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:1980s",
     "source": "itunes release year"
    }
   ]
@@ -67207,7 +67207,7 @@
   "deezer": 3501737,
   "artist": "Jaromir Nohavica",
   "title": "Dokud se zpívá",
-  "year": 1995,
+  "year": 1991,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/5c/77/4d/5c774d50-c848-c39e-d1f1-b30e32c8e7c7/dj.yenhyjrp.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/dokud-se-zp%C3%ADv%C3%A1/1083497478?i=1083497486&uo=4",
@@ -67291,7 +67291,7 @@
   "deezer": 3501770,
   "artist": "Jaromir Nohavica",
   "title": "Gronska Pisnicka",
-  "year": 1994,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/ef/84/9def84ba-70c0-3b86-d600-26f6478e8b3d/094635908152.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/gronska-pisnicka/693136968?i=693137596&uo=4",
@@ -67304,7 +67304,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.3532,
   "channel": "streaming",
@@ -67323,7 +67323,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -67333,7 +67333,7 @@
   "deezer": 3501767,
   "artist": "Jaromir Nohavica",
   "title": "Hlidac Krav",
-  "year": 1994,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/ef/84/9def84ba-70c0-3b86-d600-26f6478e8b3d/094635908152.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/hlidac-krav/693136968?i=693137568&uo=4",
@@ -67346,7 +67346,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.8826,
   "channel": "streaming",
@@ -67365,7 +67365,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -67543,7 +67543,7 @@
   "deezer": 3501735,
   "artist": "Jaromir Nohavica",
   "title": "Kometa",
-  "year": 1995,
+  "year": 1988,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/5c/77/4d/5c774d50-c848-c39e-d1f1-b30e32c8e7c7/dj.yenhyjrp.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/kometa/1083497478?i=1083498618&uo=4",
@@ -67556,7 +67556,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "1980s",
   "groups": [],
   "popularity": 0.8705,
   "channel": "streaming",
@@ -67575,7 +67575,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:1980s",
     "source": "itunes release year"
    }
   ]
@@ -67585,7 +67585,7 @@
   "deezer": 3501760,
   "artist": "Jaromir Nohavica",
   "title": "Kozel",
-  "year": 1994,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/ef/84/9def84ba-70c0-3b86-d600-26f6478e8b3d/094635908152.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/kozel/693136968?i=693137560&uo=4",
@@ -67598,7 +67598,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.4114,
   "channel": "streaming",
@@ -67617,7 +67617,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -67711,7 +67711,7 @@
   "deezer": 3501758,
   "artist": "Jaromir Nohavica",
   "title": "Lachtani",
-  "year": 1994,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/ef/84/9def84ba-70c0-3b86-d600-26f6478e8b3d/094635908152.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/lachtani/693136968?i=693137558&uo=4",
@@ -67724,7 +67724,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.1281,
   "channel": "streaming",
@@ -67743,7 +67743,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -67837,7 +67837,7 @@
   "deezer": 43011271,
   "artist": "Jaromir Nohavica",
   "title": "Mikymauz",
-  "year": null,
+  "year": 2002,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/92/c6/dd/92c6dd8f-246a-2e29-e667-757a7c1b694a/5099950758050_1400x1400_300dpi.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/mikymauz/692415994?i=692416000&uo=4",
@@ -67850,7 +67850,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "unknown",
+  "era": "2000s",
   "groups": [],
   "popularity": 0.3923,
   "channel": "streaming",
@@ -67869,7 +67869,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:unknown",
+    "tag": "era:2000s",
     "source": "itunes release year"
    }
   ]
@@ -68005,7 +68005,7 @@
   "deezer": 3501744,
   "artist": "Jaromir Nohavica",
   "title": "Peterburg",
-  "year": null,
+  "year": 1996,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/2c/8a/e1/2c8ae14b-5dd3-6e00-eb09-8e1e73c4a8e1/5099999379155.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/peterburg/693137505?i=693137576&uo=4",
@@ -68018,7 +68018,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "unknown",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.526,
   "channel": "streaming",
@@ -68037,7 +68037,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:unknown",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -68047,7 +68047,7 @@
   "deezer": 3501769,
   "artist": "Jaromir Nohavica",
   "title": "Pijte Vodu",
-  "year": 1994,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/ef/84/9def84ba-70c0-3b86-d600-26f6478e8b3d/094635908152.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/pijte-vodu/693136968?i=693137594&uo=4",
@@ -68060,7 +68060,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.5566,
   "channel": "streaming",
@@ -68079,7 +68079,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -68131,7 +68131,7 @@
   "deezer": 3501732,
   "artist": "Jaromir Nohavica",
   "title": "Přítel",
-  "year": 1995,
+  "year": 1988,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/5c/77/4d/5c774d50-c848-c39e-d1f1-b30e32c8e7c7/dj.yenhyjrp.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/p%C5%99%C3%ADtel/1083497478?i=1083497490&uo=4",
@@ -68144,7 +68144,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "1980s",
   "groups": [],
   "popularity": 0.3292,
   "channel": "streaming",
@@ -68163,7 +68163,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:1980s",
     "source": "itunes release year"
    }
   ]
@@ -68215,7 +68215,7 @@
   "deezer": 3501742,
   "artist": "Jaromir Nohavica",
   "title": "Tesinska",
-  "year": null,
+  "year": 1996,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/2c/8a/e1/2c8ae14b-5dd3-6e00-eb09-8e1e73c4a8e1/5099999379155.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/tesinska/693137505?i=693137574&uo=4",
@@ -68228,9 +68228,51 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "unknown",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.2987,
+  "channel": "streaming",
+  "level": "impossible",
+  "tags": [
+   {
+    "tag": "level:impossible",
+    "source": "rule (streaming percentile)"
+   },
+   {
+    "tag": "country:cz",
+    "source": "IFPI rows CZ 252 / SK 7"
+   },
+   {
+    "tag": "genre:pop",
+    "source": "itunes (Pop)"
+   },
+   {
+    "tag": "era:1990s",
+    "source": "itunes release year"
+   }
+  ]
+ },
+ {
+  "id": 693137565,
+  "deezer": 3501765,
+  "artist": "Jaromir Nohavica",
+  "title": "Tramp",
+  "year": null,
+  "store": "cz",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/ef/84/9def84ba-70c0-3b86-d600-26f6478e8b3d/094635908152.jpg/300x300bb.jpg",
+  "url": "https://music.apple.com/cz/album/tramp/693136968?i=693137565&uo=4",
+  "genre": "Pop",
+  "plays": 1199510,
+  "source": "spotify",
+  "key": "jaromir-nohavica--tramp",
+  "radio_weeks": 0,
+  "digital_weeks": 0,
+  "country": "cz",
+  "country_source": "IFPI rows CZ 252 / SK 7",
+  "genre_group": "pop",
+  "era": "unknown",
+  "groups": [],
+  "popularity": 0.134,
   "channel": "streaming",
   "level": "impossible",
   "tags": [
@@ -68253,53 +68295,11 @@
   ]
  },
  {
-  "id": 693137565,
-  "deezer": 3501765,
-  "artist": "Jaromir Nohavica",
-  "title": "Tramp",
-  "year": 1994,
-  "store": "cz",
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/ef/84/9def84ba-70c0-3b86-d600-26f6478e8b3d/094635908152.jpg/300x300bb.jpg",
-  "url": "https://music.apple.com/cz/album/tramp/693136968?i=693137565&uo=4",
-  "genre": "Pop",
-  "plays": 1199510,
-  "source": "spotify",
-  "key": "jaromir-nohavica--tramp",
-  "radio_weeks": 0,
-  "digital_weeks": 0,
-  "country": "cz",
-  "country_source": "IFPI rows CZ 252 / SK 7",
-  "genre_group": "pop",
-  "era": "1990s",
-  "groups": [],
-  "popularity": 0.134,
-  "channel": "streaming",
-  "level": "impossible",
-  "tags": [
-   {
-    "tag": "level:impossible",
-    "source": "rule (streaming percentile)"
-   },
-   {
-    "tag": "country:cz",
-    "source": "IFPI rows CZ 252 / SK 7"
-   },
-   {
-    "tag": "genre:pop",
-    "source": "itunes (Pop)"
-   },
-   {
-    "tag": "era:1990s",
-    "source": "itunes release year"
-   }
-  ]
- },
- {
   "id": 693137858,
   "deezer": 3501780,
   "artist": "Jaromir Nohavica",
   "title": "Tri Cunici",
-  "year": 1994,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/ef/84/9def84ba-70c0-3b86-d600-26f6478e8b3d/094635908152.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/tri-cunici/693136968?i=693137858&uo=4",
@@ -68312,7 +68312,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.7006,
   "channel": "streaming",
@@ -68331,7 +68331,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -68425,7 +68425,7 @@
   "deezer": 3501781,
   "artist": "Jaromir Nohavica",
   "title": "Ukolebavka",
-  "year": 1994,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/ef/84/9def84ba-70c0-3b86-d600-26f6478e8b3d/094635908152.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/ukolebavka/693136968?i=693137863&uo=4",
@@ -68438,7 +68438,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.2785,
   "channel": "streaming",
@@ -68457,7 +68457,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -68551,7 +68551,7 @@
   "deezer": 3501749,
   "artist": "Jaromir Nohavica",
   "title": "Zatanči",
-  "year": null,
+  "year": 1996,
   "store": "sk",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/5c/77/4d/5c774d50-c848-c39e-d1f1-b30e32c8e7c7/dj.yenhyjrp.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/sk/album/zatan%C4%8Di/1083497478?i=1083498444&uo=4",
@@ -68564,7 +68564,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "unknown",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.4084,
   "channel": "streaming",
@@ -68583,7 +68583,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:unknown",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -68593,7 +68593,7 @@
   "deezer": 3501730,
   "artist": "Jaromir Nohavica",
   "title": "Zatimco Se Koupes",
-  "year": 1995,
+  "year": 1991,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/2c/8a/e1/2c8ae14b-5dd3-6e00-eb09-8e1e73c4a8e1/5099999379155.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/zatimco-se-koupes-koncert/693137505?i=693137569&uo=4",
@@ -68677,7 +68677,7 @@
   "deezer": 3501734,
   "artist": "Jaromir Nohavica",
   "title": "Zítra ráno v pět",
-  "year": 1995,
+  "year": 1988,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/5c/77/4d/5c774d50-c848-c39e-d1f1-b30e32c8e7c7/dj.yenhyjrp.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/z%C3%ADtra-r%C3%A1no-v-p%C4%9Bt/1083497478?i=1083497489&uo=4",
@@ -68690,7 +68690,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 252 / SK 7",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "1980s",
   "groups": [],
   "popularity": 0.5689,
   "channel": "streaming",
@@ -68709,7 +68709,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:1980s",
     "source": "itunes release year"
    }
   ]
@@ -71803,7 +71803,7 @@
   "deezer": 2317520555,
   "artist": "Kabát",
   "title": "Kdo ví jestli",
-  "year": 2007,
+  "year": 2006,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/60/14/45/60144566-6f3d-f3d4-5219-d7a6149a0f10/5099962714051_1400x1400_300dpi.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/kdo-v%C3%AD-jestli/693555235?i=693556647&uo=4",
@@ -78409,7 +78409,7 @@
   "deezer": 2280818547,
   "artist": "Karel Gott",
   "title": "Jdi Za Štěstím",
-  "year": 1969,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/96/10/279610a8-425d-270b-9c69-f9f2a9204ec8/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/jdi-za-%C5%A1t%C4%9Bst%C3%ADm/1386344615?i=1386345243&uo=4",
@@ -78422,7 +78422,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 478 / SK 279",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.6486,
   "channel": "streaming",
@@ -78441,7 +78441,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -78451,7 +78451,7 @@
   "deezer": 501552682,
   "artist": "Karel Gott",
   "title": "Je Jaká Je",
-  "year": 1969,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/c3/e7/17c3e703-f405-6207-6452-d16996678246/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/je-jak%C3%A1-je/1387860835?i=1387862011&uo=4",
@@ -78464,7 +78464,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 478 / SK 279",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.6342,
   "channel": "streaming",
@@ -78483,7 +78483,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -78577,7 +78577,7 @@
   "deezer": 501128222,
   "artist": "Karel Gott",
   "title": "Když Jsem Já Byl Tenkrát Kluk",
-  "year": 1969,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6c/c2/7f/6cc27fff-ed09-c118-025e-d3a775a5b48a/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/kdy%C5%BE-jsem-j%C3%A1-byl-tenkr%C3%A1t-kluk/1388337257?i=1388337263&uo=4",
@@ -78590,7 +78590,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 478 / SK 279",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.0386,
   "channel": "streaming",
@@ -78609,7 +78609,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -78745,7 +78745,7 @@
   "deezer": 501552672,
   "artist": "Karel Gott",
   "title": "Léta Prázdnin",
-  "year": 1969,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/c3/e7/17c3e703-f405-6207-6452-d16996678246/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/l%C3%A9ta-pr%C3%A1zdnin/1387860835?i=1387862003&uo=4",
@@ -78758,7 +78758,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 478 / SK 279",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.4917,
   "channel": "streaming",
@@ -78777,7 +78777,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -78871,7 +78871,7 @@
   "deezer": 501263492,
   "artist": "Karel Gott",
   "title": "Rot und Schwarz",
-  "year": 1969,
+  "year": 1970,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cb/a9/63/cba9634e-8f46-0f44-987a-4c36749ace06/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/rot-und-schwarz/1385984163?i=1385985743&uo=4",
@@ -78884,7 +78884,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 478 / SK 279",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "1970s",
   "groups": [],
   "popularity": 0.2354,
   "channel": "streaming",
@@ -78903,7 +78903,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:1970s",
     "source": "itunes release year"
    }
   ]
@@ -78997,7 +78997,7 @@
   "deezer": 503876372,
   "artist": "Karel Gott",
   "title": "Stokrát Chválím Čas",
-  "year": 1969,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/59/1d/ba/591dbab4-28a8-a525-858b-9eee1d9e42fe/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/stokr%C3%A1t-chv%C3%A1l%C3%ADm-%C4%8Das/1388334970?i=1388335043&uo=4",
@@ -79010,7 +79010,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 478 / SK 279",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.8324,
   "channel": "streaming",
@@ -79029,7 +79029,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -79747,7 +79747,7 @@
   "deezer": null,
   "artist": "Karol Duchoň",
   "title": "Čardáš dvoch",
-  "year": 1976,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/bb/63/62bb63d4-0916-7b17-e5b6-5c6a8ba2d4c3/190295178406.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/%C4%8Dard%C3%A1%C5%A1-dvoch/1533365500?i=1533365506&uo=4",
@@ -79760,7 +79760,7 @@
   "country": "sk",
   "country_source": "IFPI rows CZ 47 / SK 128",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.8647,
   "channel": "streaming",
@@ -79779,7 +79779,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -79831,7 +79831,7 @@
   "deezer": 1037897372,
   "artist": "Karol Duchoň",
   "title": "Dievca z Budmeríc",
-  "year": 1976,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/68/46/b0/6846b0b7-a30b-c270-35c1-43d4bf5de870/190295168704.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/dievca-z-budmer%C3%ADc/1525767960?i=1525768305&uo=4",
@@ -79844,7 +79844,7 @@
   "country": "sk",
   "country_source": "IFPI rows CZ 47 / SK 128",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.0067,
   "channel": "streaming",
@@ -79863,7 +79863,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -80167,7 +80167,7 @@
   "deezer": 1037897402,
   "artist": "Karol Duchoň",
   "title": "Tancujem s tebou rád",
-  "year": 1976,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/62/bb/63/62bb63d4-0916-7b17-e5b6-5c6a8ba2d4c3/190295178406.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/tancujem-s-tebou-r%C3%A1d/1533365500?i=1533365513&uo=4",
@@ -80180,7 +80180,7 @@
   "country": "sk",
   "country_source": "IFPI rows CZ 47 / SK 128",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.6818,
   "channel": "streaming",
@@ -80199,7 +80199,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -80551,7 +80551,7 @@
   "deezer": 136453474,
   "artist": "Katarina Knechtova",
   "title": "Spomal",
-  "year": 2010,
+  "year": 2005,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/f5/31/34/f53134a1-5616-1c53-2387-9561e904978a/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/spomal/1177684193?i=1177684990&uo=4",
@@ -80564,7 +80564,7 @@
   "country": "sk",
   "country_source": "IFPI rows CZ 279 / SK 421",
   "genre_group": "pop",
-  "era": "2010s",
+  "era": "2000s",
   "groups": [],
   "popularity": 0.8039,
   "channel": "streaming",
@@ -80583,7 +80583,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2010s",
+    "tag": "era:2000s",
     "source": "itunes release year"
    }
   ]
@@ -87324,7 +87324,7 @@
   "deezer": 17100411,
   "artist": "Kryštof",
   "title": "Střepy",
-  "year": 2012,
+  "year": 2010,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/2e/e0/80/2ee080ac-a386-84aa-a995-0451a251e98a/00602557773163.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/st%C5%99epy/1441158857?i=1441159201&uo=4",
@@ -88458,7 +88458,7 @@
   "deezer": 501477592,
   "artist": "Lenka Filipova",
   "title": "Až Budem To Mít",
-  "year": 1984,
+  "year": 1983,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/75/06/fe/7506fe9f-bfd0-372a-b521-bcc8e2ddf788/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/a%C5%BE-budem-to-m%C3%ADt/1386111637?i=1386113119&uo=4",
@@ -88668,7 +88668,7 @@
   "deezer": 6985725,
   "artist": "Lenka Filipova",
   "title": "Zamilovana",
-  "year": 1999,
+  "year": 1981,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2b/b8/8a/2bb88afd-882f-1301-b7e4-31310d4fdb86/00731454231923.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/zamilovana/1443873133?i=1443873157&uo=4",
@@ -88681,7 +88681,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 275 / SK 34",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "1980s",
   "groups": [],
   "popularity": 0.741,
   "channel": "streaming",
@@ -88700,7 +88700,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:1980s",
     "source": "itunes release year"
    }
   ]
@@ -91362,7 +91362,7 @@
   "deezer": 68385786,
   "artist": "Lucie",
   "title": "Amerika",
-  "year": 2013,
+  "year": 1994,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/1c/c1/521cc185-3ca0-1650-5a02-e07f9a15b10c/00602537653638.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/amerika-mastered-by-2013/1442450422?i=1442450430&uo=4",
@@ -91375,7 +91375,7 @@
   "country": "cz",
   "country_source": "manual",
   "genre_group": "pop",
-  "era": "2010s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.8642,
   "channel": "streaming",
@@ -91394,7 +91394,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2010s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -91992,7 +91992,7 @@
   "deezer": null,
   "artist": "Lucie",
   "title": "Sen",
-  "year": 2013,
+  "year": 1994,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/1c/c1/521cc185-3ca0-1650-5a02-e07f9a15b10c/00602537653638.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/sen-mastered-by-2013/1442450422?i=1442452312&uo=4",
@@ -92005,7 +92005,7 @@
   "country": "cz",
   "country_source": "manual",
   "genre_group": "pop",
-  "era": "2010s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.9466,
   "channel": "streaming",
@@ -92024,7 +92024,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2010s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -92118,7 +92118,7 @@
   "deezer": null,
   "artist": "Lucie",
   "title": "Stastnej Chlap",
-  "year": 2013,
+  "year": 1994,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/1c/c1/521cc185-3ca0-1650-5a02-e07f9a15b10c/00602537653638.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/stastnej-chlap-mastered-by-2013/1442450422?i=1442451694&uo=4",
@@ -92131,7 +92131,7 @@
   "country": "cz",
   "country_source": "manual",
   "genre_group": "pop",
-  "era": "2010s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.3384,
   "channel": "streaming",
@@ -92150,7 +92150,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2010s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -97752,7 +97752,7 @@
   "deezer": 505850852,
   "artist": "Marie Rottrová",
   "title": "Déšť",
-  "year": 1970,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/c7/e0/32c7e023-03fb-c152-560e-564e1e6a289a/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/d%C3%A9%C5%A1%C5%A5/1384704612?i=1384705742&uo=4",
@@ -97765,7 +97765,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 67 / SK 11",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.2101,
   "channel": "streaming",
@@ -97784,7 +97784,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -97794,7 +97794,7 @@
   "deezer": 502173352,
   "artist": "Marie Rottrová",
   "title": "Klíč Pro Štěstí",
-  "year": 1970,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/c7/e0/32c7e023-03fb-c152-560e-564e1e6a289a/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/kl%C3%AD%C4%8D-pro-%C5%A1t%C4%9Bst%C3%AD-feat-ji%C5%99%C3%AD-barto%C5%A1ka/1384704612?i=1384705397&uo=4",
@@ -97807,7 +97807,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 67 / SK 11",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.287,
   "channel": "streaming",
@@ -97826,7 +97826,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -97878,7 +97878,7 @@
   "deezer": 502332662,
   "artist": "Marie Rottrová",
   "title": "Lásko, Voníš Deštěm",
-  "year": 1970,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/c7/e0/32c7e023-03fb-c152-560e-564e1e6a289a/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/l%C3%A1sko-von%C3%AD%C5%A1-de%C5%A1t%C4%9Bm/1384704612?i=1384704951&uo=4",
@@ -97891,7 +97891,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 67 / SK 11",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.4877,
   "channel": "streaming",
@@ -97910,7 +97910,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -97962,7 +97962,7 @@
   "deezer": 502341342,
   "artist": "Marie Rottrová",
   "title": "Měli Jsme Se Potkat Dřív",
-  "year": 1970,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/c7/e0/32c7e023-03fb-c152-560e-564e1e6a289a/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/m%C4%9Bli-jsme-se-potkat-d%C5%99%C3%ADv/1384704612?i=1384706568&uo=4",
@@ -97975,7 +97975,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 67 / SK 11",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.8766,
   "channel": "streaming",
@@ -97994,7 +97994,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -98046,7 +98046,7 @@
   "deezer": 502345292,
   "artist": "Marie Rottrová",
   "title": "Řeka Lásky",
-  "year": 1970,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ad/c0/38/adc03886-b51e-ae67-05cc-ab3a18bf81c6/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/%C5%99eka-l%C3%A1sky/1400023847?i=1400024269&uo=4",
@@ -98059,7 +98059,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 67 / SK 11",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.8636,
   "channel": "streaming",
@@ -98078,7 +98078,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -98088,7 +98088,7 @@
   "deezer": 502285642,
   "artist": "Marie Rottrová",
   "title": "Řekni, Kde Ty Kytky Jsou",
-  "year": 1970,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/af/a4/ac/afa4ac09-3404-88a6-a077-159cb9b36c03/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/%C5%99ekni-kde-ty-kytky-jsou/1386861412?i=1386862333&uo=4",
@@ -98101,7 +98101,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 67 / SK 11",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.4939,
   "channel": "streaming",
@@ -98120,7 +98120,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -98130,7 +98130,7 @@
   "deezer": 80346420,
   "artist": "Marie Rottrová & Pavel Bobek",
   "title": "S Tím Bláznem Si Nic Nezačínej",
-  "year": 1970,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/c7/e0/32c7e023-03fb-c152-560e-564e1e6a289a/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/s-t%C3%ADm-bl%C3%A1znem-si-nic-neza%C4%8D%C3%ADnej/1384704612?i=1384705395&uo=4",
@@ -98143,7 +98143,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 67 / SK 11",
   "genre_group": "other",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.5994,
   "channel": "streaming",
@@ -98162,7 +98162,7 @@
     "source": "itunes (Traditional Country)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -98214,7 +98214,7 @@
   "deezer": 501094102,
   "artist": "Marie Rottrová",
   "title": "Štěstí",
-  "year": 1970,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/c7/e0/32c7e023-03fb-c152-560e-564e1e6a289a/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/%C5%A1t%C4%9Bst%C3%AD/1384704612?i=1384705733&uo=4",
@@ -98227,7 +98227,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 67 / SK 11",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.2814,
   "channel": "streaming",
@@ -98246,7 +98246,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -98256,7 +98256,7 @@
   "deezer": 502285662,
   "artist": "Marie Rottrová",
   "title": "Večerem Zhýčkaná",
-  "year": 1970,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/98/f5/b0/98f5b07d-97a1-57b1-06a3-e2c01d3f9d13/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/ve%C4%8Derem-zh%C3%BD%C4%8Dkan%C3%A1/1386180005?i=1386182320&uo=4",
@@ -98269,7 +98269,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 67 / SK 11",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.1023,
   "channel": "streaming",
@@ -98288,7 +98288,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -98298,7 +98298,7 @@
   "deezer": 501094122,
   "artist": "Marie Rottrová",
   "title": "Zřejmě Letos Nikde Nejsou Kytky",
-  "year": 1970,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/c7/e0/32c7e023-03fb-c152-560e-564e1e6a289a/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/z%C5%99ejm%C4%9B-letos-nikde-nejsou-kytky/1384704612?i=1384704956&uo=4",
@@ -98311,7 +98311,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 67 / SK 11",
   "genre_group": "pop",
-  "era": "1970s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.1919,
   "channel": "streaming",
@@ -98330,7 +98330,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1970s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -101550,7 +101550,7 @@
   "deezer": 500324202,
   "artist": "Michal David",
   "title": "Cecka, Sbira Cecka",
-  "year": 2008,
+  "year": 1985,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2b/b9/3b/2bb93bc5-9855-1dce-8c4c-4d47d329d371/mzi.gplayexc.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/cecka-sbira-cecka/295869615?i=295869670&uo=4",
@@ -101563,7 +101563,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 189 / SK 79",
   "genre_group": "pop",
-  "era": "2000s",
+  "era": "1980s",
   "groups": [],
   "popularity": 0.7509,
   "channel": "streaming",
@@ -101582,7 +101582,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1980s",
     "source": "itunes release year"
    }
   ]
@@ -101676,7 +101676,7 @@
   "deezer": 496390352,
   "artist": "Michal David & Kroky Františka Janečka",
   "title": "Decibely Lásky",
-  "year": 1986,
+  "year": 1985,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fd/a5/57/fda557f1-5a3d-5cae-e0e8-1f3bf863e40d/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/decibely-l%C3%A1sky/1380712579?i=1380713452&uo=4",
@@ -101718,7 +101718,7 @@
   "deezer": 496390292,
   "artist": "Michal David & Kroky Františka Janečka",
   "title": "Děti Ráje",
-  "year": 1986,
+  "year": 1985,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fd/a5/57/fda557f1-5a3d-5cae-e0e8-1f3bf863e40d/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/d%C4%9Bti-r%C3%A1je/1380712579?i=1380713089&uo=4",
@@ -102054,7 +102054,7 @@
   "deezer": 61406194,
   "artist": "Michal David",
   "title": "Nejvetsi Z Nalezu a Ztrat",
-  "year": 2006,
+  "year": 1985,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/3d/29/57/mzi.xfrowizo.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/nejvetsi-z-nalezu-a-ztrat/299144760?i=299144841&uo=4",
@@ -102067,7 +102067,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 189 / SK 79",
   "genre_group": "pop",
-  "era": "2000s",
+  "era": "1980s",
   "groups": [],
   "popularity": 0.5732,
   "channel": "streaming",
@@ -102086,7 +102086,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1980s",
     "source": "itunes release year"
    }
   ]
@@ -102096,7 +102096,7 @@
   "deezer": 496390562,
   "artist": "Michal David",
   "title": "Nenapovidej",
-  "year": 2006,
+  "year": 1982,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/3d/29/57/mzi.xfrowizo.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/nenapovidej/299144760?i=299144812&uo=4",
@@ -102109,7 +102109,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 189 / SK 79",
   "genre_group": "pop",
-  "era": "2000s",
+  "era": "1980s",
   "groups": [],
   "popularity": 0.094,
   "channel": "streaming",
@@ -102128,7 +102128,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1980s",
     "source": "itunes release year"
    }
   ]
@@ -103818,7 +103818,7 @@
   "deezer": 507692322,
   "artist": "Michal Tučný & Tučňáci",
   "title": "Báječná Ženská",
-  "year": 1980,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f3/9f/21/f39f2197-692c-349c-63ad-347328042d50/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/b%C3%A1je%C4%8Dn%C3%A1-%C5%BEensk%C3%A1/1392959401?i=1392960101&uo=4",
@@ -103831,7 +103831,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 1 / SK 1",
   "genre_group": "other",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.8079,
   "channel": "streaming",
@@ -103850,7 +103850,7 @@
     "source": "itunes (Traditional Country)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -103902,7 +103902,7 @@
   "deezer": 507692402,
   "artist": "Michal Tučný",
   "title": "Cesty toulavý",
-  "year": 1980,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/63/49/0b/mzi.cfvvuphi.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/cesty-toulav%C3%BD-on-the-road-again/495849362?i=495849386&uo=4",
@@ -103915,7 +103915,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 1 / SK 1",
   "genre_group": "pop",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.1968,
   "channel": "streaming",
@@ -103934,7 +103934,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -103944,7 +103944,7 @@
   "deezer": 507692362,
   "artist": "Michal Tučný",
   "title": "Koukám, Jak Celá Země Vstává",
-  "year": 1980,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/63/49/0b/mzi.cfvvuphi.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/kouk%C3%A1m-jak-cel%C3%A1-zem%C4%9B-vst%C3%A1v%C3%A1/495849362?i=495849375&uo=4",
@@ -103957,7 +103957,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 1 / SK 1",
   "genre_group": "pop",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.1174,
   "channel": "streaming",
@@ -103976,7 +103976,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -104028,7 +104028,7 @@
   "deezer": 629254922,
   "artist": "Michal Tučný",
   "title": "Poslední Kovboj 2",
-  "year": 2015,
+  "year": 1993,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/09/ea/23/09ea231d-fd6d-b97c-b901-10f2e6da374e/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/posledn%C3%AD-kovboj-2/1451718238?i=1451718465&uo=4",
@@ -104041,7 +104041,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 1 / SK 1",
   "genre_group": "other",
-  "era": "2010s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.2381,
   "channel": "streaming",
@@ -104060,7 +104060,7 @@
     "source": "itunes (Traditional Country)"
    },
    {
-    "tag": "era:2010s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -104070,7 +104070,7 @@
   "deezer": 629254802,
   "artist": "Michal Tučný",
   "title": "Pověste Ho Vejš",
-  "year": 1969,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/4d/ac/364dac9d-7995-124d-221f-7469dab9ba5c/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/pov%C4%9Bste-ho-vej%C5%A1/1406072597?i=1406073045&uo=4",
@@ -104083,7 +104083,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 1 / SK 1",
   "genre_group": "other",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.6026,
   "channel": "streaming",
@@ -104102,7 +104102,7 @@
     "source": "itunes (Traditional Country)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -104112,7 +104112,7 @@
   "deezer": 73613271,
   "artist": "Michal Tučný & Fesaci",
   "title": "Prodavač",
-  "year": 1980,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5d/18/f8/5d18f88e-7efe-028f-112b-b007fa13830d/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/prodava%C4%8D/1391890732?i=1391892074&uo=4",
@@ -104125,7 +104125,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 1 / SK 1",
   "genre_group": "other",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.7639,
   "channel": "streaming",
@@ -104144,7 +104144,7 @@
     "source": "itunes (Traditional Country)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -104154,7 +104154,7 @@
   "deezer": 629254722,
   "artist": "Michal Tučný",
   "title": "Snídaně V Trávě",
-  "year": 2015,
+  "year": 1993,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/09/ea/23/09ea231d-fd6d-b97c-b901-10f2e6da374e/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/sn%C3%ADdan%C4%9B-v-tr%C3%A1v%C4%9B/1451718238?i=1451718241&uo=4",
@@ -104167,7 +104167,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 1 / SK 1",
   "genre_group": "other",
-  "era": "2010s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.3355,
   "channel": "streaming",
@@ -104186,7 +104186,7 @@
     "source": "itunes (Traditional Country)"
    },
    {
-    "tag": "era:2010s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -104238,7 +104238,7 @@
   "deezer": 520507662,
   "artist": "Michal Tučný",
   "title": "Všichni Jsou Už V Mexiku",
-  "year": 2009,
+  "year": 1991,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/09/ea/23/09ea231d-fd6d-b97c-b901-10f2e6da374e/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/v%C5%A1ichni-jsou-u%C5%BE-v-mexiku/1451718238?i=1451718252&uo=4",
@@ -104251,7 +104251,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 1 / SK 1",
   "genre_group": "other",
-  "era": "2000s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.5776,
   "channel": "streaming",
@@ -104270,7 +104270,7 @@
     "source": "itunes (Traditional Country)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -116994,7 +116994,7 @@
   "deezer": 6973717,
   "artist": "No Name",
   "title": "Dakujem Ze Si",
-  "year": 2001,
+  "year": 2000,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/de/83/34/de8334ea-53dc-321d-1a49-e923622c0cc0/00044001432125.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/dakujem-ze-si/1443550797?i=1443550944&uo=4",
@@ -117288,7 +117288,7 @@
   "deezer": 4679204,
   "artist": "No Name",
   "title": "Prva",
-  "year": 2004,
+  "year": 2003,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9d/3e/17/9d3e172e-3982-675c-9fd6-d2feff663920/00602498662182.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/prva/1443784753?i=1443785022&uo=4",
@@ -117372,7 +117372,7 @@
   "deezer": 6973714,
   "artist": "No Name",
   "title": "Ty a Tvoja Sestra",
-  "year": 2001,
+  "year": 2000,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/de/83/34/de8334ea-53dc-321d-1a49-e923622c0cc0/00044001432125.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/ty-a-tvoja-sestra/1443550797?i=1443550934&uo=4",
@@ -117498,7 +117498,7 @@
   "deezer": 6973713,
   "artist": "No Name",
   "title": "Zily",
-  "year": 2001,
+  "year": 2000,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/de/83/34/de8334ea-53dc-321d-1a49-e923622c0cc0/00044001432125.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/zily/1443550797?i=1443550806&uo=4",
@@ -118638,7 +118638,7 @@
   "deezer": 500308212,
   "artist": "Olympic",
   "title": "Dej Mi Víc Své Lásky",
-  "year": 1965,
+  "year": 1968,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0f/c0/44/0fc04422-30d3-2329-25d9-6e60c0aae00d/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/dej-mi-v%C3%ADc-sv%C3%A9-l%C3%A1sky/1384676321?i=1384676350&uo=4",
@@ -118680,7 +118680,7 @@
   "deezer": 501091792,
   "artist": "Olympic",
   "title": "Jako Za Mlada",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0f/c0/44/0fc04422-30d3-2329-25d9-6e60c0aae00d/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/jako-za-mlada/1384676321?i=1384679300&uo=4",
@@ -118693,7 +118693,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 20 / SK 4",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.5987,
   "channel": "streaming",
@@ -118712,7 +118712,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -118722,7 +118722,7 @@
   "deezer": 500308522,
   "artist": "Olympic",
   "title": "Jasná Zpráva",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0f/c0/44/0fc04422-30d3-2329-25d9-6e60c0aae00d/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/jasn%C3%A1-zpr%C3%A1va/1384676321?i=1384678680&uo=4",
@@ -118735,7 +118735,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 20 / SK 4",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.923,
   "channel": "streaming",
@@ -118754,7 +118754,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -118764,7 +118764,7 @@
   "deezer": 500308562,
   "artist": "Olympic",
   "title": "Je To Tvá Vina",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0f/c0/44/0fc04422-30d3-2329-25d9-6e60c0aae00d/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/je-to-tv%C3%A1-vina/1384676321?i=1384679297&uo=4",
@@ -118777,7 +118777,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 20 / SK 4",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.1701,
   "channel": "streaming",
@@ -118796,7 +118796,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -118932,7 +118932,7 @@
   "deezer": 509545862,
   "artist": "Olympic",
   "title": "Okno Mé Lásky",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0f/c0/44/0fc04422-30d3-2329-25d9-6e60c0aae00d/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/okno-m%C3%A9-l%C3%A1sky-l%C3%A1ska/1384676321?i=1384678542&uo=4",
@@ -118945,7 +118945,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 20 / SK 4",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.4711,
   "channel": "streaming",
@@ -118964,7 +118964,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -118974,7 +118974,7 @@
   "deezer": 500321022,
   "artist": "Olympic",
   "title": "Osmý Den",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0f/c0/44/0fc04422-30d3-2329-25d9-6e60c0aae00d/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/osm%C3%BD-den/1384676321?i=1384678167&uo=4",
@@ -118987,7 +118987,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 20 / SK 4",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.5545,
   "channel": "streaming",
@@ -119006,7 +119006,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -119016,7 +119016,7 @@
   "deezer": 500320992,
   "artist": "Olympic",
   "title": "Otázky",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0f/c0/44/0fc04422-30d3-2329-25d9-6e60c0aae00d/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/ot%C3%A1zky/1384676321?i=1384677660&uo=4",
@@ -119029,7 +119029,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 20 / SK 4",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.5581,
   "channel": "streaming",
@@ -119048,7 +119048,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -119058,7 +119058,7 @@
   "deezer": 500321062,
   "artist": "Olympic",
   "title": "Slzy Tvý Mámy",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0f/c0/44/0fc04422-30d3-2329-25d9-6e60c0aae00d/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/slzy-tv%C3%BD-m%C3%A1my/1384676321?i=1384678156&uo=4",
@@ -119071,7 +119071,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 20 / SK 4",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.7451,
   "channel": "streaming",
@@ -119090,7 +119090,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -119100,7 +119100,7 @@
   "deezer": 500308222,
   "artist": "Olympic",
   "title": "Snad Jsem To Zavinil Já",
-  "year": 1965,
+  "year": 1968,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0f/c0/44/0fc04422-30d3-2329-25d9-6e60c0aae00d/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/snad-jsem-to-zavinil-j%C3%A1/1384676321?i=1384676989&uo=4",
@@ -124727,7 +124727,7 @@
   "deezer": 113816064,
   "artist": "Para",
   "title": "Otec",
-  "year": 2015,
+  "year": 2001,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a9/f0/86/a9f08670-dc04-a0e5-9619-28683e1b678c/8595026641273_cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/otec/1062267897?i=1062267908&uo=4",
@@ -124740,7 +124740,7 @@
   "country": "sk",
   "country_source": "IFPI rows CZ 0 / SK 454",
   "genre_group": "rock",
-  "era": "2010s",
+  "era": "2000s",
   "groups": [],
   "popularity": 0.6744,
   "channel": "streaming",
@@ -124759,7 +124759,7 @@
     "source": "itunes (Pop/Rock)"
    },
    {
-    "tag": "era:2010s",
+    "tag": "era:2000s",
     "source": "itunes release year"
    }
   ]
@@ -127037,7 +127037,7 @@
   "deezer": 501079762,
   "artist": "Pavel Vítek",
   "title": "Má Svůj Den",
-  "year": 1988,
+  "year": 1987,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/79/7f/5e797f08-6ad2-4b6b-d42a-9ae5ec2d1eeb/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/m%C3%A1-sv%C5%AFj-den/1385501731?i=1385502119&uo=4",
@@ -127163,7 +127163,7 @@
   "deezer": 1962902917,
   "artist": "Pavol Habera & Szidi Tobias",
   "title": "Chlap z kríža",
-  "year": 2008,
+  "year": 1993,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/2f/8e/592f8ed3-8e4b-cd53-48ee-32948c61f6e8/385cea57-b3a9-4498-9bb6-6eeae4c5dc0b.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/chlap-z-kr%C3%AD%C5%BEa/1649723370?i=1649723378&uo=4",
@@ -127176,7 +127176,7 @@
   "country": "sk",
   "country_source": "manual",
   "genre_group": "rock",
-  "era": "2000s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.5833,
   "channel": "streaming",
@@ -127195,7 +127195,7 @@
     "source": "itunes (Rock)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -127331,7 +127331,7 @@
   "deezer": 1956905757,
   "artist": "Pavol Habera",
   "title": "Kým ťa mám",
-  "year": 1995,
+  "year": 1992,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7e/d2/d4/7ed2d424-ae48-4e25-29c5-4b5a4ece4751/e79e5a1e-aa50-4fb6-a268-29a4b293c132.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/k%C3%BDm-%C5%A5a-m%C3%A1m/1659286917?i=1659286921&uo=4",
@@ -127415,7 +127415,7 @@
   "deezer": 1962902907,
   "artist": "Pavol Habera & Lucie Bílá",
   "title": "Láska šialená",
-  "year": 2001,
+  "year": 1993,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/2f/8e/592f8ed3-8e4b-cd53-48ee-32948c61f6e8/385cea57-b3a9-4498-9bb6-6eeae4c5dc0b.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/l%C3%A1ska-%C5%A1ialen%C3%A1/1649723370?i=1649723377&uo=4",
@@ -127428,7 +127428,7 @@
   "country": "sk",
   "country_source": "manual",
   "genre_group": "rock",
-  "era": "2000s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.3909,
   "channel": "streaming",
@@ -127447,7 +127447,7 @@
     "source": "itunes (Rock)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -127457,7 +127457,7 @@
   "deezer": 1962902897,
   "artist": "Pavol Habera",
   "title": "Lovesong",
-  "year": 2001,
+  "year": 1993,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/2f/8e/592f8ed3-8e4b-cd53-48ee-32948c61f6e8/385cea57-b3a9-4498-9bb6-6eeae4c5dc0b.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/lovesong/1649723370?i=1649723376&uo=4",
@@ -127470,7 +127470,7 @@
   "country": "sk",
   "country_source": "manual",
   "genre_group": "rock",
-  "era": "2000s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.2798,
   "channel": "streaming",
@@ -127489,7 +127489,7 @@
     "source": "itunes (Rock)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -127499,7 +127499,7 @@
   "deezer": 1962902857,
   "artist": "Pavol Habera",
   "title": "Mama Kami",
-  "year": 2008,
+  "year": 1993,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/2f/8e/592f8ed3-8e4b-cd53-48ee-32948c61f6e8/385cea57-b3a9-4498-9bb6-6eeae4c5dc0b.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/mama-kami-feat-ibrahim-maiga/1649723370?i=1649723372&uo=4",
@@ -127512,7 +127512,7 @@
   "country": "sk",
   "country_source": "manual",
   "genre_group": "rock",
-  "era": "2000s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.1975,
   "channel": "streaming",
@@ -127531,7 +127531,7 @@
     "source": "itunes (Rock)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -128465,7 +128465,7 @@
   "deezer": 1091363282,
   "artist": "Peter Nagy",
   "title": "Poďme sa zachrániť",
-  "year": 2011,
+  "year": 2009,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1c/51/b4/1c51b4b9-0872-60ad-f77a-b6e2cc60fbf4/8584019060122.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/po%C4%8Fme-sa-zachr%C3%A1ni%C5%A5/1533348720?i=1533349167&uo=4",
@@ -128478,7 +128478,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 86 / SK 15",
   "genre_group": "pop",
-  "era": "2010s",
+  "era": "2000s",
   "groups": [],
   "popularity": 0.5534,
   "channel": "streaming",
@@ -128497,7 +128497,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2010s",
+    "tag": "era:2000s",
     "source": "itunes release year"
    }
   ]
@@ -143981,7 +143981,7 @@
   "deezer": 102967986,
   "artist": "Richard Müller",
   "title": "Nahy 2",
-  "year": 2006,
+  "year": 2002,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/76/18/84/76188412-cc4b-e5ae-5d09-6638b9cc2b8e/00602537002627.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/nahy-2/1442237075?i=1442237357&uo=4",
@@ -144275,7 +144275,7 @@
   "deezer": 102967966,
   "artist": "Richard Müller",
   "title": "Spocitaj Ma",
-  "year": 2006,
+  "year": 2002,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/76/18/84/76188412-cc4b-e5ae-5d09-6638b9cc2b8e/00602537002627.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/spocitaj-ma/1442237075?i=1442237255&uo=4",
@@ -144359,7 +144359,7 @@
   "deezer": 17519767,
   "artist": "Richard Müller",
   "title": "Stesi Je Krasna Vec",
-  "year": 2006,
+  "year": 2002,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/76/18/84/76188412-cc4b-e5ae-5d09-6638b9cc2b8e/00602537002627.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/stesi-je-krasna-vec/1442237075?i=1442237080&uo=4",
@@ -162722,7 +162722,7 @@
   "deezer": 3833497,
   "artist": "Shalom",
   "title": "Bon soir, Mademoiselle Paris",
-  "year": 2001,
+  "year": 1992,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/41/de/e7/41dee7b4-5588-e679-88e6-22ed3d8e7402/825646152476.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/bon-soir-mademoiselle-paris/959252328?i=959252465&uo=4",
@@ -162735,7 +162735,7 @@
   "country": "sk",
   "country_source": "IFPI rows CZ 2 / SK 135",
   "genre_group": "pop",
-  "era": "2000s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.5781,
   "channel": "streaming",
@@ -162754,7 +162754,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -162764,7 +162764,7 @@
   "deezer": 61103003,
   "artist": "Shalom",
   "title": "Stín Katedrál",
-  "year": 1995,
+  "year": 1992,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/62/ce/08/62ce0879-4c17-2b81-019a-f75c15afd7a5/5099951460457.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/st%C3%ADn-katedr%C3%A1l/692181864?i=692182165&uo=4",
@@ -171374,7 +171374,7 @@
   "deezer": 500587202,
   "artist": "Stanislav Hložek & Petr Kotvald",
   "title": "Bílá Královna",
-  "year": 1983,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/97/9d/cd/979dcd28-923a-9f3d-13b7-dd28263fcc09/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/b%C3%ADl%C3%A1-kr%C3%A1lovna/1384903432?i=1384903525&uo=4",
@@ -171387,7 +171387,7 @@
   "country": "unknown",
   "country_source": "no IFPI rows",
   "genre_group": "pop",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.5552,
   "channel": "streaming",
@@ -171406,7 +171406,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -171416,7 +171416,7 @@
   "deezer": 500587402,
   "artist": "Stanislav Hložek & Petr Kotvald",
   "title": "Holky Z Naší Školky",
-  "year": 1983,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/31/4d/7c/314d7c53-c494-4695-099f-8e955cb09e28/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/holky-z-na%C5%A1%C3%AD-%C5%A1kolky/1386932528?i=1386933425&uo=4",
@@ -171429,7 +171429,7 @@
   "country": "unknown",
   "country_source": "no IFPI rows",
   "genre_group": "pop",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.9192,
   "channel": "streaming",
@@ -171448,7 +171448,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -171458,7 +171458,7 @@
   "deezer": 501088982,
   "artist": "Stanislav Hložek & Petr Kotvald",
   "title": "Láska Očima",
-  "year": 1983,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/97/9d/cd/979dcd28-923a-9f3d-13b7-dd28263fcc09/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/l%C3%A1ska-o%C4%8Dima/1384903432?i=1384903537&uo=4",
@@ -171471,7 +171471,7 @@
   "country": "unknown",
   "country_source": "no IFPI rows",
   "genre_group": "pop",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.0891,
   "channel": "streaming",
@@ -171490,7 +171490,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -171500,7 +171500,7 @@
   "deezer": 3617063792,
   "artist": "Stanislav Hložek & Petr Kotvald",
   "title": "V Pohodě",
-  "year": 1983,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/31/4d/7c/314d7c53-c494-4695-099f-8e955cb09e28/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/v-pohod%C4%9B/1386932528?i=1386933843&uo=4",
@@ -171513,7 +171513,7 @@
   "country": "unknown",
   "country_source": "no IFPI rows",
   "genre_group": "pop",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.3211,
   "channel": "streaming",
@@ -171532,7 +171532,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -176264,7 +176264,7 @@
   "deezer": 96438794,
   "artist": "Support Lesbiens",
   "title": "Sweet Little Something",
-  "year": 2015,
+  "year": 2008,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/ee/25/44/ee2544d0-7d38-a7dd-27a1-9af361f99845/825646144785.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/sweet-little-something/974503181?i=974503191&uo=4",
@@ -176277,7 +176277,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 707 / SK 131",
   "genre_group": "pop",
-  "era": "2010s",
+  "era": "2000s",
   "groups": [],
   "popularity": 0.3268,
   "channel": "streaming",
@@ -176296,7 +176296,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2010s",
+    "tag": "era:2000s",
     "source": "itunes release year"
    }
   ]
@@ -179864,7 +179864,7 @@
   "deezer": 782355632,
   "artist": "Tomas Klus, Cílová skupina & Janáčkova filharmonie Ostrava",
   "title": "Navěky",
-  "year": 2019,
+  "year": 2009,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/61/b3/28/61b32837-b6c6-575f-9276-02c6b3551f8a/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/nav%C4%9Bky/1484613364?i=1484613977&uo=4",
@@ -179877,7 +179877,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 1063 / SK 155",
   "genre_group": "pop",
-  "era": "2010s",
+  "era": "2000s",
   "groups": [],
   "popularity": 0.4543,
   "channel": "radio",
@@ -179896,7 +179896,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2010s",
+    "tag": "era:2000s",
     "source": "itunes release year"
    }
   ]
@@ -181124,7 +181124,7 @@
   "deezer": 1137355852,
   "artist": "Tři Sestry",
   "title": "DeDeRon",
-  "year": 2006,
+  "year": 2000,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/fa/0c/3f/fa0c3ffb-41ff-41bb-2d74-bb1e64987b72/0094637113752_1400x1400_300dpi.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/dederon/688317162?i=688317389&uo=4",
@@ -181292,7 +181292,7 @@
   "deezer": 3067947661,
   "artist": "Tři Sestry",
   "title": "Kovarna I",
-  "year": 2006,
+  "year": 1990,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/0f/b5/71/0fb571e7-8b66-8355-4904-1e5fcf71a86c/dj.ocwhdrle.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/kovarna-i/734835541?i=734835689&uo=4",
@@ -181305,7 +181305,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 63 / SK 0",
   "genre_group": "pop",
-  "era": "2000s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.7035,
   "channel": "streaming",
@@ -181324,7 +181324,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -181712,7 +181712,7 @@
   "deezer": 3067947641,
   "artist": "Tři Sestry",
   "title": "Sovy V Mazutu",
-  "year": 2007,
+  "year": 1990,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/0f/b5/71/0fb571e7-8b66-8355-4904-1e5fcf71a86c/dj.ocwhdrle.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/sovy-v-mazutu/734835541?i=734835782&uo=4",
@@ -181725,7 +181725,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 63 / SK 0",
   "genre_group": "pop",
-  "era": "2000s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.399,
   "channel": "streaming",
@@ -181744,7 +181744,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -182006,7 +182006,7 @@
   "deezer": 3067947651,
   "artist": "Tři Sestry",
   "title": "Zivot Je Takovej",
-  "year": 2007,
+  "year": 1990,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/0f/b5/71/0fb571e7-8b66-8355-4904-1e5fcf71a86c/dj.ocwhdrle.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/zivot-je-takovej/734835541?i=734835638&uo=4",
@@ -182019,7 +182019,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 63 / SK 0",
   "genre_group": "pop",
-  "era": "2000s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.6887,
   "channel": "streaming",
@@ -182038,7 +182038,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -182258,7 +182258,7 @@
   "deezer": null,
   "artist": "Turbo",
   "title": "Chtel Jsem Mit",
-  "year": 1985,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/65/52/d4/6552d49e-0738-74a3-d378-464b9670912e/094635537956.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/chtel-jsem-mit/943907293?i=943907337&uo=4",
@@ -182271,7 +182271,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 19 / SK 0",
   "genre_group": "pop",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.8979,
   "channel": "streaming",
@@ -182290,7 +182290,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -182300,7 +182300,7 @@
   "deezer": null,
   "artist": "Turbo",
   "title": "Diky, Ja Jdu Dal",
-  "year": 1985,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/65/52/d4/6552d49e-0738-74a3-d378-464b9670912e/094635537956.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/diky-ja-jdu-dal/943907293?i=943907344&uo=4",
@@ -182313,7 +182313,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 19 / SK 0",
   "genre_group": "pop",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.2974,
   "channel": "streaming",
@@ -182332,7 +182332,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -182342,7 +182342,7 @@
   "deezer": null,
   "artist": "Turbo",
   "title": "Hrac",
-  "year": 1985,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/65/52/d4/6552d49e-0738-74a3-d378-464b9670912e/094635537956.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/hrac/943907293?i=943907327&uo=4",
@@ -182355,7 +182355,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 19 / SK 0",
   "genre_group": "pop",
-  "era": "1980s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.7608,
   "channel": "streaming",
@@ -182374,7 +182374,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1980s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -182972,7 +182972,7 @@
   "deezer": 505854552,
   "artist": "Václav Neckář & Helena Vondrackova",
   "title": "Já Už To Vím",
-  "year": 1992,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/03/b8/c103b822-2832-7d3e-6d81-b033d12876b7/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/j%C3%A1-u%C5%BE-to-v%C3%ADm/1390827700?i=1390828021&uo=4",
@@ -182985,7 +182985,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 137 / SK 53",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.5094,
   "channel": "streaming",
@@ -183004,7 +183004,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -183014,7 +183014,7 @@
   "deezer": 501270582,
   "artist": "Václav Neckář",
   "title": "Je Ráno, Anno",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/92/37/8692370b-e995-bd77-0760-715596ce8234/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/je-r%C3%A1no-anno/1385968260?i=1385969934&uo=4",
@@ -183027,7 +183027,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 137 / SK 53",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.2296,
   "channel": "streaming",
@@ -183046,7 +183046,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -183098,7 +183098,7 @@
   "deezer": 503074442,
   "artist": "Václav Neckář & Bacily",
   "title": "Kdo Vchází Do Tvých Snů",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/08/40/62/084062a2-3cab-34fd-d6e6-63a3f4360cc7/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/kdo-vch%C3%A1z%C3%AD-do-tv%C3%BDch-sn%C5%AF-m%C3%A1-l%C3%A1sko/1385724576?i=1385725581&uo=4",
@@ -183111,7 +183111,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 137 / SK 53",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.6149,
   "channel": "streaming",
@@ -183130,7 +183130,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -183140,7 +183140,7 @@
   "deezer": null,
   "artist": "Václav Neckář",
   "title": "Kdo Vchází Do Tvých Snů / Má Lásko/",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/92/37/8692370b-e995-bd77-0760-715596ce8234/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/kdo-vch%C3%A1z%C3%AD-do-tv%C3%BDch-sn%C5%AF-m%C3%A1-l%C3%A1sko/1385968260?i=1385969279&uo=4",
@@ -183153,7 +183153,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 137 / SK 53",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.6147,
   "channel": "streaming",
@@ -183172,7 +183172,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -183224,7 +183224,7 @@
   "deezer": 505854512,
   "artist": "Václav Neckář & Helena Vondrackova",
   "title": "Kujme Pikle",
-  "year": 1992,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/03/b8/c103b822-2832-7d3e-6d81-b033d12876b7/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/kujme-pikle-feat-darek-vost%C5%99el-josef-kemr/1390827700?i=1390827966&uo=4",
@@ -183237,7 +183237,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 137 / SK 53",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.3918,
   "channel": "streaming",
@@ -183256,7 +183256,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -183266,7 +183266,7 @@
   "deezer": 500320142,
   "artist": "Václav Neckář",
   "title": "Láska Má",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/92/37/8692370b-e995-bd77-0760-715596ce8234/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/l%C3%A1ska-m%C3%A1/1385968260?i=1385969267&uo=4",
@@ -183279,7 +183279,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 137 / SK 53",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.4257,
   "channel": "streaming",
@@ -183298,7 +183298,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -183308,7 +183308,7 @@
   "deezer": 500319962,
   "artist": "Václav Neckář",
   "title": "Lékořice",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/92/37/8692370b-e995-bd77-0760-715596ce8234/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/l%C3%A9ko%C5%99ice/1385968260?i=1385968805&uo=4",
@@ -183321,7 +183321,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 137 / SK 53",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.4161,
   "channel": "streaming",
@@ -183340,7 +183340,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -183350,7 +183350,7 @@
   "deezer": 501114912,
   "artist": "Václav Neckář",
   "title": "Mademoiselle Giselle",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/92/37/8692370b-e995-bd77-0760-715596ce8234/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/mademoiselle-giselle/1385968260?i=1385969460&uo=4",
@@ -183363,7 +183363,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 137 / SK 53",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.7148,
   "channel": "streaming",
@@ -183382,7 +183382,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -183392,7 +183392,7 @@
   "deezer": 505854522,
   "artist": "Václav Neckář",
   "title": "Miluju A Maluju",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/92/37/8692370b-e995-bd77-0760-715596ce8234/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/miluju-a-maluju/1385968260?i=1385969043&uo=4",
@@ -183405,7 +183405,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 137 / SK 53",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.9461,
   "channel": "streaming",
@@ -183424,7 +183424,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -183434,7 +183434,7 @@
   "deezer": 501114902,
   "artist": "Václav Neckář",
   "title": "Mýdlový Princ",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/92/37/8692370b-e995-bd77-0760-715596ce8234/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/m%C3%BDdlov%C3%BD-princ/1385968260?i=1385969681&uo=4",
@@ -183447,7 +183447,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 137 / SK 53",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.9277,
   "channel": "streaming",
@@ -183466,7 +183466,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -183476,7 +183476,7 @@
   "deezer": 505854542,
   "artist": "Václav Neckář & Helena Vondrackova",
   "title": "Slza Z Tváře Padá",
-  "year": 1992,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/03/b8/c103b822-2832-7d3e-6d81-b033d12876b7/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/slza-z-tv%C3%A1%C5%99e-pad%C3%A1/1390827700?i=1390828019&uo=4",
@@ -183489,7 +183489,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 137 / SK 53",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.3609,
   "channel": "streaming",
@@ -183508,7 +183508,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -183560,7 +183560,7 @@
   "deezer": 501270402,
   "artist": "Václav Neckář",
   "title": "Tu Kytaru Jsem Koupil Kvůli Tobě",
-  "year": 1965,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/92/37/8692370b-e995-bd77-0760-715596ce8234/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/tu-kytaru-jsem-koupil-kv%C5%AFli-tob%C4%9B/1385968260?i=1385968794&uo=4",
@@ -183573,7 +183573,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 137 / SK 53",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.9264,
   "channel": "streaming",
@@ -183592,7 +183592,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -183602,7 +183602,7 @@
   "deezer": 505854562,
   "artist": "Václav Neckář & Helena Vondrackova",
   "title": "Znám Jednu Krásnou Princeznu",
-  "year": 1992,
+  "year": null,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/03/b8/c103b822-2832-7d3e-6d81-b033d12876b7/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/zn%C3%A1m-jednu-kr%C3%A1snou-princeznu/1390827700?i=1390828023&uo=4",
@@ -183615,7 +183615,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 137 / SK 53",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "unknown",
   "groups": [],
   "popularity": 0.1887,
   "channel": "streaming",
@@ -183634,7 +183634,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:unknown",
     "source": "itunes release year"
    }
   ]
@@ -184358,7 +184358,7 @@
   "deezer": 63226538,
   "artist": "Vec",
   "title": "Branci Kovac",
-  "year": 2013,
+  "year": 2012,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/73/79/6d/73796de3-a8db-5fa5-b7b3-c06c491227e1/5099991202550_1400x1400_300dpi.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/branci-kovac/688898551?i=688899462&uo=4",
@@ -184568,7 +184568,7 @@
   "deezer": 519904972,
   "artist": "Vera Martinova",
   "title": "Ó, Pane Náš",
-  "year": 1996,
+  "year": 1990,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/42/71/6742716b-0afc-dc4c-caa4-51fc8b1f19d6/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/%C3%B3-pane-n%C3%A1%C5%A1/1387663473?i=1387664077&uo=4",
@@ -184820,7 +184820,7 @@
   "deezer": 63433866,
   "artist": "Verona",
   "title": "Nahodou",
-  "year": 2003,
+  "year": 2002,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6b/cf/d9/6bcfd98e-02d9-6f82-a706-a759d316c79c/5099964084251.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/nahodou/692646118?i=692646125&uo=4",
