@@ -9,10 +9,15 @@
    data/excluded_artists.csv are dropped from both sources.
 2. Resolve each to an iTunes track (store cz, then sk): title must match, artist must match,
    versions (live/remix/acoustic/…) are skipped, the earliest release wins, release year >= 2020.
-3. Write site/songs.json (only what the game needs) and data/v0/review.csv (all candidates with
-   the reason when a song was dropped, for manual review).
+3. Write data/v0/matched.json and data/v0/review.csv (all candidates with the reason when a song was dropped,
+   for manual review).
 
-Usage: python pipeline/build_v0.py [--per-chart-type 200] [--min-plays 1000000]
+--since YEAR moves the 2020 limit back (older decades, 2026-10-26). The year of a song is its earliest release
+found: iTunes matches and every Spotify version of the same song, so a 2011 remaster of a 1996 hit counts as 1996.
+--catalogue-only is a fast first pass: only the artists' iTunes catalogues (two calls per artist, most of them
+cached), no per-song searches and no Deezer. A normal run afterwards fills in the rest from cache plus searches.
+
+Usage: python pipeline/build_v0.py [--per-chart-type 200] [--min-plays 1000000] [--since 2020] [--catalogue-only]
 """
 
 import argparse
@@ -33,7 +38,9 @@ EXCLUDED = ROOT / "data" / "excluded_artists.csv"
 
 DOMESTIC = {"cz_radio_top50_cz": "cz", "sk_radio_top50_sk": "sk",
             "cz_digital_top50_cz": "cz", "sk_digital_top50_sk": "sk"}
-MIN_YEAR = 2020
+MIN_YEAR = 2020  # set by --since
+CATALOGUE_ONLY = False  # set by --catalogue-only
+PLACEHOLDER_YEAR = 1950  # earlier dates are placeholders (Spotify 1900-01-01 for Nohavica, 1948 for Karel Gott)
 
 # IFPI joins artists with "/", "&", ",", " a ", " x ", "feat."
 ARTIST_SPLIT = re.compile(r"\s*(?:/|&|,|\ba\b|\bx\b(?!\S)|\bfeat\.?|\bft\.?)\s*", re.IGNORECASE)
@@ -123,12 +130,15 @@ def candidates(per_type: int) -> list[dict]:
                 s["first_year"] = min(s["first_year"], year)
             s["radio_weeks" if "radio" in r["chart"] else "digital_weeks"] += 1
             s["countries"].add(DOMESTIC[r["chart"]])
-    recent = [s for s in songs.values()
-              if s["first_year"] >= MIN_YEAR and not excluded(s["artist"], s["title"]) and not christmas(s["title"])
-              and not foreign_ifpi_song(s["artist"])]
-    by_radio = sorted(recent, key=lambda s: -s["radio_weeks"])[:per_type]
-    by_digital = sorted(recent, key=lambda s: -s["digital_weeks"])[:per_type]
-    picked = {id(s): s for s in by_radio + by_digital}
+    ok = [s for s in songs.values()
+          if s["first_year"] >= MIN_YEAR and not excluded(s["artist"], s["title"]) and not christmas(s["title"])
+          and not foreign_ifpi_song(s["artist"])]
+    # 2020+ and older songs are picked separately, so older hits with years of chart weeks don't push out new songs
+    picked = {}
+    for period in ([s for s in ok if s["first_year"] >= 2020], [s for s in ok if s["first_year"] < 2020]):
+        by_radio = sorted(period, key=lambda s: -s["radio_weeks"])[:per_type]
+        by_digital = sorted(period, key=lambda s: -s["digital_weeks"])[:per_type]
+        picked.update({id(s): s for s in by_radio + by_digital})
     return [{**s, "source": "ifpi", "plays": ""} for s in picked.values()]
 
 
@@ -195,16 +205,19 @@ def spotify_candidates(min_plays: int) -> list[dict]:
         for t in csv.DictReader(f):
             plays = int(t["play_count"] or 0)
             year = int(t["release_date"][:4]) if t["release_date"][:4].isdigit() else 0
-            if (plays < min_plays or year < MIN_YEAR or VERSION.search(t["name"]) or NOT_A_SONG.search(t["name"])
+            year = year if year >= PLACEHOLDER_YEAR else 0
+            if (plays < min_plays or VERSION.search(t["name"]) or NOT_A_SONG.search(t["name"])
                     or christmas(t["name"], t["album"]) or not domestic & {norm(a) for a in t["artists"].split(" & ")}):
                 continue
             if excluded(t["artists"], t["name"]):
                 continue
             key = song_key(t["artists"], t["name"])
+            first = min(year or 9999, best[key]["first_year"]) if key in best else year or 9999
             if key not in best or plays > best[key]["plays"]:
-                best[key] = {"artist": t["artists"], "title": t["name"], "first_year": year, "radio_weeks": 0,
+                best[key] = {"artist": t["artists"], "title": t["name"], "radio_weeks": 0,
                              "digital_weeks": 0, "source": "spotify", "plays": plays}
-    return list(best.values())
+            best[key]["first_year"] = first  # earliest version, not the most played one (a remaster)
+    return [s for s in best.values() if s["first_year"] >= MIN_YEAR]
 
 
 def merge(ifpi: list[dict], spotify: list[dict]) -> list[dict]:
@@ -244,8 +257,9 @@ def resolve(song: dict) -> tuple[dict | None, str]:
     # misses explicit tracks (e.g. Viktor Sheen "Stíny") that the lookup returns. Searches cover songs
     # beyond the 200-track lookup cap; the title-only search catches "artist title" returning nothing.
     attempts = [("cz", None)]
-    attempts += [(store, f"{first_artist} {clean_title(song['title'])}") for store in ("cz", "sk")]
-    attempts.append(("cz", clean_title(song["title"])))
+    if not CATALOGUE_ONLY:
+        attempts += [(store, f"{first_artist} {clean_title(song['title'])}") for store in ("cz", "sk")]
+        attempts.append(("cz", clean_title(song["title"])))
     attempts.append(("sk", None))
     for store, term in attempts:
         if term is None:
@@ -268,7 +282,11 @@ def resolve(song: dict) -> tuple[dict | None, str]:
         if not matches:
             reason = f"no title+artist match ({len(results)} results)"
             continue
-        first = min(t.get("releaseDate", "9999") for t in matches)
+        first = min((t.get("releaseDate", "9999") for t in matches if t.get("releaseDate", "9999")[:4] >= str(PLACEHOLDER_YEAR)),
+                    default="9999")
+        spotify_first = song.get("first_year") if song.get("source") == "spotify" else None
+        if spotify_first and spotify_first < int(first[:4]):
+            first = f"{spotify_first}-01-01"  # an earlier Spotify release than any on iTunes
         if int(first[:4]) < MIN_YEAR:
             return None, f"released {first[:4]} (before {MIN_YEAR})"
         # Prefer the explicit original over a clean edit (bleeped preview); the year stays the earliest release.
@@ -310,7 +328,11 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--per-chart-type", type=int, default=200)
     parser.add_argument("--min-plays", type=int, default=1_000_000, help="Spotify plays for a non-IFPI song; 0 = IFPI only")
+    parser.add_argument("--since", type=int, default=2020, help="earliest release year")
+    parser.add_argument("--catalogue-only", action="store_true", help="fast pass: artist catalogues only, no Deezer")
     args = parser.parse_args()
+    global MIN_YEAR, CATALOGUE_ONLY
+    MIN_YEAR, CATALOGUE_ONLY = args.since, args.catalogue_only
 
     ifpi = candidates(args.per_chart_type)
     spotify = spotify_candidates(args.min_plays) if args.min_plays else []
@@ -326,7 +348,7 @@ def main() -> None:
             track, reason = None, "excluded artist (iTunes credits)"
         if track and track["trackId"] in seen_ids:
             track, reason = None, "duplicate of another candidate"
-        dz = resolve_deezer(s)
+        dz = None if CATALOGUE_ONLY else resolve_deezer(s)
         if not track and dz:
             reason += " | on Deezer only"
         review.append({"source": s["source"], "plays": s["plays"],

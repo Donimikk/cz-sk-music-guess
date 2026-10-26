@@ -101,6 +101,26 @@ def groups_of(artist: str, title: str, members: dict) -> list[str]:
     return sorted({g for a in credited for g in members.get(norm(a), ())})
 
 
+def merge_duplicates(games: list[dict], log: list[str]) -> list[dict]:
+    """The same song can reach the match twice under different credits (IFPI "Cavalier & Ben Cristovao" vs Spotify
+    "Cavalier", two Karel Gott "Trezor" releases): keep the one with more plays, with the higher plays and earlier year."""
+    by_key: dict[str, dict] = {}
+    for g in games:
+        if g["year"] >= 9999:  # no real date anywhere (only placeholders like Spotify 1900-01-01): unknown, not hidden
+            g = {**g, "year": None}
+        key = song_key(g["artist"], g["title"])
+        if key not in by_key:
+            by_key[key] = g
+            continue
+        first = by_key[key]
+        keep, other = (first, g) if (first.get("plays") or 0) >= (g.get("plays") or 0) else (g, first)
+        keep = {**keep, "plays": max(keep.get("plays") or 0, other.get("plays") or 0) or None,
+                "year": min((y for y in (keep["year"], other["year"]) if y), default=None)}
+        by_key[key] = keep
+        log.append(f"duplicate {key}: kept {keep['id']}, dropped {other['id']}")
+    return list(by_key.values())
+
+
 def percentile(values: dict[str, float]) -> dict[str, float]:
     """Key → share of songs with a higher value (0 = most popular). Missing keys aren't ranked."""
     order = sorted(values, key=lambda k: -values[k])
@@ -136,7 +156,7 @@ def main() -> None:
     with open(EXCLUDED_SONGS, encoding="utf-8") as f:
         excluded_songs = {song_key(r["artist"], r["title"]) for r in csv.DictReader(f)}
     songs, seen, dropped = [], {}, []
-    for g in games:
+    for g in merge_duplicates(games, dropped):
         r = review.get(str(g["id"]), {})
         key = song_key(g["artist"], g["title"])
         if key in excluded_songs or excluded(g["artist"], g["title"]):
@@ -149,7 +169,7 @@ def main() -> None:
         songs.append({**g, "key": key, "plays": g.get("plays") or 0,
                       "radio_weeks": int(r.get("radio_weeks") or 0), "digital_weeks": int(r.get("digital_weeks") or 0),
                       "country": country, "country_source": country_source,
-                      "genre_group": GENRES.get(g.get("genre", ""), "other"), "era": f"{g['year'] // 10 * 10}s",
+                      "genre_group": GENRES.get(g.get("genre", ""), "other"), "era": f"{g['year'] // 10 * 10}s" if g["year"] else "unknown",
                       "groups": groups_of(g["artist"], g["title"], members)})
     assign_levels(songs)
     for s in songs:

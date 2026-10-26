@@ -78,6 +78,12 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
   PTK is a single artist, not a group (user). Milion+ = current artists on cs.wikipedia only (former ones like Konex would pull in their later solo songs).
 
 ## Data selection
+- Older decades (2026-10-26): `build_v0.py --since 1900`; pass 1 `--catalogue-only` (artist catalogues, mostly cached,
+  ~50 min for 4,929 candidates), then a normal run for the rest. IFPI top-N is picked per period (2020+ / older).
+- Year = earliest release on iTunes or any Spotify version; dates before 1950 are placeholders (Spotify 1900-01-01 for
+  Nohavica) and ignored; no real date → year null (not in the decade filter). Earliest-date still trusts wrong
+  compilation dates (Gott & Charlotte "Srdce nehasnou" 2019 → 1995). MusicBrainz is incomplete for CZ songs (Nohavica
+  "Kometa" earliest 2006). Never send the user's email as a User-Agent contact; use the repo URL.
 - Ranking by total weeks on IFPI charts misses new songs and fan-base artists with short release
   peaks (Dušan Vlk: 47 songs in Spotify SK Top 200 for 1–4 days each, only one IFPI entry).
   Streaming numbers (kworb) must be part of candidate selection.

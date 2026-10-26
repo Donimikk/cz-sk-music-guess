@@ -333,7 +333,7 @@ function render() {
     $("resultCover").src = s.cover;
     $("verdict").textContent = game.won ? `Uhádnuté na ${game.guesses.length}. pokus` : "Neuhádnuté";
     $("answerTitle").textContent = s.title;
-    $("answerArtist").textContent = `${s.artist} (${s.year})`;
+    $("answerArtist").textContent = s.year ? `${s.artist} (${s.year})` : s.artist;
     $("apple").href = s.url;
     $("share").textContent = "Zdieľať výsledok";
     const played = game.level || level;
@@ -545,8 +545,8 @@ const FACETS = [
     label: { cz: "CZ", sk: "SK" } },
   { id: "genre", name: "Žáner", values: (s) => [s.genre_group],
     label: { "hip-hop": "Rap", pop: "Pop", rock: "Rock", rnb: "R&B", other: "Iné" } },
-  { id: "decade", name: "Roky", values: (s) => [String(Math.floor(s.year / 10) * 10)],
-    label: (v) => v.slice(2) + ". roky" },
+  { id: "decade", name: "Roky", values: (s) => (s.year ? [String(Math.floor(s.year / 10) * 10)] : []),
+    label: (v) => (v < "2000" ? v.slice(2) + ". roky" : v + "–" + String(Number(v) + 9).slice(2)) },
   { id: "group", name: "Skupiny", values: (s) => s.groups || [], label: (v) => v },
 ];
 const EXCLUSIVE = [["decade", "group"]];
