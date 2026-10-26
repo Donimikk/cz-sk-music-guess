@@ -396,7 +396,9 @@
   "country_source": "IFPI rows CZ 6 / SK 2",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.1952,
   "channel": "streaming",
   "level": "impossible",
@@ -416,6 +418,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -6391,7 +6397,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8523,
   "channel": "streaming",
@@ -6414,7 +6420,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -6691,7 +6697,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.7652,
   "channel": "streaming",
@@ -6714,7 +6720,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -7075,7 +7081,7 @@
   "genre_group": "pop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.456,
   "channel": "streaming",
@@ -7098,7 +7104,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -11827,7 +11833,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.1126,
   "channel": "streaming",
@@ -11850,7 +11856,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -11875,7 +11881,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9786,
   "channel": "streaming",
@@ -11898,7 +11904,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -11923,7 +11929,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.7022,
   "channel": "streaming",
@@ -11946,7 +11952,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -11971,7 +11977,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.5595,
   "channel": "streaming",
@@ -11994,7 +12000,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12019,7 +12025,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.974,
   "channel": "streaming",
@@ -12042,7 +12048,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12067,7 +12073,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9512,
   "channel": "streaming",
@@ -12090,7 +12096,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12115,7 +12121,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.5002,
   "channel": "streaming",
@@ -12138,7 +12144,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12163,7 +12169,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4031,
   "channel": "streaming",
@@ -12186,7 +12192,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12211,7 +12217,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.5946,
   "channel": "streaming",
@@ -12234,7 +12240,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12259,7 +12265,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9612,
   "channel": "streaming",
@@ -12282,7 +12288,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12307,7 +12313,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.7611,
   "channel": "streaming",
@@ -12330,7 +12336,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12355,7 +12361,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.0032,
   "channel": "streaming",
@@ -12378,7 +12384,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12403,7 +12409,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4423,
   "channel": "streaming",
@@ -12426,7 +12432,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12451,7 +12457,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9932,
   "channel": "streaming",
@@ -12474,7 +12480,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12499,7 +12505,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8687,
   "channel": "streaming",
@@ -12522,7 +12528,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12547,7 +12553,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9954,
   "channel": "streaming",
@@ -12570,7 +12576,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12595,7 +12601,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8331,
   "channel": "streaming",
@@ -12618,7 +12624,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12643,7 +12649,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.29,
   "channel": "streaming",
@@ -12666,7 +12672,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12691,7 +12697,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8915,
   "channel": "streaming",
@@ -12714,7 +12720,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12739,7 +12745,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.7036,
   "channel": "streaming",
@@ -12762,7 +12768,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12787,7 +12793,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.2736,
   "channel": "streaming",
@@ -12810,7 +12816,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12835,7 +12841,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9995,
   "channel": "streaming",
@@ -12858,7 +12864,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12883,7 +12889,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9243,
   "channel": "streaming",
@@ -12906,7 +12912,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12931,7 +12937,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.1081,
   "channel": "streaming",
@@ -12954,7 +12960,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -12979,7 +12985,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9704,
   "channel": "streaming",
@@ -13002,7 +13008,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13027,7 +13033,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8048,
   "channel": "streaming",
@@ -13050,7 +13056,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13075,7 +13081,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4893,
   "channel": "streaming",
@@ -13098,7 +13104,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13123,7 +13129,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.3055,
   "channel": "streaming",
@@ -13146,7 +13152,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13171,7 +13177,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4897,
   "channel": "streaming",
@@ -13194,7 +13200,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13219,7 +13225,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.6252,
   "channel": "streaming",
@@ -13242,7 +13248,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13267,7 +13273,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8044,
   "channel": "streaming",
@@ -13290,7 +13296,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13315,7 +13321,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8605,
   "channel": "streaming",
@@ -13338,7 +13344,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13363,7 +13369,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.6585,
   "channel": "streaming",
@@ -13386,7 +13392,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13411,7 +13417,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8545,
   "channel": "streaming",
@@ -13434,7 +13440,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13459,7 +13465,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8705,
   "channel": "streaming",
@@ -13482,7 +13488,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13507,7 +13513,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4888,
   "channel": "streaming",
@@ -13530,7 +13536,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13555,7 +13561,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9444,
   "channel": "streaming",
@@ -13578,7 +13584,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13603,7 +13609,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.7136,
   "channel": "streaming",
@@ -13626,7 +13632,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13651,7 +13657,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8276,
   "channel": "streaming",
@@ -13674,7 +13680,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13699,7 +13705,7 @@
   "genre_group": "pop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4747,
   "channel": "streaming",
@@ -13722,7 +13728,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13747,7 +13753,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9321,
   "channel": "streaming",
@@ -13770,7 +13776,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13795,7 +13801,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.3411,
   "channel": "streaming",
@@ -13818,7 +13824,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13843,7 +13849,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.2134,
   "channel": "streaming",
@@ -13866,7 +13872,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13891,7 +13897,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9964,
   "channel": "streaming",
@@ -13914,7 +13920,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13939,7 +13945,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8436,
   "channel": "streaming",
@@ -13962,7 +13968,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -13987,7 +13993,7 @@
   "genre_group": "other",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9859,
   "channel": "streaming",
@@ -14010,7 +14016,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14035,7 +14041,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9006,
   "channel": "streaming",
@@ -14058,7 +14064,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14083,7 +14089,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8354,
   "channel": "streaming",
@@ -14106,7 +14112,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14131,7 +14137,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9977,
   "channel": "streaming",
@@ -14154,7 +14160,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14179,7 +14185,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.694,
   "channel": "streaming",
@@ -14202,7 +14208,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14227,7 +14233,7 @@
   "genre_group": "pop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.7807,
   "channel": "streaming",
@@ -14250,7 +14256,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14275,7 +14281,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.2412,
   "channel": "streaming",
@@ -14298,7 +14304,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14323,7 +14329,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.1733,
   "channel": "streaming",
@@ -14346,7 +14352,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14371,7 +14377,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 1.0,
   "channel": "streaming",
@@ -14394,7 +14400,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14419,7 +14425,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9822,
   "channel": "streaming",
@@ -14442,7 +14448,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14467,7 +14473,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9868,
   "channel": "streaming",
@@ -14490,7 +14496,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14515,7 +14521,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.72,
   "channel": "streaming",
@@ -14538,7 +14544,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14563,7 +14569,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9311,
   "channel": "streaming",
@@ -14586,7 +14592,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14611,7 +14617,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.7574,
   "channel": "streaming",
@@ -14634,7 +14640,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14659,7 +14665,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.85,
   "channel": "streaming",
@@ -14682,7 +14688,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14707,7 +14713,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9881,
   "channel": "streaming",
@@ -14730,7 +14736,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14755,7 +14761,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9448,
   "channel": "streaming",
@@ -14778,7 +14784,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14803,7 +14809,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.7241,
   "channel": "streaming",
@@ -14826,7 +14832,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14851,7 +14857,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4802,
   "channel": "streaming",
@@ -14874,7 +14880,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14899,7 +14905,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.7647,
   "channel": "streaming",
@@ -14922,7 +14928,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14947,7 +14953,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4555,
   "channel": "streaming",
@@ -14970,7 +14976,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -14995,7 +15001,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.56,
   "channel": "streaming",
@@ -15018,7 +15024,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -15043,7 +15049,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9877,
   "channel": "streaming",
@@ -15066,7 +15072,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -15091,7 +15097,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9485,
   "channel": "streaming",
@@ -15114,7 +15120,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -15139,7 +15145,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.3812,
   "channel": "streaming",
@@ -15162,7 +15168,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -15187,7 +15193,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.1135,
   "channel": "streaming",
@@ -15210,7 +15216,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -15787,7 +15793,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.6366,
   "channel": "streaming",
@@ -15810,7 +15816,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -25998,7 +26004,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8504,
   "channel": "streaming",
@@ -26021,7 +26027,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -32664,6 +32670,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
+   "Mikeroft",
    "Milion+"
   ],
   "popularity": 0.4838,
@@ -32685,6 +32692,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    },
    {
     "tag": "group:Milion+",
@@ -35183,7 +35194,7 @@
   "genre_group": "pop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.3105,
   "channel": "streaming",
@@ -35206,7 +35217,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -38627,7 +38638,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9389,
   "channel": "streaming",
@@ -38650,7 +38661,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -38675,7 +38686,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8395,
   "channel": "streaming",
@@ -38698,7 +38709,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -38723,7 +38734,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9289,
   "channel": "streaming",
@@ -38746,7 +38757,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -38771,7 +38782,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8737,
   "channel": "streaming",
@@ -38794,7 +38805,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -38819,7 +38830,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.2699,
   "channel": "streaming",
@@ -38842,7 +38853,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -38867,7 +38878,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.5171,
   "channel": "streaming",
@@ -38890,7 +38901,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -38915,7 +38926,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.3899,
   "channel": "streaming",
@@ -38938,7 +38949,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -38963,7 +38974,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.0502,
   "channel": "streaming",
@@ -38986,7 +38997,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39011,7 +39022,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.3621,
   "channel": "streaming",
@@ -39034,7 +39045,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39059,7 +39070,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.5435,
   "channel": "streaming",
@@ -39082,7 +39093,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39107,7 +39118,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.5125,
   "channel": "streaming",
@@ -39130,7 +39141,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39155,7 +39166,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.2868,
   "channel": "streaming",
@@ -39178,7 +39189,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39203,7 +39214,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4067,
   "channel": "streaming",
@@ -39226,7 +39237,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39251,7 +39262,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9699,
   "channel": "streaming",
@@ -39274,7 +39285,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39299,7 +39310,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.2207,
   "channel": "streaming",
@@ -39322,7 +39333,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39347,7 +39358,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.7624,
   "channel": "streaming",
@@ -39370,7 +39381,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39395,7 +39406,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.798,
   "channel": "streaming",
@@ -39418,7 +39429,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39443,7 +39454,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.3005,
   "channel": "streaming",
@@ -39466,7 +39477,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39491,7 +39502,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.3684,
   "channel": "streaming",
@@ -39514,7 +39525,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39539,7 +39550,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8422,
   "channel": "streaming",
@@ -39562,7 +39573,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39587,7 +39598,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4683,
   "channel": "streaming",
@@ -39610,7 +39621,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39635,7 +39646,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.2016,
   "channel": "streaming",
@@ -39658,7 +39669,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39683,7 +39694,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9804,
   "channel": "streaming",
@@ -39706,7 +39717,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -39875,6 +39886,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
+   "Mikeroft",
    "Milion+"
   ],
   "popularity": 0.979,
@@ -39896,6 +39908,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    },
    {
     "tag": "group:Milion+",
@@ -45958,7 +45974,9 @@
   "country_source": "IFPI rows CZ 13 / SK 23",
   "genre_group": "rnb",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.87,
   "channel": "streaming",
   "level": "medium",
@@ -45978,6 +45996,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -52744,8 +52766,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.6202,
   "channel": "streaming",
@@ -52769,10 +52790,6 @@
    },
    {
     "tag": "group:Milion+",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
     "source": "catalog/groups.csv"
    }
   ]
@@ -53085,6 +53102,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
+   "Mikeroft",
    "Milion+"
   ],
   "popularity": 0.8103,
@@ -53106,6 +53124,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    },
    {
     "tag": "group:Milion+",
@@ -53805,8 +53827,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.1131,
   "channel": "streaming",
@@ -53830,10 +53851,6 @@
    },
    {
     "tag": "group:Milion+",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
     "source": "catalog/groups.csv"
    }
   ]
@@ -53906,8 +53923,8 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "Rychlí kluci"
+   "Mikeroft",
+   "Milion+"
   ],
   "popularity": 0.8728,
   "channel": "streaming",
@@ -53930,11 +53947,11 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Milion+",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Milion+",
     "source": "catalog/groups.csv"
    }
   ]
@@ -54204,6 +54221,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
+   "Mikeroft",
    "Milion+"
   ],
   "popularity": 0.6443,
@@ -54225,6 +54243,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    },
    {
     "tag": "group:Milion+",
@@ -54444,8 +54466,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.617,
   "channel": "streaming",
@@ -54469,10 +54490,6 @@
    },
    {
     "tag": "group:Milion+",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
     "source": "catalog/groups.csv"
    }
   ]
@@ -55540,9 +55557,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.9156,
   "channel": "streaming",
   "level": "medium",
@@ -55562,10 +55577,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -55588,9 +55599,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.7223,
   "channel": "streaming",
   "level": "hard",
@@ -55610,10 +55619,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -55636,9 +55641,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.3356,
   "channel": "streaming",
   "level": "impossible",
@@ -55658,10 +55661,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -55684,9 +55683,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.6653,
   "channel": "streaming",
   "level": "hard",
@@ -55706,10 +55703,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -55733,8 +55726,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.99,
   "channel": "streaming",
@@ -55759,10 +55751,6 @@
    {
     "tag": "group:Milion+",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -55785,9 +55773,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.8824,
   "channel": "streaming",
   "level": "medium",
@@ -55807,10 +55793,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -55833,9 +55815,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.5809,
   "channel": "streaming",
   "level": "expert",
@@ -55855,10 +55835,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -55881,9 +55857,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.8308,
   "channel": "streaming",
   "level": "medium",
@@ -55903,10 +55877,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -55929,9 +55899,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.9193,
   "channel": "streaming",
   "level": "medium",
@@ -55951,10 +55919,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -55978,8 +55942,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.2353,
   "channel": "streaming",
@@ -56004,10 +55967,6 @@
    {
     "tag": "group:Milion+",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56030,9 +55989,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.5239,
   "channel": "streaming",
   "level": "expert",
@@ -56052,10 +56009,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56079,8 +56032,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "PTK",
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.7492,
   "channel": "streaming",
@@ -56103,11 +56055,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -56132,8 +56080,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.4929,
   "channel": "streaming",
@@ -56158,10 +56105,6 @@
    {
     "tag": "group:Milion+",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56184,9 +56127,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.1765,
   "channel": "streaming",
   "level": "impossible",
@@ -56206,10 +56147,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56232,9 +56169,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.0442,
   "channel": "streaming",
   "level": "impossible",
@@ -56254,10 +56189,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56280,9 +56211,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.6338,
   "channel": "streaming",
   "level": "hard",
@@ -56302,10 +56231,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56328,9 +56253,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.5121,
   "channel": "streaming",
   "level": "expert",
@@ -56350,10 +56273,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56376,9 +56295,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.4295,
   "channel": "streaming",
   "level": "expert",
@@ -56398,10 +56315,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56425,8 +56338,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "DMS",
-   "PTK"
+   "DMS"
   ],
   "popularity": 0.3972,
   "channel": "streaming",
@@ -56451,10 +56363,6 @@
    {
     "tag": "group:DMS",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56477,9 +56385,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.0301,
   "channel": "streaming",
   "level": "impossible",
@@ -56499,10 +56405,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56525,9 +56427,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.3493,
   "channel": "streaming",
   "level": "impossible",
@@ -56547,10 +56447,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56573,9 +56469,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.3835,
   "channel": "streaming",
   "level": "expert",
@@ -56595,10 +56489,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56621,9 +56511,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.5613,
   "channel": "streaming",
   "level": "expert",
@@ -56643,10 +56531,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56669,9 +56553,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.5103,
   "channel": "streaming",
   "level": "expert",
@@ -56691,10 +56573,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56717,9 +56595,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.4337,
   "channel": "streaming",
   "level": "expert",
@@ -56739,10 +56615,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56765,9 +56637,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.8751,
   "channel": "streaming",
   "level": "medium",
@@ -56787,10 +56657,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56814,8 +56680,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.8778,
   "channel": "streaming",
@@ -56840,10 +56705,6 @@
    {
     "tag": "group:Milion+",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56866,9 +56727,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.6083,
   "channel": "streaming",
   "level": "hard",
@@ -56888,10 +56747,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56914,9 +56769,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.829,
   "channel": "streaming",
   "level": "medium",
@@ -56936,10 +56789,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -56963,8 +56812,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.8668,
   "channel": "streaming",
@@ -56989,10 +56837,6 @@
    {
     "tag": "group:Milion+",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57015,9 +56859,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.6507,
   "channel": "streaming",
   "level": "hard",
@@ -57037,10 +56879,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57063,9 +56901,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.7971,
   "channel": "streaming",
   "level": "hard",
@@ -57085,10 +56921,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57111,9 +56943,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.1345,
   "channel": "streaming",
   "level": "impossible",
@@ -57133,10 +56963,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57159,9 +56985,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.5987,
   "channel": "streaming",
   "level": "expert",
@@ -57181,10 +57005,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57207,9 +57027,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.5116,
   "channel": "streaming",
   "level": "expert",
@@ -57229,10 +57047,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57256,8 +57070,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.3425,
   "channel": "streaming",
@@ -57282,10 +57095,6 @@
    {
     "tag": "group:Milion+",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57309,8 +57118,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.7706,
   "channel": "streaming",
@@ -57335,10 +57143,6 @@
    {
     "tag": "group:Milion+",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57361,9 +57165,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.907,
   "channel": "streaming",
   "level": "medium",
@@ -57383,10 +57185,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57410,8 +57208,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.8162,
   "channel": "streaming",
@@ -57436,10 +57233,6 @@
    {
     "tag": "group:Milion+",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57462,9 +57255,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.2704,
   "channel": "streaming",
   "level": "impossible",
@@ -57484,10 +57275,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57510,9 +57297,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.0597,
   "channel": "streaming",
   "level": "impossible",
@@ -57532,10 +57317,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57558,9 +57339,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.793,
   "channel": "streaming",
   "level": "hard",
@@ -57580,10 +57359,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57607,8 +57382,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.6119,
   "channel": "streaming",
@@ -57633,10 +57407,6 @@
    {
     "tag": "group:Milion+",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57659,9 +57429,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.891,
   "channel": "streaming",
   "level": "medium",
@@ -57681,10 +57449,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57707,9 +57471,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.2152,
   "channel": "streaming",
   "level": "impossible",
@@ -57729,10 +57491,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57755,9 +57513,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.4318,
   "channel": "streaming",
   "level": "expert",
@@ -57777,10 +57533,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57803,9 +57555,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.4824,
   "channel": "streaming",
   "level": "expert",
@@ -57825,10 +57575,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57851,9 +57597,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.5062,
   "channel": "streaming",
   "level": "expert",
@@ -57873,10 +57617,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57899,9 +57639,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.3981,
   "channel": "streaming",
   "level": "expert",
@@ -57921,10 +57659,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57947,9 +57681,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.0255,
   "channel": "streaming",
   "level": "impossible",
@@ -57969,10 +57701,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -57995,9 +57723,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.5736,
   "channel": "streaming",
   "level": "expert",
@@ -58017,10 +57743,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58043,9 +57765,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.9261,
   "channel": "streaming",
   "level": "easy",
@@ -58065,10 +57785,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58091,9 +57807,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.9398,
   "channel": "streaming",
   "level": "easy",
@@ -58113,10 +57827,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58139,9 +57849,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.342,
   "channel": "streaming",
   "level": "impossible",
@@ -58161,10 +57869,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58187,9 +57891,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.2645,
   "channel": "streaming",
   "level": "impossible",
@@ -58209,10 +57911,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58235,9 +57933,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.6575,
   "channel": "streaming",
   "level": "hard",
@@ -58257,10 +57953,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58284,8 +57976,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.1715,
   "channel": "streaming",
@@ -58310,10 +58001,6 @@
    {
     "tag": "group:Milion+",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58336,9 +58023,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.8404,
   "channel": "streaming",
   "level": "medium",
@@ -58358,10 +58043,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58384,9 +58065,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.4432,
   "channel": "streaming",
   "level": "expert",
@@ -58406,10 +58085,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58432,9 +58107,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.9608,
   "channel": "streaming",
   "level": "easy",
@@ -58454,10 +58127,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58480,9 +58149,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.0,
   "channel": "streaming",
   "level": "impossible",
@@ -58502,10 +58169,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58529,8 +58192,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.5901,
   "channel": "streaming",
@@ -58555,10 +58217,6 @@
    {
     "tag": "group:Milion+",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58581,9 +58239,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.2818,
   "channel": "streaming",
   "level": "impossible",
@@ -58603,10 +58259,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58629,9 +58281,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.9845,
   "channel": "streaming",
   "level": "easy",
@@ -58651,10 +58301,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58678,8 +58324,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.4519,
   "channel": "streaming",
@@ -58704,10 +58349,6 @@
    {
     "tag": "group:Milion+",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58730,9 +58371,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.6357,
   "channel": "streaming",
   "level": "hard",
@@ -58752,10 +58391,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58778,9 +58413,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.7834,
   "channel": "streaming",
   "level": "hard",
@@ -58800,10 +58433,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58826,9 +58455,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.1113,
   "channel": "streaming",
   "level": "impossible",
@@ -58848,10 +58475,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58874,9 +58497,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.8491,
   "channel": "streaming",
   "level": "medium",
@@ -58896,10 +58517,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58922,9 +58539,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.2649,
   "channel": "streaming",
   "level": "impossible",
@@ -58944,10 +58559,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -58970,9 +58581,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.0789,
   "channel": "streaming",
   "level": "impossible",
@@ -58992,10 +58601,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59018,9 +58623,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.0876,
   "channel": "streaming",
   "level": "impossible",
@@ -59040,10 +58643,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59066,9 +58665,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.5618,
   "channel": "streaming",
   "level": "expert",
@@ -59088,10 +58685,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59114,9 +58707,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.8965,
   "channel": "streaming",
   "level": "medium",
@@ -59136,10 +58727,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59162,9 +58749,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.2823,
   "channel": "streaming",
   "level": "impossible",
@@ -59184,10 +58769,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59210,9 +58791,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.2494,
   "channel": "streaming",
   "level": "impossible",
@@ -59232,10 +58811,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59258,9 +58833,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.9129,
   "channel": "streaming",
   "level": "medium",
@@ -59280,10 +58853,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59306,9 +58875,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.4359,
   "channel": "streaming",
   "level": "expert",
@@ -59328,10 +58895,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59354,9 +58917,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.9056,
   "channel": "streaming",
   "level": "medium",
@@ -59376,10 +58937,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59403,8 +58960,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "DMS",
-   "PTK"
+   "DMS"
   ],
   "popularity": 0.3575,
   "channel": "streaming",
@@ -59429,10 +58985,6 @@
    {
     "tag": "group:DMS",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59456,8 +59008,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.788,
   "channel": "streaming",
@@ -59482,10 +59033,6 @@
    {
     "tag": "group:Milion+",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59508,9 +59055,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.6772,
   "channel": "streaming",
   "level": "hard",
@@ -59530,10 +59075,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59557,8 +59098,8 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Mikeroft",
+   "Milion+"
   ],
   "popularity": 0.9653,
   "channel": "streaming",
@@ -59581,11 +59122,11 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Milion+",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    },
    {
-    "tag": "group:PTK",
+    "tag": "group:Milion+",
     "source": "catalog/groups.csv"
    }
   ]
@@ -59609,9 +59150,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.5581,
   "channel": "streaming",
   "level": "expert",
@@ -59631,10 +59170,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59657,9 +59192,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.3,
   "channel": "streaming",
   "level": "impossible",
@@ -59679,10 +59212,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59705,9 +59234,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.586,
   "channel": "streaming",
   "level": "expert",
@@ -59727,10 +59254,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59753,9 +59276,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.9074,
   "channel": "streaming",
   "level": "medium",
@@ -59775,10 +59296,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59801,9 +59318,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.6416,
   "channel": "streaming",
   "level": "hard",
@@ -59823,10 +59338,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59850,7 +59361,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "PTK"
+   "Mikeroft"
   ],
   "popularity": 0.9736,
   "channel": "streaming",
@@ -59873,7 +59384,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:PTK",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -59897,9 +59408,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.3666,
   "channel": "streaming",
   "level": "expert",
@@ -59919,10 +59428,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59945,9 +59450,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.5135,
   "channel": "streaming",
   "level": "expert",
@@ -59967,10 +59470,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -59993,9 +59492,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.2326,
   "channel": "streaming",
   "level": "impossible",
@@ -60015,10 +59512,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -60041,9 +59534,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.1455,
   "channel": "streaming",
   "level": "impossible",
@@ -60063,10 +59554,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -60089,9 +59576,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.3671,
   "channel": "streaming",
   "level": "expert",
@@ -60111,10 +59596,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -60137,9 +59618,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.3912,
   "channel": "streaming",
   "level": "expert",
@@ -60159,10 +59638,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -60185,9 +59660,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.3178,
   "channel": "streaming",
   "level": "impossible",
@@ -60207,10 +59680,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -60233,9 +59702,7 @@
   "country_source": "IFPI rows CZ 1097 / SK 597",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "PTK"
-  ],
+  "groups": [],
   "popularity": 0.6407,
   "channel": "streaming",
   "level": "hard",
@@ -60255,10 +59722,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -62777,7 +62240,9 @@
   "country_source": "IFPI rows CZ 188 / SK 1524",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9667,
   "channel": "streaming",
   "level": "easy",
@@ -62797,6 +62262,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -66828,7 +66297,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.7588,
   "channel": "streaming",
@@ -66851,7 +66320,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -70998,6 +70467,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
+   "Mikeroft",
    "Milion+"
   ],
   "popularity": 0.8149,
@@ -71019,6 +70489,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    },
    {
     "tag": "group:Milion+",
@@ -71574,6 +71048,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
+   "Mikeroft",
    "Milion+"
   ],
   "popularity": 0.9001,
@@ -71595,6 +71070,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    },
    {
     "tag": "group:Milion+",
@@ -73091,7 +72570,8 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Kontrafakt"
+   "Kontrafakt",
+   "Mikeroft"
   ],
   "popularity": 0.8956,
   "channel": "streaming",
@@ -73115,6 +72595,10 @@
    },
    {
     "tag": "group:Kontrafakt",
+    "source": "catalog/groups.csv"
+   },
+   {
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -74837,6 +74321,7 @@
   "genre_group": "rnb",
   "era": "2020s",
   "groups": [
+   "Mikeroft",
    "Milion+"
   ],
   "popularity": 0.985,
@@ -74858,6 +74343,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    },
    {
     "tag": "group:Milion+",
@@ -75898,8 +75387,8 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
+   "Mikeroft",
    "Milion+",
-   "Rychlí kluci",
    "WLVS"
   ],
   "popularity": 0.2526,
@@ -75923,11 +75412,11 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Milion+",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Milion+",
     "source": "catalog/groups.csv"
    },
    {
@@ -76052,6 +75541,7 @@
   "genre_group": "rnb",
   "era": "2020s",
   "groups": [
+   "Mikeroft",
    "WLVS"
   ],
   "popularity": 0.9416,
@@ -76073,6 +75563,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    },
    {
     "tag": "group:WLVS",
@@ -78928,7 +78422,8 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "DMS"
+   "DMS",
+   "Mikeroft"
   ],
   "popularity": 0.8755,
   "channel": "streaming",
@@ -78952,6 +78447,10 @@
    },
    {
     "tag": "group:DMS",
+    "source": "catalog/groups.csv"
+   },
+   {
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -79792,8 +79291,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "DMS",
-   "PTK"
+   "DMS"
   ],
   "popularity": 0.9982,
   "channel": "streaming",
@@ -79817,10 +79315,6 @@
    },
    {
     "tag": "group:DMS",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
     "source": "catalog/groups.csv"
    }
   ]
@@ -82394,7 +81888,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.3192,
   "channel": "streaming",
@@ -82417,7 +81911,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -86180,7 +85674,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.1363,
   "channel": "streaming",
@@ -86203,7 +85697,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -86396,7 +85890,7 @@
   "genre_group": "pop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9471,
   "channel": "streaming",
@@ -86419,7 +85913,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -86864,7 +86358,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.2098,
   "channel": "streaming",
@@ -86887,7 +86381,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -86912,7 +86406,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4619,
   "channel": "streaming",
@@ -86935,7 +86429,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -86960,7 +86454,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9166,
   "channel": "streaming",
@@ -86983,7 +86477,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87008,7 +86502,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.5978,
   "channel": "streaming",
@@ -87031,7 +86525,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87056,7 +86550,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9266,
   "channel": "streaming",
@@ -87079,7 +86573,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87104,7 +86598,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.7766,
   "channel": "streaming",
@@ -87127,7 +86621,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87152,7 +86646,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.3703,
   "channel": "streaming",
@@ -87175,7 +86669,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87200,7 +86694,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9412,
   "channel": "streaming",
@@ -87223,7 +86717,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87248,7 +86742,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9986,
   "channel": "streaming",
@@ -87271,7 +86765,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87296,7 +86790,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8454,
   "channel": "streaming",
@@ -87319,7 +86813,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87344,7 +86838,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.2927,
   "channel": "streaming",
@@ -87367,7 +86861,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87392,7 +86886,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.896,
   "channel": "streaming",
@@ -87415,7 +86909,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87440,7 +86934,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.3757,
   "channel": "streaming",
@@ -87463,7 +86957,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87488,7 +86982,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4186,
   "channel": "streaming",
@@ -87511,7 +87005,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87536,7 +87030,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.2941,
   "channel": "streaming",
@@ -87559,7 +87053,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87584,7 +87078,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.3611,
   "channel": "streaming",
@@ -87607,7 +87101,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87632,7 +87126,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8865,
   "channel": "streaming",
@@ -87655,7 +87149,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87680,7 +87174,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4834,
   "channel": "streaming",
@@ -87703,7 +87197,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87728,7 +87222,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.5089,
   "channel": "streaming",
@@ -87751,7 +87245,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87776,7 +87270,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.2367,
   "channel": "streaming",
@@ -87799,7 +87293,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87824,7 +87318,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4701,
   "channel": "streaming",
@@ -87847,7 +87341,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87872,7 +87366,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.5499,
   "channel": "streaming",
@@ -87895,7 +87389,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87920,7 +87414,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.2435,
   "channel": "streaming",
@@ -87943,7 +87437,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -87968,7 +87462,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4172,
   "channel": "streaming",
@@ -87991,7 +87485,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -88016,7 +87510,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.5531,
   "channel": "streaming",
@@ -88039,7 +87533,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -88064,7 +87558,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9498,
   "channel": "streaming",
@@ -88087,7 +87581,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -88112,7 +87606,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.4077,
   "channel": "streaming",
@@ -88135,7 +87629,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -88160,7 +87654,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.9622,
   "channel": "streaming",
@@ -88183,7 +87677,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -88208,7 +87702,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.6717,
   "channel": "streaming",
@@ -88231,7 +87725,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -88256,7 +87750,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.213,
   "channel": "streaming",
@@ -88279,7 +87773,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -88304,7 +87798,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.7565,
   "channel": "streaming",
@@ -88327,7 +87821,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -88352,7 +87846,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Rychlí kluci"
+   "Mikeroft"
   ],
   "popularity": 0.8623,
   "channel": "streaming",
@@ -88375,7 +87869,7 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    }
   ]
@@ -92581,7 +92075,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.7077,
   "channel": "streaming",
   "level": "hard",
@@ -92601,6 +92097,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -92623,7 +92123,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9681,
   "channel": "streaming",
   "level": "easy",
@@ -92643,6 +92145,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -92665,7 +92171,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.6968,
   "channel": "streaming",
   "level": "hard",
@@ -92685,6 +92193,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -92707,7 +92219,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8979,
   "channel": "streaming",
   "level": "medium",
@@ -92727,6 +92241,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -92749,7 +92267,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8144,
   "channel": "streaming",
   "level": "medium",
@@ -92769,6 +92289,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -92791,7 +92315,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.7784,
   "channel": "streaming",
   "level": "hard",
@@ -92811,6 +92337,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -92833,7 +92363,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9895,
   "channel": "streaming",
   "level": "easy",
@@ -92853,6 +92385,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -92875,7 +92411,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.984,
   "channel": "streaming",
   "level": "easy",
@@ -92895,6 +92433,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -92917,7 +92459,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.881,
   "channel": "streaming",
   "level": "medium",
@@ -92937,6 +92481,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -92959,7 +92507,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8837,
   "channel": "streaming",
   "level": "medium",
@@ -92979,6 +92529,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93001,7 +92555,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.7095,
   "channel": "streaming",
   "level": "hard",
@@ -93021,6 +92577,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93043,7 +92603,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9922,
   "channel": "streaming",
   "level": "easy",
@@ -93063,6 +92625,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93085,7 +92651,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8833,
   "channel": "streaming",
   "level": "medium",
@@ -93105,6 +92673,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93127,7 +92699,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8527,
   "channel": "streaming",
   "level": "medium",
@@ -93147,6 +92721,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93169,7 +92747,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8509,
   "channel": "streaming",
   "level": "medium",
@@ -93189,6 +92769,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93211,7 +92795,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.7269,
   "channel": "streaming",
   "level": "hard",
@@ -93231,6 +92817,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93253,7 +92843,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9325,
   "channel": "streaming",
   "level": "easy",
@@ -93273,6 +92865,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93295,7 +92891,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8951,
   "channel": "streaming",
   "level": "medium",
@@ -93315,6 +92913,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93337,7 +92939,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9717,
   "channel": "streaming",
   "level": "easy",
@@ -93357,6 +92961,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93379,7 +92987,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8468,
   "channel": "streaming",
   "level": "medium",
@@ -93399,6 +93009,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93421,7 +93035,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9549,
   "channel": "streaming",
   "level": "easy",
@@ -93441,6 +93057,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93463,7 +93083,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.7282,
   "channel": "streaming",
   "level": "hard",
@@ -93483,6 +93105,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93505,7 +93131,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8222,
   "channel": "streaming",
   "level": "medium",
@@ -93525,6 +93153,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93547,7 +93179,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9749,
   "channel": "streaming",
   "level": "easy",
@@ -93567,6 +93201,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93589,7 +93227,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8983,
   "channel": "streaming",
   "level": "medium",
@@ -93609,6 +93249,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93631,7 +93275,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.7966,
   "channel": "streaming",
   "level": "hard",
@@ -93651,6 +93297,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93673,7 +93323,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8486,
   "channel": "streaming",
   "level": "medium",
@@ -93693,6 +93345,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93715,7 +93371,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9453,
   "channel": "streaming",
   "level": "easy",
@@ -93735,6 +93393,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93757,7 +93419,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9188,
   "channel": "streaming",
   "level": "medium",
@@ -93777,6 +93441,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93799,7 +93467,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.7583,
   "channel": "streaming",
   "level": "hard",
@@ -93819,6 +93489,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93841,7 +93515,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9366,
   "channel": "streaming",
   "level": "easy",
@@ -93861,6 +93537,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93883,7 +93563,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9813,
   "channel": "streaming",
   "level": "easy",
@@ -93903,6 +93585,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93925,7 +93611,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9631,
   "channel": "streaming",
   "level": "easy",
@@ -93945,6 +93633,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -93967,7 +93659,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8637,
   "channel": "streaming",
   "level": "medium",
@@ -93987,6 +93681,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94009,7 +93707,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.933,
   "channel": "streaming",
   "level": "easy",
@@ -94029,6 +93729,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94051,7 +93755,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9763,
   "channel": "streaming",
   "level": "easy",
@@ -94071,6 +93777,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94093,7 +93803,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8518,
   "channel": "streaming",
   "level": "medium",
@@ -94113,6 +93825,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94135,7 +93851,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8559,
   "channel": "streaming",
   "level": "medium",
@@ -94155,6 +93873,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94177,7 +93899,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9672,
   "channel": "streaming",
   "level": "easy",
@@ -94197,6 +93921,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94219,7 +93947,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9968,
   "channel": "streaming",
   "level": "easy",
@@ -94239,6 +93969,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94261,7 +93995,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.6854,
   "channel": "streaming",
   "level": "hard",
@@ -94281,6 +94017,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94303,7 +94043,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9891,
   "channel": "streaming",
   "level": "easy",
@@ -94323,6 +94065,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94345,7 +94091,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.7875,
   "channel": "streaming",
   "level": "hard",
@@ -94365,6 +94113,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94387,7 +94139,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9777,
   "channel": "streaming",
   "level": "easy",
@@ -94407,6 +94161,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94429,7 +94187,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9713,
   "channel": "streaming",
   "level": "easy",
@@ -94449,6 +94209,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94471,7 +94235,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.741,
   "channel": "streaming",
   "level": "hard",
@@ -94491,6 +94257,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94513,7 +94283,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9991,
   "channel": "streaming",
   "level": "easy",
@@ -94533,6 +94305,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94555,7 +94331,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.7934,
   "channel": "streaming",
   "level": "hard",
@@ -94575,6 +94353,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94597,7 +94379,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.6863,
   "channel": "streaming",
   "level": "hard",
@@ -94617,6 +94401,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94639,7 +94427,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9909,
   "channel": "streaming",
   "level": "easy",
@@ -94659,6 +94449,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94681,7 +94475,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.912,
   "channel": "streaming",
   "level": "medium",
@@ -94701,6 +94497,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94723,7 +94523,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8153,
   "channel": "streaming",
   "level": "medium",
@@ -94743,6 +94545,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94765,7 +94571,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9517,
   "channel": "streaming",
   "level": "easy",
@@ -94785,6 +94593,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94807,7 +94619,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8655,
   "channel": "streaming",
   "level": "medium",
@@ -94827,6 +94641,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94849,7 +94667,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9941,
   "channel": "streaming",
   "level": "easy",
@@ -94869,6 +94689,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94891,7 +94715,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.9316,
   "channel": "streaming",
   "level": "easy",
@@ -94911,6 +94737,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94933,7 +94763,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.7984,
   "channel": "streaming",
   "level": "hard",
@@ -94953,6 +94785,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -94975,7 +94811,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8883,
   "channel": "streaming",
   "level": "medium",
@@ -94995,6 +94833,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -95017,7 +94859,9 @@
   "country_source": "IFPI rows CZ 3778 / SK 1959",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "Mikeroft"
+  ],
   "popularity": 0.8696,
   "channel": "streaming",
   "level": "medium",
@@ -95037,6 +94881,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -96407,6 +96255,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
+   "Mikeroft",
    "Milion+"
   ],
   "popularity": 0.9694,
@@ -96428,6 +96277,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    },
    {
     "tag": "group:Milion+",
@@ -96887,6 +96740,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
+   "Mikeroft",
    "Milion+"
   ],
   "popularity": 0.7711,
@@ -96908,6 +96762,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
    },
    {
     "tag": "group:Milion+",
@@ -97031,8 +96889,8 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "Rychlí kluci"
+   "Mikeroft",
+   "Milion+"
   ],
   "popularity": 0.7779,
   "channel": "streaming",
@@ -97055,11 +96913,11 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Milion+",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Milion+",
     "source": "catalog/groups.csv"
    }
   ]
@@ -97852,8 +97710,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.0,
   "channel": "streaming",
@@ -97877,10 +97734,6 @@
    },
    {
     "tag": "group:Milion+",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
     "source": "catalog/groups.csv"
    }
   ]
@@ -98342,8 +98195,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.9722,
   "channel": "streaming",
@@ -98368,10 +98220,6 @@
    {
     "tag": "group:Milion+",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -98395,8 +98243,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.9257,
   "channel": "streaming",
@@ -98421,10 +98268,6 @@
    {
     "tag": "group:Milion+",
     "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -98448,9 +98291,8 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK",
-   "Rychlí kluci"
+   "Mikeroft",
+   "Milion+"
   ],
   "popularity": 0.7273,
   "channel": "streaming",
@@ -98473,15 +98315,11 @@
     "source": "itunes release year"
    },
    {
+    "tag": "group:Mikeroft",
+    "source": "catalog/groups.csv"
+   },
+   {
     "tag": "group:Milion+",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:Rychlí kluci",
     "source": "catalog/groups.csv"
    }
   ]
@@ -98506,8 +98344,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.0,
   "channel": "streaming",
@@ -98531,10 +98368,6 @@
    },
    {
     "tag": "group:Milion+",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
     "source": "catalog/groups.csv"
    }
   ]
@@ -98655,8 +98488,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.71,
   "channel": "streaming",
@@ -98680,10 +98512,6 @@
    },
    {
     "tag": "group:Milion+",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
     "source": "catalog/groups.csv"
    }
   ]
@@ -98996,8 +98824,8 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "Rychlí kluci"
+   "Mikeroft",
+   "Milion+"
   ],
   "popularity": 0.8541,
   "channel": "streaming",
@@ -99020,11 +98848,11 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Milion+",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Milion+",
     "source": "catalog/groups.csv"
    }
   ]
@@ -99193,8 +99021,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.9394,
   "channel": "streaming",
@@ -99218,10 +99045,6 @@
    },
    {
     "tag": "group:Milion+",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
     "source": "catalog/groups.csv"
    }
   ]
@@ -99438,8 +99261,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.0,
   "channel": "streaming",
@@ -99463,10 +99285,6 @@
    },
    {
     "tag": "group:Milion+",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
     "source": "catalog/groups.csv"
    }
   ]
@@ -99832,8 +99650,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "PTK"
+   "Milion+"
   ],
   "popularity": 0.7323,
   "channel": "streaming",
@@ -99857,10 +99674,6 @@
    },
    {
     "tag": "group:Milion+",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:PTK",
     "source": "catalog/groups.csv"
    }
   ]
@@ -99933,8 +99746,8 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "Rychlí kluci"
+   "Mikeroft",
+   "Milion+"
   ],
   "popularity": 0.6913,
   "channel": "streaming",
@@ -99957,11 +99770,11 @@
     "source": "itunes release year"
    },
    {
-    "tag": "group:Milion+",
+    "tag": "group:Mikeroft",
     "source": "catalog/groups.csv"
    },
    {
-    "tag": "group:Rychlí kluci",
+    "tag": "group:Milion+",
     "source": "catalog/groups.csv"
    }
   ]
