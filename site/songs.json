@@ -195,7 +195,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.809
+"popularity": 0.809,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--95",
@@ -210,7 +213,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8265
+"popularity": 0.8265,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--back-on-the-map",
@@ -225,7 +231,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4733
+"popularity": 0.4733,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--bahamy",
@@ -240,7 +249,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3676
+"popularity": 0.3676,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--bbc-1xtra",
@@ -255,7 +267,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.743
+"popularity": 0.743,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--bigman-ting",
@@ -270,7 +285,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.713
+"popularity": 0.713,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--bily-tricko",
@@ -285,7 +303,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5949
+"popularity": 0.5949,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--brandy",
@@ -300,7 +321,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5707
+"popularity": 0.5707,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--bussdown-ap",
@@ -315,7 +339,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2291
+"popularity": 0.2291,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--daily-duppy",
@@ -330,7 +357,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2316
+"popularity": 0.2316,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--dj-ez",
@@ -345,7 +375,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2175
+"popularity": 0.2175,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--drillin",
@@ -360,7 +393,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.3674
+"popularity": 0.3674,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--glock",
@@ -375,7 +411,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1185
+"popularity": 0.1185,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--goldie",
@@ -390,7 +429,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2552
+"popularity": 0.2552,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--grt-bang",
@@ -405,7 +447,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.349
+"popularity": 0.349,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--heatmap-jak-kante",
@@ -420,7 +465,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2262
+"popularity": 0.2262,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--houby",
@@ -435,7 +483,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1263
+"popularity": 0.1263,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--houston",
@@ -450,7 +501,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.616
+"popularity": 0.616,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--jedinej",
@@ -465,7 +519,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6178
+"popularity": 0.6178,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--kalenji",
@@ -480,7 +537,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0675
+"popularity": 0.0675,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--kapuce-a-cepice",
@@ -495,7 +555,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1551
+"popularity": 0.1551,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--mac",
@@ -510,7 +573,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1946
+"popularity": 0.1946,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--muj-team-moje-city",
@@ -525,7 +591,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4778
+"popularity": 0.4778,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--neprestanu",
@@ -540,7 +609,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4841
+"popularity": 0.4841,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--pack",
@@ -555,7 +627,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0222
+"popularity": 0.0222,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--premier-league",
@@ -570,7 +645,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8162
+"popularity": 0.8162,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--rewind",
@@ -585,7 +663,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7018
+"popularity": 0.7018,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--rychle-a-zbesile",
@@ -600,7 +681,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0379
+"popularity": 0.0379,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--shottas",
@@ -615,7 +699,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.136
+"popularity": 0.136,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--southead-freestyle",
@@ -630,7 +717,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0907
+"popularity": 0.0907,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--tedka-uz-vim",
@@ -645,7 +735,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.5577
+"popularity": 0.5577,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--top-boy",
@@ -660,7 +753,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.851
+"popularity": 0.851,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--tracky-a-vlaky",
@@ -675,7 +771,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.6427
+"popularity": 0.6427,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--v-bloku-601",
@@ -690,7 +789,10 @@
 "level": "hard",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.7188
+"popularity": 0.7188,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--vsechno-sport",
@@ -705,7 +807,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8692
+"popularity": 0.8692,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--vsude-kam-dem",
@@ -720,7 +825,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8539
+"popularity": 0.8539,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--wannabe",
@@ -735,7 +843,10 @@
 "level": "medium",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.8784
+"popularity": 0.8784,
+"groups": [
+"58G"
+]
 },
 {
 "key": "58g--za-5-dvanact",
@@ -750,7 +861,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2329
+"popularity": 0.2329,
+"groups": [
+"58G"
+]
 },
 {
 "key": "abraxas--obycejnej-svet",
@@ -23548,9 +23662,12 @@
 "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/89/52/43895244-35c7-6041-208c-df1b42159466/5021732288110.jpg/300x300bb.jpg",
 "url": "https://music.apple.com/cz/album/berlin-feat-tk27/1741816550?i=1741816988&uo=4",
 "level": "impossible",
-"country": "sk",
+"country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.1578
+"popularity": 0.1578,
+"groups": [
+"58G"
+]
 },
 {
 "key": "ivan-mladek--brno-je-zlata-lod",

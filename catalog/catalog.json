@@ -528,7 +528,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.809,
   "channel": "streaming",
   "level": "medium",
@@ -548,6 +550,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -570,7 +576,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.8265,
   "channel": "streaming",
   "level": "medium",
@@ -590,6 +598,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -612,7 +624,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.4733,
   "channel": "streaming",
   "level": "expert",
@@ -632,6 +646,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -654,7 +672,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.3676,
   "channel": "streaming",
   "level": "expert",
@@ -674,6 +694,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -696,7 +720,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.743,
   "channel": "streaming",
   "level": "hard",
@@ -716,6 +742,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -738,7 +768,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.713,
   "channel": "streaming",
   "level": "hard",
@@ -758,6 +790,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -780,7 +816,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.5949,
   "channel": "streaming",
   "level": "expert",
@@ -800,6 +838,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -822,7 +864,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.5707,
   "channel": "streaming",
   "level": "expert",
@@ -842,6 +886,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -864,7 +912,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.2291,
   "channel": "streaming",
   "level": "impossible",
@@ -884,6 +934,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -906,7 +960,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.2316,
   "channel": "streaming",
   "level": "impossible",
@@ -926,6 +982,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -948,7 +1008,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.2175,
   "channel": "streaming",
   "level": "impossible",
@@ -968,6 +1030,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -990,7 +1056,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.3674,
   "channel": "streaming",
   "level": "expert",
@@ -1010,6 +1078,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1032,7 +1104,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.1185,
   "channel": "streaming",
   "level": "impossible",
@@ -1052,6 +1126,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1074,7 +1152,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.2552,
   "channel": "streaming",
   "level": "impossible",
@@ -1094,6 +1174,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1116,7 +1200,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.349,
   "channel": "streaming",
   "level": "impossible",
@@ -1136,6 +1222,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1158,7 +1248,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.2262,
   "channel": "streaming",
   "level": "impossible",
@@ -1178,6 +1270,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1200,7 +1296,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.1263,
   "channel": "streaming",
   "level": "impossible",
@@ -1220,6 +1318,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1242,7 +1344,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.616,
   "channel": "streaming",
   "level": "hard",
@@ -1262,6 +1366,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1284,7 +1392,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.6178,
   "channel": "streaming",
   "level": "hard",
@@ -1304,6 +1414,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1326,7 +1440,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.0675,
   "channel": "streaming",
   "level": "impossible",
@@ -1346,6 +1462,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1368,7 +1488,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.1551,
   "channel": "streaming",
   "level": "impossible",
@@ -1388,6 +1510,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1410,7 +1536,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.1946,
   "channel": "streaming",
   "level": "impossible",
@@ -1430,6 +1558,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1452,7 +1584,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.4778,
   "channel": "streaming",
   "level": "expert",
@@ -1472,6 +1606,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1494,7 +1632,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.4841,
   "channel": "streaming",
   "level": "expert",
@@ -1514,6 +1654,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1536,7 +1680,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.0222,
   "channel": "streaming",
   "level": "impossible",
@@ -1556,6 +1702,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1578,7 +1728,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.8162,
   "channel": "streaming",
   "level": "medium",
@@ -1598,6 +1750,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1620,7 +1776,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.7018,
   "channel": "streaming",
   "level": "hard",
@@ -1640,6 +1798,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1662,7 +1824,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.0379,
   "channel": "streaming",
   "level": "impossible",
@@ -1682,6 +1846,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1704,7 +1872,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.136,
   "channel": "streaming",
   "level": "impossible",
@@ -1724,6 +1894,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1746,7 +1920,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.0907,
   "channel": "streaming",
   "level": "impossible",
@@ -1766,6 +1942,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1788,7 +1968,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.5577,
   "channel": "streaming",
   "level": "expert",
@@ -1808,6 +1990,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1830,7 +2016,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.851,
   "channel": "streaming",
   "level": "medium",
@@ -1850,6 +2038,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1872,7 +2064,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.6427,
   "channel": "streaming",
   "level": "hard",
@@ -1892,6 +2086,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1914,7 +2112,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.7188,
   "channel": "streaming",
   "level": "hard",
@@ -1934,6 +2134,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1956,7 +2160,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.8692,
   "channel": "streaming",
   "level": "medium",
@@ -1976,6 +2182,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -1998,7 +2208,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.8539,
   "channel": "streaming",
   "level": "medium",
@@ -2018,6 +2230,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -2040,7 +2256,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.8784,
   "channel": "streaming",
   "level": "medium",
@@ -2060,6 +2278,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -2082,7 +2304,9 @@
   "country_source": "IFPI rows CZ 67 / SK 1",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.2329,
   "channel": "streaming",
   "level": "impossible",
@@ -2102,6 +2326,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -65327,11 +65555,13 @@
   "key": "issa-me-mario--berlin",
   "radio_weeks": 0,
   "digital_weeks": 0,
-  "country": "sk",
-  "country_source": "IFPI rows CZ 0 / SK 4",
+  "country": "cz",
+  "country_source": "manual",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [],
+  "groups": [
+   "58G"
+  ],
   "popularity": 0.1578,
   "channel": "streaming",
   "level": "impossible",
@@ -65341,8 +65571,8 @@
     "source": "rule (streaming percentile)"
    },
    {
-    "tag": "country:sk",
-    "source": "IFPI rows CZ 0 / SK 4"
+    "tag": "country:cz",
+    "source": "manual"
    },
    {
     "tag": "genre:hip-hop",
@@ -65351,6 +65581,10 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
+   },
+   {
+    "tag": "group:58G",
+    "source": "catalog/groups.csv"
    }
   ]
  },
