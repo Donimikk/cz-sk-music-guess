@@ -22198,7 +22198,7 @@
   "deezer": 7458432,
   "artist": "Čechomor",
   "title": "Promeny",
-  "year": 2000,
+  "year": 2001,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/28/99/a5/2899a55d-360a-b1f6-1f7c-47f54a95d260/00044001316821.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/promeny/1443547430?i=1443547450&uo=4",
@@ -59215,7 +59215,7 @@
   "deezer": 6952242,
   "artist": "Helena Vondrackova",
   "title": "Dlouhá Noc",
-  "year": 1964,
+  "year": 2000,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/a3/28/3ea32879-17b0-4458-a9cf-be68727fa7c3/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/dlouh%C3%A1-noc/1386000533?i=1386001344&uo=4",
@@ -59228,7 +59228,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 71 / SK 42",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "2000s",
   "groups": [],
   "popularity": 0.9378,
   "channel": "streaming",
@@ -59247,7 +59247,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:2000s",
     "source": "itunes release year"
    }
   ]
@@ -59551,7 +59551,7 @@
   "deezer": 501380302,
   "artist": "Helena Vondrackova",
   "title": "Sladké Mámení",
-  "year": 1964,
+  "year": 1982,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/a3/28/3ea32879-17b0-4458-a9cf-be68727fa7c3/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/sladk%C3%A9-m%C3%A1men%C3%AD/1386000533?i=1386001129&uo=4",
@@ -59564,7 +59564,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 71 / SK 42",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "1980s",
   "groups": [],
   "popularity": 0.9468,
   "channel": "streaming",
@@ -59583,7 +59583,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:1980s",
     "source": "itunes release year"
    }
   ]
@@ -66661,7 +66661,7 @@
   "deezer": 6945798,
   "artist": "Jana Kirschner",
   "title": "V Cudzom Meste",
-  "year": 2000,
+  "year": 1999,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/51/24/57/5124573f-8b68-5011-76c2-08a065656b8c/00601215766523.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/v-cudzom-meste/1443642048?i=1443642658&uo=4",
@@ -66674,7 +66674,7 @@
   "country": "sk",
   "country_source": "manual",
   "genre_group": "pop",
-  "era": "2000s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.2704,
   "channel": "streaming",
@@ -66693,7 +66693,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
@@ -78913,7 +78913,7 @@
   "deezer": 672992522,
   "artist": "Karel Gott & Charlotte Ella Gottova",
   "title": "Srdce nehasnou",
-  "year": 1995,
+  "year": 2019,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/8b/dc/a88bdc56-d254-9bda-dffb-1e8669c95cc6/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/srdce-nehasnou/1462052151?i=1462052153&uo=4",
@@ -78926,7 +78926,7 @@
   "country": "cz",
   "country_source": "IFPI rows CZ 478 / SK 279",
   "genre_group": "pop",
-  "era": "1990s",
+  "era": "2010s",
   "groups": [],
   "popularity": 1.0,
   "channel": "radio",
@@ -78945,7 +78945,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1990s",
+    "tag": "era:2010s",
     "source": "itunes release year"
    }
   ]
@@ -79081,7 +79081,7 @@
   "deezer": 503880922,
   "artist": "Karel Gott",
   "title": "Trezor",
-  "year": 1964,
+  "year": 1965,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a5/0b/cd/a50bcd50-2b74-7612-c325-ed893024c530/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/trezor/1388335005?i=1388335131&uo=4",
@@ -91656,7 +91656,7 @@
   "deezer": null,
   "artist": "Lucie",
   "title": "Lucie",
-  "year": 1991,
+  "year": 1990,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8c/9a/be/8c9abeb8-0c70-c6a4-2ba3-05d9449cc642/00602537385997.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/lucie/1444014535?i=1444014819&uo=4",
@@ -103986,7 +103986,7 @@
   "deezer": 507692312,
   "artist": "Michal Tučný",
   "title": "Poslední Kovboj",
-  "year": 1969,
+  "year": 1982,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/63/49/0b/mzi.cfvvuphi.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/posledn%C3%AD-kovboj/495849362?i=495849365&uo=4",
@@ -103999,7 +103999,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 1 / SK 1",
   "genre_group": "pop",
-  "era": "1960s",
+  "era": "1980s",
   "groups": [],
   "popularity": 0.2379,
   "channel": "streaming",
@@ -104018,7 +104018,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:1980s",
     "source": "itunes release year"
    }
   ]
@@ -104196,7 +104196,7 @@
   "deezer": 629254742,
   "artist": "Michal Tučný",
   "title": "Tam U Nebeských Bran",
-  "year": 1969,
+  "year": 1983,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/4d/ac/364dac9d-7995-124d-221f-7469dab9ba5c/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/tam-u-nebesk%C3%BDch-bran/1406072597?i=1406073635&uo=4",
@@ -104209,7 +104209,7 @@
   "country": "cz+sk",
   "country_source": "IFPI rows CZ 1 / SK 1",
   "genre_group": "other",
-  "era": "1960s",
+  "era": "1980s",
   "groups": [],
   "popularity": 0.6416,
   "channel": "streaming",
@@ -104228,7 +104228,7 @@
     "source": "itunes (Traditional Country)"
    },
    {
-    "tag": "era:1960s",
+    "tag": "era:1980s",
     "source": "itunes release year"
    }
   ]
@@ -108287,7 +108287,7 @@
   "deezer": 1091501712,
   "artist": "Modus",
   "title": "Úsmev",
-  "year": 2005,
+  "year": 1977,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/62/f5/ad/62f5ad80-0b38-60fb-42d9-3da78b4a4bba/8584019270828.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/%C3%BAsmev/1533350253?i=1533350768&uo=4",
@@ -108300,7 +108300,7 @@
   "country": "sk",
   "country_source": "IFPI rows CZ 0 / SK 18",
   "genre_group": "pop",
-  "era": "2000s",
+  "era": "1970s",
   "groups": [],
   "popularity": 0.522,
   "channel": "streaming",
@@ -108319,7 +108319,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1970s",
     "source": "itunes release year"
    }
   ]
@@ -119142,7 +119142,7 @@
   "deezer": 500308252,
   "artist": "Olympic",
   "title": "Želva",
-  "year": 1965,
+  "year": 1967,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0f/c0/44/0fc04422-30d3-2329-25d9-6e60c0aae00d/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/%C5%BEelva/1384676321?i=1384676999&uo=4",
@@ -126995,7 +126995,7 @@
   "deezer": 520919932,
   "artist": "Pavel Šváb & Bohumír Starka",
   "title": "Hvězda Na Vrbě",
-  "year": 1964,
+  "year": 1965,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b9/b4/07/b9b4072c-5927-c933-539f-e7ebd8f67088/cover.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/hv%C4%9Bzda-na-vrb%C4%9B/1387842363?i=1387844700&uo=4",
@@ -144107,7 +144107,7 @@
   "deezer": 6973765,
   "artist": "Richard Müller",
   "title": "Nocna Optika",
-  "year": 2002,
+  "year": 1998,
   "store": "cz",
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/76/18/84/76188412-cc4b-e5ae-5d09-6638b9cc2b8e/00602537002627.rgb.jpg/300x300bb.jpg",
   "url": "https://music.apple.com/cz/album/nocna-optika/1442237075?i=1442237244&uo=4",
@@ -144120,7 +144120,7 @@
   "country": "sk",
   "country_source": "manual",
   "genre_group": "pop",
-  "era": "2000s",
+  "era": "1990s",
   "groups": [],
   "popularity": 0.0684,
   "channel": "streaming",
@@ -144139,7 +144139,7 @@
     "source": "itunes (Pop)"
    },
    {
-    "tag": "era:2000s",
+    "tag": "era:1990s",
     "source": "itunes release year"
    }
   ]
