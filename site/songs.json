@@ -72,7 +72,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5048
+"popularity": 0.5048,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "13many--corazon",
@@ -1209,7 +1212,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0404
+"popularity": 0.0404,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "adam-misik--trust-issues",
@@ -1781,7 +1787,8 @@
 "genre_group": "pop",
 "popularity": 0.4119,
 "groups": [
-"DMS"
+"DMS",
+"Pil C"
 ]
 },
 {
@@ -3249,7 +3256,10 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2658
+"popularity": 0.2658,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "ben-cristovao--kartacek",
@@ -15021,7 +15031,8 @@
 "genre_group": "hip-hop",
 "popularity": 0.2123,
 "groups": [
-"Kontrafakt"
+"Kontrafakt",
+"Pil C"
 ]
 },
 {
@@ -16027,7 +16038,10 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4269
+"popularity": 0.4269,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "ektor--kancelar",
@@ -18721,7 +18735,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4588
+"popularity": 0.4588,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "frayer-flexking--zijem-best-zivot",
@@ -19009,7 +19026,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rock",
-"popularity": 0.5244
+"popularity": 0.5244,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "gabryell--zajtra",
@@ -32818,7 +32838,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.919
+"popularity": 0.919,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "luca-brassi10x--mlady-ale-plny",
@@ -32944,7 +32967,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0593
+"popularity": 0.0593,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "luca-brassi10x--shock",
@@ -39671,7 +39697,8 @@
 "genre_group": "hip-hop",
 "popularity": 0.6204,
 "groups": [
-"DMS"
+"DMS",
+"Pil C"
 ]
 },
 {
@@ -43060,7 +43087,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3811
+"popularity": 0.3811,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "p-a-t--kaloro",
@@ -46694,7 +46724,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2009
+"popularity": 0.2009,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--12",
@@ -46709,7 +46742,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4536
+"popularity": 0.4536,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--7-30-rano-v-bratislave",
@@ -46724,7 +46760,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3538
+"popularity": 0.3538,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--7-hodin-rano",
@@ -46739,7 +46778,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5452
+"popularity": 0.5452,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--a-la-carte",
@@ -46754,7 +46796,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1825
+"popularity": 0.1825,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--apatia",
@@ -46769,7 +46814,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6548
+"popularity": 0.6548,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--az-na-vrchol-sveta",
@@ -46784,7 +46832,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4013
+"popularity": 0.4013,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--bla-bla",
@@ -46799,7 +46850,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6063
+"popularity": 0.6063,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--cara-mia",
@@ -46814,7 +46868,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.84
+"popularity": 0.84,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--chcem-mat-s-tebou-bejby",
@@ -46829,7 +46886,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8848
+"popularity": 0.8848,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--chlapci-flexia",
@@ -46844,7 +46904,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2207
+"popularity": 0.2207,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--chrome-hearts-freestyle",
@@ -46859,7 +46922,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7773
+"popularity": 0.7773,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--classy",
@@ -46874,7 +46940,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4435
+"popularity": 0.4435,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--co-s-tym",
@@ -46889,7 +46958,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2615
+"popularity": 0.2615,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--community-service",
@@ -46906,7 +46978,8 @@
 "genre_group": "hip-hop",
 "popularity": 0.8738,
 "groups": [
-"DMS"
+"DMS",
+"Pil C"
 ]
 },
 {
@@ -46922,7 +46995,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6588
+"popularity": 0.6588,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--dekadentny",
@@ -46937,7 +47013,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1484
+"popularity": 0.1484,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--den-strieda-tmu",
@@ -46952,7 +47031,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7095
+"popularity": 0.7095,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--den-za-dnom",
@@ -46967,7 +47049,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1639
+"popularity": 0.1639,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--diablo",
@@ -46982,7 +47067,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0929
+"popularity": 0.0929,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--die-hard",
@@ -46997,7 +47085,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0705
+"popularity": 0.0705,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--dole",
@@ -47012,7 +47103,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9329
+"popularity": 0.9329,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--faded",
@@ -47027,7 +47121,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1405
+"popularity": 0.1405,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--foyer",
@@ -47042,7 +47139,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3953
+"popularity": 0.3953,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--h1p-h0p",
@@ -47057,7 +47157,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6045
+"popularity": 0.6045,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--hawaii",
@@ -47072,7 +47175,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8593
+"popularity": 0.8593,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--iba-sny",
@@ -47087,7 +47193,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5277
+"popularity": 0.5277,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--inverzia",
@@ -47104,7 +47213,8 @@
 "genre_group": "hip-hop",
 "popularity": 0.9692,
 "groups": [
-"Mikeroft"
+"Mikeroft",
+"Pil C"
 ]
 },
 {
@@ -47122,7 +47232,8 @@
 "genre_group": "hip-hop",
 "popularity": 0.3057,
 "groups": [
-"Milion+"
+"Milion+",
+"Pil C"
 ]
 },
 {
@@ -47138,7 +47249,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3019
+"popularity": 0.3019,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--klub-byvalych",
@@ -47153,7 +47267,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.629
+"popularity": 0.629,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--kym-nebude-svit",
@@ -47168,7 +47285,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2914
+"popularity": 0.2914,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--laska",
@@ -47183,7 +47303,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3389
+"popularity": 0.3389,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--lisan-al-gaib",
@@ -47198,7 +47321,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.169
+"popularity": 0.169,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--lost",
@@ -47213,7 +47339,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2824
+"popularity": 0.2824,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--maly-kusok-nehy",
@@ -47228,7 +47357,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2929
+"popularity": 0.2929,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--mam-v-pi",
@@ -47243,7 +47375,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.341
+"popularity": 0.341,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--medelin",
@@ -47260,7 +47395,8 @@
 "genre_group": "hip-hop",
 "popularity": 0.7374,
 "groups": [
-"DMS"
+"DMS",
+"Pil C"
 ]
 },
 {
@@ -47276,7 +47412,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1109
+"popularity": 0.1109,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--mp2",
@@ -47291,7 +47430,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3962
+"popularity": 0.3962,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--na-ceste-do-raja",
@@ -47306,7 +47448,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5912
+"popularity": 0.5912,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--neni-stre-s",
@@ -47323,7 +47468,8 @@
 "genre_group": "hip-hop",
 "popularity": 0.9942,
 "groups": [
-"DMS"
+"DMS",
+"Pil C"
 ]
 },
 {
@@ -47339,7 +47485,10 @@
 "level": "easy",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9387
+"popularity": 0.9387,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--netreba-mi-ljubav",
@@ -47354,7 +47503,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.2974
+"popularity": 0.2974,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--neviem-co-som-mal",
@@ -47369,7 +47521,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0076
+"popularity": 0.0076,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--niekde-v-tatrach",
@@ -47384,7 +47539,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3782
+"popularity": 0.3782,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--nikto-ako-my",
@@ -47401,7 +47559,8 @@
 "genre_group": "hip-hop",
 "popularity": 0.8887,
 "groups": [
-"DMS"
+"DMS",
+"Pil C"
 ]
 },
 {
@@ -47417,7 +47576,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0119
+"popularity": 0.0119,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--peepshow",
@@ -47432,7 +47594,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3416
+"popularity": 0.3416,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--pentflaus",
@@ -47447,7 +47612,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0272
+"popularity": 0.0272,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--peroxid",
@@ -47462,7 +47630,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3767
+"popularity": 0.3767,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--peroxid-2",
@@ -47477,7 +47648,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7226
+"popularity": 0.7226,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--peroxid-3",
@@ -47492,7 +47666,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.6961
+"popularity": 0.6961,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--pompeje",
@@ -47507,7 +47684,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5158
+"popularity": 0.5158,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--povedz-dost",
@@ -47522,7 +47702,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5315
+"popularity": 0.5315,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--princezny-a-zamky",
@@ -47537,7 +47720,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5143
+"popularity": 0.5143,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--rbmk",
@@ -47552,7 +47738,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.866
+"popularity": 0.866,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--remington-11",
@@ -47567,7 +47756,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4229
+"popularity": 0.4229,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--s-laskou-lukas",
@@ -47582,7 +47774,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1237
+"popularity": 0.1237,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--silent-hill",
@@ -47597,7 +47792,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7475
+"popularity": 0.7475,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--sin-city",
@@ -47612,7 +47810,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.1513
+"popularity": 0.1513,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--special-one",
@@ -47627,7 +47828,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4492
+"popularity": 0.4492,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--stale-malo",
@@ -47642,7 +47846,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3432
+"popularity": 0.3432,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--strateni",
@@ -47657,7 +47864,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0474
+"popularity": 0.0474,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--studene-srdce",
@@ -47674,7 +47884,8 @@
 "genre_group": "hip-hop",
 "popularity": 0.9024,
 "groups": [
-"Milion+"
+"Milion+",
+"Pil C"
 ]
 },
 {
@@ -47690,7 +47901,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4267
+"popularity": 0.4267,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--trippin",
@@ -47705,7 +47919,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0204
+"popularity": 0.0204,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--unaveny",
@@ -47720,7 +47937,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0359
+"popularity": 0.0359,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--unikli-osudu",
@@ -47735,7 +47955,10 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.444
+"popularity": 0.444,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--v-podzemi-freestyle",
@@ -47752,7 +47975,8 @@
 "genre_group": "hip-hop",
 "popularity": 0.4786,
 "groups": [
-"Kontrafakt"
+"Kontrafakt",
+"Pil C"
 ]
 },
 {
@@ -47768,7 +47992,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0043
+"popularity": 0.0043,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--vidim-jak-ich-jebe",
@@ -47783,7 +48010,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.758
+"popularity": 0.758,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--vidim-jak-sa-na-mna-pozeras",
@@ -47798,7 +48028,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.9199
+"popularity": 0.9199,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--vsetko-co-ma-trapi",
@@ -47813,7 +48046,10 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.8761
+"popularity": 0.8761,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--zivot-je-zvlastny",
@@ -47828,7 +48064,10 @@
 "level": "hard",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.7086
+"popularity": 0.7086,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "pil-c--zoo",
@@ -47843,7 +48082,10 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0294
+"popularity": 0.0294,
+"groups": [
+"Pil C"
+]
 },
 {
 "key": "poetika--cil",
@@ -64474,7 +64716,8 @@
 "genre_group": "hip-hop",
 "popularity": 0.5349,
 "groups": [
-"Milion+"
+"Milion+",
+"Pil C"
 ]
 },
 {
