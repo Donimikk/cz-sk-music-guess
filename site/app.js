@@ -271,8 +271,15 @@ function finish(won) {
     prepareNext();
   }
   save(state);
+  track(`vysledok/${game.level}/${won ? game.guesses.length : "x"}`);
+  if (Object.values(filters).some((v) => v.length)) track("filtre/" + Object.keys(filters).filter((f) => filters[f].length).join("+"));
   render();
   focusForState();
+}
+
+// GoatCounter event (the script loads async and may be blocked, so it's optional)
+function track(path) {
+  try { window.goatcounter?.count?.({ path, event: true }); } catch { /* analytics never breaks the game */ }
 }
 
 function shareText() {
@@ -720,6 +727,7 @@ async function init() {
   document.addEventListener("keydown", onPageKey);
   $("share").addEventListener("click", async () => {
     const text = shareText();
+    track("zdielanie");
     try {
       if (navigator.share) await navigator.share({ text });
       else { await navigator.clipboard.writeText(text); $("share").textContent = "Skopírované"; }
