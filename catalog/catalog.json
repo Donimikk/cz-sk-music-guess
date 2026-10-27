@@ -186,9 +186,7 @@
   "country_source": "IFPI rows CZ 0 / SK 22",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "Pil C"
-  ],
+  "groups": [],
   "popularity": 0.5048,
   "channel": "streaming",
   "level": "expert",
@@ -208,10 +206,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:Pil C",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -3282,9 +3276,7 @@
   "country_source": "IFPI rows CZ 167 / SK 27",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "Pil C"
-  ],
+  "groups": [],
   "popularity": 0.0404,
   "channel": "streaming",
   "level": "impossible",
@@ -3304,10 +3296,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:Pil C",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -4885,8 +4873,7 @@
   "genre_group": "pop",
   "era": "2020s",
   "groups": [
-   "DMS",
-   "Pil C"
+   "DMS"
   ],
   "popularity": 0.4119,
   "channel": "streaming",
@@ -4910,10 +4897,6 @@
    },
    {
     "tag": "group:DMS",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:Pil C",
     "source": "catalog/groups.csv"
    }
   ]
@@ -8993,9 +8976,7 @@
   "country_source": "IFPI rows CZ 1675 / SK 451",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "Pil C"
-  ],
+  "groups": [],
   "popularity": 0.2658,
   "channel": "streaming",
   "level": "impossible",
@@ -9015,10 +8996,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:Pil C",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -41519,8 +41496,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Kontrafakt",
-   "Pil C"
+   "Kontrafakt"
   ],
   "popularity": 0.2123,
   "channel": "streaming",
@@ -41544,10 +41520,6 @@
    },
    {
     "tag": "group:Kontrafakt",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:Pil C",
     "source": "catalog/groups.csv"
    }
   ]
@@ -44283,9 +44255,7 @@
   "country_source": "IFPI rows CZ 1493 / SK 433",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "Pil C"
-  ],
+  "groups": [],
   "popularity": 0.4269,
   "channel": "streaming",
   "level": "expert",
@@ -44305,10 +44275,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:Pil C",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -51813,9 +51779,7 @@
   "country_source": "IFPI rows CZ 0 / SK 103",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "Pil C"
-  ],
+  "groups": [],
   "popularity": 0.4588,
   "channel": "streaming",
   "level": "expert",
@@ -51835,10 +51799,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:Pil C",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -52623,9 +52583,7 @@
   "country_source": "IFPI rows CZ 0 / SK 39",
   "genre_group": "rock",
   "era": "2020s",
-  "groups": [
-   "Pil C"
-  ],
+  "groups": [],
   "popularity": 0.5244,
   "channel": "streaming",
   "level": "expert",
@@ -52645,10 +52603,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:Pil C",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -91008,9 +90962,7 @@
   "country_source": "IFPI rows CZ 104 / SK 623",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "Pil C"
-  ],
+  "groups": [],
   "popularity": 0.919,
   "channel": "streaming",
   "level": "medium",
@@ -91030,10 +90982,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:Pil C",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -91362,9 +91310,7 @@
   "country_source": "IFPI rows CZ 104 / SK 623",
   "genre_group": "hip-hop",
   "era": "2020s",
-  "groups": [
-   "Pil C"
-  ],
+  "groups": [],
   "popularity": 0.0593,
   "channel": "streaming",
   "level": "impossible",
@@ -91384,10 +91330,6 @@
    {
     "tag": "era:2020s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:Pil C",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -110165,8 +110107,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "DMS",
-   "Pil C"
+   "DMS"
   ],
   "popularity": 0.6204,
   "channel": "streaming",
@@ -110190,10 +110131,6 @@
    },
    {
     "tag": "group:DMS",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:Pil C",
     "source": "catalog/groups.csv"
    }
   ]
@@ -119447,9 +119384,7 @@
   "country_source": "IFPI rows CZ 0 / SK 1",
   "genre_group": "hip-hop",
   "era": "2010s",
-  "groups": [
-   "Pil C"
-  ],
+  "groups": [],
   "popularity": 0.3811,
   "channel": "streaming",
   "level": "expert",
@@ -119469,10 +119404,6 @@
    {
     "tag": "era:2010s",
     "source": "itunes release year"
-   },
-   {
-    "tag": "group:Pil C",
-    "source": "catalog/groups.csv"
    }
   ]
  },
@@ -179010,8 +178941,7 @@
   "genre_group": "hip-hop",
   "era": "2020s",
   "groups": [
-   "Milion+",
-   "Pil C"
+   "Milion+"
   ],
   "popularity": 0.5349,
   "channel": "streaming",
@@ -179035,10 +178965,6 @@
    },
    {
     "tag": "group:Milion+",
-    "source": "catalog/groups.csv"
-   },
-   {
-    "tag": "group:Pil C",
     "source": "catalog/groups.csv"
    }
   ]

@@ -75,7 +75,7 @@ only then are conclusions moved to the hub. Full history: `WORKLOG.md` (gitignor
 ## Groups (crews / labels)
 - `catalog/groups.csv` (group, artist): a song is in a group when any credited artist (iTunes artist field, or feat. in
   the title) is a member. Members from the user or a cited source; unverified ones are marked in the note (none open now).
-  PTK is a single artist, not a group (user). Milion+ = current artists on cs.wikipedia only (former ones like Konex would pull in their later solo songs).
+  PTK is a single artist, not a group (user). Column `scope` = "lead": only songs where that artist is the lead (Pil C filter, user: no feats). Milion+ = current artists on cs.wikipedia only (former ones like Konex would pull in their later solo songs).
 
 ## Data selection
 - Older decades (2026-10-26): `build_v0.py --since 1900`; pass 1 `--catalogue-only` (artist catalogues, mostly cached,

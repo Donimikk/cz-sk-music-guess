@@ -1,36 +1,36 @@
-group,artist,note
-Milion+,Yzomandias,"cs.wikipedia Milion+ Entertainment, current artists (read 2026-10-26)"
-Milion+,Nik Tendo,"cs.wikipedia, current"
-Milion+,Hasan,"cs.wikipedia, current"
-Milion+,Karlo,"cs.wikipedia, current"
-Milion+,Koky,"cs.wikipedia, current"
-Milion+,Robin Zoot,"cs.wikipedia, current"
-Milion+,Decky,"cs.wikipedia, current (producer/DJ)"
-Milion+,Jickson,"cs.wikipedia, current"
-Milion+,Sara Rikas,"cs.wikipedia, current since 2024"
-Milion+,KK,"cs.wikipedia, current since 2026 (producer/DJ)"
-Kontrafakt,Kontrafakt,"user 2026-10-25"
-Kontrafakt,Ego,"user 2026-10-25"
-Kontrafakt,Rytmus,"user 2026-10-25"
-Hahacrew,Samey,"user 2026-10-25"
-Hahacrew,Zayo,"user 2026-10-25"
-Hahacrew,Dalyb,"user 2026-10-25"
-DMS,DMS,"user 2026-10-25"
-DMS,Separ,"user 2026-10-25"
-DMS,Dame,"user 2026-10-25"
-DMS,Smart,"user 2026-10-25"
-WLVS,Saul,"user 2026-10-25"
-WLVS,Nuri,"user 2026-10-25"
-WLVS,Porsche Boy,"user 2026-10-25"
-WLVS,Wen,"user 2026-10-25"
-WLVS,Nicholas Naison,"user 2026-10-25"
-WLVS,Hujdy,"user 2026-10-25"
-Mikeroft,Calin,"user 2026-10-26 (renamed from Rychlí kluci; members first taken from a 2020 show listing on goout.net)"
-Mikeroft,STEIN27,"user 2026-10-26 (renamed from Rychlí kluci; members first taken from a 2020 show listing on goout.net)"
-Mikeroft,Indigo,"user 2026-10-26 (renamed from Rychlí kluci; members first taken from a 2020 show listing on goout.net)"
-Mikeroft,KOJO,"user 2026-10-26 (renamed from Rychlí kluci; members first taken from a 2020 show listing on goout.net)"
-Mikeroft,Fadex,"user 2026-10-26 (renamed from Rychlí kluci; members first taken from a 2020 show listing on goout.net)"
-Mikeroft,Viktor Sheen,"user 2026-10-26"
-58G,58G,"user 2026-10-26"
-58G,Humla,"user 2026-10-26"
-Pil C,Pil C,"user 2026-10-27 (single-artist filter)"
+group,artist,scope,note
+Milion+,Yzomandias,,"cs.wikipedia Milion+ Entertainment, current artists (read 2026-10-26)"
+Milion+,Nik Tendo,,"cs.wikipedia, current"
+Milion+,Hasan,,"cs.wikipedia, current"
+Milion+,Karlo,,"cs.wikipedia, current"
+Milion+,Koky,,"cs.wikipedia, current"
+Milion+,Robin Zoot,,"cs.wikipedia, current"
+Milion+,Decky,,"cs.wikipedia, current (producer/DJ)"
+Milion+,Jickson,,"cs.wikipedia, current"
+Milion+,Sara Rikas,,"cs.wikipedia, current since 2024"
+Milion+,KK,,"cs.wikipedia, current since 2026 (producer/DJ)"
+Kontrafakt,Kontrafakt,,user 2026-10-25
+Kontrafakt,Ego,,user 2026-10-25
+Kontrafakt,Rytmus,,user 2026-10-25
+Hahacrew,Samey,,user 2026-10-25
+Hahacrew,Zayo,,user 2026-10-25
+Hahacrew,Dalyb,,user 2026-10-25
+DMS,DMS,,user 2026-10-25
+DMS,Separ,,user 2026-10-25
+DMS,Dame,,user 2026-10-25
+DMS,Smart,,user 2026-10-25
+WLVS,Saul,,user 2026-10-25
+WLVS,Nuri,,user 2026-10-25
+WLVS,Porsche Boy,,user 2026-10-25
+WLVS,Wen,,user 2026-10-25
+WLVS,Nicholas Naison,,user 2026-10-25
+WLVS,Hujdy,,user 2026-10-25
+Mikeroft,Calin,,user 2026-10-26 (renamed from Rychlí kluci; members first taken from a 2020 show listing on goout.net)
+Mikeroft,STEIN27,,user 2026-10-26 (renamed from Rychlí kluci; members first taken from a 2020 show listing on goout.net)
+Mikeroft,Indigo,,user 2026-10-26 (renamed from Rychlí kluci; members first taken from a 2020 show listing on goout.net)
+Mikeroft,KOJO,,user 2026-10-26 (renamed from Rychlí kluci; members first taken from a 2020 show listing on goout.net)
+Mikeroft,Fadex,,user 2026-10-26 (renamed from Rychlí kluci; members first taken from a 2020 show listing on goout.net)
+Mikeroft,Viktor Sheen,,user 2026-10-26
+58G,58G,,user 2026-10-26
+58G,Humla,,user 2026-10-26
+Pil C,Pil C,lead,user 2026-10-27 (single-artist filter)

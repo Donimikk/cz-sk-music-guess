@@ -17,7 +17,8 @@ Tags (each with its source):
 - genre: iTunes primaryGenreName grouped (noisy; to be replaced by Spotify playlists / Last.fm).
 - era: release decade.
 - group: crews / labels from catalog/groups.csv (group, artist). A song gets a group when any of its credited artists
-  (iTunes artist field or "feat." in the title) is a member; a song can be in several groups.
+  (iTunes artist field or "feat." in the title) is a member; a song can be in several groups. A row with scope "lead"
+  counts only songs where that artist is the lead (one-artist filters like Pil C).
 
 Usage: python pipeline/catalog.py
 """
@@ -87,20 +88,21 @@ def country_of(artist: str, share: dict, manual: dict) -> tuple[str, str]:
     return country, f"IFPI rows CZ {cz} / SK {sk}"
 
 
-def group_members() -> dict[str, set[str]]:
-    """Normalized artist → groups."""
-    groups: dict[str, set[str]] = defaultdict(set)
+def group_members() -> dict[str, set[tuple[str, bool]]]:
+    """Normalized artist → (group, lead only). scope "lead" = only songs where the artist is the lead (no features)."""
+    groups: dict[str, set[tuple[str, bool]]] = defaultdict(set)
     with open(GROUPS, encoding="utf-8") as f:
         for r in csv.DictReader(f):
-            groups[norm(r["artist"])].add(r["group"])
+            groups[norm(r["artist"])].add((r["group"], r["scope"] == "lead"))
     return groups
 
 
 def groups_of(artist: str, title: str, members: dict) -> list[str]:
     credited = ITUNES_ARTIST_SPLIT.split(artist)
+    lead = norm(credited[0])
     for feat in FEAT.findall(title):
         credited += ITUNES_ARTIST_SPLIT.split(feat)
-    return sorted({g for a in credited for g in members.get(norm(a), ())})
+    return sorted({g for a in credited for g, lead_only in members.get(norm(a), ()) if not lead_only or norm(a) == lead})
 
 
 def merge_duplicates(games: list[dict], log: list[str]) -> list[dict]:

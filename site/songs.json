@@ -72,10 +72,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.5048,
-"groups": [
-"Pil C"
-]
+"popularity": 0.5048
 },
 {
 "key": "13many--corazon",
@@ -1212,10 +1209,7 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.0404,
-"groups": [
-"Pil C"
-]
+"popularity": 0.0404
 },
 {
 "key": "adam-misik--trust-issues",
@@ -1787,8 +1781,7 @@
 "genre_group": "pop",
 "popularity": 0.4119,
 "groups": [
-"DMS",
-"Pil C"
+"DMS"
 ]
 },
 {
@@ -3256,10 +3249,7 @@
 "level": "impossible",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.2658,
-"groups": [
-"Pil C"
-]
+"popularity": 0.2658
 },
 {
 "key": "ben-cristovao--kartacek",
@@ -15031,8 +15021,7 @@
 "genre_group": "hip-hop",
 "popularity": 0.2123,
 "groups": [
-"Kontrafakt",
-"Pil C"
+"Kontrafakt"
 ]
 },
 {
@@ -16038,10 +16027,7 @@
 "level": "expert",
 "country": "cz",
 "genre_group": "hip-hop",
-"popularity": 0.4269,
-"groups": [
-"Pil C"
-]
+"popularity": 0.4269
 },
 {
 "key": "ektor--kancelar",
@@ -18735,10 +18721,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.4588,
-"groups": [
-"Pil C"
-]
+"popularity": 0.4588
 },
 {
 "key": "frayer-flexking--zijem-best-zivot",
@@ -19026,10 +19009,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "rock",
-"popularity": 0.5244,
-"groups": [
-"Pil C"
-]
+"popularity": 0.5244
 },
 {
 "key": "gabryell--zajtra",
@@ -32838,10 +32818,7 @@
 "level": "medium",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.919,
-"groups": [
-"Pil C"
-]
+"popularity": 0.919
 },
 {
 "key": "luca-brassi10x--mlady-ale-plny",
@@ -32967,10 +32944,7 @@
 "level": "impossible",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.0593,
-"groups": [
-"Pil C"
-]
+"popularity": 0.0593
 },
 {
 "key": "luca-brassi10x--shock",
@@ -39697,8 +39671,7 @@
 "genre_group": "hip-hop",
 "popularity": 0.6204,
 "groups": [
-"DMS",
-"Pil C"
+"DMS"
 ]
 },
 {
@@ -43087,10 +43060,7 @@
 "level": "expert",
 "country": "sk",
 "genre_group": "hip-hop",
-"popularity": 0.3811,
-"groups": [
-"Pil C"
-]
+"popularity": 0.3811
 },
 {
 "key": "p-a-t--kaloro",
@@ -64716,8 +64686,7 @@
 "genre_group": "hip-hop",
 "popularity": 0.5349,
 "groups": [
-"Milion+",
-"Pil C"
+"Milion+"
 ]
 },
 {
